@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00258">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Gilbert van der Smissen an Paul Tillich <lb/>vom 1. Januar 1908</title>
+            <author ref="#tillich_person_id__1982">Gilbert van der Smissen</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/186(49)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1982">Gilbert van der Smissen</persName>
+               <placeName ref="#tillich_place_id__414">Stellingen</placeName>
+               <date when="1908-01-01">01.01.1908</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00252">Brief von Otto Heller an Paul Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00260">Brief von Otto Heller an Paul Tillich
+               </ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-05-10">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-09-20">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__414" type="place">Stellingen</rs>, d. <date when="1908-01-01">1. I.
+                  08.</date></dateline>
+               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+            </opener>
+            <p>Wenn ich mich über einen Brief freue, pflege ich ihn möglichst schnell zu
+               beantworten. Also ich danke Dir vielmals. Also vom Reisen über
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> ist nicht die Rede, hingegen fahre ich über
+                  <rs ref="#tillich_place_id__209" type="place">Hildesheim</rs> und treffe dort mit <rs ref="#tillich_person_id__2147" type="person">H.
+                  Vethake</rs> zusammen, den ich auf diese vornehme Weise zu genießen denke.
+               Zwar kenne ich <rs ref="#tillich_place_id__209" type="place">Hildesheim</rs> vom vorigen Ostern her (<rs ref="#tillich_person_id__2091" type="person">Witte</rs>, <rs ref="#tillich_person_id__128" type="person">Balke</rs>), aber das
+               Nest ist so begabt, wo jedes Gebaute der Ausdruck der eigenen inneren Überzeugung
+               usw. (s. Dogmatik <rs ref="#tillich_person_id__2091" type="person">Witte</rs>) Was Du schriebst: ist es
+               deshalb weil Du glaubst, daß ich es besonders nötig habe, ich glaube es ist so daß Du
+               über <rs ref="#tillich_place_id__189" type="place">Halle</rs> allmählich als über etwas außerhalb Dir seiendes
+               nachdenkst, und da manche Fehler entdeckst, die das ganze Bild trüben wollen.
+               Merkwürdigerweise bist Du nicht der einzige, es gibt viele solche Leute in
+               <rs ref="#tillich_place_id__189" type="place">Ha</rs>, die immer deutlicher sehen, daß bei allem vielen, was
+               sich der Kosten schon lohnt, das man aus <rs ref="#tillich_place_id__189" type="place">Ha</rs> mitnimmt, man
+               abgeschnitten lebt von der europäischen Kultur, ich meine wenn wir uns mit China
+               vergleichen, das auch eine ausgeprägte Kultur hat aber jede Produktivität ist
+               verloren. Doch ich will Deinen Brief nicht wiederkäuen. Der Boden den Du bei mir
+               bereiten willst, ist schon da, nicht nur im Urteil über die Verbindung so auch bei
+               mir ganz persönlich. Gerade im letzten <formula notation="TeX">\frac{1}{4}</formula>
+               Jahr, wo ich der Zeit u. der Ruhe nach i. e. quantitativ genug zur <del rend="s">Ruhe</del> Arbeit kam, habe ich gemerkt daß man weder weiß, was, wo, wie man
+               arbeiten soll.<pb n="2"/> Will man N.T. arbeiten, so merkt man daß man das N.T.
+               überhaupt noch nicht gelesen hat. Bei <rs ref="#tillich_person_id__1201" type="person">Loofs</rs> höre
+               ich DG, wenn man bloß Ahnung von K.G. u. Gesch. d. Phil. hätte und so geht geht die
+               Litanei weiter. Wie ein richtiger Pennäler kommt man sich vor. Wenn man <rs ref="#tillich_person_id__128" type="person">Hans Balke</rs> in dem Punkte fragt, so kommt gewöhnlich der
+               Trost: Du arbeitest ja den ganzen Nachmittag. Wenn ich in meinen zukünftigen
+               Semestern sollte (Irreal i. d. höchsten Potenz) je einen Lbfx zeugen, so würde ich es
+               wahrscheinlich ihm zur Bedingung machen, daß er vernünftiger umgeht mit sr. Zeit. Von
+               meinem eignen Lbb. habe ich das leider nicht gelernt, einerseits ss. Alters wegen,
+               andrerseits der andern Fakultät wegen 3) weil er überhaupt ganz anders die Sache
+               anfaßt d.h. er hat eine zu gründliche Vorbildung, um zu sehen, wo ich mit meinen
+               unerhört geringen Voraussetzungen anfangen muß. Ob ich diesen Zustand in
+               <rs ref="#tillich_place_id__189" type="place">Ha</rs> noch überwinde, ist mir mehr als fraglich, die Luft in
+               <rs ref="#tillich_place_id__189" type="place">Ha</rs> ist dazu nicht gut. Vielleicht macht da was die berühmte
+               Berliner Luft, "Berliner" unterstrichen. Auf Wiedersehen im nächsten Semester! Das
+               Verhältnis der Punkte von <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> u.
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> bewegt sich im Quadrat d. Entfernung des
+               Semesterschlusses immer schneller von 100:1 bis 1:100. Also wenn ich im nächsten Sem.
+               nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> komme? In <rs ref="#tillich_place_id__189" type="place">Ha</rs> habe ich für
+               meine Dekanatsprüfungen (14 Tage wissenschaftlicher !! Arbeit) die nötige materielle
+               Unterstützung genossen, so daß ich recht gut auskam. In <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+               fällt manches fort, oder gibt es in <rs ref="#tillich_place_id__37" type="place">Be</rs>. auch solche Institute.
+               Wenn Du darüber etwas weißt, so kannst Du mir das mal schreiben Bedingungen usw? Ob
+               ich deswegen aktiv werden kann ist die Frage. Voraussichtl. werde ich es wieder in
+                  <rs ref="#tillich_place_id__238" type="place">Kiel</rs> wo ich (<foreign xml:lang="lat">me miserum</foreign>!)
+               landen muß. Es ist mir eigentlich nicht gerade angenehm im S.8. nach
+                  <rs ref="#tillich_place_id__37" type="place">Be.</rs> zu gehen<pb n="3"/> aber von <rs ref="#tillich_place_id__189" type="place">Ha</rs> muß ich ich fort, daß
+               ist mir außerordentlich klar und in <rs ref="#tillich_place_id__448" type="place">Tü.</rs> glaube ich bekommt man
+               nicht viel Neues, womit ich nicht <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs> meine,
+               aber überhaupt. China!! Was du auf der letzten Seite Deines Briefs sagst, war mir
+               eigentlich neu, s. nur Ausdruck dafür, wofür man einen Begriff suchte: daß man auch
+               für sein persönlichstes Leben als Voraussetzung Arbeit, die ihr Recht hat, haben muß.
+               Aber das Wie?</p>
+            <p>Tatsachen: Eigentlich habe ich bis jetzt nur über Tatsachen geschrieben. Aus
+                  <rs ref="#tillich_place_id__189" type="place">Halle</rs> wirst du voraussichtlich neulich von <rs ref="#tillich_person_id__128" type="person">Hans Balke</rs> genug erfahren haben, er beurteilt im
+               allgemeinen wohl günstiger. Der Kerl als Konhaus ist rührend. Sonst ist alles was ich
+               berichten könnte nur, daß endlich Eis ist und ich meine langen Beine kräftig um die
+               Gegend schwenke auf dem Teich des hiesigen Krüppelheims, wo außer mir diejenigen
+               Krüppel laufen die es irgendwie noch darstellen können. Die andern bewegen sich
+               gegenseitig u. eigenhändig auf Schlitten auf dem Eise herum. Es ist überhaupt
+               erstaunlich, mit welcher Lebenslust all die kleinen elenden Würmer rumlaufen, sich
+               kräftig verhauen, wettlaufen, - humpeln, schreien, Soldaten spielen u. Schlittschuh
+               laufen. Dabei müssen sie kräftig arbeiten. Da haben wir einen Menschen von ca. 16
+               Jahren, der am ganzen Körper zittert (Vater: Alkohol) der so energisch ist und sich
+               seinen einen fliegenden Arm festbinden läßt, was er selbst erfunden hat, bloß um
+               arbeiten zu können. Daß diesem Extrem auch solche nach der andern Seite
+               entgegenstehen ist klar, aber im allgemeinen sind die Kinder so drin in ihrer Arbeit
+               u. arbeiten auch wirklich so begabte Sachen daß es erstaunlich ist, nur weil sie
+               gegenseitig ihr Leiden gar<pb n="4"/> nicht mehr empfinden, wie sie es zu Hause
+               müßten. Arbeit infolge von Gemeinschaft?</p>
+            <p>Die Pointe meiner geheimnisvollen Frankfurter Reise: Verlobigung meiner ältesten
+               Schwester, was jetzt in den Weihnachtstagen der Gegenstand war, um den sich alles
+               konzentrierte, u. zwar so daß man nach all den Feiern sich wieder nach etwas anderem
+               sehnt. Abgesehen von dieser Eigenschaft des Verursachers <hi rend="sup">vieler
+                  Feiern</hi>, wie er sein soll ein "Techniker" - der diesbezügl. Bräutigam nämlich.
+               Wenn Du Dich dazu aufschwingen kannst, so schreibe mal wieder u. komme im Semester
+               mal nach <rs ref="#tillich_place_id__189" type="place">Halle</rs>, wo die Braven gedeihen.</p>
+            <closer>
+               <salute>Grüß die Bande! <foreign xml:lang="lat">Vivas, crescas, floreas!</foreign></salute>
+               <signed>Herzlich Dein <rs ref="#tillich_person_id__1982" type="person">Gysbert</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person ref="#tillich_person_id__1928"><reference>Paulchen</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person><person ref="#tillich_person_id__2147"><reference>H.
+                  Vethake</reference><persName>Vethake, Hans</persName>
+               </person><person ref="#tillich_person_id__2091"><reference>Witte</reference><persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person><person ref="#tillich_person_id__128"><reference>Balke</reference><persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person><person ref="#tillich_person_id__2091"><reference>Witte</reference><persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person><person ref="#tillich_person_id__1201"><reference>Loofs</reference><persName>Loofs, Friedrich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+               </person><person ref="#tillich_person_id__128"><reference>Hans Balke</reference><persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person><person ref="#tillich_person_id__1712"><reference>Schlatter</reference><persName>Schlatter, Adolf</persName>
+                  <birth>
+                     <date>1852-08-16</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1938-05-19</date>
+                     <settlement>
+                        <placeName>Tübingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
+               </person><person ref="#tillich_person_id__128"><reference>Hans Balke</reference><persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person><person ref="#tillich_person_id__1982"><reference>Gysbert</reference><persName>Van der Smissen, Gilbert</persName>
+                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__414"><reference>Stellingen</reference><placeName>Stellingen</placeName>
+                  <location type="coords">
+                     <geo>53.59220 9.92870</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2827552/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1621</idno>
+               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place><place ref="#tillich_place_id__209"><reference>Hildesheim</reference><placeName>Hildesheim</placeName>
+                  <location type="coords">
+                     <geo>52.15077 9.95112</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2904789/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32058340</idno>
+               </place><place ref="#tillich_place_id__209"><reference>Hildesheim</reference><placeName>Hildesheim</placeName>
+                  <location type="coords">
+                     <geo>52.15077 9.95112</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2904789/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32058340</idno>
+               </place><place ref="#tillich_place_id__189"><reference>Halle</reference><placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place><place ref="#tillich_place_id__189"><reference>Ha</reference><placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place><place ref="#tillich_place_id__189"><reference>Ha</reference><placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place><place ref="#tillich_place_id__189"><reference>Ha</reference><placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place><place ref="#tillich_place_id__189"><reference>Ha</reference><placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place><place ref="#tillich_place_id__448"><reference>Tübingen</reference><placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place><place ref="#tillich_place_id__189"><reference>Ha</reference><placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place><place ref="#tillich_place_id__37"><reference>Be</reference><placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place><place ref="#tillich_place_id__238"><reference>Kiel</reference><placeName>Kiel</placeName>
+                  <location type="coords">
+                     <geo>54.32133 10.13489</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
+               </place><place ref="#tillich_place_id__37"><reference>Be.</reference><placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place><place ref="#tillich_place_id__189"><reference>Ha</reference><placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place><place ref="#tillich_place_id__448"><reference>Tü.</reference><placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place><place ref="#tillich_place_id__189"><reference>Halle</reference><placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place><place ref="#tillich_place_id__189"><reference>Halle</reference><placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

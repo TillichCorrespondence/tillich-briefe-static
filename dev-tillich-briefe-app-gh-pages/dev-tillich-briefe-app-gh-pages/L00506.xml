@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich und Greti Tillich an Mathilde Wever <lb/>vom 15.
+               September 1916 [PS] </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <author ref="#tillich_person_id__1931">Greti Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard Univeristy</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/209(3)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte (Motiv: Cochem von Haus Krein gesehen), eigenhändig</p>
+               </physDesc>
+
+            </msDesc>
+
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1931">Greti Tillich</persName>
+               <placeName ref="#tillich_place_id__110">Cochem</placeName>
+               <date when="1916-09-15">15.09.1916</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2049">Mathilde Wever</persName>
+               <placeName ref="#tillich_place_id__80">Butterfelde</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00504">Postkarte von Paul Tillich an Johannes Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00507">Postkarte von Paul Tillich an Toni Winkler </ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-05-30">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2023-12-12">Endabnahme&gt;</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="PaulTillich">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebe <rs ref="#tillich_person_id__2049" type="person">Mutter</rs>!</salute>
+            </opener>
+            <p>Es ist höchste Zeit, daß ich schreibe, denn eben kommt die dritte halbe <unclear cert="high">Tasse Mosel</unclear> und was dann kommt, weiß niemand --- Morgen ist
+               der letzte Tag! Es war der schönste Urlaub!</p>
+            <closer>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+         <div type="MargareteTillich">
+            <opener><salute>L. <rs ref="#tillich_person_id__2049" type="person">M.</rs></salute></opener>
+            <p>Deinen Brief bekam ich heute, ich habe mich sehr dazu gefreut! Sonnab- ist nun
+               Schluss. Ich möchte noch etwas in <rs ref="#tillich_place_id__236" type="place">Cassel</rs> bleiben, fahre dann nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, weiter reicht mein Geld nicht. In <rs ref="#tillich_place_id__18" type="place">Bertrich</rs>regnete es, da reisten wir ab hier ist es besonders
+               schön. Aber einmal muss ja auch Schluß sein.</p>
+            <closer><salute>Herzl. Gruss v. </salute><signed><rs ref="#tillich_person_id__1931" type="person">Greti</rs></signed></closer>
+         </div>
+      </body>
+   <back><listPerson><person ref="#tillich_person_id__2049"><reference>Mutter</reference><persName>Wever, Mathilde</persName>
+                  <occupation>Mutter von Greti</occupation>
+               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person><person ref="#tillich_person_id__2049"><reference>M.</reference><persName>Wever, Mathilde</persName>
+                  <occupation>Mutter von Greti</occupation>
+               </person><person ref="#tillich_person_id__1931"><reference>Greti</reference><persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__236"><reference>Cassel</reference><placeName>Kassel</placeName>
+                  <location type="coords">
+                     <geo>51.31667 9.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2892518/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
+               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place><place ref="#tillich_place_id__18"><reference>Bertrich</reference><placeName>Bad Bertrich</placeName>
+                  <location type="coords">
+                     <geo>50.06667 7.03333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953543/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31896761</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

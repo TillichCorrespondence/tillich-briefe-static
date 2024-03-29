@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00079">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Toni Winkler an Paul Tillich <lb/>vom 20. Juli 1905 </title>
+            <author ref="#tillich_person_id__2085">Toni Winkler</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/205(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+               <placeName ref="#tillich_place_id__60">Bielefeld</placeName>
+               <date when="1905-07-20">20.07.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00078">Brief von Marlen Kandeler an Paul Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00080">Postkarte von Gustav Dürselen an Paul Tillich </ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-06-27">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-10-25">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__60" type="place"><hi rend="aq">Bielefeld</hi></rs>, d. <date when="1905-07-20">20. Juli 05.</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs></salute>
+            </opener>
+            <p>Viel herzlichen Dank für die liebe Karte, die uns sehr erfreute und sehnlich schon
+               erwartet wurde. Ich freue mich so, daß es Dir gut geht, so wird sich auch <rs ref="#tillich_person_id__1924" type="person">Papa</rs> recht erholen, wenn er immer gute Nachrichten von Dir
+               haben darf. Ich möchte wohl wissen, wie Du Dir denkst, wann Du wohl zu Haus kommst,
+               darnach möchte ich auch gern meine Heimreise einrichten. Wir kommen Anfang August<pb n="2"/> ja auf alle Fälle nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zurück,
+               da wir die Wohnung erst gern ganz in Ordnung machen möchten. Kommst Du aber früher,
+               bitte, schreibe es mir ja. – Anbei sende ich Dir etwas Kakao, Schinken u. Wurst, u. von mir extra Schokolade; möchtest Du
+               alles in Gesundheit verzehren! Es ist hier sehr schön in <rs ref="#tillich_place_id__60" type="place"><hi rend="aq">Bielefeld</hi></rs>, aber ich freue mich auch schon sehr
+               auf unser aller gemütliches Beieinandersein. <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> ist ein Musterkind, wovon Du Dich ja bald<pb n="3"/> selbst
+               überzeugen wirst. Sie arbeitet auch artig vormittags <sic>französisch</sic>, heut Nachmittag ist
+               sie in großer Aufregung, sie hat sich mehrere kleine Freundinnen zum Kaffee oder
+               vielmehr zur Schokolade eingeladen, nachher giebts Pudding, u. die Kinder können
+               jeden Augenblick kommen, da hat sie keine Zeit zum Schreiben. So nimm denn vorlieb
+               mit meinem Gruß, u. schreib recht bald wenn auch nur eine Karte an deine tr.
+                  Tante <rs ref="#tillich_person_id__2085" type="person">Toni</rs><pb n="4"/> Grüße auch deinen Freund
+               Herrn stud. <rs ref="#tillich_person_id__2136" type="person">Kaumann</rs> freundlichst. Ich wünsche
+               mir von Dir dies Blatt vom Jünglingsbund, das Du damals geschrieben, <rs ref="#tillich_person_id__1924" type="person">Papas</rs> ist eingeschlossen u. ich hätte es so sehr gern
+               selbst. Kannst du mir nicht ein Exemplar schenken? – Meine Geschwister grüßen Dich
+               mit mir u. wünschen Dir weiter gute Besserung. </p>
+         </div>
+      </body>
+   <back><listPerson><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person><person ref="#tillich_person_id__1924"><reference>Papa</reference><persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person><person ref="#tillich_person_id__1762"><reference>Elisabeth</reference><persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person><person ref="#tillich_person_id__2085"><reference>Toni</reference><persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person><person ref="#tillich_person_id__2136"><reference>Kaumann</reference><persName>Kaumann, E.</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
+               </person><person ref="#tillich_person_id__1924"><reference>Papas</reference><persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__60"><reference/><placeName>Bielefeld</placeName>
+                  <location type="coords">
+                     <geo>52.02113 8.53500</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2949188/</idno>
+               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

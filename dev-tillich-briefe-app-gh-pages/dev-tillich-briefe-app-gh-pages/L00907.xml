@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00907">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 20. September 1926</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(23)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__343">Paris</placeName>
+               <date when="1926-09-20">20.09.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00905">Brief von Paul Tillich an Hannah Tillich
+                    </ref><ref subtype="next_letter" type="withinCollection" target="L00908">Brief von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-10-25">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-10-25">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <date when="1926-09-20">d. 20.</date></dateline>
+               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+            </opener>
+            <p>Es ist immerzu so viel zu schreiben, daß ich gar nicht weiß, womit anfangen. Z.B.,
+               daß ich jetzt in der <hi rend="aq">Avenue Wagram</hi> sitze mit Blick auf
+               Triumphbogen und Eiffelturm, und die Sonne untergeht im Dunst, den die wolkenlose
+               Glut der letzten Tage über <rs ref="#tillich_place_id__343" type="place">Paris</rs> gelegt hat. Daß
+               ich heut die ältesten Straßen von <rs ref="#tillich_place_id__343" type="place">Paris</rs>
+               durchwandert habe, daß ich gestern mit <rs ref="#tillich_person_id__2437" type="person">Malla</rs>
+                  (<rs ref="#tillich_person_id__2436" type="person">Hamburger</rs> ist zu einer Konferenz nach
+                  <rs ref="#tillich_place_id__130" type="place">Düsseldorf</rs> gefahren) einen
+               Sonntag-Nachmittagsausflug nach der Marne gemacht habe, wo man <rs ref="#tillich_person_id__2574" type="person"><hi rend="aq">Corot</hi></rs> und <rs ref="#tillich_person_id__1343" type="person"><hi rend="aq">Monet</hi></rs> und <rs ref="#tillich_person_id__2575" type="person"><hi rend="aq">Cezanne</hi></rs> auf einmal, von der Natur, von dieser<pb n="2"/>
+               Landschaft aus verstehen kann – die unendlichen Nüancen von Grau-Grün und die
+               Flüchtigkeit der Häuser und Berghänge – [Mein Begriff der Sinnerfüllung der Natur
+               durch die Kunst lebte plötzlich wieder auf] – und wo <rs ref="#tillich_person_id__2576" type="person">Maupassant</rs> viele seiner kleinen Pariser Novellen spielen läßt und wir
+               selbst in eine ganz Maupassanthafte Stimmung kamen [wobei mir wieder der Begriff der
+               Sinnerfüllung nämlich des gesellschaftlichen Geschehens durch den Dichter erläutert
+               wurde] – –<pb n="3"/> Neulich Abend waren wir in <hi rend="aq">Folies-Bergère</hi>.
+               Wir nehmen bei so etwas immer <hi rend="aq">Promenoir</hi> (Stehplatz für 6 Fr), wo
+               man bis an die Bühne herangehen und glänzend sehen kann wie auf den 100 Fr.-Plätzen.
+               Es war die übliche Revue, aber mit der <rs ref="#tillich_person_id__2577" type="person">Baker</rs>, der
+               Mulattin, die im Winter bei Nelson aufgetreten ist. Ich habe von dem Abend den
+               Eindruck gehabt: Die Revue ist erledigt, die große Einzelleistung ist alles. Die
+               Revue lebt von der Betrachtung des Geschaffenen (daher ihr Name) dieses kann
+               geistreich sein, wenn viel zu betrachten da ist. Wenn aber nur noch Re<pb n="4"/>vue
+               da ist, dann bleibt nichts übrig als eine "Betrachtung der Betrachtung", in der sich
+               das Ganze in Nichts auflöst. Die eine wilde Mulattin wiegt alle Pariser Revuen auf.
+               Ihr Körper und jede ihrer Bewegungen grenzt ans Wunderbare. Jede Bewegung ist der <hi rend="u">ganze</hi> Körper in Bewegung, ob sie Bauchtanzt oder den kleinen Finger
+               bewegt – – – –</p>
+            <p>Morgen Mittag essen wir mit Frau <unclear cert="medium" reason="illegible">Knaden</unclear>, morgen Abend bin ich bei <rs ref="#tillich_person_id__2513" type="person">Nora</rs>. Heut und gestern kein Brief von Dir, das ist immer sehr schwer!</p>
+            <closer>
+               <salute>In Sehnsucht!</salute>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+            <postscript>
+               <p>Morgen mehr</p>
+            </postscript>
+         </div>
+      </body>
+   <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person><person ref="#tillich_person_id__2437"><reference>Malla</reference><persName>Jessen, Malla</persName>
+                  <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
+               </person><person ref="#tillich_person_id__2436"><reference>Hamburger</reference><persName>Hamburger, Hans</persName>
+                  <birth>
+                     <date>1889-08-05</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1956-08-04</date>
+                     <settlement>
+                        <placeName>Köln</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Mathematiker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116422521</idno>
+                  <note type="bio"><p>Er lebte Mitte der 1920er in Köln. Zu dieser Zeit war er mit Paul Tillich bekannt. Sie trafen sich auch 1926 in Paris.</p></note>
+               </person><person ref="#tillich_person_id__2576"><reference>Maupassant</reference><persName>Maupassant, Guy de</persName>
+                  <birth>
+                     <date>1850-08-05</date>
+                     <settlement>
+                        <placeName>Dieppe</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1893-07-06</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118579207</idno>
+               </person><person ref="#tillich_person_id__2577"><reference>Baker</reference><persName>Baker, Josephine</persName>
+                  <birth>
+                     <date>1906-06-03</date>
+                     <settlement>
+                        <placeName>Saint Louis, Mo.</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1975-04-12</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118506099</idno>
+               </person><person ref="#tillich_person_id__2513"><reference>Nora</reference><persName>???, Nora</persName>
+               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place><place ref="#tillich_place_id__130"><reference>Düsseldorf</reference><placeName>Düsseldorf</placeName>
+                  <location type="coords">
+                     <geo>51.22172 6.77616</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2934246/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1718</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

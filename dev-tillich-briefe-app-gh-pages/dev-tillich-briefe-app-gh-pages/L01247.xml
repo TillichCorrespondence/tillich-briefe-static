@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01247">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich
+                    <lb/>vom 3. August 1933 [PS]
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/3(3)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
+                    <date when="1933-08-03">03.08.1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__389">Sassnitz (Rügen)</placeName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01246">Brief von Paul Tillich an Horace Friess
+               </ref><ref subtype="next_letter" type="withinCollection" target="L01253">Postkarte von Paul Tillich an Hannah Tillich
+                    </ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-06-12">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-12-12">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+                </opener>
+                <p>Heut nur Mitteilung, daß Einkauf folgende Ergebnisse: Hut, Schlips, Strümpfe, Polohemd, Seidenhemden, schwarze Schuhe, Hemdknöpfe: Jetzt Anzug bei Hoffmann, Geldtasche, Stoff für Dich. <rs ref="#tillich_person_id__1211" type="person">Claire</rs> sehr tüchtig. – Gestern Abend <rs ref="#tillich_person_id__2395" type="person">Riezlerin</rs>, sehr amüsant. <rs ref="#tillich_person_id__1610" type="perseon">Er</rs> darf im Winter lesen, will darum dableiben. <rs ref="#tillich_person_id__1593" type="person">Rheindorf</rs> in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> untergekommen. <rs ref="#tillich_person_id__1021" type="person">Kantor</rs> will nicht mitmachen. Nachher mit den <rs ref="#tillich_person_id__1211" type="person"><rs ref="#tillich_person_id__1212" type="person"><rs ref="#tillich_person_id__1498" type="person"><rs ref="#tillich_person_id__1499" type="person">Potsdamern</rs></rs></rs></rs> im Kaffee. <rs ref="#tillich_person_id__1212" type="person">Günther</rs> erzählte aller<pb n="2"/>hand nette Geschichten. Heut kommt <rs ref="#tillich_person_id__1924" type="person">Vaterchen</rs> auf eine Nacht. Nachmittag <rs ref="#tillich_person_id__15" type="person">Teddy</rs>. Auf der Straße <rs ref="#tillich_person_id__2439" type="person">Dreyfuß</rs>. Sonst nichts Neues.</p>
+                <closer>
+                    <salute>Grüß herzlich! In Liebe</salute>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+                </closer>
+            </div>
+        </body>
+    <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person><person ref="#tillich_person_id__1211"><reference>Claire</reference><persName>Löwenfeld, Claire</persName>
+                  <occupation>Diätetikerin</occupation>
+               </person><person ref="#tillich_person_id__2395"><reference>Riezlerin</reference><persName>Riezler, Käthe</persName>
+                  <birth>
+                     <date>1885-08-19</date>
+                  </birth>
+                  <death>
+                     <date>1955-09-06</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/116996242</idno>
+                  <note type="bio"><p>Sie war die Tochter von Max Liebermann und die Ehefrau von Kurt Riezler.</p></note>
+               </person><person ref="#tillich_person_id__1593"><reference>Rheindorf</reference><persName>Rheindorf, Kurt</persName>
+               </person><person ref="#tillich_person_id__1021"><reference>Kantor</reference><persName>Kantorowicz, Ernst</persName>
+                  <occupation>Deutscher Historiker, Mediävist, George-Kreis</occupation>
+               </person><person ref="#tillich_person_id__1499"><reference>Potsdamern</reference><persName>Pincus, Fritz</persName>
+                  <occupation>Mitbesitzer Haus auf dem Küssel</occupation>
+               </person><person ref="#tillich_person_id__1212"><reference>Günther</reference><persName>Löwenfeld, Günther</persName>
+                  <occupation>Jurist</occupation>
+                  <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
+               </person><person ref="#tillich_person_id__1924"><reference>Vaterchen</reference><persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person><person ref="#tillich_person_id__15"><reference>Teddy</reference><persName>Adorno, Theodor W.</persName>
+                  <birth>
+                     <date>1903-09-11</date>
+                     <settlement>
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969-08-06</date>
+                     <settlement>
+                        <placeName>Visp</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Musik- und Sozialphilosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118500775</idno>
+                  <note type="bio"><p>Studium in Frankfurt am Main (Promotion 1924) sowie 1925-1928 bei Alban Berg und Eduard Steuermann in Wien. Habilitierte sich 1931 in Frankfurt am Main bei Paul Tillich. Seit 1934 Aufenthalt in Oxford, 1938 Emigration in die USA, dort u.a. Mitarbeiter des Instituts für Sozialforschung sowie insb. Arbeitsgemeinschaft mit Marx Horkheimer, in deren Rahmen die Dialektik der Aufklärung (1944) entstand. Remigration nach Deutschland 1949, Professor an der Goethe-Universität Frankfurt am Main sowie dem Institut für Sozialforschung.</p></note>
+               </person><person ref="#tillich_person_id__2439"><reference>Dreyfuß</reference><persName>Dreyfuß, Carl</persName>
+                  <occupation>Filmemacher; Sozialforscher;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/121594165</idno>
+                  <note type="bio"><p>Er war ein Freund Adornos und Bekannter Tillichs aus dem Frankfurter Umfeld. Er stand in Verbindung mit dem Institut für Sozialforschung. Später wirkte er als Filmemacher.</p></note>
+               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

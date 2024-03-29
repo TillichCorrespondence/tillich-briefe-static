@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00434">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Elisabeth Tillich <lb/>vom 16. Mai 1915 </title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Andreas Burri</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Briefe</collection>
+                  <idno>bMS 649/184(6)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändg</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
+               <date when="1915-05-16">16.05.1915</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00433">Brief von Paul Tillich an Max Wölfing
+               </ref><ref subtype="next_letter" type="withinCollection" target="L00436">Brief von Paul Tillich an Johannes Tillich
+               </ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AB" when="2022-05-01">Intitale Auszeichnung des Transkripts</change>
+         <change who="??" when="2022-05-01">Überprüfung und Ergänzung der Auszeichnungen</change>
+         <change who="GM" when="2023-10-10">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1915-05-16">16. Mai 1915</date></dateline>
+               <salute>L.<rs ref="#tillich_person_id__1762" type="person">E.</rs></salute>
+            </opener>
+            <p>Nachdem infolge von 5 Granaten, die am <date when="1915-05-13">Himmelfahrtstage</date> Nachmittag in den Obstgarten des Stabsgebäudes geflogen
+               sind, die Division ihren Umzug nach <rs ref="#tillich_place_id__113" type="place">Crécy au Mont</rs> beschlossen und auf übermorgen festgesetzt hat, bin ich der
+               14. Infanterie-Brigade in <rs ref="#tillich_place_id__227" type="place">Juvigny</rs>
+               zugeteilt. Brigade-General ist <rs ref="#tillich_person_id__252" type="person">Exz. von Bonin</rs>. <rs ref="#tillich_person_id__109" type="person">Backhaus</rs>
+               bleibt in <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>. Dienstag ziehe
+               auch ich um. Ein Abschnitt in meinem Kriegsleben! <pb n="2"/> Näheres weiß ich noch
+               nicht. Der Ort ist wundervoll gelegen. Die Gefährdung nicht viel größer als <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>. Die Trennung von der
+               Division wird mir sehr schwer. Meine Adresse ist jetzt IV. Res.-Korps. 7. Res.-Div.
+               14. Inf. = Brigade. ‒ Herzlichen für Deinen sehr lieben Brief! Nach <date when="1915-05-23">Pfingsten</date> antworte ich; jetzt sind schwere, unruhige und
+               aufregende Tage für mich.</p>
+            <closer>
+               <salute>In Treue Dein Bruder</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person ref="#tillich_person_id__1762"><reference>E.</reference><persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person><person ref="#tillich_person_id__252"><reference>Exz. von Bonin</reference><persName>Bonin, Henning von</persName>
+                  <occupation>Preußischer Infanteriegeneral</occupation>
+                  <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
+               </person><person ref="#tillich_person_id__109"><reference>Backhaus</reference><persName>Backhaus, Alwin</persName>
+                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
+               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__61"><reference>Bieuxy</reference><placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place><place ref="#tillich_place_id__113"><reference>Crécy au Mont</reference><placeName>Crécy-au-Mont</placeName>
+                  <location type="coords">
+                     <geo>49.48857 3.32416</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3022625/</idno>
+               </place><place ref="#tillich_place_id__227"><reference>Juvigny</reference><placeName>Juvigny (Aisne)</placeName>
+                  <location type="coords">
+                     <geo>49.44762 3.31821</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
+               </place><place ref="#tillich_place_id__61"><reference>Bieuxy</reference><placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place><place ref="#tillich_place_id__61"><reference>Bieuxy</reference><placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

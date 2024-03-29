@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00999">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>von 1929<note type="ea">Datum
+                  unlesbar. Vermutlich Frühjar (März bis Mai).</note></title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(25)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+               <date when="1929">1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00993">Postkarte von Paul Tillich an Hannah Tillich
+               </ref><ref subtype="next_letter" type="withinCollection" target="L01001">Postkarte von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-11-29">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-11-29">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
+            </opener>
+            <p>Anbei Post! Was sagst Du zu <hi rend="aq">Punta Chiappa</hi>? Frau <hi rend="aq"><unclear cert="medium">Stensbeck</unclear></hi> habe ich versehentlich
+               aufgemacht, aber nicht gelesen. Frau <unclear cert="medium">Eberth</unclear> finde
+               ich sehr nett. – –</p>
+            <p>Nach Tisch war ich 1. St. mit <rs type="person" ref="#tillich_person_id__2618">Frl.
+                  Dr. Rothmann</rs> im Palmengarten . Sie hat mir alles genau erzählt. Es stimmt
+               natürlich mit <rs type="person" ref="#tillich_person_id__697">Goldstein</rs>. – Dann
+               machte sie mich mit einer Frau <unclear cert="medium">Levi</unclear> bekannt, die im
+               Tennisklub im Palmengarten eine große Rolle spielt und Dir in Tennis- und
+               Schneider-Sachen helfen will. Das ist sehr günstig. Denn dort liegen unsere
+               Tennisplätze. Von 5–<unclear cert="medium">1/2</unclear> 8 Fakultätssitzung. Sehr
+               langweilig. Kein besonderer Glanz! Heut sehr warm. Um 6 Uhr Gewittersturm! Morgen um
+               5 Kommissions-Sitzung! Jetzt stiller Abend mit herrlicher Luft auf dem Balkon. Ich
+               warte auf Deine erste Nachricht!</p>
+            <closer>
+               <salute>Gruß und Kuß auch an <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs>.</salute>
+               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs></signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person><person ref="#tillich_person_id__2618"><reference>Frl.
+                  Dr. Rothmann</reference><persName>Rothmann Goldstein, Eva</persName>
+                  <occupation>Psychologin; Neurologin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116641428</idno>
+               </person><person ref="#tillich_person_id__697"><reference>Goldstein</reference><persName>Goldstein, Kurt</persName>
+                  <occupation>Deutsch-amerikanischer Neurologe und Psychiater</occupation>
+                  <note type="bio"><p>Kurt G. studierte bis 1903 Medizin in Breslau und Heidelberg, wo er promoviert wurde. Nach dem Studium arbeitete er zunächst als klinischer Assistent am Neurologischen Institut Frankfurt/Main sowie in der psychiatrischen Klinik der Universität Heidelberg, bevor er 1906-1914 an die psychiatrischen Klinik Königsberg wechselte, an der dortigen Universität als Privatdozent tätig war und sich schließlich auch habilitierte. Bereits 1905 hatte er Ida Zuckermann geheiratet, mit der er drei Töchter hatte. 1916-1930 arbeitete er an der Universität Frankfurt/Main und als Direktor des Neurologischen Instituts. 1930 wechselte er nach Berlin, wo er bis 1933 blieb. Nach kurzer SA-Haft konnte G. 1933 zuerst nach Amsterdam und 1934 weiter in die USA emigrieren. Im selben Jahr ließ es sich von seiner ersten Frau Ida scheiden und heiratete kurz darauf die Neuropsychiaterin Eva Rothmann. In den USA lehrte und arbeitete er bis 1940 an diversen New Yorker Hochschulen (u.a. Columbia) bzw. Kliniken und war anschließend 1940-1945 an der School of Medicine der Tufts University, Massachusetts, beschäftigt. Nach dem Krieg hatte es bis zu seinem Tod eine Privatpraxis in New York und hatte währenddessen diverse Gastprofessuren (u.a. City College, New School, Brandeis Univ.) inne.</p></note>
+               </person><person ref="#tillich_person_id__570"><reference>Erdmuthe</reference><persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person></listPerson><listBibl/><listPlace/><listLetter/></back></text>
+</TEI>

@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00884">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom August<note type="ea">Der Brief
+                  ist undatiert, aber sein Inhalt erlaubt die Eingrenzung auf den Zeitraum zwischen
+                  dem 7. und 15. August</note> 1926</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(23)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__361">Quiberon</placeName>
+               <date when="1926-08">08.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00883">Postkarte von Paul Tillich an Hannah Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00886">Postkarte von Paul Tillich an Hannah Tillich
+                    </ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-10-31">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-10-31">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Liebste!!</salute>
+            </opener>
+            <p>Wir sitzen im Bummelzug auf der Fahrt nach der Atlantischen Küste. Nebenan eine mit
+               wildem französischen Temperament durchgeführte Debatte zwischen einem Kommunisten und
+               einigen Frauen. Man fühlt doch viel viel mehr als in Italien vor 2 Jahren die
+               Feindseligkeit, die sich zwar augenblicklich mehr gegen Engländer und Amerikaner
+               richtet, aber doch jeden Tag auf uns übergehen kann. Das ergibt eine ständige
+               Beunruhigung, die wir alle drei fühlen. (Eben kommt der Kommunist herüber und hält
+               eine Ansprache vor uns über das schlechte Benehmen der Bourgeois) Dazu die ständige
+               Hetze in den Zeitungen. Es ist jedenfalls nicht gemütlich.</p>
+            <p>Das Meer und die Landschaft von <rs ref="#tillich_place_id__384" type="place">St. Malo</rs>
+               waren herrlich. Ebenso die täglichen Bäder. Überall sind<pb n="2"/> Klippen und alte
+               Festungswerke darauf. Bei der <del rend="s">Ebbe</del>
+               <hi rend="sup">Flut</hi> sind sie ganz klein, zum Teilverschwunden. Bei der <del rend="s">Flut</del>
+               <hi rend="sup">Ebbe</hi> sind sie groß, zackig und brechen die Wellen. Die Flut ist
+               dort riesenhaft, etwa drei Mal so hoch wie in <rs ref="#tillich_place_id__425" type="place">Sylt</rs>.
+               Die Ebbe dann entsprechend tief. Das Meer ist ganz weit weg und kommt dann zur Flut
+               mit Minutengeschwindigkeit heran. Sehr schön war es bei <unclear>¿¿¿</unclear>, wo es
+               an der Mauer der Promenade hoch brach und bis zu den Häusern herüberspritzte – –</p>
+            <p>Die Langweiligkeit der Engländerinnen ist unermeßlich, unfaßlich; mir gegenüber am
+               Nebentisch saß eine sehr schöne; aber ich <sic>konte</sic> zuletzt kaum mehr
+               hinsehen, so gelangweilt sah sie aus. Dagegen saßen<pb n="3"/> neben uns drei nette
+               Züricher Jüdinnen, die wir bald kennen lernten und mit denen wir ein paar Mal
+               spazieren gingen. <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> hatte mit der einen sogar
+               einen etwas intensiven Flirt. Ich bin wieder ganz dem Meer verfallen. – Das
+               Hotelleben ist doch sehr unerfreulich, steif, teuer, immer etwas giftig. Die Diners
+               und Soupers... waren gut, aber mir nicht sehr zuträglich. Das beste war die tägliche
+               Flasche weißer Bordeaux für 50 FF. (In Deutschland 6 M) Sehr wichtig war die gestrige
+               Fahrt nach <rs ref="#tillich_place_id__256" type="place">Mont St. Michel</rs>. Eine
+               riesige Bucht des Meeres, sehr flach, zur Ebbezeit trocken – darin ein Granitfelsen,
+               der eine kleine Stadt und oben eine Abbaye und Kirche trägt. Dieser erhebt sich steil
+               aus der Ebene (bei Flut aus dem Wasser) Unten<pb n="4"/> sind wundervolle
+               Umwallungen, die zugleich gegen die Hochflut schützen, wie in <rs ref="#tillich_place_id__384" type="place">St. Malo</rs>, wo die gleiche Mauer gegen den Feind und
+               das Meer schützt. – Der Ort hat nur eine, ganz enge, Straße, die von lauter
+               Restaurants besetzt ist, die mit Hilfe herrlichen Hummern und Langusten die Fremden
+               anlocken. Auf der Umfassungsmauer sind Kaffeeterrassen mit fabelhaftem Blick auf die
+               Bucht, die etwa wie das Watt bei Ebbe aussah. Dann die Besichtigung der Abtei, die
+               leider durch Führer und Menschenmassen sehr gestört war. Ein ganz herrliches
+               romanisches Kirchenschiff, dann viele sehr gute romanisch-gothische Räume. Ich
+               schicke ein Postkarten-Album. – – – Hin- und Rückfahrt mit Auto-Car je 2 Stunden. Auf
+               der Rückfahrt erlebten wir in einem Ort eine<pb n="5"/> richtige Verspottung der
+               Engländer durch Sonntag-Nachmittag-Publikum. Dann noch vor dem Diner (7 ½ Abends) bei
+               strömendem Regen in ein herrliches Wellenbad. Die Zellen sind im Keller des
+               Hotels.</p>
+            <p>Die innere Unruhe über die Existenz hier hemmt bis jetzt die Produktion erheblich.
+               Aber schon nach drei Tagen am Meer fühlte ich eine Umwandlung. Ich will nun auf alle
+               Fälle den August an der Sonne durchhalten, und eher <rs ref="#tillich_place_id__343" type="place">Paris</rs> abkürzen. Wie lange die anderen bleiben, hängt von den
+               Resultaten ihrer Pumpversuche ab.</p>
+            <p>Ich habe von der Reise nicht halb so viel, wie wenn Du dabei wärst. Ich merke jetzt,
+               daß wir seit Italien eine Reise-Einheit geworden sind... und überhaupt. Seit ich hier
+               ein paar ganz kleine Kinder gesehen habe, habe ich<pb n="6"/> beschlossen, nur noch
+               mit Euch beiden an die See und nur mit Dir in die Welt zu fahren.</p>
+            <p>Gedanklich beschäftigen mich fort während die Unterschiede der Völker. Durch den
+               Eindruck der metaphysischen Verschiedenheit wird alles eigne Dasein immer <unclear cert="medium" reason="illegible">relativisiert</unclear>, in Frage gestellt. Die
+               Möglichkeit der Enge hört auf, aber auch die Sicherheit der eignen Produktion. Das
+               Reisen ist zu allen Zeiten eine Gefahr für die Dogmatiker gewesen. Es bildet
+               historisch, während die konzentrierte Enge die eigne Schöpfung begünstigt. – –</p>
+            <p>– – Was tust Du? Wie gehts <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>? Wo ist
+                  <rs ref="#tillich_person_id__688" type="person">Heinrich</rs>, wo Liesel? Sind keine Briefe
+               gekommen?? Schreibe viel, damit einiges ankommt.</p>
+            <closer>
+               <salute>Ich liebe und küsse Dich Tausend mal</salute>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+               </person><person ref="#tillich_person_id__570"><reference>Erdmuthe</reference><persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+               </person><person ref="#tillich_person_id__688"><reference>Heinrich</reference><persName>Goesch, Heinrich</persName>
+                  <birth>
+                     <date>1880-07-02</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1931-02-16</date>
+                     <settlement>
+                        <placeName>Konstanz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
+               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__384"><reference>St. Malo</reference><placeName>Saint Malo, Ille-et-Vilaine</placeName>
+                  <location type="coords">
+                     <geo>48.64738 -2.00877</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2978640/</idno>
+               </place><place ref="#tillich_place_id__425"><reference>Sylt</reference><placeName>Sylt</placeName>
+                  <location type="coords">
+                     <geo>54.91823 8.33113</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2824454/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3107</idno>
+               </place><place ref="#tillich_place_id__256"><reference>Mont St. Michel</reference><placeName>Le Mont-Saint-Michel</placeName>
+                  <location type="coords">
+                     <geo>48.63603 -1.51139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7522158/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q20892</idno>
+               </place><place ref="#tillich_place_id__384"><reference>St. Malo</reference><placeName>Saint Malo, Ille-et-Vilaine</placeName>
+                  <location type="coords">
+                     <geo>48.64738 -2.00877</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2978640/</idno>
+               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>
