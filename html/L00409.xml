@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00409">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Johannes Tillich
+                    <lb/>vom 05. Dezember 1914
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 649/193(12)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1914-12-05">05. Dezember 1914</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00407">Postkarte von Paul Tillich an Johannes Tillich
+               </ref><ref subtype="next_letter" type="withinCollection" target="L00410">Brief von Paul Tillich an Johannes Tillich
+               </ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2022-04-20">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2022-05-17">Anpassungen auf Basis der Projektbesprechung vom 9.5.2022</change>
+            <change who="GM" when="2023-09-26">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener><salute>L. <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!<note type="eb">Das Datum des Briefes bezieht sich auf eine Notiz auf dem abgetippten Typoskript im Deutschen Tillich-Archiv in Marburg: „Datum des Umschlags 5.12.(1914)“ Der Umschlag liegt allerdings nicht vor!</note></salute></opener>
+                    <p>Eben nach 10-stündiger Arbeit zurück. Schicke schnell noch die Unterschrift. 
+                        Drei Abendmahlsfeiern in einer Höhle hinter den Schützengräben vor <rs ref="#tillich_place_id__404" type="place">Soissons</rs>. 
+                        Die Mitte kreisförmig eingestürzt bildete eine Kuppel mit dem Himmel als Abschluß. Der Einsturzhaufe war in eine prachtvolle Kanzel verwandelt. 
+                        Und rings herum in den Grotten zwischen den gewaltigen Pfeilern die Soldaten. Was ist der Dom <pb n="2"/> gegen dieses Gottesdiensthaus? 
+                            Wir hatten um 10 12 und 3 je eine Feier, im Ganzen 1000 Mann; sie konnten nur immer <formula notation="TeX">\frac{1}{3}</formula> 
+                            aus den Gräben geholt werden. Es waren die schönsten Adventsfeiern meines Lebens; ein Geigenspieler mit wundervoller gefundener 
+                            Geige begleitete. – – </p>
+                        <closer><salute>Nun muß ich fort zum Abendbrot.</salute>
+                            Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed></closer>
+            </div>
+        </body>
+    <back><listPerson><person ref="#tillich_person_id__1924"><reference>Papa</reference><persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__404"><reference>Soissons</reference><placeName>Soissons</placeName>
+                  <location type="coords">
+                     <geo>49.38167 3.32361</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2974389/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q167152</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

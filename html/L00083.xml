@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00083">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von George Blech an Paul Tillich <lb/>vom 12. August 1905 [PS] </title>
+            <author ref="#tillich_person_id__227">George Blech</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/125(7)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__227">George Blech</persName>
+               <placeName ref="#tillich_place_id__378">Rüdesheim</placeName>
+               <date when="1905-08-12">12.08.1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00082">Postkarte von Johanna Tillich an Paul Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00084">Postkarte von George Blech an Paul Tillich </ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-06-20">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2023-10-30">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <p>Hoffentl. gefällt Dir diese Carte. Hier ist es ganz herrlich. Morgen geht es weiter
+               nach <rs ref="#tillich_place_id__109" type="place">Coblenz</rs>.</p>
+            <closer>
+               <salute>Stets Dein getr.</salute>
+               <signed><rs ref="#tillich_person_id__227" type="person"><hi rend="aq">George Blech</hi></rs></signed>
+            </closer>
+            <postscript>
+               <p>Hoffentl. bist du wohl in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> eingetroffen</p>
+            </postscript>
+         </div>
+      </body>
+   <back><listPerson><person ref="#tillich_person_id__227"><reference/><persName>Blech, George</persName>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__109"><reference>Coblenz</reference><placeName>Coblenz(Koblenz)</placeName>
+                  <location type="coords">
+                     <geo>50.35357 7.57883</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2886946/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3104</idno>
+               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

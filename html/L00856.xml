@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00856">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich
+                    <lb/>vom 3. Dezember 1925 [PS]
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/2(21)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__4">Aachen/</placeName><placeName ref="#tillich_place_id__244">Köln</placeName>
+                    <date when="1925-12-03">3.12.1925</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00849">Postkarte von Paul Tillich an Gottfried Salomon
+               </ref><ref subtype="next_letter" type="withinCollection" target="L00857">Postkarte von Paul Tillich an Gottfried Salomon
+               </ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-06-07">Intitale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-11-10">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebstes <rs ref="#tillich_person_id__1923" type="person">Hannahchen</rs>!</salute>
+                </opener>
+                <p>Nun ist die erste Schlacht geschlagen.<note type="ea">Tillich hatte am <date when="1925-12-02">Vorabend</date> an der Technischen Hochschule Aachen einen Vortrag über "Das Dämonische in Natur und Geschichte" gehalten, der eine Grundlage für seine Arbeit über <rs ref="#tillich_work_id__15" type="work">"Das Dämonische"</rs> darstellt.</note> Ich sitze zum Frühstück im <rs ref="#tillich_place_id__4" type="place">Aachener</rs> Hotel und fahre nach einer Besichtigung des Münsters über <rs ref="#tillich_place_id__244" type="place">Köln</rs> nach <rs ref="#tillich_place_id__133" type="place">Elberfeld</rs>. || Ich sitze in <rs ref="#tillich_place_id__244" type="place">Köln</rs> im Kaffee und schreibe weiter: Der Aachener Vortrag fand sehr großen Beifall; nachher saßen wir noch zusammen. Am Abend nach meiner Ankunft war ich mit <rs ref="#tillich_person_id__2436" type="person"><rs ref="#tillich_person_id__2437" type="person">Hamburgers</rs></rs> und <rs ref="#tillich_person_id__1703" type="person">Scheler</rs> bis 3 Uhr Nachts zusammen. Es war entzückend. Wir verstanden uns glänzend. Er war <pb n="2"/> sehr begeistert von mir und wollte mich nach <rs ref="#tillich_place_id__244" type="place">Köln</rs> haben (Nachts um 2!!) Am Vormittag in der Gallerie, dann zum Mittag mit <rs ref="#tillich_person_id__2436" type="person"><rs ref="#tillich_person_id__2437" type="person">Hamburgers</rs></rs>. Ich wünschte Dich dabei.
+                </p>
+                <closer>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannahchen</reference><persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person><person ref="#tillich_person_id__2437"><reference>Hamburgers</reference><persName>Jessen, Malla</persName>
+                  <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
+               </person><person ref="#tillich_person_id__1703"><reference>Scheler</reference><persName>Scheler, Max</persName>
+               </person><person ref="#tillich_person_id__2437"><reference>Hamburgers</reference><persName>Jessen, Malla</persName>
+                  <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
+               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person></listPerson><listBibl><bibl ref="#tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl></listBibl><listPlace><place ref="#tillich_place_id__4"><reference>Aachener</reference><placeName>Aachen</placeName>
+                  <location type="coords">
+                     <geo>50.77664 6.08342</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3247449/</idno>
+               </place><place ref="#tillich_place_id__244"><reference>Köln</reference><placeName>Köln</placeName>
+                  <location type="coords">
+                     <geo>50.93333 6.95000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
+               </place><place ref="#tillich_place_id__133"><reference>Elberfeld</reference><placeName>Elberfeld</placeName>
+                  <location type="coords">
+                     <geo>51.25083 7.14816</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2931276/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q702259</idno>
+               </place><place ref="#tillich_place_id__244"><reference>Köln</reference><placeName>Köln</placeName>
+                  <location type="coords">
+                     <geo>50.93333 6.95000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
+               </place><place ref="#tillich_place_id__244"><reference>Köln</reference><placeName>Köln</placeName>
+                  <location type="coords">
+                     <geo>50.93333 6.95000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

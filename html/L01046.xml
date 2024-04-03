@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01046">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom Herbst 1930</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(27)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1930">1930</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01043">Postkarte von Paul Tillich und Emmy Sachs an Hannah Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L01047">Postkarte von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-12-09">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-12-09">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
+            </opener>
+            <p>Eben mit <rs type="person" ref="#tillich_person_id__1672">Emmy</rs> gefrühstückt.
+               Jetzt telephoniert sie ins Unendliche. Gestern Abend war ich mit <rs type="person" ref="#tillich_person_id__2349">Frau Behrens</rs> in der Haller-Revue. Sie ist
+               recht schlecht gegen die früheren, die ich dort gesehen habe; und immer dasselbe
+               Überlebte Sache. <rs type="person" ref="#tillich_person_id__2349">Frau Behrens</rs>
+               war sehr niedergeschlagen. Ihre Lage ist völlig verzweifelt. Sie sucht jetzt Kino,
+               Theater und was es gibt. Heut oder morgen bringe ich sie mit <rs type="person" ref="#tillich_person_id__1672">Emmy</rs> zusammen, die ihr einige Werbedinge
+               verschaffen kann. – Nach der Revue waren wir noch eine Stunde mit <rs type="person" ref="#tillich_person_id__1307">Carolus</rs> und seiner Freundin zusammen. Dann
+               sauste mit der letzten Elektrischen zu ihrem Kranken <unclear cert="low">Doctor</unclear>. Sie hat es wirklich schwer und sagte mir, sie hätte einen Bruch
+               in sich durch all die Dinge. – Ich warte gespannt auf Nachricht von Dir! – Anbei eine
+               Dienstmädchen-Karte. – Hier ist herrliches Herbstwetter.</p>
+            <closer>
+               <salute>Viele herzliche Grüße!</salute>
+               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person><person ref="#tillich_person_id__1672"><reference>Emmy</reference><persName>Sachs, Emmy</persName>
+                  <occupation>Mathematikerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118905430</idno>
+               </person><person ref="#tillich_person_id__2349"><reference>Frau Behrens</reference><persName>Behrens, Johann</persName>
+                  <birth>
+                     <date>1889-09-05</date>
+                  </birth>
+                  <death>
+                     <date>1979-03-23</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1034730894</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
+               </person><person ref="#tillich_person_id__2349"><reference>Frau Behrens</reference><persName>Behrens, Johann</persName>
+                  <birth>
+                     <date>1889-09-05</date>
+                  </birth>
+                  <death>
+                     <date>1979-03-23</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1034730894</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
+               </person><person ref="#tillich_person_id__1672"><reference>Emmy</reference><persName>Sachs, Emmy</persName>
+                  <occupation>Mathematikerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118905430</idno>
+               </person><person ref="#tillich_person_id__1307"><reference>Carolus</reference><persName>Mennicke, Carl August</persName>
+                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
+                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
+               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person></listPerson><listBibl/><listPlace/><listLetter/></back></text>
+</TEI>

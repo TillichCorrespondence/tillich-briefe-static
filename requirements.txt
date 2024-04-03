@@ -1,0 +1,6 @@
+acdh-tei-pyutils
+favicons
+acdh-cfts-pyutils
+typesense
+lxml
+rlPyCairo==0.2.0

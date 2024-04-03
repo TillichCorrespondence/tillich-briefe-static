@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01199">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich 
+                    <lb/>vermutlich vom 8. März 1933 [PS]<note type="ea">Poststempel schwer lesbar.</note></title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>            
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                        <idno>bMS 721/3(3)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
+                    <date when="1933-03-08">08.03.1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__144">Frankfurt a. M.-Niederrad</placeName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01190">Postkarte von Paul Tillich an Hannah Tillich
+               </ref><ref subtype="next_letter" type="withinCollection" target="L01202">Postkarte von Paul Tillich an Hannah Tillich
+                    </ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-12-05">Intitale Auszeichnung des Transkripts und Endabnahme</change>
+            
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs type="person">Hannah</rs>!</salute>
+                </opener>
+                <p>Nur die Mitteilung, daß der Vortrag<note type="ea">Nicht ermittelt.</note> ein großer Erfolg war und ohne Zwischenfall zu Ende gegangen ist. Nachher Diskussion mit früheren Schülern u. s. w. Jetzt nach <rs ref="#tillich_place_id__205" type="place">Hellerau</rs>. Zu Mittag <rs ref="#tillich_person_id__1965" type="person"><rs ref="#tillich_person_id__271" type="person">Ulichs</rs></rs>. Also Sonnabend erst zu <rs ref="#tillich_person_id__1209" type="person">Löwe</rs>; dann Anruf bei Dir und nach Haus! 
+                </p>
+                <closer>
+                    <salute>Auf Wiedersehn</salute>
+                    <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paulus</rs></signed>
+                </closer>
+            </div>
+        </body>
+    <back><listPerson><person ref="unknown"><reference>Hannah</reference></person><person ref="#tillich_person_id__271"><reference>Ulichs</reference><persName>Brändström, Elsa</persName>
+                  <birth>
+                     <date>1888-03-26</date>
+                     <settlement>
+                        <placeName>Sankt Petersburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1948-03-04</date>
+                     <settlement>
+                        <placeName>Cambridge, Mass.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philanthropin, Lehrerin, Krankenschwester</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514407</idno>
+                  <note type="bio"><p>(hat Ulich Robert als Ehemann)</p></note>
+               </person><person ref="#tillich_person_id__1209"><reference>Löwe</reference><persName>Löwe, Adolf</persName>
+                  <occupation>deutscher Soziologe und Nationalökonom</occupation>
+                  <note type="bio"><p>1911-1915 Studium der Wirtschafts- wie auch Rechtswissenschaften in München, Berlin und Tübingen. In Tübingen wurde er 1918 zum Dr. iur. promoviert. 1919 heiratete er Beatrice Löwenstein (genannt Bea, *1893). 1919-1924 Tätigkeit im Reichswirtschaftsministerium, 1924-1926 Leiter der internationalen Abteilung des Statistischen Reichsamtes, in dieser Zeit auch mitverantwortlich für die Gründung des Deutschen Instituts für Konjunkturforschung (DIW). 1926 Habilitation in Kiel, damit einhergehend Leitung und Ausbau des Kieler Instituts für Weltwirtschaft (IfW) und Lehrtätigkeit an der Universität. 1931 folgte L. einem Ruf an die Universität Frankfurt/Main, wo er unter anderem seine alten Freunde Max  Horkheimer (aus Schulzeiten) und Tillich (aus Berliner Zeiten und dem Kreis religiöser Sozialisten) wiedertraf. Nachdem er 1933 zunächst beurlaubt und sodann entlassen wurde, emigrierte er im selben Jahr nach England, wo er 1933-1940 an der Universität Manchester tätig war und nebenher an der London School of Economics lehrte. 1940 zweite Emigration in die USA, wo er bis zu seiner Emeritierung 1963 an der New School for Social Research in New York lehrte. Adolf und Beatrice L. hatten zwei Töchter, Rahel Dorothea (tw. auch Dora, 1921-2011), später Rachel Aubrey bzw. in erster Ehe Rüstow, sowie Hanna Ruth (1924-2010), später Hanna Lustig.</p></note>
+               </person><person ref="#tillich_person_id__1928"><reference>Paulus</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__205"><reference>Hellerau</reference><placeName>Hellerau</placeName>
+                  <location type="coords">
+                     <geo>51.11667 13.75000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2906837/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q8920</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

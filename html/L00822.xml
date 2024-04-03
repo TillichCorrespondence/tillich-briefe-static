@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00822">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich
+                    <lb/>vom 5. Juli 1924 [PS]
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Emil Lusser</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/2(20)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__28">Barchem</placeName>
+                    <date when="1924-07-05">05.07.1924</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__279">Marburg a. d. L.</placeName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00818">Brief von Gottfried Salomon an Paul Tillich
+               </ref><ref subtype="next_letter" type="withinCollection" target="L00824">Postkarte von Paul Tillich an Hannah Tillich
+                    </ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="EL" when="2023-07-11">Intitale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-10-30">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebst<unclear>er</unclear> <rs ref="#tillich_person_id__1923" type="person">Matz</rs>!</salute>
+                </opener>
+                <p><rs ref="#tillich_work_id__8" type="work">Vortrag</rs><note type="ea">Tillich hatte in <rs ref="#tillich_place_id__28" type="place">Barchem</rs> auf dem Internationalen Kongress Religiöser Sozialisten einen Vortrag über <bibl type="article" resp="Tillich, Die religiöse und philosophische Weiterbildung des Sozialismus, in C. Mennicke (Hg.), Blätter für den Religiösen Sozialismus, Jg. 5, 1924, S. 26-30; bzw. in Tillich, Christentum und Soziale Gestaltung (GW II), S. 121-131">"Die religiöse und philosophische Weiterbildung des Sozialismus"</bibl> gehalten, der in der Folge in den Blättern für den Religiösen Sozialismus (Jg. 5, 1924, S. 26-30) abgedruckt wurde.</note> gut gelungen! Karte<note type="ea">Diese Karte liegt nicht vor.</note> erhalten! Tausend Dank! Fahrt ans Meer leider ganz unmöglich! Komme <date when="1924-07-07">Montag</date> Abend 12 Uhr von <rs ref="#tillich_place_id__175" type="place">Gießen</rs> her! Denke immer an Dich!
+                </p>
+                <closer>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Peter</rs>.</signed><note type="ea">Trotz der ungewöhnlichen Kosenamen (Matz, Peter) stammt diese Karte eindeutig von Paul Tillich und ist an seine Frau Hannah adressiert. Peter war indessen eigentlich der Spitzname von <rs ref="#tillich_person_id__846" type="person">Eduard Heimann</rs>.</note>
+                </closer>
+            </div>
+        </body>
+    <back><listPerson><person ref="#tillich_person_id__1923"><reference>Matz</reference><persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person><person ref="#tillich_person_id__1928"><reference>Peter</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person><person ref="#tillich_person_id__846"><reference>Eduard Heimann</reference><persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               </person></listPerson><listBibl><bibl ref="#tillich_work_id__8">Tillich, Paul, Die religiöse und philosophische Weiterbildung des Sozialismus, in: Blätter für Religiösen Sozialismus, Jg. 5 (1924), S. 26-30.</bibl></listBibl><listPlace><place ref="#tillich_place_id__28"><reference>Barchem</reference><placeName>Barchem</placeName>
+                  <location type="coords">
+                     <geo>52.12417 6.44306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2759429/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2063712</idno>
+               </place><place ref="#tillich_place_id__175"><reference>Gießen</reference><placeName>Gießen</placeName>
+                  <location type="coords">
+                     <geo>50.58727 8.67554</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

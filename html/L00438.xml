@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00438">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Johannes Tillich
+                    <lb/>vom 31. Mai 1915
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 649/193(13)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__227">Juvigny</placeName>
+                    <date when="1915-05-31">31. Mai 1915</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00437">Brief von Paul Tillich an Johannes Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00441">Brief von Paul Tillich an Maria Klein </ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2022-05-02">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2022-05-18">Anpassungen auf Basis der Projektbesprechung vom 9.5.2022</change>
+            <change who="GM" when="2023-10-17">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    
+                    <dateline><rs ref="#tillich_place_id__227" type="place">Juvigny</rs> d. <date when="1915-05-31">31. Mai 1915</date>.</dateline>
+                    
+                    <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+                    </opener> 
+                    <p>Die <bibl xml:id="L00436">versprochene Fortsetzung</bibl> meines Berichtes kann erst heut stattfinden, da ich jetzt Tag und Nacht zu arbeiten habe, wenigstens wenn man notwendige Tätigkeit Arbeit nennen will.</p>
+                <p>Es war an <date when="1915-05-13">Himmelfahrt</date> Nachmittag 5 Uhr; ich kam in meinem Dokart von einem hinteren Ort angefahren, wo ich Gottesdienst gehabt hatte. In <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs> sah ich alles in Gruppen mit etwas bedrippten Gesichtern herumstehen. <rs ref="#tillich_person_id__252" type="person">Exzellenz</rs> kam aus einer Höhle herausgekrochen. <rs ref="#tillich_person_id__109" type="person">Backhaus</rs> rief mir zu: Sie kommen gerade recht zur Beschießung; ich fuhr sehr friedlich in meinen Hof, ging dann heraus und hörte gerade noch, wie die letzte Granate dicht neben dem Lazareth niederging. Dann sah ich mir die Löcher im Obstgarten des Divisionsgebäudes an, hörte, daß die Wasserleitung kaput geschossen sei und hatte Vorahnungen, daß etwas geschehen würde. Und in der Tat wurden die nächsten Tage von den Stabsoffizieren benutzt, um <rs ref="#tillich_person_id__252" type="person">Exzellenz</rs> zur längst gewünschten Übersiedlung nach <hi rend="aq"><rs ref="#tillich_place_id__113" type="place">Crécy au Mont</rs></hi> zu bewegen, einem herrlich gelegenen, gut erhaltenen Schloß. Dabei glaubte jeder, daß die Beschießung mehr Zufall als Absicht war, durch den Westwind veranlaßte Abweichungen einer sehr langen Flugbahn oder drgl; aber niemand durfte das aussprechen. So wurde <rs ref="#tillich_person_id__252" type="person">Exzellenz</rs> herumgekriegt; daß wir Pfarrer so weit zurück mitgingen war nicht gut möglich, zumal das Lazareth in <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs> blieb; so wurde befohlen, daß <rs ref="#tillich_person_id__109" type="person"><rs ref="#tillich_person_id__2533" type="person"/>die beiden Divisionspfarrer</rs> in <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs> bleiben, und die beiden <rs ref="#tillich_person_id__1928" type="person">Feldprediger</rs> zum Brigadestab kamen; es war dies zugleich eine Freundlichkeit <rs ref="#tillich_person_id__2140" type="person">Pulkowskis</rs>, des Adjudanten gegen mich, da die Zuerteilung zur Brigade zweifellos das Angenehmere <pb n="2"/> war. – Am Dienstag war allgemeiner Umzug; um 9 Uhr fuhr der Lastwagen von der Brigade mit 6 Pferden und 1 Vorreiter vor mein Haus und <rs ref="#tillich_person_id__1742" type="person">Schröder</rs> leitete das Aufladen. Ich selbst aber wandelte die Pfade der Räuber und Diebe und stahl aus dem Stabsgebäude eine riesige wundervolle Vase – die aus der Verrerie<note type="ea">Mit Verrerie ist wahrscheinlich entweder die Glashütte von Vauxrot (franz. Varrerie de Vauxrot) oder die Kapelle im nahegelegenen <rs ref="#tillich_place_id__116" type="place">Cuffies</rs> gemeint, die den Spitznamen La Verrerie trägt.</note> gestohlen war – mehrere Vorhänge, Sessel u.s.w. und ließ mit auf den Wagen bringen; als alles gepackt war, kam der <rs ref="#tillich_person_id__2330" type="person">Kriegsgerichtsrat</rs>; ich stieg mit der Vase in der einen, mit dem Hund in der andern Hand hoch oben auf meine Möbel und wurde photographiert. Dann fuhr der Möbelwagen ab und ich verabschiedete mich von <rs ref="#tillich_person_id__252" type="person">Exzellenz</rs> und den übrigen Herren, stieg mit <rs ref="#tillich_person_id__1742" type="person">Burschen</rs> und Hund in  meinen Dokart und fuhr dem Möbelwagen nach, den ich sehr bald, auf der Römerstraße einholte; und  dann fuhr ich Schritt für Schritt hinter meinen Möbeln her, ein seltsamer Umzug mitten im Krieg, und dachte der langen Monate hinter mir und meiner Sehnsucht, wegzukommen von <rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, und wie es mir jetzt so schwer wurde, als es wirklich wegging. Es gibt kaum eine größere Kraft als die Gewohnheit, und ich stehe besonders in ihrer Gewalt. – So rumpelten wir in <rs ref="#tillich_place_id__227" type="place">Juvigny</rs> ein; auf der Terrasse hielt der Möbelwagen und mit Hilfe von 2 kräftigen Artilleristen räumte ich mein Zimmer ein… 3 Tage später zog ich ins Nebenzimmer, das besser tapeziert war und habe es im Lauf der Zeit so eingerichtet, wie ich neulich beschrieben habe. Es ist jetzt das Prunkzimmer des Hauses und sicher eines der schönsten in der Division. Wie es dazu kam, dann morgen mehr....</p>                    
+                    <closer>
+                        <salute>In Treue Dein</salute> <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>.
+                    </closer>                   
+                    <postscript>
+                        <p>Rundlauf wie der erste Brief; schnell an <rs ref="#tillich_person_id__1931" type="person">Greti</rs>!</p>
+                    </postscript>
+                    
+            </div>
+        </body>
+    <back><listPerson><person ref="#tillich_person_id__1924"><reference>Papa</reference><persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person><person ref="#tillich_person_id__252"><reference>Exzellenz</reference><persName>Bonin, Henning von</persName>
+                  <occupation>Preußischer Infanteriegeneral</occupation>
+                  <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
+               </person><person ref="#tillich_person_id__109"><reference>Backhaus</reference><persName>Backhaus, Alwin</persName>
+                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
+               </person><person ref="#tillich_person_id__252"><reference>Exzellenz</reference><persName>Bonin, Henning von</persName>
+                  <occupation>Preußischer Infanteriegeneral</occupation>
+                  <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
+               </person><person ref="#tillich_person_id__252"><reference>Exzellenz</reference><persName>Bonin, Henning von</persName>
+                  <occupation>Preußischer Infanteriegeneral</occupation>
+                  <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
+               </person><person ref="#tillich_person_id__1928"><reference>Feldprediger</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person><person ref="#tillich_person_id__2140"><reference>Pulkowskis</reference><persName>Pulkowski, ???</persName>
+                  <birth>
+                     <date>1877</date>
+                  </birth>
+                  <occupation>Divisionsadjudant;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1070597449</idno>
+               </person><person ref="#tillich_person_id__1742"><reference>Schröder</reference><persName>Schröder</persName>
+                  <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
+               </person><person ref="#tillich_person_id__2330"><reference>Kriegsgerichtsrat</reference><persName>Müller, ???</persName>
+                  <occupation>Kriegsgerichtsrat;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
+               </person><person ref="#tillich_person_id__252"><reference>Exzellenz</reference><persName>Bonin, Henning von</persName>
+                  <occupation>Preußischer Infanteriegeneral</occupation>
+                  <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
+               </person><person ref="#tillich_person_id__1742"><reference>Burschen</reference><persName>Schröder</persName>
+                  <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
+               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person><person ref="#tillich_person_id__1931"><reference>Greti</reference><persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__227"><reference>Juvigny</reference><placeName>Juvigny (Aisne)</placeName>
+                  <location type="coords">
+                     <geo>49.44762 3.31821</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
+               </place><place ref="#tillich_place_id__61"><reference>Bieuxy</reference><placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place><place ref="#tillich_place_id__113"><reference>Crécy au Mont</reference><placeName>Crécy-au-Mont</placeName>
+                  <location type="coords">
+                     <geo>49.48857 3.32416</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3022625/</idno>
+               </place><place ref="#tillich_place_id__61"><reference>Bieuxy</reference><placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place><place ref="#tillich_place_id__61"><reference>Bieuxy</reference><placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place><place ref="#tillich_place_id__116"><reference>Cuffies</reference><placeName>Cuffies02880</placeName>
+                  <location type="coords">
+                     <geo>49.40358 3.32119</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3022155/</idno>
+               </place><place ref="#tillich_place_id__61"><reference>Bieuxy</reference><placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place><place ref="#tillich_place_id__227"><reference>Juvigny</reference><placeName>Juvigny (Aisne)</placeName>
+                  <location type="coords">
+                     <geo>49.44762 3.31821</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

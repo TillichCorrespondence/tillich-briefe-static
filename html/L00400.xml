@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00400">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Karl Hartz an Paul Tillich
+               <lb/>vom 23. Oktober 1914
+            </title>
+            <author ref="#tillich_person_id__742">Karl Hartz</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Leopold Potyka</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/149(25)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__742">Karl Hartz</persName>
+              <placeName ref="#tillich_place_id__351">Westpolnische Front</placeName>
+              <date when="1914-10-23">23.10.1914</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+           </correspAction>
+        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00399">Brief von Paul Tillich an Johannes Tillich
+                    </ref><ref subtype="next_letter" type="withinCollection" target="L00401">Brief von Paul Tillich an Toni Winkler
+                    </ref></correspContext></correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="LP" when="2022-04-01">Intitale Auszeichnung des Transkripts</change>
+        <change who="GM" when="2023-09-25">Endabnahme</change>
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline> <rs ref="#tillich_place_id__351" type="place">Auf dem Felde</rs><note type="ea">Karl Hartz war Soldat an der Ostfront in Westpolen. Das ergibt sich aus der <bibl type="letter" xml:id="L00413">Postkarte von Karl Hartz an Paul Tillich vom 27. Dezember 1914</bibl>.</note> am <date when="1914-10-23">23.10.14.</date></dateline>
+           <salute>Herr <rs ref="#tillich_person_id__1928" type="person">Konsistorialrat Tillich</rs>!</salute>
+        </opener>
+        <p>Sage hiermit meinen herzlichsten Dank für Ihre Liebe die Sie mir erwiesen haben. Freute mich sehr das ich wieder Tabak hatte konnte schon 3 Tage nicht mehr rauchen und das ist sehr schlimm, wenn man schon 9 Tage im Gefecht liegt und <del rend="s">muß</del> so schmachten muß, wenn wir in Kartoffeln gelegen hätten hätte ich Kartoffelkraut geraucht aber auch das war nicht vorhanden. Aber der liebe Gott sorgt doch immer wieder für uns und das <add place="superlinear">man</add> sein Walten hier im Kriege eher merkt als im Frieden habe ich auch schon gemerkt. Der Krieg ist garnicht so schlecht, nur darf er nicht so lange dauern man kommt sich garnicht mehr so vor als ein Mensch wenn man immer im <sic>Schützgraben</sic> Tag und Nacht liegen muß und nicht richtig zu eßen hat nur des Abends wenn es dunkel wird muß man 1 Stunde lang gehen und sich im Kochgeschirr von der Feldküche<pb n="2"/>
+           ein bißchen warme Suppe holen dann giebts ein halbes Brot das ist für den nächsten Tag öfters aber giebt es auch mal 3 Tage garnichts wie es jetzt vor gekommen ist weil wir nicht wußten wo die Küche ist. Hier im Krieg merkt man erst was doch ein Mensch alles aushalten kann schlafen kennt man jetzt garnicht mehr höchstens am Tage mal eine Stunde denn des Nachts giebt es sehr viel zu tun denn geht man weiter vor und gräbt sich wieder ein dann müßen Verwundete zur nächsten Station getragen werden das ist sehr schwer über Feld im Dunkel zu gehen auch sind hier viel breite Gräben gestern bin ich in einem rein gesprungen bis am Bauch mußte dann die Nacht so liegen mich hat sehr gefroren u war froh als die Nacht vorbei war. Die Zeitung hat mich sehr gefreut mal was lesen zu können denn wir erfahren hier garnichts. Die <sic>Chokolade</sic> von <rs ref="#tillich_person_id__2085" type="person">Fräulein Winkler</rs> hab ich erhalten wofür ich bestens danke auch <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> sage ich meinen herzlichen Dank für die erfrischende<pb n="3"/>
+           Bonbons u Schokolade. An <rs ref="#tillich_person_id__2529" type="person">Anna</rs> habe ich gestern geschrieben.
+        </p>
+        <closer>
+           <salute>Nun grüßt und bedankt sich nochmals herzlich</salute>
+           <signed><rs ref="#tillich_person_id__742" type="person">Karl Hartz</rs>.</signed>
+        </closer>
+                  
+     </div>
+    </body>
+  <back><listPerson><person ref="#tillich_person_id__1928"><reference>Konsistorialrat Tillich</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person><person ref="#tillich_person_id__2085"><reference>Fräulein Winkler</reference><persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person><person ref="#tillich_person_id__1762"><reference>Elisabeth</reference><persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person><person ref="#tillich_person_id__2529"><reference>Anna</reference><persName>???, Anna</persName>
+               </person><person ref="#tillich_person_id__742"><reference>Karl Hartz</reference><persName>Hartz, Karl</persName>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__351"><reference>Auf dem Felde</reference><placeName>Polen</placeName>
+                  <location type="coords">
+                     <geo>52.00000 20.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/798544/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q36</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

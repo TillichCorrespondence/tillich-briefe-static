@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01253">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich
+                    <lb/>vom 16. Oktober 1933 [PS]
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/3(3)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+                    <date when="1933-10-16">16.10.1933</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__49">bei <rs ref="#tillich_person_id__1762" type="person"><rs ref="#tillich_person_id__1763" type="person">Seeberger</rs></rs>, Berlin-Tempelhof, Friedrich-Franzstr. 10</placeName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01247">Postkarte von Paul Tillich an Hannah Tillich
+                    </ref><ref subtype="next_letter" type="withinCollection" target="L01256">Postkarte von Paul Tillich an Hannah Tillich
+                    </ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-05-31">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-11-15">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+                </opener>
+                <p><note place="left"><hi rend="u"><date when="1933-10-16">Montag</date> Nachm</hi></note>Hier geschehen ständig schwere Abschiede; einer der schwersten, bewegendsten <rs ref="#tillich_person_id__1696" type="person">Hermann Schafft</rs>, den ich zum ersten Mal fassungslos weinen sah – auf dem Bahnhof in <rs ref="#tillich_place_id__420" type="place">Stuttgart</rs>. In <rs ref="#tillich_place_id__480" type="place">Zürich</rs> lief der alte <rs ref="#tillich_person_id__1291" type="person">Medikus</rs> lange mit dem Zug mit. Alle wollen mich bald zurückhaben. In <rs ref="#tillich_place_id__55" type="place">Bern</rs> war ich bei <rs ref="#tillich_person_id__2424" type="person"><rs ref="#tillich_person_id__231" type="person">Blums</rs></rs>; jetzt gleich in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs>, wo <rs ref="#tillich_person_id__757" type="person">Margot</rs> gleichzeitig eintrifft. Und über allem die großen Dinge, <pb n="2"/> deren Einschlag ich noch an Ort und Stelle miterlebte. Ich bin gespannt auf die Post in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs>. Ich suche Dich ständig in Gedanken und weiß nicht wo Du bist!</p>
+                <closer><rs ref="#tillich_person_id__1928" type="person">P.</rs></closer>
+            </div>
+        </body>
+    <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person><person ref="#tillich_person_id__1696"><reference>Hermann Schafft</reference><persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person><person ref="#tillich_person_id__1291"><reference>Medikus</reference><persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               </person><person ref="#tillich_person_id__231"><reference>Blums</reference><persName>Blum, Emil</persName>
+                  <occupation>Schweizer reformierter Theologe</occupation>
+                  <note type="bio"><p>Studium der Theologie in Zürich und Basel, Kontakt zu den religiösen Sozialisten um Hermann Kutter und Leonhard Ragaz. Nach dem Studium zunächst Pfarrtätigkeit, ab 1919 Pfarrtätigkeit und zentrale Position innerhalb der religiös-sozialistischen Neuwerk-Bewegung. 1922 zog er in die Kommune Habertshof in Hessen und hatte 1924-1931 die Leitung der Siedlung und Heimvolkshochschule inne. Danach studierte er Pädagogik in Frankfurt/Main u.a. bei Paul Tillich, sowie in Bern. 1934 wurde er promoviert und war fortan bis 1960 im Pfarramt tätig. Er war mit Suzanne Kullmann (verm. die Schwester Gustave  Kullmanns) verheiratet.</p></note>
+               </person><person ref="#tillich_person_id__757"><reference>Margot</reference><persName>Hahl, Margot</persName>
+                  <note type="bio"><p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p></note>
+               </person><person ref="#tillich_person_id__1928"><reference>P.</reference><persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__420"><reference>Stuttgart</reference><placeName>Stuttgart</placeName>
+                  <location type="coords">
+                     <geo>48.78232 9.17702</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2825297/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32749678</idno>
+               </place><place ref="#tillich_place_id__480"><reference>Zürich</reference><placeName>Zürich</placeName>
+                  <location type="coords">
+                     <geo>47.36667 8.55000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2657896/</idno>
+               </place><place ref="#tillich_place_id__55"><reference>Bern</reference><placeName>Bern</placeName>
+                  <location type="coords">
+                     <geo>46.94809 7.44744</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661552/</idno>
+               </place><place ref="#tillich_place_id__143"><reference>Frankfurt</reference><placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place><place ref="#tillich_place_id__143"><reference>Frankfurt</reference><placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place></listPlace><listLetter/></back></text>
+</TEI>

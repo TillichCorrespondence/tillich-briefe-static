@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00938">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul und Hannah Tillich an Bruno Goetz <lb/>vom 16. Mai 1927</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author><author ref="#tillich_person_id__1923">Hannah Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Andreas Burri</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Schweiz</country>
+                  <settlement ref="#tillich_place_id__480">Zürich</settlement>
+                  <institution>Universität Zürich</institution>
+                  <repository>Zentralbibliothek Zürich</repository>
+                  <collection>Nachl. B. Goetz 1-35</collection>
+                  <idno>17</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, von <rs ref="#tillich_person_id__1923" type="person">Hannah Tillichs</rs> Hand</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+
+               <date when="1927-05-16">16.05.1927</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__691">Bruno Goetz</persName>
+
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00934">Postkarte von Paul Tillich an Hannah Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00939">Postkarte von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AB" when="2023-11-15">Intitale Auszeichnung des Transkripts</change>
+         <change who="AB" when="2023-11-20">Endabnahme</change>
+         <change who="FS" when="2023-11-23">Kontrolle der Endabnahme</change>
+         
+         
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>16.5.27</dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__691" type="person">Bruno
+                  Goetz</rs>!</salute>
+            </opener>
+            <p>Es gibt nur <hi rend="u">ein</hi>
+               <rs ref="#tillich_work_id__27" type="work">Reich ohne Raum</rs> (Sie sehen, wie <hi rend="u">Sie</hi> selbst Ihren Bewundern bei Ihren neuesten Arbeiten ein Licht
+               stehen) aber Ihre neue <rs ref="#tillich_work_id__31" type="work">Novelle</rs>, für
+               die wir Ihnen herzlich danken, ist sehr lesenswert – Die Fabel von der <rs ref="#tillich_person_id__2606" type="person">Lotte</rs> finde ich so schön, dass
+               ich fast bedaure, dass sie nicht auch räumlich mehr im Mittelpunkt steht, und das
+               schlechte Menschliche ist so gut und richtig getroffen, dass es nicht wirklicher sein
+               könnte –</p>
+            <p>Ich persönlich finde Sie am schönsten in der Schilderung der traumhaften
+               Zwischenzustände und würde mir das Lange (wenn ich etwas zu wünschen hätte) etwas
+               kompakter denken – Aber das sind Nuancen – Ich habe grosse Freude und menschliche
+               Nähe beim Lesen ihres <rs ref="#tillich_work_id__31" type="work">göttlichen
+                  Gesichtes</rs> empfun<pb n="2"/>den und danke Ihnen sehr dafür –</p>
+            <p>Ich lege ein Bild der damals gemachten Aufnahme bei, <del rend="s">eine</del> <add place="superlinear">die
+               zweite</add> Aufnahme will auch geglückt sein und wird bald folgen –</p>
+            <p>Bitte grüssen Sie Ihre <rs ref="#tillich_person_id__2609" type="person">Frau</rs>
+               schön von uns –</p>
+            <closer>
+               <salute>Mit herzlichem Gruß</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"><rs ref="#tillich_person_id__1923" type="person">Paul u. Hannah
+                     Tillich</rs></rs>
+               </signed>
+            </closer>
+
+         </div>
+      </body>
+   <back><listPerson><person ref="#tillich_person_id__691"><reference>Bruno
+                  Goetz</reference><persName>Goetz, Bruno</persName>
+                  <birth>
+                     <date>1885-11-06</date>
+                     <settlement>
+                        <placeName>Riga</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1954-03-20</date>
+                     <settlement>
+                        <placeName>Zürich</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutschbaltischer Dichter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119192330</idno>
+               </person><person ref="#tillich_person_id__2606"><reference>Lotte</reference><persName>Hattemer, Lotte</persName>
+                  <occupation>Lehrerin; Kommunengründerin;</occupation>
+                  <note type="bio"><p>Sie war Mitbegründerin des Monte Verità in Ascona.</p></note>
+               </person><person ref="#tillich_person_id__2609"><reference>Frau</reference><persName>Ruckteschell, Elisabeth von</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                     <settlement>
+                        <placeName>Zürich</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Malerin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139305041</idno>
+                  <note type="bio"><p>Sie war die Ehefrau von Bruno Goetz.</p></note>
+               </person><person ref="#tillich_person_id__1923"><reference>Paul u. Hannah
+                     Tillich</reference><persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person></listPerson><listBibl><bibl ref="#tillich_work_id__27">Goetz, Bruno, Das Reich ohne Raum, Potsdam 1919. Erweiterte Ausgabe: Das Reich ohne Raum. Eine Chronik wunderlicher Begebenheiten. Neue unverstümmelte Ausgabe, Konstanz 1925.</bibl><bibl ref="#tillich_work_id__31">Goetz, Bruno, Das göttliche Gesicht, Leipzig 1927.</bibl><bibl ref="#tillich_work_id__31">Goetz, Bruno, Das göttliche Gesicht, Leipzig 1927.</bibl></listBibl><listPlace/><listLetter/></back></text>
+</TEI>
