@@ -26,7 +26,7 @@ jobs:
     - name: Fetch data
       run: ./fetch_data.sh
     - name: Process Data
-      run: ./transform.sh
+      run: ./process.sh
     - name: Build
       run: ant
     - name: Deploy
