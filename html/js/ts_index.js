@@ -1,4 +1,21 @@
-const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter(config);
+const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter(
+  {
+    server: {
+      apiKey: "rKHV7gOz1P5xnRYbJHSpNFul81qh8Wk6",
+      nodes: [
+        {
+          host: "typesense.acdh-dev.oeaw.ac.at",
+          port: "443",
+          protocol: "https",
+        },
+      ],
+      cacheSearchResultsForSeconds: 2 * 60,
+    },
+    additionalSearchParameters: {
+      query_by: "full_text",
+    },
+  }
+);
 
 const searchClient = typesenseInstantsearchAdapter.searchClient;
 const search = instantsearch({
@@ -112,22 +129,22 @@ search.addWidgets([
     },
   }),
 
-  instantsearch.widgets.refinementList({
-    container: "#refinement-list-works",
-    attribute: "works",
-    searchable: true,
-    searchablePlaceholder: "Suche",
-    cssClasses: {
-      searchableInput: "form-control form-control-sm mb-2 border-light-2",
-      searchableSubmit: "d-none",
-      searchableReset: "d-none",
-      showMore: "btn btn-secondary btn-sm align-content-center",
-      list: "list-unstyled",
-      count: "badge ml-2 bg-success",
-      label: "d-flex align-items-center text-capitalize",
-      checkbox: "flexCheckDefaultf",
-    },
-  }),
+  // instantsearch.widgets.refinementList({
+  //   container: "#refinement-list-works",
+  //   attribute: "works",
+  //   searchable: true,
+  //   searchablePlaceholder: "Suche",
+  //   cssClasses: {
+  //     searchableInput: "form-control form-control-sm mb-2 border-light-2",
+  //     searchableSubmit: "d-none",
+  //     searchableReset: "d-none",
+  //     showMore: "btn btn-secondary btn-sm align-content-center",
+  //     list: "list-unstyled",
+  //     count: "badge ml-2 bg-success",
+  //     label: "d-flex align-items-center text-capitalize",
+  //     checkbox: "flexCheckDefaultf",
+  //   },
+  // }),
 
   instantsearch.widgets.pagination({
     container: "#pagination",
