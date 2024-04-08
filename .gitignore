@@ -9,7 +9,8 @@ set_typesense_env.py
 html/*.xml
 html/*.html
 
-
+data/meta
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
