@@ -1,63 +1,36 @@
 name: Build and publish
 
-permissions:
-  contents: write
-
 on:
-  push:
-    branches:
-      - master
-  repository_dispatch:
-
-env:
-  USERNAME: ${{ github.repository_owner}}
+  schedule:
+  - cron: "44 1 * * *"
+  workflow_dispatch:
 
 jobs:
   build_pages:
-    name: Transform and publish website from data repository
+    name: Publish Edition as GitHub Pages Website
     runs-on: ubuntu-latest
+    env:
+      ANT_OPTS: -Xmx6g
+      TYPESENSE_HOST: typesense.acdh-dev.oeaw.ac.at
+      TYPESENSE_PORT: 443
+      TYPESENSE_PROTOCOL: https
+      TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
     steps:
-      - name: Perform Checkout
-        uses: actions/checkout@v4
-      - name: Set up JDK 11 for x64
-        uses: actions/setup-java@v3
-        with:
-          java-version: "11"
-          distribution: "temurin"
-          architecture: x64
-      - name: Install Dependencies
-        run: |
-          sudo bash ./install.sh
-      - name: Get Data
-        uses: dsaltares/fetch-gh-release-asset@master
-        with:
-          repo: "${{env.USERNAME}}/dev-tillich-briefe-data"
-          file: "data.zip"
-          target: "data.zip"
-          token: ${{ secrets.DATA_SECRET }}
-          #Token has to be set in github actions secrets: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
-          #https://docs.github.com/en/actions/security-guides/encrypted-secrets
-      - name: Unzip Data
-        run: |
-          rm -rf data/
-          unzip data.zip -d ./
-          rm data.zip
-      - name: Update Favicons
-        run: python update_favicons.py
-      - name: Set Typesense Vars
-        run: ./shellscripts/actions_set_api_keys.sh
-        env:
-          TS_API_KEY: ${{ secrets.TS_API_KEY }}
-          TS_SEARCH_KEY: ${{ secrets.TS_SEARCH_KEY }}
-          TS_HOST: ${{ vars.TS_HOST }}
-          TS_PORT: ${{ vars.TS_PORT }}
-          TS_PROTOCOL: ${{ vars.TS_PROTOCOL }}
-      - name: Build
-        run: |
-          mv ./data/editions ./data/editions_raw
-          ./transform.sh
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{secrets.GITHUB_TOKEN}}
-          publish_dir: ./html
+    - name: Perform Checkout
+      uses: actions/checkout@v4
+    - name: Install Saxon, Ant and Python
+      run: |
+        apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
+        ./shellscripts/dl_saxon.sh
+        pip install -r requirements.txt
+    - name: Fetch data
+      run: ./fetch_data.sh
+    - name: Process Data
+      run: ./transform.sh
+    - name: Build
+      run: ant
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{secrets.GITHUB_TOKEN}}
+        publish_dir: ./html
