@@ -41,10 +41,11 @@
                                             <th scope="col">Name</th>
                                             <th scope="col">Lebensdaten</th>
                                             <th scope="col">Beruf</th>
+                                            <th scope="col">Briefe</th>
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <xsl:for-each select="descendant::tei:listPerson[1]/tei:person">
+                                        <xsl:for-each select=".//tei:person[@xml:id and .//tei:note[@type='mentions']]">
                                             <xsl:variable name="entiyID" select="replace(@xml:id, '#', '')"/>
                                             <xsl:variable name="entity" as="node()" select="."/>
                                             <xsl:if test="$entity/tei:persName[1]/text()">
@@ -66,6 +67,9 @@
                                                             <xsl:value-of select="$entity/descendant::tei:occupation[1]"/>
                                                         </xsl:if>
                                                     </td>
+                                                    <td>
+                                                        <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
+                                                    </td>
                                                 </tr>
                                             </xsl:if>
                                         </xsl:for-each>
@@ -85,7 +89,7 @@
                 </div>
             </body>
         </html>
-        <xsl:for-each select=".//tei:person[@xml:id]">
+        <xsl:for-each select=".//tei:person[@xml:id and .//tei:note[@type='mentions']]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
             <xsl:variable name="entity" select="." as="node()"/>
             <xsl:result-document href="{$filename}">
