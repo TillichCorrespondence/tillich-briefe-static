@@ -1,3 +1,5 @@
+const indexName = "tillich-briefe"
+
 const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter(
   {
     server: {
@@ -20,7 +22,7 @@ const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter(
 
 const searchClient = typesenseInstantsearchAdapter.searchClient;
 const search = instantsearch({
-  indexName: "tillich-briefe",
+  indexName: indexName,
   searchClient,
 });
 
@@ -39,19 +41,33 @@ search.addWidgets([
   instantsearch.widgets.hits({
     container: "#hits",
     cssClasses: {
-        item: "w-100"
+      item: "w-100"
     },
     templates: {
-        empty: "Keine Resultate für <q>{{ query }}</q>",
-        item(hit, { html, components }) {
-            return html` 
+      empty: "Keine Resultate für <q>{{ query }}</q>",
+      item(hit, { html, components }) {
+        return html` 
         <h3><a href="${hit.rec_id}.html">${hit.title}</a></h3>
         <p>${hit._snippetResult.full_text.matchedWords.length > 0 ? components.Snippet({ hit, attribute: 'full_text' }) : ''}</p>
-        <small>Dokument: </small> ${hit.document} <br />
-        `;
-        },
+        ${hit.persons.map((item) => html`<a href='${item.id}'><span class="badge rounded-pill m-1 bg-warning">${item.label}</span></a>`)}
+        <br />
+        ${hit.places.map((item) => html`<a href='${item.id}'><span class="badge rounded-pill m-1 bg-info">${item.label}</span></a>`)}
+        <br />
+        ${hit.works.map((item) => html`<a href='${item.id}'><span class="badge rounded-pill m-1 bg-success">${item.label}</span></a>`)}
+        <br />`
+        ;
+      },
     },
-}),
+  }),
+
+  instantsearch.widgets.sortBy({
+    container: "#sort-by",
+    items: [
+      { label: "Standard", value: `${indexName}`},
+      { label: "ID (aufsteigend)", value: `${indexName}/sort/rec_id:asc` },
+      { label: "ID (absteigend)", value: `${indexName}/sort/rec_id:desc` },
+    ],
+  }),
 
   instantsearch.widgets.stats({
     container: "#stats-container",

@@ -13,6 +13,7 @@ files = glob.glob("./data/editions/*.xml")
 tag_blacklist = ["{http://www.tei-c.org/ns/1.0}abbr"]
 
 COLLECTION_NAME = "tillich-briefe"
+MIN_DATE = "1887"
 
 
 try:
@@ -44,7 +45,7 @@ current_schema = {
 }
 
 client.collections.create(current_schema)
-
+dates = set()
 records = []
 cfts_records = []
 for x in tqdm(files, total=len(files)):
@@ -70,10 +71,9 @@ for x in tqdm(files, total=len(files)):
     )
     cfts_record["title"] = record["title"]
     try:
-        date_str = doc.any_xpath("//tei:correspAction[@type='sent']/@when")[0]
+        date_str = doc.any_xpath("//tei:correspAction[@type='sent']/tei:date/@when")[0]
     except IndexError:
-        date_str = "1000"
-
+        date_str = "1887"
     try:
         record["year"] = int(date_str[:4])
         cfts_record["year"] = int(date_str[:4])
