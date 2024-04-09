@@ -49,11 +49,11 @@ search.addWidgets([
         return html` 
         <h3><a href="${hit.rec_id}.html">${hit.title}</a></h3>
         <p>${hit._snippetResult.full_text.matchedWords.length > 0 ? components.Snippet({ hit, attribute: 'full_text' }) : ''}</p>
-        ${hit.persons.map((item) => html`<a href='${item.id}'><span class="badge rounded-pill m-1 bg-warning">${item.label}</span></a>`)}
+        ${hit.persons.map((item) => html`<a href='${item.id}.html'><span class="badge rounded-pill m-1 bg-warning">${item.label}</span></a>`)}
         <br />
-        ${hit.places.map((item) => html`<a href='${item.id}'><span class="badge rounded-pill m-1 bg-info">${item.label}</span></a>`)}
+        ${hit.places.map((item) => html`<a href='${item.id}.html'><span class="badge rounded-pill m-1 bg-info">${item.label}</span></a>`)}
         <br />
-        ${hit.works.map((item) => html`<a href='${item.id}'><span class="badge rounded-pill m-1 bg-success">${item.label}</span></a>`)}
+        ${hit.works.map((item) => html`<a href='${item.id}.html'><span class="badge rounded-pill m-1 bg-success">${item.label}</span></a>`)}
         <br />`
         ;
       },
