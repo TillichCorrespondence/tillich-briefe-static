@@ -66,6 +66,10 @@
                     <xsl:call-template name="html_footer"/>
 
                 </div>
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7/themes/algolia-min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.46.0"></script>
+    <script
+        src="https://cdn.jsdelivr.net/npm/typesense-instantsearch-adapter@2/dist/typesense-instantsearch-adapter.min.js"></script>
                 <script src="js/ts_index.js"></script>
             </body>
         </html>

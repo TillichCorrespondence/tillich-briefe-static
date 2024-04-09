@@ -13,6 +13,7 @@ const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter(
     },
     additionalSearchParameters: {
       query_by: "full_text",
+      sort_by: "rec_id:asc"
     },
   }
 );
@@ -37,30 +38,20 @@ search.addWidgets([
 
   instantsearch.widgets.hits({
     container: "#hits",
-    templates: {
-      empty: "Keine Ergebnisse",
-      item: `
-              <h4><a href="{{ id }}.html">{{ title }}</a></h4>
-              <p>{{#helpers.snippet}}{ "attribute": "full_text" }{{/helpers.snippet}}</p>
-              <div>
-              {{#persons}}
-              <span class="badge bg-primary">{{ . }}</span>
-              {{/persons}}
-              </div>
-              {{#works}}
-              <span class="badge bg-success">{{ . }}</span>
-              {{/works}}
-              <div>
-              {{#places}}
-              <span class="badge bg-info">{{ . }}</span>
-              {{/places}}
-              </div>
-              </div>
-              <h5><span class="badge bg-warning">{{ project }}</span></h5>
-
-          `,
+    cssClasses: {
+        item: "w-100"
     },
-  }),
+    templates: {
+        empty: "Keine Resultate für <q>{{ query }}</q>",
+        item(hit, { html, components }) {
+            return html` 
+        <h3><a href="${hit.rec_id}.html">${hit.title}</a></h3>
+        <p>${hit._snippetResult.full_text.matchedWords.length > 0 ? components.Snippet({ hit, attribute: 'full_text' }) : ''}</p>
+        <small>Dokument: </small> ${hit.document} <br />
+        `;
+        },
+    },
+}),
 
   instantsearch.widgets.stats({
     container: "#stats-container",
