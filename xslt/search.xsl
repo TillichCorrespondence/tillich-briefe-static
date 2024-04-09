@@ -38,6 +38,10 @@
                                             <div id="searchbox"></div>
                                             <div id="current-refinements"></div>
                                             <div id="clear-refinements"></div>
+                                            <h4>Sender</h4>
+                                            <div id="refinement-list-sender"></div>
+                                            <h4>Empfänger</h4>
+                                            <div id="refinement-list-receiver"></div>
                                             <h4>Personen</h4>
                                             <div id="refinement-list-persons"></div>
                                             <h4>Orte</h4>
@@ -46,6 +50,8 @@
                                             <div id="refinement-list-works"></div>
                                             <h4>Jahr</h4>
                                             <div id="range-input"></div>
+                                            <h4>Sortierung</h4>
+                                            <div id="sort-by"></div>
                                         </div>
                                         <div class="col-md-8">
                                             <div id="hits"></div>

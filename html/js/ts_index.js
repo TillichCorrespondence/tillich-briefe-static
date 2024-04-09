@@ -96,8 +96,25 @@ search.addWidgets([
   }),
 
   instantsearch.widgets.refinementList({
-    container: "#refinement-list-places",
-    attribute: "places",
+    container: "#refinement-list-receiver",
+    attribute: "receiver.label",
+    searchable: true,
+    searchablePlaceholder: "Suche",
+    cssClasses: {
+      searchableInput: "form-control form-control-sm mb-2 border-light-2",
+      searchableSubmit: "d-none",
+      searchableReset: "d-none",
+      showMore: "btn btn-secondary btn-sm align-content-center",
+      list: "list-unstyled",
+      count: "badge ml-2 bg-info",
+      label: "d-flex align-items-center text-capitalize",
+      checkbox: "form-check",
+    },
+  }),
+
+  instantsearch.widgets.refinementList({
+    container: "#refinement-list-sender",
+    attribute: "sender.label",
     searchable: true,
     searchablePlaceholder: "Suche",
     cssClasses: {
@@ -114,7 +131,7 @@ search.addWidgets([
 
   instantsearch.widgets.refinementList({
     container: "#refinement-list-persons",
-    attribute: "persons",
+    attribute: "persons.label",
     searchable: true,
     searchablePlaceholder: "Suche",
     cssClasses: {
@@ -129,22 +146,39 @@ search.addWidgets([
     },
   }),
 
-  // instantsearch.widgets.refinementList({
-  //   container: "#refinement-list-works",
-  //   attribute: "works",
-  //   searchable: true,
-  //   searchablePlaceholder: "Suche",
-  //   cssClasses: {
-  //     searchableInput: "form-control form-control-sm mb-2 border-light-2",
-  //     searchableSubmit: "d-none",
-  //     searchableReset: "d-none",
-  //     showMore: "btn btn-secondary btn-sm align-content-center",
-  //     list: "list-unstyled",
-  //     count: "badge ml-2 bg-success",
-  //     label: "d-flex align-items-center text-capitalize",
-  //     checkbox: "flexCheckDefaultf",
-  //   },
-  // }),
+  instantsearch.widgets.refinementList({
+    container: "#refinement-list-places",
+    attribute: "places.label",
+    searchable: true,
+    searchablePlaceholder: "Suche",
+    cssClasses: {
+      searchableInput: "form-control form-control-sm mb-2 border-light-2",
+      searchableSubmit: "d-none",
+      searchableReset: "d-none",
+      showMore: "btn btn-secondary btn-sm align-content-center",
+      list: "list-unstyled",
+      count: "badge ml-2 bg-primary",
+      label: "d-flex align-items-center text-capitalize",
+      checkbox: "form-check",
+    },
+  }),
+
+  instantsearch.widgets.refinementList({
+    container: "#refinement-list-works",
+    attribute: "works.label",
+    searchable: true,
+    searchablePlaceholder: "Suche",
+    cssClasses: {
+      searchableInput: "form-control form-control-sm mb-2 border-light-2",
+      searchableSubmit: "d-none",
+      searchableReset: "d-none",
+      showMore: "btn btn-secondary btn-sm align-content-center",
+      list: "list-unstyled",
+      count: "badge ml-2 bg-success",
+      label: "d-flex align-items-center text-capitalize",
+      checkbox: "flexCheckDefaultf",
+    },
+  }),
 
   instantsearch.widgets.pagination({
     container: "#pagination",
