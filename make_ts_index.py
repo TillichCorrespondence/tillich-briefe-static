@@ -5,7 +5,7 @@ from typesense.api_call import ObjectNotFound
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
 from acdh_cfts_pyutils import CFTS_COLLECTION
 from acdh_tei_pyutils.tei import TeiReader
-from acdh_tei_pyutils.utils import extract_fulltext
+from acdh_tei_pyutils.utils import extract_fulltext, get_xmlid, make_entity_label, check_for_hash
 from tqdm import tqdm
 
 
@@ -22,22 +22,24 @@ except ObjectNotFound:
 
 current_schema = {
     "name": COLLECTION_NAME,
+    "enable_nested_fields": True,
     "fields": [
-        {"name": "id", "type": "string"},
-        {"name": "rec_id", "type": "string"},
-        {"name": "title", "type": "string"},
-        {"name": "full_text", "type": "string"},
+        {"name": "id", "type": "string", "sort": True},
+        {"name": "rec_id", "type": "string", "sort": True},
+        {"name": "title", "type": "string", "sort": True},
+        {"name": "full_text", "type": "string", "sort": True},
         {
             "name": "year",
             "type": "int32",
             "optional": True,
             "facet": True,
+            "sort": True,
         },
-        {"name": "persons", "type": "string[]", "facet": True, "optional": True},
-        {"name": "sender", "type": "string[]", "facet": True, "optional": True},
-        {"name": "receiver", "type": "string[]", "facet": True, "optional": True},
-        {"name": "places", "type": "string[]", "facet": True, "optional": True},
-        {"name": "orgs", "type": "string[]", "facet": True, "optional": True},
+        {"name": "sender", "type": "object[]", "facet": True, "optional": True},
+        {"name": "receiver", "type": "object[]", "facet": True, "optional": True},
+        {"name": "persons", "type": "object[]", "facet": True, "optional": True},
+        {"name": "places", "type": "object[]", "facet": True, "optional": True},
+        {"name": "works", "type": "object[]", "facet": True, "optional": True},
     ],
 }
 
@@ -58,13 +60,13 @@ for x in tqdm(files, total=len(files)):
         continue
     record["id"] = os.path.split(x)[-1].replace(".xml", "")
     cfts_record["id"] = record["id"]
-    cfts_record["resolver"] = f"https://tillich-briefe.acdh.oeaw.ac.at/{record['id']}.html"
+    cfts_record["resolver"] = (
+        f"https://tillich-briefe.acdh.oeaw.ac.at/{record['id']}.html"
+    )
     record["rec_id"] = os.path.split(x)[-1]
     cfts_record["rec_id"] = record["rec_id"]
-    record["title"] = " ".join(
-        " ".join(
-            doc.any_xpath('.//tei:titleStmt/tei:title[1]/text()')
-        ).split()
+    record["title"] = extract_fulltext(
+        doc.any_xpath(".//tei:titleStmt/tei:title[1]")[0]
     )
     cfts_record["title"] = record["title"]
     try:
@@ -79,33 +81,58 @@ for x in tqdm(files, total=len(files)):
         pass
     record["sender"] = []
     try:
-        sender = doc.any_xpath('.//tei:correspAction[@type="sent"]/tei:persName/text()')[
-            0
-        ]
-    except:
-        sender = None
-    record["sender"].append(sender)
+        sender_label = doc.any_xpath(
+            './/tei:correspAction[@type="sent"]/tei:persName/text()'
+        )[0]
+        sender_id = check_for_hash(doc.any_xpath(
+            './/tei:correspAction[@type="sent"]/tei:persName/@ref'
+        )[0])
+    except Exception as e:
+        print(f"sender issues in {x}, due to: {e}")
+        sender_label = "Kein Absender"
+        sender_id = None
+    record["sender"].append({
+        "label": sender_label,
+        "id": sender_id
+    })
     record["receiver"] = []
     try:
-        receiver = doc.any_xpath(
+        receiver_label = doc.any_xpath(
             './/tei:correspAction[@type="received"]/tei:persName/text()'
         )[0]
-    except:
-        receiver = None
-    if receiver:
-        record["receiver"].append(receiver)
+        receiver_id = check_for_hash(doc.any_xpath(
+            './/tei:correspAction[@type="received"]/tei:persName/@ref'
+        )[0])
+    except Exception as e:
+        print(f"receiver issues in {x}, due to: {e}")
+        receiver_label = "Kein Absender"
+        receiver_id = None
+    record["receiver"].append({
+        "label": receiver_label,
+        "id": receiver_id
+    })
 
-    cfts_record["persons"] = record["sender"]
+    record["persons"] = []
+    for y in doc.any_xpath(".//tei:back//tei:person"):
+        item = {
+            "id": get_xmlid(y),
+            "label": make_entity_label(y.xpath("./*[1]")[0])[0]
+        }
+        record["persons"].append(item)
+
+    record["works"] = []
+    for y in doc.any_xpath(".//tei:back//tei:bibl"):
+        item = {
+            "id": get_xmlid(y),
+            "label": extract_fulltext(y),
+        }
+        record["works"].append(item)
+
     record["places"] = []
-    try:
-        place = doc.any_xpath(
-            './/tei:correspAction[@type="sent"]/tei:placeName/text()'
-        )[0]
-    except:
-        place = None
-    if place:
-        record["places"].append(place)
-        cfts_record["places"] = record["places"]
+    for y in doc.any_xpath(".//tei:back//tei:place"):
+        item = {"id": get_xmlid(y), "label": make_entity_label(y.xpath("./*[1]")[0])[0]}
+        record["places"].append(item)
+
     record["full_text"] = extract_fulltext(body, tag_blacklist=tag_blacklist)
     cfts_record["full_text"] = record["full_text"]
     records.append(record)
@@ -115,6 +142,6 @@ make_index = client.collections[COLLECTION_NAME].documents.import_(records)
 print(make_index)
 print(f"done with indexing {COLLECTION_NAME}")
 
-make_index = CFTS_COLLECTION.documents.import_(cfts_records, {"action": "upsert"})
-print(make_index)
-print(f"done with cfts-index {COLLECTION_NAME}")
+# make_index = CFTS_COLLECTION.documents.import_(cfts_records, {"action": "upsert"})
+# print(make_index)
+# print(f"done with cfts-index {COLLECTION_NAME}")
