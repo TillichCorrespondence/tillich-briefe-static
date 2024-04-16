@@ -1,0 +1,70 @@
+@prefix acdh: <https://vocabs.acdh.oeaw.ac.at/schema#> .
+@prefix acdhi: <https://id.acdh.oeaw.ac.at/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+<https://d-nb.info/gnd/130017086> a acdh:Person ;
+    acdh:hasTitle "Christian Danz"@de .
+
+<https://d-nb.info/gnd/120078724> a acdh:Person ;
+    acdh:hasTitle "Friedrich Wilhelm Graf"@de .
+
+<https://d-nb.info/gnd/1043833846> a acdh:Person ;
+    acdh:hasTitle "Andorfer, Peter"@de .
+
+<https://d-nb.info/gnd/2101270-2> a acdh:Organisation ;
+    acdh:hasTitle "Evangelisch-Theologische Fakultät der Universität Wien, Institut für Systematische Theologie und Religionswissenschaft"@de .
+
+<https://d-nb.info/gnd/2024497-6> a acdh:Organisation ;
+    acdh:hasTitle "Evangelisch-Theologische Fakultät der Ludwig-Maximilians-Universität München, Abteilung für Systematische Theologie"@de .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe> a acdh:TopCollection ;
+    # acdh:hasRelatedProject <https://id.acdh.oeaw.ac.at/tillich-briefe/project> ;
+    acdh:hasDescription """Daten zum digitalen Editionsprojekt: Tillich Briefe — Die Korrespondenz von Paul Tillich"""@de ;
+    acdh:hasCoverageStartDate "1877-01-01"^^xsd:date ;
+    acdh:hasCoverageEndDate "1933-01-31"^^xsd:date ;
+    acdh:hasTitle """Tillich Briefe — Die Korrespondenz von Paul Tillich"""@de ;
+    acdh:hasLifeCycleStatus <https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/active> ;
+    acdh:hasCompleteness "Diese Sammlung wird sukzessive erweitert."@de ;
+    acdh:hasUrl "https://tillich-briefe.acdh.oeaw.ac.at" ;
+    acdh:hasSubject "digital edition"@en ;
+    acdh:hasSubject "Digitale Edition"@de .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe/editions> a acdh:Collection ;
+    acdh:hasTitle """TEI/XML kodierte Editionsdaten"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/tillich-briefe> .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe/meta> a acdh:Collection ;
+    acdh:hasTitle """Paratexte"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/tillich-briefe> .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe/indices> a acdh:Collection ;
+    acdh:hasTitle """Registerdaten"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/tillich-briefe> .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe/title-image.jpg> a acdh:Resource ;
+    acdh:hasTitle """Titelbild zu: Tillich Briefe"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/tillich-briefe> ;
+    acdh:isTitleImageOf <https://id.acdh.oeaw.ac.at/tillich-briefe> ;
+    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0> ;
+    acdh:hasLicensor <https://id.acdh.oeaw.ac.at/none> ;
+    acdh:hasOwner <https://id.acdh.oeaw.ac.at/none> ;
+    acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/image> ;
+    acdh:hasRightsHolder <https://id.acdh.oeaw.ac.at/none> .
+
+# <https://id.acdh.oeaw.ac.at/tillich-briefe/project> a acdh:Project ;
+#     acdh:hasContact <hhttps://d-nb.info/gnd/120078724> ;
+#     acdh:hasPrincipalInvestigator <hhttps://d-nb.info/gnd/120078724> ;
+#     acdh:hasMetadataCreator <hhttps://d-nb.info/gnd/1043833846> ;
+#     acdh:hasRelatedCollection <https://id.acdh.oeaw.ac.at/tillich-briefe> ;
+#     acdh:hasTitle "Edition des Briefwechsels von Paul Tillich (1887-1933)"@de ;
+#     acdh:hasTitle "Edition of Paul Tillich’s Correspondence (1887-1933)"@en ;
+#     acdh:hasUrl "https://gepris.dfg.de/gepris/projekt/444828611" ;
+#     acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/603222> ;
+#     acdh:hasSubject "digital edition"@en ;
+#     acdh:hasSubject "Digitale Edition"@de ;
+#     acdh:hasStartDate "2020-01-01" ;
+#     acdh:hasEndDate "2024-12-31" ;
+#     acdh:hasDescription """Das wissenschaftliche Ziel des beantragten Projektes besteht in einer kommentierten textkritischen Hybrid-Edition der umfangreichen Korrespondenz des protestantischen Theologen und Religionsphilosophen Paul Tillich (1886-1965) aus den Jahren 1887 bis 1933. Die Hybrid-Edition stellt die Forschung auf eine grundlegend neue Basis und eröffnet weitreichende innovative Perspektiven zur Interpretation seines Werkes. Auf drei Säulen fußt die Durchführung des Projektes: der Edition der Korrespondenz, ihrer elektronischen Open-Access- und Print-Publikation sowie der wissenschaftlichen Erschließung der Briefwechsel. Beantragt wird hierfür die Finanzierung von drei Post-Doc-Stellen sowie studentische Mitarbeiterstellen im Ausmaß von insgesamt 60h (40h Wien, 20h München) für die Dauer von 36 Monaten. Den Inhabern der Stellen obliegt die Erarbeitung der Open-Access-Edition in Kooperation mit dem Verlag De Gruyter (Berlin/Boston). Die Arbeit umfasst die Konstitution der zu edierenden Briefe auf der Grundlage der Handschriften bzw. Originale, die Erstellung von textkritischen Apparaten, von kommentierenden Anmerkungen sowie die Abfassung von editorischen Berichten, die Abschnitte über die editorische Tätigkeit, die Entstehungsgeschichte des Briefwechsels, theologie-, wissenschafts- und kulturgeschichtliche sowie politische Hintergründe beinhalten. Drei Workshops begleiten die Editionstätigkeit an den Standorten München und Wien und arbeiten der wissenschaftlichen Kommentierung der Korrespondenz zu."""@de ;
+#     acdh:hasDescription """The academic goal of the following project is an annotated, text-critical hybrid edition of the extensive correspondence (from 1887 to 1933) of Protestant theologian and philosopher Paul Tillich (1886-1965). Through this hybrid edition, research on Tillich will be given a new foundation and the interpretation of his oeuvre will benefit from a broad range of innovative new perspectives. The project has three foundational pillars: firstly, the edition of the correspondence; secondly, open access and printed publications; thirdly, an academic exploration of Tillich’s exchange of letters. To achieve this, funding for three postdoctoral positions and three student assistant positions (60h = 40h Vienna; 20h Munich) for the period of 36 months is requested. The holders of these positions will compile and develop the open access edition in cooperation with the De Gruyter publishing company (Berlin/Boston). Their work will involve constituting and editing Tillich’s letters from their original manuscripts and compiling a critical apparatus. Exploratory notes and editorial reports, which will contain paragraphs on editorial activities, the formation of the correspondence, and its historical background in terms of intellectual context, theology, culture and politics, will also be written. Three workshops will support the editorial work based in Munich and Vienna and inform the annotation of the correspondence. """@en .
+

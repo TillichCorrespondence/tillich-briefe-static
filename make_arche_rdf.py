@@ -1,0 +1,174 @@
+import glob
+import os
+from tqdm import tqdm
+from acdh_cidoc_pyutils import extract_begin_end
+from acdh_tei_pyutils.tei import TeiReader
+from acdh_tei_pyutils.utils import extract_fulltext, make_entity_label, get_xmlid
+from rdflib import Namespace, URIRef, RDF, Graph, Literal, XSD
+
+
+g = Graph().parse("arche_seed_files/arche_constants.ttl")
+g_repo_objects = Graph().parse("arche_seed_files/repo_objects_constants.ttl")
+TOP_COL_URI = URIRef("https://id.acdh.oeaw.ac.at/tillich-briefe")
+APP_URL = "https://tillich-briefe.acdh.oeaw.ac.at/"
+
+ACDH = Namespace("https://vocabs.acdh.oeaw.ac.at/schema#")
+COLS = [ACDH["TopCollection"], ACDH["Collection"], ACDH["Resource"]]
+COL_URIS = set()
+
+files = sorted(glob.glob("data/editions/*.xml"))[:30]
+for x in tqdm(files):
+    doc = TeiReader(x)
+    cur_col_id = os.path.split(x)[-1].replace(".xml", "")
+    cur_doc_id = f"{cur_col_id}.xml"
+
+    # TEI/XML Document
+    cur_doc_uri = URIRef(f"{TOP_COL_URI}/{cur_doc_id}")
+    g.add((cur_doc_uri, RDF.type, ACDH["Resource"]))
+    g.add((cur_doc_uri, ACDH["isPartOf"], URIRef(f"{TOP_COL_URI}/editions")))
+    g.add(
+        (
+            cur_doc_uri,
+            ACDH["hasUrl"],
+            Literal(f'{APP_URL}{cur_col_id.replace(".xml", ".html")}'),
+        )
+    )
+    g.add(
+        (
+            cur_doc_uri,
+            ACDH["hasLicense"],
+            URIRef("https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"),
+        )
+    )
+
+    # title
+    title = extract_fulltext(doc.any_xpath(".//tei:titleStmt/tei:title[1]")[0])
+    g.add(
+        (
+            cur_doc_uri,
+            ACDH["hasTitle"],
+            Literal(f"{title}", lang="de"),
+        )
+    )
+    g.add(
+        (
+            cur_doc_uri,
+            ACDH["hasCategory"],
+            URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"),
+        )
+    )
+
+    # start/end date
+    try:
+        start, end = extract_begin_end(
+            doc.any_xpath(".//tei:correspAction[@type='sent']/tei:date")[0]
+        )
+    except IndexError:
+        start, end = False, False
+    if start:
+        g.add(
+            (
+                cur_doc_uri,
+                ACDH["hasCoverageStartDate"],
+                Literal(start, datatype=XSD.date),
+            )
+        )
+    if end:
+        g.add(
+            (cur_doc_uri, ACDH["hasCoverageEndDate"], Literal(start, datatype=XSD.date))
+        )
+
+    # actors (persons):
+    for y in doc.any_xpath(
+        ".//tei:back//tei:person[@xml:id and ./tei:idno[@type='wikidata'] or tei:idno[@type='gnd']]"
+    ):
+        xml_id = get_xmlid(y)
+        entity_title = make_entity_label(y.xpath("./*[1]")[0])[0]
+        try:
+            entity_id = y.xpath("./*[@type='wikidata']/text()")[0]
+        except IndexError:
+            try:
+                entity_id = y.xpath("./*[@type='gnd']/text()")[0]
+            except IndexError:
+                continue
+        entity_uri = URIRef(entity_id)
+        g.add((entity_uri, RDF.type, ACDH["Person"]))
+        g.add(
+            (
+                entity_uri,
+                ACDH["hasUrl"],
+                Literal(f"{APP_URL}{xml_id}", datatype=XSD.anyURI),
+            )
+        )
+        g.add((entity_uri, ACDH["hasTitle"], Literal(entity_title, lang="und")))
+        g.add((cur_doc_uri, ACDH["hasActor"], entity_uri))
+
+    # spatial coverage:
+    for y in doc.any_xpath(
+        ".//tei:back//tei:place[@xml:id and ./tei:idno[@type='geonames']]"
+    ):
+        xml_id = get_xmlid(y)
+        entity_title = make_entity_label(y.xpath("./*[1]")[0])[0]
+        entity_id = y.xpath("./*[@type='geonames']/text()")[0]
+        entity_uri = URIRef(entity_id)
+        g.add((entity_uri, RDF.type, ACDH["Place"]))
+        # g.add((entity_uri, ACDH["hasUrl"], Literal(f"{APP_URL}{xml_id}", datatype=XSD.anyURI)))
+        g.add((entity_uri, ACDH["hasTitle"], Literal(entity_title, lang="und")))
+        g.add((cur_doc_uri, ACDH["hasSpatialCoverage"], entity_uri))
+
+    # hasExtent
+    nr_of_pages = len(doc.any_xpath(".//tei:pb"))
+    if nr_of_pages > 1:
+        g.add(
+            (
+                cur_doc_uri,
+                ACDH["hasExtent"],
+                Literal(f"{nr_of_pages} Seiten", lang="de"),
+            )
+        )
+    else:
+        g.add(
+            (cur_doc_uri, ACDH["hasExtent"], Literal(f"{nr_of_pages} Seite", lang="de"))
+        )
+
+    # indices and meta
+    for y in ["indices", "meta"]:
+        for x in glob.glob(f"./data/{y}/*.xml"):
+            doc = TeiReader(x)
+            cur_doc_id = os.path.split(x)[-1]
+            cur_doc_uri = URIRef(f"{TOP_COL_URI}/{cur_doc_id}")
+            g.add((cur_doc_uri, RDF.type, ACDH["Resource"]))
+            g.add((cur_doc_uri, ACDH["isPartOf"], URIRef(f"{TOP_COL_URI}/{y}")))
+            g.add(
+                (
+                    cur_doc_uri,
+                    ACDH["hasLicense"],
+                    URIRef("https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"),
+                )
+            )
+            title = extract_fulltext(doc.any_xpath(".//tei:titleStmt/tei:title[1]")[0])
+            g.add(
+                (
+                    cur_doc_uri,
+                    ACDH["hasTitle"],
+                    Literal(f"{title}", lang="de"),
+                )
+            )
+            g.add(
+                (
+                    cur_doc_uri,
+                    ACDH["hasCategory"],
+                    URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"),
+                )
+            )
+
+for x in COLS:
+    for s in g.subjects(None, x):
+        COL_URIS.add(s)
+
+for x in COL_URIS:
+    for p, o in g_repo_objects.predicate_objects():
+        g.add((x, p, o))
+
+print("writing graph to file")
+g.serialize("html/arche.ttl")

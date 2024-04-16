@@ -4,7 +4,6 @@ echo "adding xml:id and next/prev attributes into root element of tei-docs"
 add-attributes -g "./data/editions/*.xml" -b "https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe"
 python check_files.py
 
-
 echo "denormalizing indices" 
 denormalize-indices -f "./data/editions/*.xml" -i "./data/indices/*.xml"
 
