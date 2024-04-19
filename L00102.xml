@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00102.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00101.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00103.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hermann Schafft an Paul Tillich vom 29. März 1906</title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008 G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<date when="1906-03-29">29.03.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00101">Brief von Alfred Fritz an Paul Tillich vom 29. März 1906</ref><ref subtype="next_letter" type="withinCollection" target="L00103">Brief von Hermann Schafft an Paul Tillich vom 5. April 1906</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-02-20" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><date when="1906-03-29">29. März 1906</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!!</salute>
+</opener>
+<p>Ehe sich meine Briefschuld vergrößert oder die baldige Aussicht auf ein Wiedersehen
+               nicht mehr solches Faulenzen (Briefschreiben) zuläßt - da natürlich, als ob es Berg
+               ab ginge in den Ferien die Steine (alias Probleme,) die man wälzen wollte, <del rend="s">sich</del> alle dem Ende zugerollt sind und hier eine hohe Mauer <hi rend="sup">bildet</hi> den armen Menschen mit guten Vorsätzen schrecken u.
+               erdrücken - also ehe ... das geschieht, einen herzlichen Gruß zuvor! <foreign xml:lang="grc">χαρις και αληθεiα</foreign>! Du mußt ja nach Anleitung von <rs ref="#tillich_person_id__1527" type="person">Portig</rs>
+               beinahe dabei sein. <hi rend="uu">Finde</hi> nur nicht die Wahrheit, denn was sollten
+               wir sonst mit unsrer Zeit anfangen, die mit dem Suchen sich so schön<pb n="2"/>
+               füllt! - Doch ich will nicht anfangen Dummheiten zu reden. Nach einem derartig
+               stilistisch, orthographisch u. sonst glänzendem Opus Deinerseits<note type="ea">Gemeint ist ein nicht überlieferter Brief von Paul Tillich an Hermann Schafft.</note> - ist mir mein
+               Gedankenschwund noch deutlicher als sonst geworden und ich muß mich sehr bemühen alle
+               meine Gedanken zusammenzunehmen, um auch nur ein halbes Feigenblatt für die Blöße
+               meiner Geistlosigkeit herzustellen. Alle meine Gedanken? Kannst du's zählen? Nur bis
+               2! 1) <hi rend="u">Essen</hi> pp. 2) <hi rend="u">Examen</hi>. D. h. letzteres ist
+               kein eigentlicher - geht nur <foreign xml:lang="lat"><hi rend="aq">sub voce</hi></foreign>! - ist eigentlich nur eine
+               von den "Dunkeln Vorstellungen" ... Denen die <foreign xml:lang="lat"><hi rend="aq">perspicuitas</hi></foreign> mangelt
+               ... ein Grenzbegriff, wo alles Denken in unendliche Reihe von Seufzern sich auflöst
+               und eine akute Gehirnlähmung sofort den ganzen Menschen erschüttert....<pb n="3"/>
+               Wie preise ich Dich glücklich, daß du schon im IV Semester die <foreign xml:lang="lat"><hi rend="aq">mera
+                  experientia</hi></foreign> hast - u. dazu noch <rs ref="#tillich_person_id__1527" type="person">Portig</rs>!!
+               Denn letzteres ist das wichtigste. Die erste hätte ich auch schon begrifflich im II
+               Semester; da<del rend="s">s</del> ich aber damals gerade realistischer Thomist war,
+               so begnügte ich mich, <del rend="s">sowohl</del> mit der Realität meiner Einsicht,
+                  <del rend="s">als</del> eben weil ich dazu dem Verstand über den Willen den Primat
+               gewährte u. hoffte - es würde von selbst schon losgehen....</p>
+<p>Dies sind also meine beiden eigentlich 1 <formula notation="TeX">\frac{1}{2}</formula> Gedanken! Damit kann ich aber unmöglich beginnen, sondern
+               ich verkrieche mich hinter den Denkfalten deines Briefes u. sehe dich gar gelehrt
+               daraus an... staune tatsächlich über deinen Fleiß. Das Kollegheft von <rs ref="#tillich_person_id__1227" type="person">Smul</rs> muß ja mit all den Beigaben unendlich anschwillen!-
+               Bitte tröste<pb n="4"/> mich u. schreibe, daß es nicht so viel §§ sind, die Du schon
+               behandelt. Dein Psalmodieren oder Weissagen zusammen mit <rs ref="#tillich_person_id__2136" type="person">Kaumann</rs> (<rs ref="#tillich_person_id__1928" type="person">Tillich</rs> u. <rs ref="#tillich_person_id__2136" type="person"><hi rend="uu">Kau</hi></rs>) muß ja nett sein. Laßt es doch
+               drucken u. setzt dann den obigen Firmennamen drunter. Mensch a propos <rs ref="#tillich_person_id__2136" type="person">Kaumann</rs> sollte mal <rs ref="#tillich_person_id__1227" type="person">Smul</rs>
+               in die Hände kommen! Der fluchte neulich als ich es ihm anonym!! erzählte.... "Daß ich
+               immer dasselbe sage verdrießt mich nicht" pp.!... Aber das lange Aufsitzen! Ich bin
+               ja leider keine offizielle Respe<del rend="s">c</del>ktsperson für Dich, aber mein
+               lieber Junge... <hi rend="uu">gut</hi> ist das <hi rend="uu">nicht</hi>! Schlaf
+               lieber. Ich tu es in einem fort. Glaube beinah, ich bin zuckerkrank, dabei tut man's
+               nämlich auch.</p>
+<p>Im übrigen aber freue ich mich herzlich, daß allem Anschein nach alles gut bei Dir in
+               Ordnung ist. Das ist schon sehr viel. Ich bin seit vorgestern in Unordnung. Meine
+               ganze Versöhnungslehre hat sich<pb n="5"/> verwickelt. Ich wollte eine Predigt machen
+               über <rs ref="Heb-9,11-15" type="bible">Hebraeer: 9 11–15</rs> u.
+                  <unclear>¿¿¿</unclear> ... Donnerstag-Freitag und es wurde absolut <hi rend="u">nichts</hi>. Was soll das später werden. Ich bin ziemlich geknickt - es ist ja
+               immer gut in allen Stücken gedemütigt sein, aber ich bin es schon ziemlich. Na - ich
+               warte in Ruhe ab u. denke es wird noch wieder zu korrigieren sein! - Vielleicht hängt
+               es innerlich doch zusammen mit der Lektüre von <rs ref="#tillich_person_id__890" type="person">Herrmanns</rs>
+<rs ref="#tillich_work_id__187" type="work">Verkehr</rs>, der mich, sowohl durch Windmühlenfechterei als aber auch durch
+               geschickte Art u. ernste geistige Christlichkeit geradezu verblüffte.. Es ist eine
+               wieder zu früh herausgelassene Taube... ich flattere über den theologischen
+               Richtungen und krieche mich dann doch lieber in meine Arche - zurück!... Aber was ist
+               das, wenn auch Erfahrung dabei ist u. auch schadhafte (kindliche)<pb n="6"/> Stellen
+               ausgebessert sind - ein fester Fußboden ist es noch nicht und ehe man den hat, ist es
+               eben sehr schwer. <hi rend="u">Es</hi> denkt u. <hi rend="u">es</hi> wächst zu sehr -
+               aber wenn man noch nicht sagen kann <hi rend="u">ich</hi> denke oder bin gedacht - je
+               nachdem - da ists noch nichts. Eine Einheit im Denken Tun Wollen muß zu Stande kommen
+               u. Denken u. Glauben natürlich auch. - Doch stopp.. Nun kannst Du Dir vielleicht
+               denken, daß in Situationen in denen man Ruhe u. Freiheit braucht - um noch zu lesen
+               u. zu denken - der Gedanke an das bestimmte Ziel und der sich eindrängende ohne
+               Wahrheitsfrage doch teilweise zu traktierende Stoff einem das Leben sauer macht.</p>
+<p>Im übrigen aber bin ich natürlich<pb n="7"/> fröhlich, sowie wirs uns zum Semester hin u. her gewünscht haben. Und
+               ich hoffe auch noch einiges bis zum Ferienschluß schaffen zu können. Bisher war's
+               noch nicht viel. Raum u. Zeit stören... Auch lockt Sonne und Wald - <foreign xml:lang="lat"><hi rend="aq">horribile dictu</hi></foreign> Schlittenfahren noch in voriger Woche!- – Erlaß aus
+                  <unclear>Eigenbericht</unclear> über allerhand ergötzliche Scenen daheim. Daß ich
+               hier bin ist mir Ruhe u. Erholung. Ich denke wir beide kommen etwas weniger zappelig
+               ins Semester. Ich muß mich <unclear>strecken</unclear> und fest dran halten, es ist
+               Zeit.. der Bund - ein Wort noch ... Ich bin unter die <foreign xml:lang="grc">ειρηνοποιοι</foreign> gegangen. Bei der
+               späteren Kirchenschlacht, da will ich wacker mitkämpfen aber nur lieber jetzt dazu
+               die Zähne schärfen,<pb n="8"/> als Mäuse im Wingolf zu gebären. Dieses "lächerliche
+               Mäuslein" wird ja vielleicht ganz leicht nun kommen, nach dem wir genug gewerkelt
+               haben, aber .... .... erst jetzt habe ich gesehen, <hi rend="u">wie</hi> das ganze
+               "Hermann" - <unclear>fauler</unclear> Junge steht. Und wenn Professoren noch so
+               ...... sind, ... dann ist jeder Kampf aus. Ich werde jetzt aufs Übertölpeln gehn,
+               d.h. einfache Pädagogik: obs kapiert wird oder nicht... <hi rend="aq">nota bene</hi>
+               - Wenn ich nötig bin. Sonst ist Wille da - der hat schon die Zügel ganz ordentlich -
+               Der kl. <rs ref="#tillich_person_id__1050" type="person">Kilger</rs> schrieb eine Karte. Wieviel hast du
+               korrespondiert? Ich könnte noch Bände schreiben - aber was nützt's? Ich freue mich
+               der Gemeinschaft mit Dir u. grüße Dich von Herzen </p>
+<closer>
+<signed>D. <rs ref="#tillich_person_id__1696" type="person">H.</rs></signed>
+</closer>
+<postscript>
+<p>Grüßest Du die lb. Deinen. bes. Deinen l. <rs ref="#tillich_person_id__1924" type="person">Vater</rs>!! Deiner <rs ref="#tillich_person_id__644" type="person">sister</rs> kannst sagen:
+                  es sei lediglich Selbstironie auf dem Typ ... ich sei durchaus harmlos pp. Natürlich freue ich mich </p>
+</postscript>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2136">
+                  <persName>Kaumann, E.</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__890">
+                  <persName>Herrmann, Wilhelm</persName>
+                  <birth>
+                     <date>1846-12-06</date>
+                     <settlement>
+                        <placeName>Melkow</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1922-01-02</date>
+                     <settlement>
+                        <placeName>Marburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118549995</idno>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1527">
+                  <persName>Portig, Gustav</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__187">Herrmann, Wilhelm, Der Verkehr des Christen mit Gott. Im Anschluss an Luther dargestellt, Stuttgart: J. G. Cotta, 1886.</bibl>
+               </listBibl></back></text>
+</TEI>

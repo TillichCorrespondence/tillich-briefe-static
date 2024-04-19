@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01073.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01072.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01074.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Helmuth Schreiner an Paul Tillich vom 11. Juli 1930</title>
+            <author ref="#tillich_person_id__1739">Helmuth Schreiner</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__307">Münster</settlement>
+                  <institution>Westfälische Wilhelms-Universität Münster</institution>
+                  <repository>Universitäts- und Landesbibliothek Münster</repository>
+                  <collection>Nachlass Helmuth Schreiner</collection>
+                  <idno>Kapsel 24: Briefwechsel 1924-1928 +1929-1931, 24,051</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1739">Helmuth Schreiner</persName>
+
+               <date when="1930-07-11">11.07.1930</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01072">Postkarte von Paul Tillich an Hannah Tillich vom 6. Juli 1930 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01074">Brief von Paul Tillich an Helmuth Schreiner vom 17. Juli 1930</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01074">Brief von Paul Tillich an Helmuth Schreiner vom 17. Juli 1930</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-07">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-16">Endabnahme</change>
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <date when="1930-07-11">11. Juli 1930</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
+            </opener>
+            <p>Vor einigen Tagen bin ich vom Kultusministerium gebeten worden, ihnen in der Frage
+               der Erteilung der öffentlichen Körperschaftsrechte an die Freidenker ein Gutachten zu
+               erstatten. In einer Vorbesprechung vor einigen Wochen habe ich auch auf Befragen
+               Deinen Namen unter denjenigen genannt, die in erster Linie für ein solches Gutachten
+               in Frage kommen. Ich möchte Dich nun fragen, ob Du in diesen Tagen auch vom
+               Kultusministerium eine solche Aufforderung erhalten hast. Es würde mir lieb sein,
+               wenn wir uns über die Gründe und Gegengründe, die für die Anerkennung der Freidenker
+               von Seiten des Staates sprechen, irgendwie unterhalten könnten. Ich halte die Sache
+               für wichtig, da sie u.U. sehr starke kulturpolitische Konsequenzen hat.</p>
+            <p>Vor Ostern habe ich Deine <rs type="work" ref="#tillich_work_id__19">"Religiöse
+                  Verwirklichung"</rs> gelesen. Ich wollte Dir schon immer einmal schreiben und
+               aussprechen, welchen grossen Gewinn ich davon gehabt habe. Ja, ich kann fast sagen,
+               dass mir manche Kapitel eine Offenbarung waren. Allerdings hätte ich das <rs ref="#tillich_work_id__140" type="work">1.Kapitel</rs>
+               gern noch<pb n="2"/> konkreter gestaltet gesehen. In meinem Buch <rs type="book" ref="#tillich_work_id__123">"Pädagogik aus
+                  Glauben"</rs> bin ich öfters auf Deine Gedanken zurückgekommen.</p>
+            <closer>
+               <salute>Mit herzlichem Gruss<note type="ea">Unterschrift fehlt.</note></salute>
+            </closer>
+
+         </div>
+
+      </body>
+   <back><listBibl><bibl xml:id="tillich_work_id__140">Tillich, Paul, Das Religiöse als kritisches Prinzip. Die protestantische Verkündigung und der Mensch der Gegenwart, in: ders., Religiöse Verwirklichung, Berlin 1930, S. 25-42.</bibl>
+               <bibl xml:id="tillich_work_id__123">Schreiner, Helmuth, Pädagogik aus Glauben, Schwerin 1930</bibl>
+               <bibl xml:id="tillich_work_id__19">Tillich, Paul, Religiöse Verwirklichung, Berlin 1930</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson></back></text>
+</TEI>

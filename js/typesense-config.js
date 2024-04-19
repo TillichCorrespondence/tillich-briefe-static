@@ -1,11 +1,11 @@
 const config = {
   server: {
-    apiKey: "QvDKjXWPlDOOQzYWM2ao4a4f7aPlWCcb",
+    apiKey: "tlrK26WLpldeuFqTj8drI5t8NaEWaMYuySbgSejOFz9eaEp3",
     nodes: [
       {
-        host: "z4jbuvfnwcpa07iqp-1.a1.typesense.net",
-        port: "443",
-        protocol: "https",
+        host: "localhost",
+        port: "8108",
+        protocol: "http",
       },
     ],
     cacheSearchResultsForSeconds: 2 * 60,

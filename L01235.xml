@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01235.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01234.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01236.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Ernst Cassirer vom 7. Juli 1933</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>England</country>
+                  <settlement ref="#tillich_place_id__271">London</settlement>
+                  <institution>The Warburg Institute</institution>
+                  <repository>Warburg Institute Archive</repository>
+                  <idno>WIA GC 1933/394</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich mit handschriftlichem Anhang Ernst Cassirers</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__389">Sassnitz (Rügen)</placeName>
+               <date when="1933-07-07">07.07.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__363">Ernst Cassirer</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01234">Brief von Agnes Rosenbusch an Paul Tillich vom 20. Juni 1933</ref><ref subtype="next_letter" type="withinCollection" target="L01236">Brief von Fritz Gehse an Paul Tillich vom 18. Juli 1933</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01238">Brief von Fritz Saxl an Paul Tillich vom 26. Juli 1933</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2024-02-19">Initiale Auszeichnung des Transkripts, Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="hand1">
+            <pb n="1"/>
+            <opener><dateline>Ostseebad <rs ref="#tillich_place_id__389" type="place">Sassnitz auf Rügen</rs><lb/>
+            Haus Normann<lb/>
+               den <date when="1933-07-07">7.7.33</date></dateline>
+               <salute>Lieber Herr <rs ref="#tillich_person_id__363" type="person">Cassirer</rs>!</salute>
+            </opener>
+            <p>Zur Liquidation unserer bisherigen Existenz gehört die Fürsorge für Studenten, die direkt und indirekt mitbetroffen sind. Vor allem natürlich jüdischer Studenten. Ich möchte Ihnen im Zusammenhang damit jemanden empfehlen, der einige Semester lang bei mir studiert hat und sich durch ungewöhnliche philosophische Begabung auszeichnete. Er brachte mir gleich, als er in seinem ersten Semester zu mir kam, ein <rs ref="#tillich_work_id__234" type="person">Arbeit</rs> über <rs ref="#tillich_person_id__2873" type="person">Hugo Dingler</rs>, die von grossem Scharfsinn zeugt und Beweis intensiver philosophischer Arbeit auf der Schule ist. Auch Kollege <rs ref="#tillich_person_id__2874" type="person">Messer</rs> hat ein Gutachten darüber geschrieben, das ich Ihnen beilege.</p>
+            <p><rs ref="#tillich_person_id__2875" type="person">Weinberg</rs>, ist berufsmässig Jurist, vom Referendar aber zurückgewiesen worden. Er promoviert jetzt in der philosophischen Fakultät und fragt, ob es irgend eine Möglichkeit für ihn gibt, draussen weiter zu arbeiten, da ihm hier ja jede Möglichkeit versperrt ist. Er meint, dass Sie vielleicht durch Ihre Beziehung zu Warburg die Möglichkeit hätten, ihm ein kleines Stipendium zu verschaffen. Ich wäre sehr froh, wenn das möglich wäre. Seine Adresse ist: <rs ref="#tillich_person_id__2875" type="person">Heinz <hi rend="g">Weinberg</hi></rs>, Eysseneckstr. 4, <rs ref="#tillich_place_id__143" type="place"><hi rend="u">Frankfurt a.M.</hi></rs>
+            </p>
+            <p>Wie geht es Ihnen selbst? Unser gemeinsames Auftreten in <rs ref="#tillich_place_id__189" type="place">Halle</rs> gehört ja nun in die Welt unmöglicher Vorstellungen.<note type="ea">Tillich und Cassirer hatten an der Tagung der Kant-Gesellschaft zu Pfingsten 1933 in Halle teilgenommen. Siehe auch den <rs ref="L01195" type="letter">Brief Tillichs an Kurt Leese vom 20. Februar 1933</rs>.</note> Wie geht es Ihrem <rs ref="#tillich_person_id__2876" type="person">Sohn</rs>, dem Altphilologen? 
+            </p>
+            <closer>
+               <salute>Seien Sie herzlich gegrüsst<lb/>
+               Von<lb/>
+               Ihrem</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+            </closer>
+         </div>
+         <div type="hand2">
+            <opener>Lieber <rs ref="#tillich_person_id__1690" type="person">Saxl</rs>!<note type="ea">Ab hier: Eigenhändiger Brief Ernst Cassirers an Fritz Saxl</note></opener>
+            <p>Ich will Ihnen den obigen Brief von <rs ref="#tillich_person_id__1928" type="person">T.</rs> jedenfalls weitergeben - obwohl ich natürlich wenig Hoffnung hege, daß sich etwas in der Sache tun lässt.</p>
+            <p>Ich harre mit grosser Spannnung Ihrer Nachrichten - hat mein Brief nach <rs ref="#tillich_place_id__516" type="place">Leyden</rs> (postl.) Sie erreicht?
+            </p>
+            <closer>Mit herzlichen Grüssen an Sie u. <rs ref="#tillich_person_id__222" type="person">Frl. B.</rs><lb/>
+               Ihr<lb/>
+               <rs ref="#tillich_person_id__363" type="person">E. C.</rs></closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1690">
+                  <persName>Saxl, Fritz</persName>
+                  <occupation>Kunsthistoriker, Aby Warburg Bibliothek</occupation>
+                  <note type="bio"><p>Studium der Kunstgeschichte und Archäologie in Wien und Berlin, 1912 Promotion, 1922 Habilitation. Dazwischen Stipendiat in Rom und seit 1913 Mitarbeiter der Bibliothek des Hamburger Warburg Instituts, unterbrochen von der Kriegsteilnahme 1914-1918 (Österreichisch-Ungarische Armee). 1919 Rückkehr nach Hamburg, Seit 1922 dort zunächst Privatdozent, danach ordentlicher Professor für Kunstgeschichte, daneben zusammen mit Gertrud  Bing Co-Leitung der Warburg Bibliothek. Nach dem Tod Aby Warburgs 1929 wurde S. Direktor und war 1933 maßgeblich für die Übersiedlung des Warburg Instituts nach London verantwortlich. Nebenher lehrte er in London weiterhin Kunstgeschichte an der University of London. 1940 wurde er britischer Staatsbürger.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2874">
+                  <persName>Messer, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2876">
+                  <persName>Cassirer, Heinrich Walter</persName>
+                  <birth>
+                     <date>1903-08-09</date>
+                  </birth>
+                  <death>
+                     <date>1979-02-20</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/120843676</idno>
+               </person>
+               <person xml:id="tillich_person_id__2875">
+                  <persName>Weinberg, Heinz</persName>
+                  <occupation>Jurist;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127503412</idno>
+               </person>
+               <person xml:id="tillich_person_id__222">
+                  <persName>Bing, Gertrud</persName>
+                  <occupation>Kunsthistorikerin und Philosophin</occupation>
+                  <note type="bio"><p>Studium der Philosophie, Psychologie und Germanistik in München und Hamburg, wo sie 1921 bei Ernst Cassirer promoviert wurde, der sie sodann auch an die Kulturwissenschaftliche Bibliothek Warburg und Fritz  Saxl vermittelte, wo B. ab 1922 arbeitete, als Bibliothekarin aber auch als Sekretärin Aby Warburgs, den sie 1927-1928 auch nach Italien begleitete. Nach seinem Tod edierte sie seine Gesammelten Schriften. Als stellvertretende Leiterin richtete sie gemeinsam mit Saxl 1933 in London das Warburg Institute ein und emigrierte. 1955 wurde sie die Direktorin des Instituts und, damit einhergehend, Professor of the History of the Classical Tradition an der Londoner Universität.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2873">
+                  <persName>Dingler, Hugo</persName>
+                  <birth>
+                     <date>1881-07-07</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1954-06-29</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/11852576X</idno>
+               </person>
+               <person xml:id="tillich_person_id__363">
+                  <persName>Cassirer, Ernst</persName>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__234">Weinberg, Heinz, Das Geltungsproblem bei Hugo Dingler. Versuch einer Kritik, 1934.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__516">
+                  <placeName>Leiden</placeName>
+                  <location type="coords">
+                     <geo>52.15833 4.49306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2751773/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q43631</idno>
+               </place>
+               <place xml:id="tillich_place_id__389">
+                  <placeName>Sassnitz (Rügen)</placeName>
+                  <location type="coords">
+                     <geo>54.51570 13.64451</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2841333/</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

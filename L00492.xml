@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00492">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Elisabeth Tillich <lb/>vom 8. Juni 1916 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Leopold Potyka</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00492.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00488.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00493.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Elisabeth Tillich vom 8. Juni 1916</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Leopold Potyka</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library </repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/184(6)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library </repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/184(6)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1916-06-08">08.06.1916</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00488">Postkarte von Paul Tillich an Toni Winkler
-               </ref><ref subtype="next_letter" type="withinCollection" target="L00493">Brief von Paul Tillich an Johannes Tillich </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="LP" when="2022-05-23">Intitale Auszeichnung des Transkripts</change>
-         <change who="Initialien des Editors" when="1886-08-20">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>Geschrieben den <date when="1916-06-08">8. Juni 1916</date></dateline>
-            </opener>
-            <p>Herzliche Grüße aus der Welt von Eisen, Feuer und Blut, aus den Erdhöhlen, unserm
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1916-06-08">08.06.1916</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00488">Postkarte von Paul Tillich an Toni Winkler vom 2. Juni 1916</ref><ref subtype="next_letter" type="withinCollection" target="L00493">Brief von Paul Tillich an Johannes Tillich vom 27. Juni 1916</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-23" who="LP">Intitale Auszeichnung des Transkripts</change>
+<change when="1886-08-20" who="Initialien des Editors">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>Geschrieben den <date when="1916-06-08">8. Juni 1916</date></dateline>
+</opener>
+<p>Herzliche Grüße aus der Welt von Eisen, Feuer und Blut, aus den Erdhöhlen, unserm
                liebsten Aufenthalt und dem Tag und Nacht ununterbrochenen Erdbeben .... Nach 5
                absolut schlaflosen Tagen und Nächten habe ich jetzt ein paar Tage mit Gier
                geschlafen und gegessen und fühle mich sehr wohl. </p>
-            <closer>
-               <salute>In Liebe</salute>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+<closer>
+<salute>In Liebe</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -108,5 +108,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace/><listLetter/></back></text>
+               </person>
+               </listPerson></back></text>
 </TEI>

@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01028.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01027.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01029.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Walter Passarge an Paul Tillich vom 30. September 1929</title>
+            <author ref="#tillich_person_id__1460">Walter Passarge</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>Rolle 023, Nr. 3</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+                  </physDesc>       
+            </msDesc>     
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1460">Walter Passarge</persName>
+              <placeName ref="#tillich_place_id__238">Kiel</placeName>
+              <date when="1929-09-30">30.09.1929</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+           </correspAction>
+        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01027">Brief von Paul Tillich an Verlag Mohr Siebeck vom 20. August 1929</ref><ref subtype="next_letter" type="withinCollection" target="L01029">Brief von Paul Tillich an Erich Seeberg vom 6. Oktober 1929</ref></correspContext></correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-05-30">Initiale Auszeichnung des Transkripts</change>
+        <change who="SK" when="2023-06-22">Hinzufügen von bibl-Kommentaren, Paragraphen gesetzt, Datums-Änderungen</change>
+        <change who="FS" when="2024-01-18">Endabnahme</change>
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline><rs ref="#tillich_place_id__238" type="place">Kiel</rs> den <date when="1929-09-30">30.9.29</date>.</dateline>
+           <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
+        </opener>
+        <p>Darf ich Sie freundlich um eine wissenschaftliche Auskunft bitten. Für eine Forschungsreihe, die im Verlag Junker u Dünnhaupt, <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, erscheinen wird, bearbeite ich den Band "<rs ref="#tillich_work_id__139" type="work">Die Philosophie der Kunstgeschichte</rs>" – ein Referat über die wichtigsten Arbeiten auf diesem Gebiet in den letzten 20-30 Jahren. (u.a. <rs ref="#tillich_person_id__2428" type="person">Riegl</rs>, <rs ref="#tillich_person_id__2431" type="person">Wölfflin</rs>, <rs ref="#tillich_person_id__2429" type="person">Frankl</rs>, <rs ref="#tillich_person_id__2432" type="person">Coellen</rs>, <rs ref="#tillich_person_id__2101" type="person">Worringer</rs>, <rs ref="#tillich_person_id__2430" type="person">Dvořak</rs>, <rs ref="#tillich_person_id__2426" type="person">Frey</rs>, <rs ref="#tillich_person_id__2433" type="person">Brinckmann</rs>, <rs ref="#tillich_person_id__2434" type="person">Pinder</rs> u.s.w.). In diesem Zusammenhang möchte ich nun auch Bezug nehmen auf Ihre Kulturphilosophie, die sie vor einigen Jahren in einem Vortrage in <rs ref="#tillich_place_id__135" type="place">Erfurt</rs> über "Das Heilige und das Profane in Kultur und Religion" entwickelten. Sie stellten damals für die bildende Kunst die Entwicklungsreihe – wenn ich mich recht entsinne –: Heteronomie, Theonomie und Autonomie der Form auf, die mich damals schon lebhaft beschäftigte. Da ich nun nicht weiß, ob und wo Sie diese Theorie weiter ausgeführt haben, darf ich Sie vielleicht um <pb n="2"/> einen Hinweis bitten. Auf alle Fälle würde ich gern Ihren Vortrag und Ihr Buch über <rs ref="#tillich_work_id__86" type="work">die religiöse Lage der Gegenwart</rs> erwähnen, das mir sehr viel Anregungen gegeben hat.</p> 	
+        <p>In der Vossischen Zeitung las ich Ihre Berufung nach <rs ref="#tillich_place_id__143" type="place">Frankfurt a/M.</rs>, für die ich Ihnen noch nachträglich von Herzen gratuliere. <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> ist mir immer sehr sympathisch gewesen.</p> 	
+        <p>Mir geht es hier relativ gut, meine Arbeit als Direktoriatassistent ist sehr selbständig. Die Arbeit der ersten 1 <formula notation="TeX">\frac{1}{2}</formula> Jahre war die vollständige Neuordnung des <rs ref="#tillich_place_id__238" type="place">Museums</rs>,<note type="ea">Gemeint ist das Kieler Thaulow-Museum.</note> die, wie ich glaube, einigermaßen gelungen ist. Dann kamen die Vorarbeiten für 2 große Ausstellungen "Nordische Volkskunst" und "Nordische Baukunst der Gegenwart",<note type="ea">Die beiden Ausstellungen liefen von 29. Juni bis 29. Juli 1929.</note> für die ich im <date when="1928-12">Dezember</date> <rs ref="#tillich_place_id__396" type="place">Schweden</rs>, <rs ref="#tillich_place_id__324" type="place">Norwegen</rs> und <rs ref="#tillich_place_id__128" type="place">Dänemark</rs> bereiste. Außerdem halte ich Vorlesungen an der <rs ref="#tillich_place_id__238" type="place">Kieler</rs>. Kunstgewerbeschule. Seit <date when="1929-02">Februar</date> bin ich <rs ref="#tillich_person_id__2435" type="person">verheiratet</rs> und wohne sehr hübsch nahe der Förde.</p> 
+        <p>Zufrieden werde ich aber erst sein, wenn ich eine leitende und ganz selbständige Stellung habe.
+        </p>
+        <closer>
+           <salute>In der Hoffnung, daß ich Sie mit meiner Bitte nicht allzu sehr in Ihrer Arbeit störe, bin ich Ihr ganz ergebener</salute>
+           <signed><rs ref="#tillich_person_id__1460" type="person">Walter Passarge</rs></signed>
+        </closer>
+      
+     </div>
+    </body>
+  <back><listPerson><person xml:id="tillich_person_id__2101">
+                  <persName>Worringer, Wilhelm</persName>
+                  <birth>
+                     <date>1881-01-13</date>
+                     <settlement>
+                        <placeName>Aachen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1965-03-29</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118807900</idno>
+               </person>
+               <person xml:id="tillich_person_id__2426">
+                  <persName>Frey, Dagobert</persName>
+                  <birth>
+                     <date>1883-04-23</date>
+                     <settlement>
+                        <placeName>Wien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1962-05-13</date>
+                     <settlement>
+                        <placeName>Stuttgart</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118693220</idno>
+                  <note type="bio"><p>Er hat wesentlich an den Bänden der Österreichischen Kunsttopographie mitgearbeitet. Für Dagobert Frey war Kunst vornehmlich Sinnstiftung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1460">
+                  <persName>Passarge, Walter</persName>
+                  <occupation>deutscher Kunsthistoriker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2432">
+                  <persName>Coellen, Ludwig</persName>
+                  <birth>
+                     <date>1875</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Philosoph; Kunsthistoriker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116621931</idno>
+                  <note type="bio"><p>Er wirkte vor allem in Frankfurt/Main.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2431">
+                  <persName>Wölfflin, Heinrich</persName>
+                  <birth>
+                     <date>1864-06-21</date>
+                     <settlement>
+                        <placeName>Winterthur</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-07-19</date>
+                     <settlement>
+                        <placeName>Zürich</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118634496</idno>
+                  <note type="bio"><p>Er stammt ursprünglich aus Winterthur und studierte Philosophie an der Universität Basel und an der Friedrich-Wilhelms-Universität Berlin, später auch Kunstgeschichte in München.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2429">
+                  <persName>Frankl, Paul</persName>
+                  <birth>
+                     <date>1878-04-22</date>
+                     <settlement>
+                        <placeName>Prag</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1962-01-30</date>
+                     <settlement>
+                        <placeName>Princeton, NJ</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115671994</idno>
+                  <note type="bio"><p>Er stammt ursprünglich aus Prag. 1907 studierte er in München Kunstgeschichte. 1938 emigrierte er in die USA.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2433">
+                  <persName>Brinckmann, Albert Erich</persName>
+                  <birth>
+                     <date>1881-09-04</date>
+                     <settlement>
+                        <placeName>Norderney</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-08-10</date>
+                     <settlement>
+                        <placeName>Köln</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker; Kunstkritiker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118674129</idno>
+                  <note type="bio"><p>Er stammt ursprünglich aus Norderney und studierte in Berlin, München und an der Technischen Hochschule Charlottenburg Kunstgeschichte. Er promovierte 1905 und lehrte danach in Rostock, Berlin sowie Frankfurt/Main.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2428">
+                  <persName>Riegl, Alois</persName>
+                  <birth>
+                     <date>1858</date>
+                     <settlement>
+                        <placeName>Linz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1905</date>
+                     <settlement>
+                        <placeName>Wien</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker; Professor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118600818</idno>
+                  <note type="bio"><p>Er stammt ursprünglich aus Linz und wirkte als Professor in Wien. Er war Generalkonservator.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2434">
+                  <persName>Pinder, Wilhelm</persName>
+                  <birth>
+                     <date>1878-06-25</date>
+                     <settlement>
+                        <placeName>Kassel</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1947-05-13</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118792237</idno>
+                  <note type="bio"><p>Er stammt ursprünglich aus Kassel und hat Archäologie und Kunstgeschichte an den Universitäten Göttingen, Berlin, München und Leipzig studiert. Er war ein Mitglied der Burschenschaft Alemannia Göttingen 1896. Er war bekennender Antisemit und Nationalist.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2430">
+                  <persName>Dvořák, Max</persName>
+                  <birth>
+                     <date>1874-06-24</date>
+                     <settlement>
+                        <placeName>Raudnitz an der Elbe</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1921-02-08</date>
+                     <settlement>
+                        <placeName>Hrušovany nad Jevišovkou</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker; Denkmalpfleger;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118528378</idno>
+                  <note type="bio"><p>Er stammt ursprünglich aus Radnitz und studierte an den Universitäten Prag und Wien. Er war der Nachfolger von Alois Riegel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2435">
+                  <persName>Passarge, ???</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__128">
+                  <placeName>Dänemark</placeName>
+                  <location type="coords">
+                     <geo>56.00000 10.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2623032/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q35</idno>
+               </place>
+               <place xml:id="tillich_place_id__324">
+                  <placeName>Norwegen</placeName>
+                  <location type="coords">
+                     <geo>62.00000 10.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3144096/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q20</idno>
+               </place>
+               <place xml:id="tillich_place_id__396">
+                  <placeName>Schweden</placeName>
+                  <location type="coords">
+                     <geo>62.00000 15.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661886/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q34</idno>
+               </place>
+               <place xml:id="tillich_place_id__238">
+                  <placeName>Kiel</placeName>
+                  <location type="coords">
+                     <geo>54.32133 10.13489</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__135">
+                  <placeName>Erfurt</placeName>
+                  <location type="coords">
+                     <geo>50.97870 11.03283</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2929670/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31997476</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__86">Tillich, Paul, Die religiöse Lage der Gegenwart, Berlin 1926.</bibl>
+               <bibl xml:id="tillich_work_id__139">Passarge, Walter, Die Philosophie der Kunstgeschichte, Berlin 1930</bibl>
+               </listBibl></back></text>
+</TEI>

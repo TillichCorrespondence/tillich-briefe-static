@@ -1,125 +1,212 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00905">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Hannah Tillich
-                    <lb/>vom 7. September 1926
-                </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>        
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/2(23)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc> 
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__445">Trouville</placeName>
-                    <date when="1926-09-07">07.09.1926</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                </correspAction>
-            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00904">Brief von Paul Tillich an Hannah Tillich
-                    </ref><ref subtype="next_letter" type="withinCollection" target="L00907">Brief von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2023-04-24">Initiale Auszeichnung des Transkripts</change>
-            <change who="FS" when="2023-11-28">Endabnahme</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener><dateline><rs ref="#tillich_place_id__445" type="place"><hi rend="aq">Trouville</hi></rs>, d. <date when="1926-09-07">7.</date></dateline>
-                    <salute><hi rend="aq">Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</hi></salute>
-                </opener>
-                <p>Heut kam wieder Post von Dir, der Brief,<note type="ea">Dieser Brief liegt nicht vor.</note> worin Du von Deinem Gast schreibst und für den ich Dir sehr danke. <hi rend="aq">Doch würde ich mich trotz allem freuen, mal einiges Gedankliche von Dir zu hören – als Antwort</hi> und als Frage. – –</p>
-                <p>Nun erst allerhand Sachliches: Der Brief von <rs ref="#tillich_person_id__2646" type="person">Schwarz</rs>.<note type="ea">Dieser Brief liegt nicht vor.</note> Unten rechts im Regal hinter meinem Stuhl liegen die Zeitschriften, darunter auch die "<rs ref="#tillich_work_id__48" type="work">Zeitwende</rs>". (sonst in jeder Dresdner Buchhandlung). Darauf steht die Adresse des Herausgebers<note type="ea">Herausgeber der "Zeitwende" waren <rs ref="#tillich_person_id__2634" type="person">Tim Klein</rs>, <rs ref="#tillich_person_id__2635" type="person">Otto Gründler</rs> und <rs ref="#tillich_person_id__2636" type="person">Friedrich Langenfaß</rs>.</note>. An diesen sende bitte die Schrift von Schwarz und schreibe dazu, daß ich auf Reisen wäre, sie aber durch Dich bäte, diese nach meiner Meinung gute Sache zu berücksichtigen. Zwei Sätze, weiter nichts.<note type="ea">Nicht ermittelt. In den nachfolgenden Ausgaben der "Zeitenwende" findet sich keine Besprechung eine Buches von einem Schwarz, auch kein Artikel oder ähnliches.</note></p>
-                    <p>An <rs ref="#tillich_person_id__2362" type="person">Lydia</rs> und nach <rs ref="#tillich_place_id__506" type="place">Breslau</rs> habe ich abgeschrieben.<note type="ea">Diese Schreiben liegen nicht vor.</note> Den Jung lese ich lieber in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>;<note type="ea">Nicht ermittelt. Es dürfte sich womöglich um ein Buch von <rs ref="#tillich_person_id__1006" type="person">C. G. Jung</rs> handeln.</note> hier komm ich nicht dazu.<pb n="2"/> Der Bauch ist zwar nicht in Ordnung, stört mich aber nicht mehr sehr. An dem Tag, wo <rs ref="#1831" type="person"><rs ref="#1832" type="person">Spiegelbergs</rs></rs> kamen, war gerade ein Rückfall und darum war ich etwas "magen-verstimmt" – wie <rs ref="#tillich_person_id__2361" type="person">Elis</rs> schreibt. Ich bin natürlich sehr vorsichtig – Aber es ist so schwer, richtige Diät zu halten.</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00905.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00904.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00907.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich vom 7. September 1926</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(23)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__445">Trouville</placeName>
+<date when="1926-09-07">07.09.1926</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00904">Brief von Paul Tillich an Hannah Tillich vom 5. September 1926</ref><ref subtype="next_letter" type="withinCollection" target="L00907">Brief von Paul Tillich an Hannah Tillich vom 20. September 1926</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-04-24" who="FS">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-11-28" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline><rs ref="#tillich_place_id__445" type="place"><hi rend="aq">Trouville</hi></rs>, d. <date when="1926-09-07">7.</date></dateline>
+<salute><hi rend="aq">Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</hi></salute>
+</opener>
+<p>Heut kam wieder Post von Dir, der Brief,<note type="ea">Dieser Brief liegt nicht vor.</note> worin Du von Deinem Gast schreibst und für den ich Dir sehr danke. <hi rend="aq">Doch würde ich mich trotz allem freuen, mal einiges Gedankliche von Dir zu hören – als Antwort</hi> und als Frage. – –</p>
+<p>Nun erst allerhand Sachliches: Der Brief von <rs ref="#tillich_person_id__2646" type="person">Schwarz</rs>.<note type="ea">Dieser Brief liegt nicht vor.</note> Unten rechts im Regal hinter meinem Stuhl liegen die Zeitschriften, darunter auch die "<rs ref="#tillich_work_id__48" type="work">Zeitwende</rs>". (sonst in jeder Dresdner Buchhandlung). Darauf steht die Adresse des Herausgebers<note type="ea">Herausgeber der "Zeitwende" waren <rs ref="#tillich_person_id__2634" type="person">Tim Klein</rs>, <rs ref="#tillich_person_id__2635" type="person">Otto Gründler</rs> und <rs ref="#tillich_person_id__2636" type="person">Friedrich Langenfaß</rs>.</note>. An diesen sende bitte die Schrift von Schwarz und schreibe dazu, daß ich auf Reisen wäre, sie aber durch Dich bäte, diese nach meiner Meinung gute Sache zu berücksichtigen. Zwei Sätze, weiter nichts.<note type="ea">Nicht ermittelt. In den nachfolgenden Ausgaben der "Zeitenwende" findet sich keine Besprechung eines Buches von einem Schwarz, auch kein Artikel oder ähnliches.</note></p>
+<p>An <rs ref="#tillich_person_id__2362" type="person">Lydia</rs> und nach <rs ref="#tillich_place_id__506" type="place">Breslau</rs> habe ich abgeschrieben.<note type="ea">Diese Schreiben liegen nicht vor.</note> Den Jung lese ich lieber in <rs ref="#tillich_place_id__126" type="place">Dresden</rs>;<note type="ea">Nicht ermittelt. Es dürfte sich womöglich um ein Buch von <rs ref="#tillich_person_id__1006" type="person">C. G. Jung</rs> handeln.</note> hier komm ich nicht dazu.<pb n="2"/> Der Bauch ist zwar nicht in Ordnung, stört mich aber nicht mehr sehr. An dem Tag, wo <rs ref="#1831" type="person"><rs ref="#1832" type="person">Spiegelbergs</rs></rs> kamen, war gerade ein Rückfall und darum war ich etwas "magen-verstimmt" – wie <rs ref="#tillich_person_id__2361" type="person">Elis</rs> schreibt. Ich bin natürlich sehr vorsichtig – Aber es ist so schwer, richtige Diät zu halten.</p>
 <p>Dein Gedanke, daß ich in <rs ref="#tillich_place_id__343" type="place">Paris</rs> einkaufen soll, ist natürlich einzig richtig. Es ist halb, höchstens 2/3 so teuer. Bitte schreibe mir doch im nächsten Brief, um was es sich für Dich und mich handelt und unterstreiche das Wichtigste! Sieh zugleich, ob Du 100-200M bekommen kannst. Da ich Ende <date when="1926-10">Oktober</date> 500M verdiene, wäre es ja töricht, wenn wir diese Gelegenheit nicht benutzten.</p>
-                <p>Den <rs ref="#tillich_person_id__1883" type="person">Stepun</rs> habe ich <rs ref="#tillich_person_id__2356" type="person">Christian</rs> gegeben;<note type="ea">Da <rs ref="#tillich_person_id__1883" type="person">Fedor Stepun</rs> bis 1928 keine deutschsprachige Buchveröffentlichung vorzuweisen hatte, dürfte Tillich an dieser Stelle einen von drei Aufsätzen Stepuns meinen, die im "<rs ref="#tillich_work_id__54" type="work">Hochland</rs>" yerschienen waren bzw. im Begriff waren, dort zu erscheinen: <rs ref="#tillich_work_id__55" type="work">Das Problem der Demokratie in Rußland</rs> (1925); <rs ref="#tillich_work_id__56" type="work">Die Mission der Demokratie in Rußland</rs> (1926); <rs ref="#tillich_work_id__57" type="work">Der metaphysische Sinn der Revolution und die Sowjetliteratur</rs> (1927).</note> er muß ihn noch haben. Bitte ihn doch darum!</p>
+<p>Den <rs ref="#tillich_person_id__1883" type="person">Stepun</rs> habe ich <rs ref="#tillich_person_id__2356" type="person">Christian</rs> gegeben;<note type="ea">Da <rs ref="#tillich_person_id__1883" type="person">Fedor Stepun</rs> bis 1928 keine deutschsprachige Buchveröffentlichung vorzuweisen hatte, dürfte Tillich an dieser Stelle einen von drei Aufsätzen Stepuns meinen, die im "<rs ref="#tillich_work_id__54" type="work">Hochland</rs>" erschienen waren bzw. im Begriff waren, dort zu erscheinen: <rs ref="#tillich_work_id__55" type="work">Das Problem der Demokratie in Rußland</rs> (1925); <rs ref="#tillich_work_id__56" type="work">Die Mission der Demokratie in Rußland</rs> (1926); <rs ref="#tillich_work_id__57" type="work">Der metaphysische Sinn der Revolution und die Sowjetliteratur</rs> (1927).</note> er muß ihn noch haben. Bitte ihn doch darum!</p>
 <p>Wie steht es mit Deiner Geldlage? Schreibe doch mal darüber! Hast Du auch wirklich genug und kann ich bleiben?<pb n="3"/></p>
-    <p>Am <date when="1926-09-05">Sonntag</date> war sozusagen letzter Tag in <rs ref="#tillich_place_id__120" type="place">Deauville</rs>. Wir waren am Vormittag zum Baden und erlebten noch sehr viel schönes und elegantes Volk. Die Auffahrt der Autos zum Bad fast unübersehbar (Privatautos). Am Nachmittag zum Tee im Kurhaus wurde Oper und Ballet aus <rs ref="#tillich_place_id__343" type="place">Paris</rs> gegeben. Seit <date when="1926-09-06">Montag</date> ist Schluß der Saison. Zum Trost – und mehr als das – setzte der erste richtige Westwind ein, und es kam ein herrliches Meer. Heut Nachmittag war ich mit <rs ref="#1831" type="person"><rs ref="#1832" type="person">Spiegelbergs</rs></rs> in <hi rend="aq">Honfleur</hi>, dem Lieblingsort <rs ref="#tillich_person_id__148" type="person">Baudelaires</rs>, einem alten Fischernest und Hafen an der Seine-Mündung. Morgen wollen wir über <rs ref="#tillich_place_id__254" type="place">Havre</rs>-<rs ref="#tillich_place_id__373" type="place">Rouen</rs> nach <rs ref="#tillich_place_id__343" type="place">Paris</rs> – wenn uns nicht das Meer aufhält.</p>
-<p>Am <date when="1926-09-04">Sonnabend</date> Abend hatten <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> und ich ein echt Trouviller Erlebnis: Wir gingen um 10-11 am Strand von der Promenade. Schon stürzten sich zwei Cocöttchen auf uns, zwangen uns mit Grazie auf die Stühle, die dort zu Hunderten stehen und luxten uns in kurzer Zeit mit ebensoviel Grazie<pb n="4"/> 3M ab. – – – –  ein Überfall in der Wüste vor den Augen der Civilisation.</p> 
-                <p>Die Reise als Ganzes war wohl meine ernsteste, die ich je gemacht habe. Die stillste, in der größten, fremden Natur, allein mit <rs ref="#tillich_person_id__1887" type="person">Eckart</rs>, und damit in all dem allein, was die Frau gibt. Ich sagte heut zu <rs ref="#tillich_person_id__1829" type="person">Spiegelberg</rs>, daß ich glaub, es ist noch nie so viel in mein Unbewußtes gefallen. Aber was, weiß ich nicht. Ich habe keinen Augenblick einfach gejubelt, wie in <rs ref="#tillich_place_id__230" type="place">Kampen</rs> oder Italien. Es war immer seelische Last dabei, auch in der Natur. Dabei habe ich mich sicher am besten erholt. <rs ref="#1831" type="person"><rs ref="#1832" type="person">Spiegelbergs</rs></rs> waren begeistert von meinem Aussehen. Hoffentlich nimmt <rs ref="#tillich_place_id__343" type="place">Paris</rs> nicht zu viel weg. Aber es ist etwas Schweres, Festes in mir, als wie ich wegfuhr.</p>
+<p>Am <date when="1926-09-05">Sonntag</date> war sozusagen letzter Tag in <rs ref="#tillich_place_id__120" type="place">Deauville</rs>. Wir waren am Vormittag zum Baden und erlebten noch sehr viel schönes und elegantes Volk. Die Auffahrt der Autos zum Bad fast unübersehbar (Privatautos). Am Nachmittag zum Tee im Kurhaus wurde Oper und Ballet aus <rs ref="#tillich_place_id__343" type="place">Paris</rs> gegeben. Seit <date when="1926-09-06">Montag</date> ist Schluß der Saison. Zum Trost – und mehr als das – setzte der erste richtige Westwind ein, und es kam ein herrliches Meer. Heut Nachmittag war ich mit <rs ref="#1831" type="person"><rs ref="#1832" type="person">Spiegelbergs</rs></rs> in <hi rend="aq">Honfleur</hi>, dem Lieblingsort <rs ref="#tillich_person_id__148" type="person">Baudelaires</rs>, einem alten Fischernest und Hafen an der Seine-Mündung. Morgen wollen wir über <rs ref="#tillich_place_id__254" type="place">Havre</rs>-<rs ref="#tillich_place_id__373" type="place">Rouen</rs> nach <rs ref="#tillich_place_id__343" type="place">Paris</rs> – wenn uns nicht das Meer aufhält.</p>
+<p>Am <date when="1926-09-04">Sonnabend</date> Abend hatten <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> und ich ein echt Trouviller Erlebnis: Wir gingen um 10-11 am Strand von der Promenade. Schon stürzten sich zwei Cocöttchen auf uns, zwangen uns mit Grazie auf die Stühle, die dort zu Hunderten stehen und luxten uns in kurzer Zeit mit ebensoviel Grazie<pb n="4"/> 3M ab. – – – –  ein Überfall in der Wüste vor den Augen der Civilisation.</p>
+<p>Die Reise als Ganzes war wohl meine ernsteste, die ich je gemacht habe. Die stillste, in der größten, fremden Natur, allein mit <rs ref="#tillich_person_id__1887" type="person">Eckart</rs>, und damit in all dem allein, was die Frau gibt. Ich sagte heut zu <rs ref="#tillich_person_id__1829" type="person">Spiegelberg</rs>, daß ich glaub, es ist noch nie so viel in mein Unbewußtes gefallen. Aber was, weiß ich nicht. Ich habe keinen Augenblick einfach gejubelt, wie in <rs ref="#tillich_place_id__230" type="place">Kampen</rs> oder Italien. Es war immer seelische Last dabei, auch in der Natur. Dabei habe ich mich sicher am besten erholt. <rs ref="#1831" type="person"><rs ref="#1832" type="person">Spiegelbergs</rs></rs> waren begeistert von meinem Aussehen. Hoffentlich nimmt <rs ref="#tillich_place_id__343" type="place">Paris</rs> nicht zu viel weg. Aber es ist etwas Schweres, Festes in mir, als wie ich wegfuhr.</p>
 <p>Hab keine Sorge! In <rs ref="#tillich_place_id__343" type="place">Paris</rs> ist alles anders. Und äußerlich gefährlich ist nichts. Dazu sind sie viel zu höflich und wir viel zu harmlos.
                 </p>
-                <closer>
-                    <salute>In ständiger Freude über Dich und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs><unclear>!</unclear></salute>
-                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-                </closer>
-            </div>
-        </body>
-    <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+<closer>
+<salute>In ständiger Freude über Dich und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs><unclear>!</unclear></salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+<back><listPlace><place xml:id="tillich_place_id__120">
+                  <placeName>Deauville</placeName>
+                  <location type="coords">
+                     <geo>49.35700 0.06995</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3021668/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q209021</idno>
+               </place>
+               <place xml:id="tillich_place_id__254">
+                  <placeName>Le Havre</placeName>
+                  <location type="coords">
+                     <geo>49.49346 0.10785</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3003796/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q42810</idno>
+               </place>
+               <place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place>
+               <place xml:id="tillich_place_id__445">
+                  <placeName>Trouville sur Mer</placeName>
+                  <location type="coords">
+                     <geo>49.36595 0.08004</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2971555/</idno>
+               </place>
+               <place xml:id="tillich_place_id__506">
+                  <placeName>Breslau</placeName>
+                  <location type="coords">
+                     <geo>51.10000 17.03333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3081368/</idno>
+               </place>
+               <place xml:id="tillich_place_id__230">
+                  <placeName>Kampen</placeName>
+                  <location type="coords">
+                     <geo>54.95411 8.34171</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__373">
+                  <placeName>Rouen</placeName>
+                  <location type="coords">
+                     <geo>49.44313 1.09932</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2982652/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q30974</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__54">Hochland. Monatsschrift für alle Gebiete des Wissens, der Literatur u. Kunst, hg. von Carl Muth, 1903ff.</bibl>
+               <bibl xml:id="tillich_work_id__56">Stepun, Fedor, Die Mission der Demokratie in Rußland, in: Hochland, 23. Jg. (1926), Nr. 1, S. 412-434.</bibl>
+               <bibl xml:id="tillich_work_id__57">Stepun, Fedor, Der metaphysische Sinn der Revolution und die Sowjetliteratur, 24. Jg. (1927), Nr. 2, S. 34-45 u. S. 187-198.</bibl>
+               <bibl xml:id="tillich_work_id__48">Zeitwende. Kultur, Kirche, Zeitgeschehen, wechselnde Verlagsorte, 1925ff.</bibl>
+               <bibl xml:id="tillich_work_id__55">Stepun, Fedor, Das Problem der Demokratie in Rußland, in: Hochland, 22. Jg. (1925), Nr. 1, S. 389-404 u. 557-571.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2356">
+                  <persName>Herrmann, Christian</persName>
+                  <occupation>Philosoph; Pädagoge;</occupation>
+                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1883">
+                  <persName>Süskind, Friedrich Gottlob</persName>
                   <birth>
-                     <date>1896-05-17</date>
+                     <date>1767-02-17</date>
                      <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
+                        <placeName>Neuenstadt am Kocher</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
+                     <date>1829-11-12</date>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__2646"><reference>Schwarz</reference><persName>Schwarz, ???</persName>
-               </person><person ref="#tillich_person_id__2634"><reference>Tim Klein</reference><persName>Klein, Tim</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117371823</idno>
+               </person>
+               <person xml:id="tillich_person_id__2646">
+                  <persName>Schwarz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2635">
+                  <persName>Gründler, Otto</persName>
+                  <birth>
+                     <date>1894-11-07</date>
+                     <settlement>
+                        <placeName>Königsberg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1961</date>
+                  </death>
+                  <occupation>Journalist; Publizist;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116888202</idno>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__2634">
+                  <persName>Klein, Tim</persName>
                   <birth>
                      <date>1870-01-07</date>
                      <settlement>
@@ -134,57 +221,29 @@
                   </death>
                   <occupation>Journalist; Schriftsteller;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116212683</idno>
-               </person><person ref="#tillich_person_id__2635"><reference>Otto Gründler</reference><persName>Gründler, Otto</persName>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
-                     <date>1894-11-07</date>
+                     <date>1896-05-17</date>
                      <settlement>
-                        <placeName>Königsberg</placeName>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1961</date>
-                  </death>
-                  <occupation>Journalist; Publizist;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116888202</idno>
-               </person><person ref="#tillich_person_id__2636"><reference>Friedrich Langenfaß</reference><persName>Langenfaß, Friedrich</persName>
-                  <birth>
-                     <date>1880-07-08</date>
-                  </birth>
-                  <death>
-                     <date>1965-02-05</date>
-                  </death>
-                  <occupation>Theologe; Publizist;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116707593</idno>
-               </person><person ref="#tillich_person_id__2362"><reference>Lydia</reference><persName>???, Lydia</persName>
-               </person><person ref="#tillich_person_id__1006"><reference>C. G. Jung</reference><persName>Jung, Carl Gustav</persName>
-               </person><person ref="#1832"><reference>Spiegelbergs</reference></person><person ref="#tillich_person_id__2361"><reference>Elis</reference><persName>???, Elis</persName>
-               </person><person ref="#tillich_person_id__1883"><reference>Stepun</reference><persName>Süskind, Friedrich Gottlob</persName>
-                  <birth>
-                     <date>1767-02-17</date>
+                     <date>1988-10-27</date>
                      <settlement>
-                        <placeName>Neuenstadt am Kocher</placeName>
+                        <placeName>East Hampton, NY</placeName>
                      </settlement>
-                  </birth>
-                  <death>
-                     <date>1829-11-12</date>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117371823</idno>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__1883"><reference>Fedor Stepun</reference><persName>Süskind, Friedrich Gottlob</persName>
-                  <birth>
-                     <date>1767-02-17</date>
-                     <settlement>
-                        <placeName>Neuenstadt am Kocher</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1829-11-12</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117371823</idno>
-               </person><person ref="#1832"><reference>Spiegelbergs</reference></person><person ref="#tillich_person_id__148"><reference>Baudelaires</reference><persName>Baudelaire, Charles</persName>
-               </person><person ref="#tillich_person_id__1887"><reference>Eckart</reference><persName>Sydow, Eckart von</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2362">
+                  <persName>???, Lydia</persName>
+               </person>
+               <person xml:id="tillich_person_id__1887">
+                  <persName>Sydow, Eckart von</persName>
                   <birth>
                      <date>1885</date>
                   </birth>
@@ -194,17 +253,9 @@
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                   <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
-               </person><person ref="#tillich_person_id__1887"><reference>Eckart</reference><persName>Sydow, Eckart von</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
-               </person><person ref="#tillich_person_id__1829"><reference>Spiegelberg</reference><persName>Spiegelberg, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1829">
+                  <persName>Spiegelberg, Friedrich</persName>
                   <birth>
                      <date>1897-05-24</date>
                      <settlement>
@@ -217,9 +268,15 @@
                   <occupation>Religionswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
                   <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
-               </person><person ref="#1832"><reference>Spiegelbergs</reference></person><person ref="#tillich_person_id__570"><reference>Erdmuthe</reference><persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__2361">
+                  <persName>???, Elis</persName>
+               </person>
+               <person xml:id="tillich_person_id__148">
+                  <persName>Baudelaire, Charles</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -232,70 +289,20 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl><bibl ref="#tillich_work_id__48">Zeitwende. Kultur, Kirche, Zeitgeschehen, wechselnde Verlagsorte, 1925ff.</bibl><bibl ref="#tillich_work_id__54">Hochland. Monatsschrift für alle Gebiete des Wissens, der Literatur u. Kunst, hg. von Carl Muth, 1903ff.</bibl><bibl ref="#tillich_work_id__55">Stepun, Fedor, Das Problem der Demokratie in Rußland, in: Hochland, 22. Jg. (1925), Nr. 1, S. 389-404 u. 557-571.</bibl><bibl ref="#tillich_work_id__56">Stepun, Fedor, Die Mission der Demokratie in Rußland, in: Hochland, 23. Jg. (1926), Nr. 1, S. 412-434.</bibl><bibl ref="#tillich_work_id__57">Stepun, Fedor, Der metaphysische Sinn der Revolution und die Sowjetliteratur, 24. Jg. (1927), Nr. 2, S. 34-45 u. S. 187-198.</bibl></listBibl><listPlace><place ref="#tillich_place_id__445"><reference/><placeName>Trouville sur Mer</placeName>
-                  <location type="coords">
-                     <geo>49.36595 0.08004</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2971555/</idno>
-               </place><place ref="#tillich_place_id__506"><reference>Breslau</reference><placeName>Breslau</placeName>
-                  <location type="coords">
-                     <geo>51.10000 17.03333</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3081368/</idno>
-               </place><place ref="#tillich_place_id__126"><reference>Dresden</reference><placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place><place ref="#tillich_place_id__120"><reference>Deauville</reference><placeName>Deauville</placeName>
-                  <location type="coords">
-                     <geo>49.35700 0.06995</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3021668/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q209021</idno>
-               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place><place ref="#tillich_place_id__254"><reference>Havre</reference><placeName>Le Havre</placeName>
-                  <location type="coords">
-                     <geo>49.49346 0.10785</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3003796/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q42810</idno>
-               </place><place ref="#tillich_place_id__373"><reference>Rouen</reference><placeName>Rouen</placeName>
-                  <location type="coords">
-                     <geo>49.44313 1.09932</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2982652/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q30974</idno>
-               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place><place ref="#tillich_place_id__230"><reference>Kampen</reference><placeName>Kampen</placeName>
-                  <location type="coords">
-                     <geo>54.95411 8.34171</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
-               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place></listPlace><listLetter/></back></text>
+               </person>
+               <person xml:id="tillich_person_id__2636">
+                  <persName>Langenfaß, Friedrich</persName>
+                  <birth>
+                     <date>1880-07-08</date>
+                  </birth>
+                  <death>
+                     <date>1965-02-05</date>
+                  </death>
+                  <occupation>Theologe; Publizist;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116707593</idno>
+               </person>
+               <person xml:id="tillich_person_id__1006">
+                  <persName>Jung, Carl Gustav</persName>
+               </person>
+               </listPerson></back></text>
 </TEI>

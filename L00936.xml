@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00936.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00935.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00937.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Astrid Billström an Paul Tillich vom 4. Mai 1927</title>
+            <author ref="#tillich_person_id__2416">Astrid Billström</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/209(4)13</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2416">Astrid Billström</persName>
+               <placeName ref="#tillich_place_id__485">Stockholm</placeName>
+               <date when="1927-05-04">04.05.1927</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__485">Dresden</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00935">Brief von Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung an Paul Tillich vom 17. Februar 1927</ref><ref subtype="next_letter" type="withinCollection" target="L00937">Brief von Heinrich Kloppenburg an Paul Tillich vom 14. Mai 1927</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-05-24">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-01-05">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <address>
+                     <street>Kungsgatan 62</street>
+                  </address>, <rs ref="#tillich_place_id__417" type="place">Stockholm</rs> den <date when="1927-05-04">4. Mai 1927</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs></salute>
+            </opener>
+            <p><rs ref="#tillich_person_id__219" type="person">Jakob</rs> ist vorgestern von dem
+               zweiten <sic>psychoterapeutischen</sic> Kongresse in <rs type="place" ref="#tillich_place_id__539">Bad-Nauheim</rs> zurückgekommen. Er wollte Dir aus
+                  <rs type="place" ref="#tillich_place_id__539">Nauheim</rs> einen Gruß schicken
+               aber kam nicht dazu, jetzt bittet er mich, Dir zu schreiben, daß er mit Freude
+               gehört, daß man Dich mehrmals während der Diskussion zitiert hat und mit Zustimmung
+               erwähnt hat.</p>
+            <p>Neuerdings trafen wir auch in einer Gesellschaft hier in <rs type="place" ref="#tillich_place_id__417">Stockholm</rs> einen v. Deinen Kollegen, <rs ref="#tillich_person_id__2417" type="person">Prof. v. <sic>Asther</sic></rs>, <rs type="place" ref="#tillich_place_id__175">Giessen</rs>, der mit einer <rs ref="#tillich_person_id__2418" type="person">schwed. Verfasserin</rs> verheiratet
+               ist. – Hoffentlich geht es Euch gut, ich denke Du freust Dich über Deine kleine <rs ref="#tillich_person_id__570" type="person">Tochter</rs>. Mit herzl. Gruß an Dich
+               u. Deine liebe <rs ref="#tillich_person_id__1923" type="person">Frau</rs> von <rs ref="#tillich_person_id__219" type="person">Jakob</rs> u </p>
+            <closer>
+               <signed><rs ref="#tillich_person_id__2416" type="person">Astrid
+                  Billström</rs></signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__2418">
+                  <persName>Dixelius - von Aster, Hildur Emma Eufrosyne</persName>
+                  <birth>
+                     <date>1879</date>
+                  </birth>
+                  <death>
+                     <date>1969</date>
+                  </death>
+                  <occupation>Dichterin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/101206844</idno>
+                  <note type="bio"><p>Sie war die Frau von Ernst von Aster.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2417">
+                  <persName>Aster, Ernst von</persName>
+                  <birth>
+                     <date>1880-02-18</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1948-10-22</date>
+                     <settlement>
+                        <placeName>Istanbul</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philosoph;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116372222</idno>
+               </person>
+               <person xml:id="tillich_person_id__2416">
+                  <persName>Billström, Astrid</persName>
+                  <note type="bio"><p>Sie war eine Freundin von Paul Tillich und war die Frau von Jacob Billström.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__219">
+                  <persName>Billström, Jacob</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__417">
+                  <placeName>Stockholm</placeName>
+                  <location type="coords">
+                     <geo>59.50000 18.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2673722/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q104231</idno>
+               </place>
+               <place xml:id="tillich_place_id__539">
+                  <placeName>Nauheim</placeName>
+                  <location type="coords">
+                     <geo>50.36463 8.73859</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953395/</idno>
+               </place>
+               <place xml:id="tillich_place_id__175">
+                  <placeName>Gießen</placeName>
+                  <location type="coords">
+                     <geo>50.58727 8.67554</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

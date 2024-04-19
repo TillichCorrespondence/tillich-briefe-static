@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00283.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00282.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00285.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von R. Ebers an Paul Tillich vom 10. April 1911</title>
+<author ref="#tillich_person_id__2186">nan Ebers</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS649/138(18)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2186">R. Ebers</persName>
+<placeName ref="where"><!--Ort--></placeName>
+<date when="1911-04-10">10.04.1911</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00282">Brief von Carl Richard Wegener an Paul Tillich vom 4. April 1911</ref><ref subtype="next_letter" type="withinCollection" target="L00285">Postkarte von Johanna Fritz (geb. Tillich) an Paul Tillich vom 22. April 1911</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2023-12-10" who="AA">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+   den <date when="1911-04-10">10.04.1911</date>
+</dateline>
+<salute>Geehrter lieber Herr Doktor!</salute>
+</opener>
+<p>
+   Am Freitag hatte ich die Freude,
+   Ihren herzlich verehrten, lieben <rs ref="#tillich_person_id__1924" type="person">Herrn
+   Vater</rs> und die Lieben <rs ref="#tillich_person_id__1929 #tillich_person_id__1762 #tillich_person_id__644" type="person">Damen</rs>
+   zu begrüßen und alle so frisch
+   und wohl zu sehen.
+   Wir hoffen, Sie und die Lieben
+   Ihrigen im Sommer mal hier
+   zu sehen.
+   Heute komme ich mit einer
+   Bitte. Ist es Ihnen vielleicht
+   möglich, am Sonntag <unclear>¿¿¿</unclear>
+   um <choice><abbr>ca.</abbr><expan>zirka</expan></choice> <formula notation="TeX">\frac{1}{2}</formula> 10 oder 10 Uhr hier den
+   Gottesdienst zu halten. Mein
+   <pb n="2"/>
+   Pastor, <choice><abbr>Lic.</abbr><expan>licentiatus</expan></choice> Heine, ist leider
+   verhindert, wie er mir gestern
+   erst mitteilte. Die Fahrt
+   hierher 6 Minuten, um 9 Uhr an,
+   Nachher gleich wieder <unclear>¿¿¿</unclear>
+   Rückfahrt. <unclear>¿¿¿</unclear> ist hier.
+   Sie sind noch sehr durch die
+   Licenziaten-Arbeiten in
+   Anspruch genommen,
+   vielleicht können Sie aber
+   doch 2 Stunden abkommen,
+   An Herrn <choice><abbr>Superint.</abbr><expan>Superintendent</expan></choice> <rs ref="#tillich_person_id__1133" type="person">Lang</rs>
+   habe ich auch schon geschrieben.
+  </p>
+<closer>
+<salute>Herzlichen Gruß!</salute>
+<signed>Ihr ergebener R Ebers.</signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1929">
+                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <occupation>Mutter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1133">
+                  <persName>Lang, Martin</persName>
+                  <occupation>Superintendent</occupation>
+               </person>
+               </listPerson></back></text>
+</TEI>

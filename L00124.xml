@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00124.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00123.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00125.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gottfried von Hanffstengel an Paul Tillich vom 22. September 1906</title>
+<author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/147</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
+<placeName ref="#tillich_place_id__75">Bremervörde</placeName>
+<date when="1906-09-22">22.09.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00123">Brief von Hermann Schafft an Paul Tillich vom 7. September 1906</ref><ref subtype="next_letter" type="withinCollection" target="L00125">Brief von Alfred Fritz an Paul Tillich vom 27. September 1906</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-11-15" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-01-23" who="PS">Vorbereitung zur Endabnahme</change>
+<change when="2024-02-12" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>, <date when="1906-09-22">22.IX.06.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Habe herzlichen Dank für Deinen lieben Brief<note type="ea">Nicht
+               überliefert.</note>, der mir zwar durch seine äußere Form manches Rätsel aufgegeben,
+               mich im übrigen aber sehr erfreut u angespornt hat. Zunächst also mein
+               Unterhaltungsabend.<note type="ea">In <rs ref="L00122" type="letter">Brief von Gottfried von Hanffstengel an Paul Tillich vom 7. September
+                  1906 heißt es: "Ein anderes Thema
+                  hat mich sehr beschäftigt, ich hoffe es zu einem Vortrage ausarbeiten zu können. Es
+                  handelt sich um die Frage: "welche Pflicht hat der Staat der
+                  Volksschule gegenüber in Sachen der Religion?" So oder ähnlich denke ich die Sache zu
+                  formulieren. Literatur habe ich viel dafür, hoffentlich hat nur nicht schon ein
+                  anderer dies Thema!"</rs></note> Nach einer kurzen Einleitung u Erklärung der 3 Arten von Schulen
+               werde ich <sic>erste</sic> die konfessionslose Schule, dann die Simultanschule
+               absägen, u die Konfessionelle Schule als das gegebene hinstellen. Wird das aber
+               genügen, um eine<pb n="2"/> längere Debatte daran anzuknüpfen. Mir ist auch
+               zweifelhaft, <del rend="s">wie</del> ob mein eigener Vortrag lang genug sein wird,
+               ich rechne 15 – 20 Minuten. Ich glaube ferner, daß der Referent bei der Debatte nicht
+               so sehr in den Vordergrund treten muß, damit sich auch die übrigen mehr beteiligen.
+               Ein anderer Punkt in der Schulfrage beschäftigt mich auch lebhaft, das ist die Frage
+               nach der Schulverwaltung, worin jetzt ziemlich schlechte u unregelmäßige Zustände
+               herrschen. Wie wäre das, wenn ich das noch hinzufügte. Sonst würde ich vielleicht
+               einen selbständigen<pb n="3"/> Unterhaltungsabend daraus machen. Befaßt habe ich mich
+               auch mit der Frage einer eventuellen Scheidung von Staat u Kirche, vielleicht ließe
+               sich das verarbeiten. Ob ich den Unterhaltungsabend zuerst halten kann ist mir zum
+               mindesten fraglich, ferner möchte ich auch erst einen mir ansehen, um mich etwas
+               danach zu richten.</p>
+<p>Seit etwa einer Woche gibt es in Ostfriesland auch 2 Kanditaten der Theologie <rs ref="#tillich_person_id__2239" type="person">Elbrechts</rs> u <rs ref="#tillich_person_id__2155" type="person">Voget</rs> Näheres habe ich auch noch nicht
+               erfahren.</p>
+<p>Von Montag bis Donnerstag habe ich mal ordentlich gefaulenzt, u zwar hatte ich
+                  dazu<pb n="4"/> sogar eine moralische Verpflichtung, da ich Besuch von <rs ref="#tillich_person_id__203" type="person">Lorenz Bertheau</rs> hatte. <del rend="s">Mit</del> Wir beide sind nun hier ziemlich viel herumgestreift in der
+               Gegend, obwohl es schauderbares Wetter war. Jetzt, wo er weg ist, ist es natürlich
+               wieder fein. <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> war sehr
+               vergnügt u zeigte sich von seiner besten Seite, besondere Freundschaft hat er mit
+               meinem 11 jährigen <rs ref="#tillich_person_id__2171" type="person">Bruder Karl</rs>,
+               genannt "Kneiptanz" oder "Salem", geschlossen.</p>
+<p>Geht <rs ref="#tillich_person_id__1227" type="person">Schmuehl</rs> vielleicht Ende
+               September wieder nach <rs ref="#tillich_place_id__293" type="place">Misdroy</rs>? Daß
+               Du <del rend="s">ihr</del> in <rs ref="#tillich_place_id__189" type="place">Halle</rs> sehr seine Collegs u Seminare, auch seine Bücher genau durchstudierst,
+               um ihn<pb n="5"/> zu kritisieren u ihm was schlechtes anzuhängen, wußte ich wohl,
+               aber daß Du ihn auch in das eigens zur Erholung aufgesuchte Seebad verfolgtest, um
+               ihn auf Schritt u Tritt <del rend="s">zu</del> aufzupassen, wußte ich bisher noch
+               nicht. Hoffentlich hast Du ihn in <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> häufig getroffen, wenn du es auch nicht erwähntest. Oder läßt <hi rend="u">er</hi>
+<hi rend="u">Dich</hi> nicht in Ruhe?</p>
+<p>Mit <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> zusammen habe ich
+               auch ziemlich viel Obst abgenommen, eine Tätigkeit, die besonders angenehm ist, da
+               sie ohne Beaufsichtigung erfolgen kann. Das hat sich bei mir gründlich gerächt<del rend="s">,</del>: seit 3 Tagen leide ich an einem gewaltigen
+                  Prolaps, sodaß ich <del rend="s">mich</del><pb n="6"/>
+               beständig wandern muß. Jetzt wird's etwas besser.</p>
+<p>Daß ich in meinem Heimatsort <rs ref="#tillich_place_id__474" type="place">Worpswerde</rs> war, wirst Du gesehen haben. Fast hätte ich Lust, den
+               Unterhaltungsabend darüber wieder aufzunehmen, aber nein, es geht doch nicht.
+               Großartig war es, eine Kunstausstellung ist da, die sich sehen lassen kann neben
+               jeder. Einige wunderschöne Karten habe ich mir mitgenommen, in <rs ref="#tillich_place_id__189" type="place">Halle</rs> kannst du sie bewundern.</p>
+<p>Woher soll ich die Zeit nehmen, noch neuere Philosophie zu arbeiten, zumal mir dazu
+               die Bücher fehlen. Allerdings hoffe ich von meinem <rs ref="#tillich_person_id__2806" type="ea">Vater</rs> nächstens zum<pb n="7"/>
+               Geburtstag Bücher noch zu bekommen, aber ob es ihm nicht zu viel werden wird. Dann
+               schaffe ich mir den <rs ref="#tillich_person_id__2082" type="person">Windelbandt</rs>
+               im Semester an.</p>
+<p>Woher hast Du diese schönen Couleurbriefbogen? Hast Du ein Amt, für das Du sie
+               bekommst? oder geht Deine Wingolfsbegeisterung so weit, daß Du <del rend="s">nur</del> alle Deine Sachen mit Wappen u Zirkel bemalst? Hast du vielleicht auch
+               in allen Büchern Deinen Zirkel. Ich schätze sowas eigentlich ziemlich daneben.</p>
+<p><rs ref="#tillich_person_id__1033" type="person">Kattenbusch's</rs> Lob hörte ich
+               jüngst von einem Göttinger in den höchsten Tönen singen, sein Vortrag soll
+               interessant u lehrreich<pb n="8"/> dabei auch sehr leicht verständlich sein.</p>
+<p>Gern würde ich noch weiter mit Dir plaudern, doch sogleich kommt mein jüngerer Bruder
+               aus <rs ref="#tillich_place_id__555" type="place">Stade</rs>, daher Schluß. </p>
+<closer>
+<salute>Vale!</salute>
+<signed>Dein <rs ref="#tillich_person_id__788" type="person">Gottfried v. Hanffstengel.</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2171">
+                  <persName>Hanffstengel, Karl von</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2155">
+                  <persName>Voget, Hans</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1033">
+                  <persName>Kattenbusch, Ferdinand</persName>
+                  <occupation>Evangelischer Theologe, Wingolf</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__2082">
+                  <persName>Windelband, Wilhelm</persName>
+                  <birth>
+                     <date>1848-05-11</date>
+                     <settlement>
+                        <placeName>Potsdam</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1915-10-24</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
+               </person>
+               <person xml:id="tillich_person_id__2806">
+                  <persName>Hanffstengel, Theodor von</persName>
+                  <birth>
+                     <date>1844-04-08</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1922-01-05</date>
+                     <settlement>
+                        <placeName>Braunschweig</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
+                  <note type="bio"><p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2239">
+                  <persName>Elbrechts, ???</persName>
+                  <occupation>Theologe;</occupation>
+                  <note type="bio"><p>Er wirkte als Candidatus Theologiae in Ostfriesland.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__75">
+                  <placeName>Bremervörde</placeName>
+                  <location type="coords">
+                     <geo>53.48458 9.14306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
+               </place>
+               <place xml:id="tillich_place_id__474">
+                  <placeName>Worpswerde</placeName>
+                  <location type="coords">
+                     <geo>53.21930 8.93450</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6552711/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q269174</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__555">
+                  <placeName>Stade</placeName>
+                  <location type="coords">
+                     <geo>53.59337 9.47629</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2829901/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32747857</idno>
+               </place>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

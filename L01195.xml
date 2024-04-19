@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01195.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01194.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01197.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Kurt Leese vom 20. Februar 1933</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier><!--???-->
+                  <country>Germany</country>
+                  <collection>Privatbesitz Hans-Joachim Mähl</collection>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <date when="1933-02-20">20.02.1933</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1154">Kurt Leese</persName>
+           </correspAction>
+        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01194">Brief von Karl Keck an Paul Tillich vom 4. Februar 1933</ref><ref subtype="next_letter" type="withinCollection" target="L01197">Postkarte von Paul Tillich an Hannah Tillich vom 2. März 1933Siehe auch die kurz zuvor verfasste Karte von Paul Tillich an Hannah Tillich vom 2. März 1933.</ref></correspContext></correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="FS" when="2024-03-28">Initiale Auszeichnung des Transkripts und Endabnahme</change>
+        
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline>d. <date when="1933-02-20">20.2.33</date></dateline>
+           <salute>Lieber <rs ref="#tillich_person_id__1154" type="person">Kurt</rs>!</salute>
+        </opener>
+        <p>Hab herzlichen Dank für die Uebersendung der "Christlichen Welt" und für Deine Karte<note type="ea">Diese Karte liegt nicht vor</note>. Durch die Aufsätze<note type="ea">Gemeint sind zwei Besprechungen von Leeses Buch "<rs ref="#tillich_work_id__277" type="work">Die Krisis und Wende des christlichen Geistes</rs>": <rs ref="#tillich_work_id__282" type="work">Franz, Krisis des Christentums?</rs>, sowie <rs ref="#tillich_work_id__283" type="work">Mulert, Leeses Stellung zum Christentum</rs>.</note> in der Christl. Welt bist Du als profilierte theologische Persönlichkeit in die Oeffentlichkeit eingerückt, worüber ich mich sehr freue. Ebenso freue ich mich über Deinen Bericht, nach dem es Dir als Dozent sehr gut gehen muss.</p>
+        <p>Neulich fragte mich die Christl. Welt an, ob ich das <rs ref="#tillich_work_id__245" type="work">Buch</rs> von Dr. <rs ref="#tillich_person_id__15" type="person">Wiesengrund</rs>, meinem hiesigen Privatdozenten, über <rs ref="#tillich_person_id__1049" type="person">Kierkegaard</rs> rezensieren will. Ich habe gebeten, es Dir zu geben. Falls es kommen sollte, nimm es bitte an, es ist ausserordentlich scharfsinnig und jedem Geschwätz über diese Dinge weit überlegen.<note type="ea">Diese Rezension scheint nicht zustande gekommen zu sein.</note> Ausserdem ist es ein durchgängiger Angriff auf die dialektische Theologie und der Versuch einer Rettung des Aesthetischen bei <rs ref="#tillich_person_id__1049" type="person">K.</rs> gegen <rs ref="#tillich_person_id__1049" type="person">K.</rs> selbst.</p>
+        <p>Ich hab in diesem Semester den Versuch gemacht, eigene systematische Probleme zu entwickeln und habe die Grundlegung einer existentialgeschichtlichen Methode versucht, d.h. eine Verbindung dessen, was die Existentialphilosophie will mit der Kairos-Idee, dem Bewusstsein um das Stehen in der geschichtlichen Entscheidung. Es ergeben sich daraus eine Fülle interessanter Probleme, die ich hoffentlich einmal entfalten kann. Auf der Tagung der Kant-Gesellschaft in Halle in den Pfingstferien soll ich über das Problem "Idealismus und geschichtliche Existenz" ein Referat halten.<note type="ea">Siehe auch den <rs ref="L01235" type="letter">Brief Paul Tillichs an Ernst Cassirer vom 7. Juli 1933</rs>.</note> Ich hoffe, dass wir uns daselbst wiedersehen werden.</p>
+        <p>Die politische Lage wirkt als ein schwerer Druck auf mich. Ich habe das Gefühl eines kommenden Unheils, das auf keine Weise mehr aufzuhalten ist. Die Dinge verfolgen mich Tag und Nacht, in Arbeit und Schlaf. Es ist schwer, trotzdem arbeiten zu müssen. Ich habe mich sehr <pb n="2"/> gefreut, wieder etwas von Dir gehört zu haben und hoffe auf baldiges Wiedersehen.</p>
+        <closer>
+           <salute>Grüsse <rs ref="#tillich_person_id__2885" type="person">Frau</rs> und Kinder und sei herzlich gegrüsst<lb/>
+           Von<lb/>
+           Deinem<lb/></salute>
+           <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+        </closer>
+     </div>
+    </body>
+  <back><listBibl><bibl xml:id="tillich_work_id__277">Leese, Kurt, Die Krisis und Wende des christlichen Geistes. Studien zum anthropologischen und theologischen Problem der Lebensphilosophie, Berlin 1932.</bibl>
+               <bibl xml:id="tillich_work_id__283">Mulert, Hermann. Leeses Stellung zum Christentum, in: Die Christliche Welt Jg. 47/3 (4. Februar 1933), Sp. 123-125.</bibl>
+               <bibl xml:id="tillich_work_id__245">Adorno, Theodor W., Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ihrer Geschichte, Bd. 2. Tübingen 1933</bibl>
+               <bibl xml:id="tillich_work_id__282">Franz, Erich. Krisis des Christentums?, in: Die Christliche Welt Jg. 47/3 (4. Februar 1933), Sp. 119-123.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__15">
+                  <persName>Adorno, Theodor W.</persName>
+                  <birth>
+                     <date>1903-09-11</date>
+                     <settlement>
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969-08-06</date>
+                     <settlement>
+                        <placeName>Visp</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Musik- und Sozialphilosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118500775</idno>
+                  <note type="bio"><p>Studium in Frankfurt am Main (Promotion 1924) sowie 1925-1928 bei Alban Berg und Eduard Steuermann in Wien. Habilitierte sich 1931 in Frankfurt am Main bei Paul Tillich. Seit 1934 Aufenthalt in Oxford, 1938 Emigration in die USA, dort u.a. Mitarbeiter des Instituts für Sozialforschung sowie insb. Arbeitsgemeinschaft mit Marx Horkheimer, in deren Rahmen die Dialektik der Aufklärung (1944) entstand. Remigration nach Deutschland 1949, Professor an der Goethe-Universität Frankfurt am Main sowie dem Institut für Sozialforschung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1049">
+                  <persName>Kierkegaard, Sören</persName>
+               </person>
+               <person xml:id="tillich_person_id__2885">
+                  <persName>Leese, Minna Margarethe</persName>
+                  <note type="bio"><p>Sie war die Gattin von Kurt Leese.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1154">
+                  <persName>Leese, Kurt</persName>
+                  <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
+               </person>
+               </listPerson></back></text>
+</TEI>

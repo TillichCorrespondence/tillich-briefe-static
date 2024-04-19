@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01231.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01230.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01232.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief eines unbekannten Verfassers an Paul Tillich vom 3. oder 4. Juni 1933</title>
+            <author ref="#tillich_person_id__2722">unbekannter Verfasser</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/208(7)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+               <date notBefore="1933-06-03" notAfter="1933-06-04">03-04.06.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__389">Sassnitz (Rügen)</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01230">Brief von Ernst Bizer an Paul Tillich vom 28. Mai 1933</ref><ref subtype="next_letter" type="withinCollection" target="L01232">Brief von "Melissandros" an Paul Tillich vom 2. Juni 1933</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2024-02-21">Initiale Auszeichnung des Transkripts, Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline><rs ref="#tillich_place_id__143" type="place">Frankfurt a. M.</rs> – Römerstadt, Im Heidenfeld 56<note type="ea">Laut dem Frankfurter Adressbuch des Jahres 1933 wohnte in dieser Wohnung <rs ref="#tillich_person_id__2894" type="person">Hans Rhotert</rs>. Dieser kann dem Briefinhalt nach jedoch nicht der Verfasser sein. Etwaiger Verfasser (siehe dazu auch unten) könnte <rs ref="#tillich_person_id__2895" type="person">Helmut von den Steinen</rs> oder <rs ref="#tillich_person_id__2896" type="person">Heinrich "Heinz" Wieschhoff</rs> gewesen sein.</note><lb/>
+               <date notBefore="1933-06-03" notAfter="1933-06-04">Pfingstheiligabend</date><note type="ea">Pfingstsonntag 1933 war am 4.Juni. Der Brief dürfte demnach am 3. Juni (dem Abend vor Pfingsten), womöglich auch am 4. Juni 1933 abends abgefasst worden sein.</note></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Till</rs>!</salute>
+            </opener>
+            <p>Ich hab mich über Seine Grüsse gefreut,<note type="ea">Dieser Brief ist nicht erhalten.</note> und so macht es mir Spass, gleich zu antworten. Ich wollte neulich schon einen Brief ins Blaue starten: "An den ruchlosen Verfasser von..., - Deutschland." Der wäre sicher angekommen! Es hat uns so leid getan,dass wir einander gar nicht mehr gesehen haben. Ich hatte doch <rs ref="#tillich_person_id__1923" type="person">Seiner Frau</rs> sozusagen versprochen, Ihn zwecks Aufheiterung öfters vom Hause fortzunehmen, mit dem Auto. Das ging dann nicht, weil ich so lange auf meinen Führerschein warten musste, - die elende Polizei hat meine Papiere so langsam erledigt. Kaum hielt ich ihn in der Hand, als ich bei Ihm, d. h. <rs ref="#tillich_person_id__1424" type="person">Gaby</rs>, anrief, 3 Mal am selben Nachmittag! Aber er war auf irgendeiner Lust-Tournee, u. ich hab Ihn nie wiedergesehen.</p>
+            <p>Von <unclear><rs ref="#tillich_person_id__846" type="person">Heimann</rs></unclear> hörte ich später, dass dies Sein letzter Tag in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> gewesen sei. Reiseziel wusste der arme Imbezille nicht. Ich freue mich nun, dass man (=Plural von "Er") nach Rügen gegangen ist, ich hab Ihm das doch damals so warm angepriesen.</p>
+            <p>Meine 1. Ausfahrt hat dann (mit mir ganz allein!) <unclear><rs ref="#tillich_person_id__846" type="person">Heimann</rs></unclear> durchgemacht, der einem ja in jeder Beziehung restlos zu Gebote steht. Das ging schon <pb n="2"/> flott, vorläufig so 90 Stundenkm. <unclear><rs ref="#tillich_person_id__846" type="person">Heimann</rs></unclear> barst schier vor Bewunderung (dazu gehört bei ihm nicht viel) u. hat meinen Ruhm inzwischen weit verbreitet.</p>
+            <p>Jetzt hab ich dem Auto grössere Düsen gekauft, u. nun kann es 120 km. Leider sehe ich einem Strafmandat entgegen. Meine theoretische Prüfung verlief sehr witzig. Ich hatte ein dafür übliches Buch furchtbar flüchtig durchgelesen u. auch komplett begriffen, nur nicht besonders auf all die mir fremden technischen Ausdrücke geachtet. So wimmelt es in meinen Antworten vor <unclear>¿¿¿</unclear>, <unclear>Hütten</unclear> u. <unclear>Zweiaktern</unclear>.</p>
+            <p><rs ref="#tillich_person_id__2894" type="person">Rhotert</rs> ist seit einer Woche leider mit Auto u. mit <rs ref="#tillich_person_id__646" type="person">Frobenius</rs> darin fort an den <rs ref="#tillich_place_id__624" type="place">Lago Maggiore</rs>, wo der 60 Jahre zu werden Drohende ein kleines Landhaus besitzt. Er hatte uns beide eingeladen, aber ich hab lieber verzichtet, weil seine <rs ref="#tillich_person_id__2897" type="person">Frau</rs> mit ist. Selbe ist berüchtigt für eine böse Zunge, mit der sie besonders heimtückisch nach Frauen zu stechen versteht.</p>
+            <p>Gestern hab ich <rs ref="#tillich_person_id__646" type="person">Frobenius</rs> neuestes <rs ref="#tillich_work_id__247" type="work">Buch</rs> in Manuskript korrigiert, eine riesig umfangreiche Schwarte.<note type="ea">Die Titelei des Buches vermerkt <rs ref="#tillich_person_id__2895" type="person">Helmut von den Steinen</rs> sowie <rs ref="#tillich_person_id__2896" type="person">Heinrich Wieschhoff</rs> als Verantwortliche für Korrektur und Registererstellung.</note> Ich hatte es verschwitzt und musste es deshalb ganz u. gar an einem Nachmittag machen. Hat 8,50 M gekostet (weil ich nämlich in der Bodega sass, um abwechselnd mit Kaffee, Cognac u. Wermuth mein Arbeitstempo zu steigern). Jede Stunde kam ein Kurier vom Institut u. holte das inzwischen Fertige ab für den Druck. Ich kam mir wichtig vor! Den Abend beschloss ich im schwarzen Stern u. kam auf Spiralen nach Hause. Ich bin ja Junggeselle.</p>
+            <p>Zur Zeit ist es für mich so, dass es in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> niemand gibt, an dem zu hängen sich lohnte. Dieser Umstand macht mir Seine (wenn ich so sagen darf:) <unclear>Neigung spät u. nachträglich in etwa wertvoll</unclear>. Bitte viele Grüsse an <rs ref="#tillich_person_id__1923" type="person">Gnäfrau</rs>. Schreib Er mal wieder dem Häuptling<pb n="1"/></p>
+            <p>Ich<note type="ea">Ab hier quer am linken Rand der ersten Briefseite weitergeschrieben.</note> weiss mit der Adresse nicht Bescheid. Müsst ich Ihn als beurlaubten Professor wohl besser bezeichnen als "Genosse Tillich"? Übrigens "Meeresgruss"! Was Kitschigeres konnte Er wohl nicht finden? Ich kann mir nicht versagen zu schreiben:</p>
+            <closer><salute>Grüss er mir mein geliebtes Meer, <unclear reason="illegible">¿¿¿</unclear>.</salute>
+            </closer>
+            <postscript><p><hi rend="u">Bitte beigefügte Urkunde unterschreiben u. wiederschicken!</hi><note type="ea">Liegt nicht vor.</note> (Er hat es mir mündlich versprochen, aber schriftlich ist mirs sicherer).</p></postscript>
+         </div>
+
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__846">
+                  <persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2895">
+                  <persName>Steinen, Helmut von den</persName>
+                  <birth>
+                     <date>1890-12-06</date>
+                     <settlement>
+                        <placeName>Marburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1957</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117251909</idno>
+               </person>
+               <person xml:id="tillich_person_id__646">
+                  <persName>Frobenius, Leo</persName>
+               </person>
+               <person xml:id="tillich_person_id__2896">
+                  <persName>Wieschhoff, Heinrich</persName>
+                  <birth>
+                     <date>1906-08-01</date>
+                     <settlement>
+                        <placeName>Hagen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1961-09-18</date>
+                     <settlement>
+                        <placeName>Ndola</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/12407216X</idno>
+               </person>
+               <person xml:id="tillich_person_id__1424">
+                  <persName>Oppenheim, Gabrielle</persName>
+                  <note type="bio"><p>Frau von Paul Oppenheimer. Gemeinsam mit seinem Mann emigriete sie 1933 in ihre Heimatland Belgien. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941). </p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2897">
+                  <persName>Frobenius, Editha</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1064189253</idno>
+                  <note type="bio"><p>Sie war eine geborene Brandt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2894">
+                  <persName>Rhotert, Hans</persName>
+                  <birth>
+                     <date>1900-09-20</date>
+                     <settlement>
+                        <placeName>Hannover</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1991-02-13</date>
+                     <settlement>
+                        <placeName>Bad Traunstein</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Ethnologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1020607351</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__624">
+                  <placeName>Lago Maggiore</placeName>
+                  <location type="coords">
+                     <geo>46.01175 8.70754</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2659792/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q14379</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__247">Frobenius, Leo, Kulturgeschichte Afrikas. Prolegomena zu einer historischen Gestaltlehre, Zürich 1933.</bibl>
+               </listBibl></back></text>
+</TEI>

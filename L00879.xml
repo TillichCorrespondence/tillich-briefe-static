@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00879.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00878.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00880.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Gustav Ruprecht an Paul Tillich vom 30. Juni 1926</title>
+            <author ref="#tillich_person_id__2518">Gustav Ruprecht</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages Vandenhoeck &amp; Ruprecht - Autorenkorrespondenz/G 1888-1936</collection>
+                  <idno>Nachl. 494, G 1923. 138</idno>   
+               </msIdentifier>
+               <physDesc>
+                  <p>Briefdurchschlag, maschinenschriftlich</p>
+                  </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 144</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__2518">Gustav Ruprecht</persName>
+              <placeName ref="#tillich_place_id__186">Göttingen</placeName>
+              <date when="1926-06-30">30.06.1926</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__126">Dresden</placeName>
+           </correspAction>
+        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00878">Brief von Oskar Siebeck an Paul Tillich vom 26. Juni 1926</ref><ref subtype="next_letter" type="withinCollection" target="L00880">Brief von Oskar Siebeck an Paul Tillich vom 28. Juli 1926</ref></correspContext></correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2023-07-24">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2024-01-24">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline><rs ref="#tillich_place_id__186" type="place">Göttingen</rs>, den <date when="1926-06-30">30. Juni 1926.</date></dateline>
+           <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>.</salute>
+        </opener>
+        <p>Mit bestem Dank für Ihre Freundlichkeit, daß Sie uns bei Ihrer derzeitigen Behinderung gleich einen <rs ref="#tillich_person_id__2356" type="person">anderen Herrn</rs> genannt haben,<note type="ea">Siehe den <rs xml:id="L00875" type="letter">Brief Tillichs an Gustav Ruprecht vom 11. Juni 1926</rs>.</note> der in der Lage sein würde, uns ein sachverständiges Urteil über das Ihnen genannte Werk abzugeben, möchten wir Ihnen heute noch mitteilen, daß wir nach eingehender Berechnung nun doch zu dem Schluß gekommen sind, daß wir die Übernahme des Werkes in unsern Verlag endgültig abgelehnt haben. Die Darstellung des Verfassers hätte so mannigfaltige Unterscheidungen durch die verschiedenartigsten Satzmischungen erfordert, daß das Werk nicht unter 20 Mk. herauszubringen gewesen sein würde. Dazu aber erscheint uns heute die Kaufkraft zu gering und das Interesse an so teuren Werken zu sehr gelähmt.
+        </p>
+        <closer>
+           <salute>In vorzüglicher Hochachtung</salute>
+        </closer>
+     </div>
+    </body>
+  <back><listPerson><person xml:id="tillich_person_id__2356">
+                  <persName>Herrmann, Christian</persName>
+                  <occupation>Philosoph; Pädagoge;</occupation>
+                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
+                  <location type="coords">
+                     <geo>51.53443 9.93228</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

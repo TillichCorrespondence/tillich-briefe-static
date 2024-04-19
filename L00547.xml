@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00547.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00546.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00548.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Emanuel Hirsch vom 12. November 1917</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Leopold Potyka</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
+                  <institution>Philipps-Universität Marburg</institution>
+                  <repository>Deutsches Paul-Tillich-Archiv</repository>
+                  <idno>Mikrofilm Rolle 5; 023/024/025</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="monograph" n="firstPrint">
+                        <monogr>
+                           <author>Paul Tillich</author>
+                           <editor>Renate Albrecht/René Trautmann (Hg.)</editor>
+                           <title>Briefwechsel und Streitschriften. Theologische, philosophische und
+                              politische Stellungnahmen und Gespräche</title>
+                           <edition>Erste Auflage</edition>
+                           <imprint>
+                              <publisher>De Gruyter</publisher>
+                              <pubPlace ref="#tillich_place_id__143">Frankfurt a.M.</pubPlace>
+                              <date when="1983">1983</date>
+                              <biblScope>97f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Ergänzungs- und Nachlassbände zu den gesammelten Werken von Paul
+                              Tillich</title>
+                           <biblScope>VI</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-11-12">12.11.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__904">Emanuel Hirsch</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00546">Brief von Paul Tillich an Maria Klein vom 14. Oktober 1917</ref><ref subtype="next_letter" type="withinCollection" target="L00548">Brief von Paul Tillich an Johannes Tillich vom 12. November 1917</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="LP" when="2022-07-20">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-01-18">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline> D. <date when="1917-11-12">12. Nov. 1917</date>.</dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__904" type="person">Emmanuel</rs>!</salute>
+            </opener>
+            <p>Wie ich von <rs ref="#tillich_person_id__644" type="person">Johanna</rs> höre, liegst
+               Du in <rs ref="#tillich_place_id__68" type="place">Bonn</rs> im Lazareth. Leider
+               schreibt sie nicht, was Dir fehlt, ich bin recht unruhig und bitte Dich, mir Näheres
+               zu schreiben, wenn Du irgend kannst! Wir haben überhaupt lange nichts von einander
+               gehört (was im Übrigen relativ unwichtig ist). <rs ref="#tillich_person_id__644" type="person">Johanna</rs> schreibt mir, Du warntest uns vor zu vielem Denken
+               bezüglich der Religion. Ich verstehe das und bin im Grunde mit Dir einverstanden,
+               aber wohl von ganz anderen Voraussetzungen her. Meine Fassung des
+               Rechtfertigungsgedankens hat mich bis zu der Paradoxie des 'Glaubens ohne Gott'
+               getrieben; denn wenn das Denken ein Tun, ein Werk ist (vergl. den Begriff des
+                  <foreign xml:lang="lat">sacrificium intellectus</foreign>) und wenn Gott als
+               irgendwie seiend gedacht eben die Setzung eines gegenständlichen Denkens ist, so kann
+               er gewissermaßen das Werk dieses Gedankens nicht von jemand verlangen, den er
+               rechtfertigen will. Das Gleiche anders ausgedrückt: Auch der "Atheist" kann in seinem
+                  Atheismus<pb n="2"/> sich "gerechtfertigt" glauben von einer Ordnung oder Realität
+               oder Tiefe, die noch über dem steht, was er als "Sein Gottes" verneint. Jene
+               "Ordnung" ist natürlich nicht als ein Sein zu denken, was ein <foreign xml:lang="lat">Circulus</foreign> wäre, sondern als "Tiefe" oder "Sinn" etc. Ähnliche Gedanken
+               kannst du in <rs ref="#tillich_person_id__1791" type="person">Simmels</rs>
+               <rs ref="#tillich_work_id__138" type="work">"Rembrandt"</rs> in dem Abschnitt über
+               religiöse Kunst<note type="ea">Vgl. <rs ref="#tillich_work_id__138" type="work" n="144ff.">G. Simmel, Rembrandt, 141 ff.</rs></note> finden. Ich spreche sie
+               nicht für mich aus, sondern als Konsequenz und Möglichkeit, aus der sich eine
+               wunderbare Weite ergibt. Und die tut uns Not, wie ich jetzt in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zu sehen Gelegenheit
+                  hatte.<note type="ea"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs> war im Oktober 1917 auf der Hochzeit seiner Schwester <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. Vgl. den <rs xml:id="L00546">Brief an Maria Klein vom 14. Oktober 1917</rs>.</note> Lieber
+                  <rs ref="#tillich_person_id__904" type="person">Mane</rs>! Es ist eine
+               Katastrophe, was ich da sah! Ein hemmungsloses Negieren und Niederreißen mitten in
+               den treusten Kreisen, wo nur Energie des Geistes und <rs ref="#tillich_person_id__1394" type="person">Nietzsches</rs> Hauch hinweht... Was
+               soll werden? Der Krieg hat nur destruktiv gewirkt! Wo sind die Gegenkräfte? Ist es
+               vielleicht wirklich ein "Ende", an dem wir stehen? Schreibe mir, was Du hoffst und
+               fürchtest. </p>
+            <closer>
+               <salute>Dein treuer</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</signed>
+            </closer>
+            <postscript>
+               <p>Grüße herzlich <rs ref="#tillich_person_id__907" type="person">deine
+                  Braut</rs>!</p>
+            </postscript>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__907">
+                  <persName>Hirsch, Rose</persName>
+                  <occupation>Ehefrau von Emanuel Hirsch</occupation>
+                  <note type="bio"><p>geb. Ecke</p></note>
+               </person>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
+                  <birth>
+                     <date>1888-06-14</date>
+                     <settlement>
+                        <placeName>Bentwisch</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-07-17</date>
+                     <settlement>
+                        <placeName>Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1791">
+                  <persName>Simmel, Georg</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__68">
+                  <placeName>Bonn</placeName>
+                  <location type="coords">
+                     <geo>50.73438 7.09549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__138">Simmel, Georg, Rembrandt, ein kunstphilosophischer Versuch, Leipzig 1916.</bibl>
+               </listBibl></back></text>
+</TEI>

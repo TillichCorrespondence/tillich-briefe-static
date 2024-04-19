@@ -1,8 +1,28 @@
-const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter(config);
+const indexName = "tillich-briefe"
+
+const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter(
+  {
+    server: {
+      apiKey: "rKHV7gOz1P5xnRYbJHSpNFul81qh8Wk6",
+      nodes: [
+        {
+          host: "typesense.acdh-dev.oeaw.ac.at",
+          port: "443",
+          protocol: "https",
+        },
+      ],
+      cacheSearchResultsForSeconds: 2 * 60,
+    },
+    additionalSearchParameters: {
+      query_by: "full_text",
+      sort_by: "rec_id:asc"
+    },
+  }
+);
 
 const searchClient = typesenseInstantsearchAdapter.searchClient;
 const search = instantsearch({
-  indexName: "tillich-briefe",
+  indexName: indexName,
   searchClient,
 });
 
@@ -20,29 +40,33 @@ search.addWidgets([
 
   instantsearch.widgets.hits({
     container: "#hits",
-    templates: {
-      empty: "Keine Ergebnisse",
-      item: `
-              <h4><a href="{{ id }}.html">{{ title }}</a></h4>
-              <p>{{#helpers.snippet}}{ "attribute": "full_text" }{{/helpers.snippet}}</p>
-              <div>
-              {{#persons}}
-              <span class="badge bg-primary">{{ . }}</span>
-              {{/persons}}
-              </div>
-              {{#works}}
-              <span class="badge bg-success">{{ . }}</span>
-              {{/works}}
-              <div>
-              {{#places}}
-              <span class="badge bg-info">{{ . }}</span>
-              {{/places}}
-              </div>
-              </div>
-              <h5><span class="badge bg-warning">{{ project }}</span></h5>
-
-          `,
+    cssClasses: {
+      item: "w-100"
     },
+    templates: {
+      empty: "Keine Resultate für <q>{{ query }}</q>",
+      item(hit, { html, components }) {
+        return html` 
+        <h3><a href="${hit.rec_id}.html">${hit.title}</a></h3>
+        <p>${hit._snippetResult.full_text.matchedWords.length > 0 ? components.Snippet({ hit, attribute: 'full_text' }) : ''}</p>
+        ${hit.persons.map((item) => html`<a href='${item.id}.html'><span class="badge rounded-pill m-1 bg-warning">${item.label}</span></a>`)}
+        <br />
+        ${hit.places.map((item) => html`<a href='${item.id}.html'><span class="badge rounded-pill m-1 bg-info">${item.label}</span></a>`)}
+        <br />
+        ${hit.works.map((item) => html`<a href='${item.id}.html'><span class="badge rounded-pill m-1 bg-success">${item.label}</span></a>`)}
+        <br />`
+        ;
+      },
+    },
+  }),
+
+  instantsearch.widgets.sortBy({
+    container: "#sort-by",
+    items: [
+      { label: "Standard", value: `${indexName}`},
+      { label: "ID (aufsteigend)", value: `${indexName}/sort/rec_id:asc` },
+      { label: "ID (absteigend)", value: `${indexName}/sort/rec_id:desc` },
+    ],
   }),
 
   instantsearch.widgets.stats({
@@ -79,8 +103,25 @@ search.addWidgets([
   }),
 
   instantsearch.widgets.refinementList({
-    container: "#refinement-list-places",
-    attribute: "places",
+    container: "#refinement-list-receiver",
+    attribute: "receiver.label",
+    searchable: true,
+    searchablePlaceholder: "Suche",
+    cssClasses: {
+      searchableInput: "form-control form-control-sm mb-2 border-light-2",
+      searchableSubmit: "d-none",
+      searchableReset: "d-none",
+      showMore: "btn btn-secondary btn-sm align-content-center",
+      list: "list-unstyled",
+      count: "badge ml-2 bg-info",
+      label: "d-flex align-items-center text-capitalize",
+      checkbox: "form-check",
+    },
+  }),
+
+  instantsearch.widgets.refinementList({
+    container: "#refinement-list-sender",
+    attribute: "sender.label",
     searchable: true,
     searchablePlaceholder: "Suche",
     cssClasses: {
@@ -97,7 +138,24 @@ search.addWidgets([
 
   instantsearch.widgets.refinementList({
     container: "#refinement-list-persons",
-    attribute: "persons",
+    attribute: "persons.label",
+    searchable: true,
+    searchablePlaceholder: "Suche",
+    cssClasses: {
+      searchableInput: "form-control form-control-sm mb-2 border-light-2",
+      searchableSubmit: "d-none",
+      searchableReset: "d-none",
+      showMore: "btn btn-secondary btn-sm align-content-center",
+      list: "list-unstyled",
+      count: "badge ml-2 bg-primary",
+      label: "d-flex align-items-center text-capitalize",
+      checkbox: "form-check",
+    },
+  }),
+
+  instantsearch.widgets.refinementList({
+    container: "#refinement-list-places",
+    attribute: "places.label",
     searchable: true,
     searchablePlaceholder: "Suche",
     cssClasses: {
@@ -114,7 +172,7 @@ search.addWidgets([
 
   instantsearch.widgets.refinementList({
     container: "#refinement-list-works",
-    attribute: "works",
+    attribute: "works.label",
     searchable: true,
     searchablePlaceholder: "Suche",
     cssClasses: {

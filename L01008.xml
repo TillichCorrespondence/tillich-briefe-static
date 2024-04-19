@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01008.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01007.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01009.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Harald Poelchau an Paul Tillich vom 8. März 1929</title>
+            <author ref="#tillich_person_id__1516">Harald Poelchau</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/175(14)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1516">Harald Poelchau</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1929-03-08">08.03.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01007">Postkarte von Paul Tillich an Hannah Tillich vom 4. März 1929 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01009">Brief vom Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung an Paul Tillich vom 14. März 1929</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-07">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-17">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs> SO16, Brückenstr 13a
+                  , <date when="1929-03-08">8.3.29.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
+            </opener>
+            <p>Ich las von Ihrer Berufung nach <rs ref="#tillich_place_id__37" type="place">Frankfurt</rs> und
+               freute mich sehr. Für Sie und mich; denn nun darf ich Sie fragen, ob ich bei Ihnen
+               promovieren kann.<note type="ea">Harald Poelchau wurde in weiterer Folge bei Tillich mit einer Arbeit über "Die sozialphilosophischen Anschauungen der deutschen Wohlfahrtsgesetzgebung" promoviert (erschienen unter dem Titel "<rs ref="#tillich_work_id__126" type="work">Das Menschenbild des Fürsorgerechts</rs>").</note> Sie kommen doch gewiß vor Ihrer endgültigen Abreise noch einmal
+               nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. Können Sie dann <formula notation="TeX">\frac{1}{2}</formula> Stunde für mich freihalten und über meine
+               Arbeit mit mir sprechen? Bitte schreiben Sie mir, ob, wann u. wo? Ich bin tagsüber
+               unter Moabit 3435 auch<pb n="2"/> telephonisch zu erreichen. Bitte grüßen Sie Ihre
+                  <rs ref="#tillich_person_id__1923" type="person">Frau</rs> von mir; ihr Brief ist mitsamt dem
+               Himmelfahrtsgeburtstag eins unser schönsten Geschenke des Jahres 1928.</p>
+            <p>Hoffentlich dauert die Frankfurter Zeit nicht zu lange, und Sie kommen bald in Ihre
+               Heimat – <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. Sonst bekommen wir Sie beide
+               garnicht wieder zu sehen! Also bitte eine Audienz! Viele Grüße von <rs ref="#tillich_person_id__2737" type="person">Dorothee</rs></p>
+            <closer>
+               <signed>Ihr dankbarer <rs ref="#tillich_person_id__1516" type="person">Harald Poelchau</rs></signed>
+            </closer>
+
+         </div>
+
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1516">
+                  <persName>Poelchau, Harald</persName>
+               </person>
+               <person xml:id="tillich_person_id__2737">
+                  <persName>Poelchau, Dorothee</persName>
+                  <birth>
+                     <date>1902</date>
+                  </birth>
+                  <death>
+                     <date>1977</date>
+                  </death>
+                  <occupation>Bibliothekarin; Widerstandskämpferin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139217185</idno>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__126">Poelchau, Harald, Das Menschenbild des Fürsorgerechts, Potsdam 1932.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

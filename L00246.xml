@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00246.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00245.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00248.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Gilbert van der Smissen an Paul Tillich vom 23. November 1907</title>
+            <author ref="#tillich_person_id__1982">Gilbert van der Smissen</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/186(49)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1982">Gilbert van der Smissen</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
+               <date when="1907-11-23">23.11.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00245">Brief von Amos Hensmann an Paul Tillich vom 21. November 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00248">Brief von Gottfried von Hanffstengel an Paul Tillich vom 28. November 1907</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-02-24">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2024-03-19">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__189" type="place">Halle</rs> D. <date when="1907-11-23">23. XI.
+                     07.</date></dateline>
+               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+            </opener>
+            <p>Eigentlich bist Du ja noch nicht an der Reihe bei mir u. eigentlich bist Du ja
+               derjenige, welcher mal schreiben könnte. Aber da Du sicher sonst viel zu tun hast, so
+               will ich nicht so sein u. vielleicht reagierst Du auch mal, wenn Du gut aufgelegt
+               bist!</p>
+            <p>1) für die verschiedenen Typs vielen Dank, Du hast eine infame Art, sehr gut passende
+               Sprüchlein herauszufinden. Ich weiß allerdings nicht, ob Du gerade den Sinn
+               hineingelegt hast, den ich herausexegesiert habe, dann wäre ich ganz zufrieden. Mein
+               Typ bekommst Du vielleicht zu Weihnachten, vergessen tue ichs nicht, werde mich aber
+               wohl neu typen lassen, so dauerts etwas länger. Also die Verbindung d. W. S. 07/08,
+               die Du wahrscheinlich durch die verschiedenartigsten mehr oder weniger rosigen
+               Brillen schon gesehen hast, nun auch noch durch meine Brille! Wohnhaft <address>
+                  <street>Blumentalstr. 23</street>
+               </address>, bei Frau <rs type="person" ref="#tillich_person_id__2943">Schotte</rs> und –– <rs ref="#tillich_person_id__128" type="person">Hans Balke</rs>,
+               erstere für das leibliche Wohl des Menschen sorgend, letzterer<pb n="2"/> Quelle
+               geistiger Versorgung. Jetzt wo es so kalt ist, wird die Bude vorne garnicht mehr
+               geheizt, so hocken wir sehr oft, d.h. immer wenn wir überhaupt zu Hause sind, bei
+               einander, meistens zwar beide eifrig i. die Arbeit vertieft aber auf einmal ist dann
+               doch das Gespräch da und man profitiert manches nicht nur Theologisches. Der gute
+               Kerl klagt einem nur fast täglich die große Litanei vor von der wenig Arbeit von der
+               grenzenlosen Unwissenheit, den schrecklichen Examensaussichten, dem glänzenden
+               Durchfall durchs Examen und der ewigen Schande bis auf Kinder u. Kindeskinder. Er hat
+               ja nun auch sehr viel zu tun, wenn er auch keine Statuten revidiert, so hat ihm die
+               dumme Erl. Sache doch viel Zeit gekostet. Übrigens ist das Neuste, daß Aussicht
+               vorhanden ist, daß <rs type="place" ref="tillich_place_id__136">Erl.</rs> doch auf den Tüb. Vermittlungsantrag eingeht, dann sind wir
+               wenigstens den Bd. Punkt los.– Es ist wirklich famos wenigstens in bezug auf die
+               Konfusion. <rs ref="#tillich_person_id__2185" type="person">Meyersieck</rs> konnte ich i. vorigem Winter
+               noch nicht so genießen, wie ich das jetzt beim x kann. Eine Treppe höher wohnt dann
+                  <rs ref="#tillich_person_id__227" type="person">Herr
+               Blech</rs>,
+               der ein Virtuos auf dem Klavier ist, auch zu der ungelegensten Zeit und noch<pb n="2"/> eine Treppe höher die geheiligte Bude mit dem freundlichen Ehepaar, bei dem ich
+               auch oft herumliege. Im selben Stock wie wir wohnt dann noch der kleine
+               <rs type="person" ref="#tillich_person_id__2183">Bertheau</rs> über den ich nicht proleten
+               will. Von dieser sicheren Basis aus läßt sich dann gut mit den anderen l. Br.
+               auskommen, da kommt dann die ganze Reihe der begabten Leute i. ganz allmählicher
+               Abstufung: <rs ref="#tillich_person_id__2190" type="person">Spatz</rs>, <rs type="person" ref="#tillich_person_id__2525">Claus</rs>,
+               <rs type="person" ref="#tillich_person_id__2944">Arnd</rs>, <rs ref="#tillich_person_id__877" type="person">Amos</rs>, <rs ref="#tillich_person_id__2147" type="person">Vethaken</rs> usw. Es laufen jetzt so viele feine Berliner in
+                  <rs ref="#tillich_place_id__189" type="place">Ha</rs> herum, daß man den ganzen Bund damit
+               verseuchen könnte. Übrigens wie geht es mit dem Hallenser Unkraut unter dem Berliner
+               Weizen? Von außerordentlichen Ereignissen sind zu berichten, daß <rs ref="#tillich_person_id__2169" type="person">Struckmeier</rs> einen Lbfx gezeugt hat und der Konvent dies
+               einstimmig genehmigt hat. Eine sehr peinliche Sache ist, daß wir ein 4. Sem. (ich
+               will Dir den Namen nicht nennen) wegen offensichtl. Betrunkenheit nach der
+               Inoffiziellen im Kaiser Wilhelm mit 14 Tagen Stimmrechts u. Kouleurentziehung
+               bestrafen mußten. Schnaps, Bier, Sekt – – <formula notation="TeX">\frac{1}{2}</formula> 2h.</p>
+            <p>Soviel ich die Verbindung übersehen kann, lebt alles i. schönstem Frieden. einige
+               Leute glänzen z. B. <rs ref="#tillich_person_id__2334" type="person">Mensching</rs>, der mit rührendem
+               Eifer sich beim Keilen betätigt hat und<pb n="4"/> sich immer noch mächtig um d.
+               Confuxia kümmert. Letztere gefällt mir bis jetzt sehr wenig d. h. eine ganze Reihe
+               der Krassen die z.T. furchtbar komplizierte Leute sind, andern täte die
+               Kleinkinderstube furchtbar nötig. Aber eine ganze Reihe sind ganz famose Kerle. Die
+               meisten sind nun schon unter den nötigen Hut gekommen, einige laufen noch ledig
+               herum. "Große Schnauze <foreign xml:lang="lat">rediviva</foreign>" Redaktion
+                  <rs ref="#tillich_person_id__2157" type="person">Nickelby</rs>, Erfolg durchschlagend. "Rede an den
+               christlichen Adel wingolfitischer Nation von des wingolfitischen Standes Besserung."
+                  <rs ref="#tillich_person_id__2157" type="person">Nickelby</rs>, hohe Glanzleistung! Gestern war
+               Examenskneipe von <rs ref="#tillich_person_id__2370" type="person">Bensch</rs>, der mit genauer Not u.
+               einer "3" durchgekommen ist. Die Uhr ist <formula notation="TeX">\frac{1}{2}</formula> 12h. Eigentlich habe ich noch Stoff auf Lager für
+               mindestens weitere 6 Seiten, aber morgen fahre ich nach <rs type="place" ref="#tillich_place_id__260">Leipzig</rs> und i. d. nächsten
+               Tagen komme ich nicht mehr zum Schreiben, da mag erst mal dieses Bruchstück abgehen.
+               Wenn Du mir aber auch mal schreibst, will ich mich verpflichten, das heute
+               Vorenthaltene noch vor Weihnachten vom Stapel zu lassen wenn nicht ––– so nun kommts,
+               Sag mal Du hast mich doch mal eingepumpt. Nun wollt ich mal ganz bescheidentlich
+               angefragt haben ob ich das auch mal tun darf, entweder auf der Rückreise vor
+               Weihnachten oder auf der Reise
+               <rs type="place" ref="#tillich_place_id__198">Hamburg</rs>-<rs type="place" ref="#tillich_place_id__189">Halle</rs> gleich nach Neujahr.
+               Bloß gemütlich solls sein!? wenn auch nicht lange! Wir schließen vielleicht schon
+               Dienstag, da ginge es vielleicht noch. Aber das mußt Du ja wissen! <rs ref="#tillich_person_id__128" type="person">Hans</rs> läßt schön grüßen! </p>
+            <closer>
+               <signed>Mit herzl. Gruß Dein getr. <rs ref="#tillich_person_id__1982" type="person">Gysbert</rs>.</signed>
+            </closer>
+            <postscript>
+               <p>Grüße die Leute dies nötig haben bes. <rs ref="#tillich_person_id__2091" type="person">Witte</rs>.</p>
+            </postscript>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1982">
+                  <persName>Van der Smissen, Gilbert</persName>
+                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2169">
+                  <persName>Struckmaier, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2943">
+                  <persName>Schotte, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2091">
+                  <persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__2944">
+                  <persName>Arndt, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2147">
+                  <persName>Vethake, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__2334">
+                  <persName>Mensching, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2183">
+                  <persName>Bertheau, Hans</persName>
+                  <note type="bio"><p>Er war scheinbar der kleine Bruder von einem Mann namens Lorenz.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2185">
+                  <persName>Meyersieck, Joh.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
+                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__877">
+                  <persName>Hensmann, Amos</persName>
+                  <occupation>Pfarrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2190">
+                  <persName>Spatz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2525">
+                  <persName>???, Claus</persName>
+                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2370">
+                  <persName>Bensch, ???</persName>
+                  <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__227">
+                  <persName>Blech, George</persName>
+               </person>
+               <person xml:id="tillich_person_id__2157">
+                  <persName>Nickelby, C.</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__136">
+                  <placeName>Erlangen</placeName>
+                  <location type="coords">
+                     <geo>49.59099 11.00783</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
+               </place>
+               <place xml:id="tillich_place_id__198">
+                  <placeName>Hamburg</placeName>
+                  <location type="coords">
+                     <geo>53.55073 9.99302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911298/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
+               </place>
+               <place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

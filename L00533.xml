@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00533.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00532.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00534.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Johannes Tillich vom 31. März 1917</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-03-31">31. März 1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00532">Brief von Paul Tillich an Maria Klein vom 26. März 1917</ref><ref subtype="next_letter" type="withinCollection" target="L00534">Brief von Paul Tillich an Johannes Tillich vom 5. April 1917</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-06-14">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-01-09">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><hi rend="print">Geschrieben, den</hi>
+                  <date when="1917-03-31">31. März <hi rend="print">191</hi>7</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+            </opener>
+            <p>Ich habe Dir eine Beihilfe geschickt, die recht teuer ist, Dir aber hoffentlich gut
+               tun wird für die Osterzeit. Die Rechnung bitte ich Dich, gleich an <rs ref="#tillich_person_id__1931" type="person">Greti</rs> nach <rs ref="#tillich_place_id__80" type="place">Butterfelde</rs> zu bezahlen, da ich ihr
+               das Geld zum <hi rend="u">Geburtstag</hi> mitschenken will (33,-- M) 5 Pfund. Die
+               Briefe soll <rs ref="#tillich_person_id__2354" type="person">Anna</rs> zu den andern
+               legen. – Das Kissen von <unclear cert="medium"><rs ref="#tillich_person_id__2700" type="person">Frl. Ahleck</rs></unclear> ist angekommen zu meiner großen
+               Freude. Mir geht es sehr gut.</p>
+            <closer>
+               <signed>Dein t. <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2354">
+                  <persName>???, Anna</persName>
+                  <note type="bio"><p>Unter Umständen handelt es sich um die neue Haushaltshilfe der Tillichs, nach dem Toni Winkler ausgezogen war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2700">
+                  <persName>Ahleck, ???</persName>
+                  <note type="bio"><p>Sie hat Paul Tillich im 1. Weltkrieg ein Kissen geschickt.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__80">
+                  <placeName>Butterfelde</placeName>
+                  <location type="coords">
+                     <geo>52.87141 14.38608</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

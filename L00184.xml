@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00184.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00183.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00185.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Tante Trude an Paul Tillich vom 16. August 1907</title>
+<author ref="#tillich_person_id__203">Tante Trude</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/193</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2199">Tante Trude</persName>
+<placeName ref="#tillich_place_id__218">Interlaken</placeName>
+<date when="1907-08-16">16.08.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00183">Brief von Gottfried von Hanffstengel an Paul Tillich vom 13. August 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00185">Brief von Friedrich Banzhaf an Paul Tillich vom 18. August 1907</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-09-23" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__218" type="place">Interlaken</rs>, den <date when="1907-08-16">16 August 07.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Zu Deinem Geburtstage den Du hoffentlich noch mit Deinen Lieben dort feiern wirst, sende Dir herzlichen Glückwunsch ein kleines Geschenk kommt dann
+               später. Ich bin von <rs ref="#tillich_place_id__620" type="place">Brunnen</rs> nach hier gereist u. ist es herrliches Wetter — diese
+               Nacht gewittert. <rs ref="#tillich_person_id__644" type="person">Johannas</rs> Karte
+               finde ich später in <rs ref="#tillich_place_id__164" type="place">Freiburg</rs> vor. </p>
+<closer><salute><rs ref="#tillich_person_id__2085" type="person">Fräulein Toni</rs>
+                  beste Grüße u. Dir Geburtstagskuß</salute>
+<signed>D. <rs ref="#tillich_person_id__2199" type="person">Tante
+               Trude</rs></signed></closer>
+<closer>
+<signed><rs ref="#tillich_person_id__1924" type="person">Papa</rs> u.
+                  Geschwister</signed>
+</closer>
+</div>
+</body>
+<back><listPlace><place xml:id="tillich_place_id__218">
+                  <placeName>Interlaken</placeName>
+                  <location type="coords">
+                     <geo>46.68387 7.86638</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2660253/</idno>
+               </place>
+               <place xml:id="tillich_place_id__164">
+                  <placeName>Freiburg</placeName>
+                  <location type="coords">
+                     <geo>47.99590 7.85222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925177/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
+               </place>
+               <place xml:id="tillich_place_id__620">
+                  <placeName>Brunnen</placeName>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2199">
+                  <persName>???, Trude</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson></back></text>
+</TEI>

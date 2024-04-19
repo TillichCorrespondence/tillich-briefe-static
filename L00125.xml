@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00125.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00124.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00126.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Alfred Fritz an Paul Tillich vom 27. September 1906</title>
+<author ref="#tillich_person_id__641">Alfred Fritz</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/143(10)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+<placeName ref="#tillich_place_id__420">Stuttgart</placeName>
+<date when="1906-09-27">27.09.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00124">Brief von Gottfried von Hanffstengel an Paul Tillich vom 22. September 1906</ref><ref subtype="next_letter" type="withinCollection" target="L00126">Brief von Johanna Tillich, Johannes Tillich und Toni Winkler an Paul Tillich vom 3. Okotber 1906</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-04-26" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-01-24" who="PS">Vorbereitung zur Endabnahme</change>
+<change when="2024-02-12" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__420" type="place">Stuttgart</rs>. <date when="1906-09-27">27. IX. 06.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Für Deinen lb. Geburtstagsbrief<note type="ea">Nicht überliefert.</note> danke ich
+               Dir herzlich. Da Du darin über <sic>großen</sic> Schweigsamkeit der lb. Brüder
+               klagst, so will ich auch gleich antworten. Also Deine lb. Worte haben mich sehr
+               gefreut u. es ist mir eine große Beruhigung, an Dir einen treuen Waffenfreund für das
+               nächste Semester zu haben. Daß Du Dich nochmal recht erholst, freut mich, nun bist
+               also wieder ein sandwühlendes problemewälzendes Lebewesen, hoffentlich erbarmt sich
+               das Wetter u. Du bekommst noch recht schöne Tage.</p>
+<p> Ich bin seit 2 Wochen zu Hause, dh. in <rs ref="#tillich_place_id__393" type="place">Schwaben</rs>, gleich nach meiner Ankunft gieng ich nach <rs ref="#tillich_place_id__215" type="place">Holzgerlingen</rs>, wo ich meine kl.
+               Nichte <pb n="2"/>eifrig wiegte. Es ist ein zu liebes Ding u. wenn man ein so
+               hupfendes, rutschendes Wesen in seinem Paradieseszustand betrachtet u. denkt was es
+               noch Alles auszuhalten hat u. was es noch Alles an Freude u. Leide erleben wird, so
+               wird man wehmütig u. fröhlich zugleich. Es ist doch das größte Wunder, daß ein solch
+               hilflos zappelndes Geschöpf mehr wert ist als die ganze schöne, unermeßlich große
+               Welt. Du siehst ich habe richtig philosophiert, als ich das kl. Mädel in den Schlaf
+               wiegte.</p>
+<p> In <rs ref="#tillich_place_id__60" type="place">Bielefeld</rs> war es vollends recht
+               schön u. es war mir der Abschi<del rend="s">tti</del>ed von meinen lb. Jungens
+               beinahe schwer.<note type="ea">Vgl. <rs ref="L00118" type="letter">Brief von Alfred Fritz an Paul Tillich vom 21. August 1906</rs>.</note> Es ist ja eine andere Liebe, die man zu solchen armen Geschöpfen hat,
+               eine ganz von Sympathie losgelöste, es war mir eine Wonne dort <rs ref="#tillich_person_id__1394" type="person">Nietzsche</rs> zu lesen u. sich an
+                  <sic>den</sic> albernen Geschwätz zu erbauen. Wenn <rs ref="#tillich_person_id__1394" type="person">N.</rs> eine Zeit lang in <rs ref="#tillich_place_id__58" type="place">Bethel</rs> Hosen geputzt hätte, hätte er
+               nicht <pb n="3"/>so geistreich von den Viel zu Vielen geschrieben. Denn von seinem
+               Standpunkt sind meine lb. Jungens sich Viel zu Viele u. für mich waren sie so
+               wichtig. </p>
+<p>Du scheinst Dich auch hauptsächlich an das NT. gemacht zu haben, das ist auch meine
+               Hauptarbeit, so weit ich zu einer komme u. meine Haupt<del rend="s">arbeit</del>freude. Zu meinem Geburtstag bekam ich besonders einige
+               Schlatterkommentare: Galaterbrief, Johannesev., Markus u. Lukas, u. Mathäus. So will
+               ich mich nun vollends ganz verschlattern.
+               Daß er auch Dir gefällt freut mich, er hat etwas so urkräftiges, Sein Wort: "Daß Gott
+               einen kranken Fuß heilen kann glauben wir gerne, aber daß er unsern armen verwirrten
+               Kopf zu Stande bringen kann, glauben wir nicht," ist mir schon oft ein Trost in dem
+               Wirrwarr u. Schwierigkeit gewesen, die nun scheints einmal Theologenlos sind. Doch Du bist ja gründlicher.<pb n="4"/> Dir
+               hilft ein solches hupfendes Tröstchen nicht. Aber wenn auch nicht in dieser Form, so
+               mußt Du doch wohl auch Dein problemewälzendes Oberhaupt zur Ruhe bringen u. suchen:
+               Stille zu sein in Gott. (Weißt noch auf der <rs ref="#tillich_place_id__346" type="place">Peißnitz</rs>).</p>
+<p> Auf der Heimfahrt machte ich eine wunderschöne Rheinreise. Doch möchte ich dir
+               nimmer viel davon erzählen, sondern auf Mündliches aufsparen. Dir u. besonders deinem
+               lb. <rs ref="#tillich_person_id__1924" type="person">Vater</rs> wünsche ich recht
+               gute Erholung; Dein verehrtes <rs ref="#tillich_person_id__644" type="person">Frl.
+                  Schwester</rs>, bitte ich, zu grüßen, bei <rs ref="#tillich_person_id__2085" type="person">Frl. Toni</rs> mich zu empfehlen.</p>
+<closer>
+<salute>Es grüßt Dich herzlich</salute>
+<signed>Dein tr. <rs ref="#tillich_person_id__641" type="person">Alfred</rs></signed>
+</closer>
+<postscript>
+<p>Ich sende den Brief nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>,
+                  da ich Deine Adresse in <rs ref="#tillich_place_id__293" type="place">Misdroy</rs>
+                  nicht weiß</p>
+</postscript>
+</div>
+</body>
+<back><listPlace><place xml:id="tillich_place_id__393">
+                  <placeName>Schwaben</placeName>
+                  <location type="coords">
+                     <geo>48.00000 9.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2824481/</idno>
+               </place>
+               <place xml:id="tillich_place_id__420">
+                  <placeName>Stuttgart</placeName>
+                  <location type="coords">
+                     <geo>48.78232 9.17702</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2825297/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32749678</idno>
+               </place>
+               <place xml:id="tillich_place_id__60">
+                  <placeName>Bielefeld</placeName>
+                  <location type="coords">
+                     <geo>52.02113 8.53500</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2949188/</idno>
+               </place>
+               <place xml:id="tillich_place_id__58">
+                  <placeName>Bethel</placeName>
+                  <location type="coords">
+                     <geo>52.00697 8.52797</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2949766/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q23559794</idno>
+               </place>
+               <place xml:id="tillich_place_id__215">
+                  <placeName>Holzgerlingen</placeName>
+                  <location type="coords">
+                     <geo>48.63969 9.01149</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2899880/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32060149</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               <place xml:id="tillich_place_id__346">
+                  <placeName>Peißnitzinsel</placeName>
+                  <location type="coords">
+                     <geo>51.95410 11.91432</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2842700/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1678</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson></back></text>
+</TEI>

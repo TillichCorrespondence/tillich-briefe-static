@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00137.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00136.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00141.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Alfred Fritz von 1907</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Andreas Burri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008C
+                  </idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__328">ohne Ort</placeName>
+<date>Ohne Datum</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00136">Brief von Paul Tillich an Alfred Fritz von 1907 (Frühling)</ref><ref subtype="next_letter" type="withinCollection" target="L00141">Brief von Johannes Tillich, Toni Winkler und Johanna Tillich an Paul Tillich vom 13. Februar 1907</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-01-24" who="AB">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-01-16" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+<change when="2023-04-25" who="GM">Korrektur der ID von Schmuhl</change>
+<change when="2023-02-13" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Mein lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute>
+</opener>
+<p>"Verzicht auf Recht um der Sittlichkeit willen", so könnte man nach <rs ref="#tillich_person_id__1227" type="person">Schmuhls</rs> Ethik mein Beginnen, Dir jetzt außer der Reihe
+               zuschreiben, bezeichnen; aber mit der Sittlichkeit ist das solche Sache; denn als ich
+               so manchen anderen in diesen Tagen schrieb und so in „raumlose Bezogenheit“ zu ihnen
+               trat, da hats "mir halt verrisse", dasselbe
+               mit Dir zu tun, nachdem es seit so langer Zeit nicht geschehen war; auch der
+               Rundbrief<!--<note type="ea">Rundbrief</note>--> konnte daran nichts ändern; denn er befand sich u. a. 3 Wochen bei
+                  <rs ref="#tillich_person_id__2190" type="person">Spatz</rs>, von den Bummeleien der übrigen gar nicht
+               zu reden. In diesem Jahre werde ich ihn also kaum mehr zu sehen bekommen: Schade: denn gerade in der schnellen Studentenzeit muß es
+               schneller gehen, wenn nicht alles veralten will. Zwar habe ich <rs ref="#tillich_person_id__2190" type="person">Spatz</rs> den Kopf diesbezüglich gewaschen, aber wie lange das verhält,
+               weiß man nicht; im übrigen war <rs ref="#tillich_person_id__2190" type="person">Spatz</rs> einer der Durchreisenden
+               und – wie <rs ref="#tillich_person_id__310" type="person">Fr. Büchsel</rs> unser Haus nann<del rend="s">n</del>te – im "Hôtel zum Durchreisenden l.Br." einkehrenden <rs ref="#tillich_place_id__189" type="place">Hallenser</rs>. Wir redeten sehr ernst und "tiefinnerlich"
+               längere Zeit über Personen und Sachen und ich war erfreut, wie sehr er zugenommen hat
+               "an Alter, Weisheit…" – was an <rs ref="#tillich_place_id__189" type="place">Halle</rs> der Punkte folgen würde, erfuhr ich von <rs ref="#tillich_person_id__128" type="person">Hans Balke</rs>, der es durchaus für möglich hält, daß er im <pb n="2"/>
+               nächsten Semester x wird. So wäre ja <rs ref="#tillich_person_id__1696" type="person">Hermanns</rs>
+               Lieblingswunsch erfüllt; ich würde mich auch riesig freuen. – Am selben Tage war
+                  <rs ref="#tillich_person_id__310" type="person">Fr. Büchsel</rs> da, der in <rs ref="#tillich_place_id__403" type="place">Soest</rs> "einen gut kehrenden neuen Besen" zu Weihnachten bekam
+               (Konventsgeheimnis) und auch diesbezüglich erzählte; er hat es nicht leicht trotz der
+               5 ll. Bb., die er dort mitzuregieren hat; aber die Arbeit macht ihm viel Freude und
+               es muß auch etwas schönes sein! – In selbiger Woche hatte mich <rs ref="#tillich_person_id__128" type="person">Hans Balke</rs> sofort nach der Weihnachtskneipe besucht; war der Gedanke schon rührend, so war
+               die Ausführung grandios. Am ersten Abend Examenskneipe von <rs ref="#tillich_person_id__2855" type="person">Stops</rs>, der mit 2-3
+               bestanden hatte, im Kaiserkeller mit <rs ref="#tillich_person_id__2262" type="person">Ernst
+               Gründler</rs>, <rs ref="#tillich_person_id__2263" type="person">Th. Jäger</rs>, <rs ref="#tillich_person_id__2091" type="person">H. Witte</rs>.
+               <rs ref="#tillich_person_id__2264" type="person">Starke</rs>
+<rs ref="#tillich_person_id__2265" type="person">Grüber</rs> und <rs ref="#tillich_person_id__2266" type="person">Hans</rs>;
+               Du wirst mich Schlemmer schimpfen und nicht mit Unrecht. Am nächsten Tage kam
+                  <rs ref="#tillich_person_id__2154" type="person">Stosch</rs> mit seinem Lbfx durch und aßen bei uns
+               Mittag; so lernte ich den jüngsten des großen Hamburger Zwar-Aber-Geschlechts kennen
+               in seinen Ähnlichkeiten und Verschiedenheiten ihn vergleichend; jedenfalls gefiel er
+               mir sehr gut. Die Hauptsache
+               aber war der x selbst, der die älteren Ausführungen von
+               <rs ref="#tillich_person_id__877" type="person">Amos</rs> ergänzte; <rs ref="#tillich_place_id__189" type="place">Halle</rs> steht auf unerreichter Höhe. Der Geist strömt und <rs ref="#tillich_person_id__845" type="person">Heim</rs> gibt
+               neuen und zerstört alle naturhafte Orthodoxie. Nur fehlen etwas die älteren Semester
+               die mehr gebend sein könnten, wie wir es in der Jugend hatten. <pb n="3"/> Daher
+               finden wohl schwierigere Naturen, wie <rs ref="#tillich_person_id__2138" type="person">Heller</rs>,
+               <rs ref="#tillich_person_id__2380" type="person">J.
+               Kilger</rs> u. s. w. nicht ganz, was sie wollen; ich
+               sollte <add place="superlinear">vor</add> Weihnachten hinkommen und habe es mir durch
+               große Kämpfe verwinden können; das Hindernis war die hiesige Verbindung; sie ist
+               relativ auf der Höhe, so daß sie fähig ist, sich mit <hi rend="u">dem</hi>
+<rs ref="#tillich_place_id__37" type="place">Berliner</rs> Problem abzugeben, den Weiberkneipen;
+               nachdem ein scheußlicher Fall (Krankheit durch Küssen) die Gefährlichkeit wieder
+                  grell gezeigt hat (s. Ts.
+               <rs ref="#tillich_person_id__2267" type="person">Kraut</rs>), ist eine energische Reaktion im Werke. Ich
+               denke, wir werden weitreichende Gegenmaßregeln durchbringen. Mit dem persönlichen
+               Verkehr ist natürlich nicht viel los; das ist eben einfach unmöglich gemacht durch
+               die Entfernungen. – Mein Arbeiten ist durch die vielen Betriebe etwas ins Stocken
+               geraten, zumal ein gewisser Abschnitt erledigt war: Kg. I und Einleitung ins N-T;
+               minimal, aber doch ein Anfang. Jetzt will ich ans Übersetzen des A. u. N-T. gehen;
+               das "Wie" ist mir beim N-T noch sehr dunkel; ganz ohne Kommentare geht es doch nicht. Hast Du welche
+               benutzt und zu welchen Büchern? – Etwas dazwischen kommt eine Katechese über die
+               Dämonenheilung <rs resp="Lk-4" type="bible">Luk 4</rs>; ich bin selten so ratlos
+               gewesen. Wie bringt man Kindern ein Begriff vom Dämonischen bei? Und wenn, wie
+               verwertet man derartige Geschichten? Am <date when="1908-01-22">22 Jan.</date> bin ich dran. Dann aber gehts auf gen
+                  <rs ref="#tillich_place_id__225" type="place">Jeru<pb n="4"/>salem</rs> zum Kaiserkommers. –
+               Weißt Du etwas Gewisses über <rs ref="#tillich_person_id__1696" type="person">Hermann</rs>? man munkelt
+               viel von Lic u. s. w.?. – Wir hatten ein schönes stilles Weihnachtsfest mit unsern
+               Großeltern und Du wirst auch ein stilles Fest gehabt haben; aber ich weiß, wie das
+               erste Weihnachten ist, wo jemand fehlt, der sonst der Spender so mancher Freude war.
+               – Heute früh erhielt mein <rs ref="#tillich_person_id__1924" type="person">Vater</rs> die Nachricht von
+               dem Tode seines Lbfx, des Vaters unserer <rs ref="#tillich_person_id__2155" type="person">Vogets</rs>.
+               Die armen Jungen! Ich war tief erschüttert; der eine ist F-J. in <rs ref="#tillich_place_id__189" type="place">Halle</rs> und die
+               anderen beiden sind wohl noch ziemlich jung; es ist furchtbar schwer so ein
+               Weihnachten und Neujahr. – Wie hat <rs ref="#tillich_person_id__2162" type="person">Lorenz</rs> die Tage
+               überstanden? Wo war er? Tritt ihn doch mal, mir zu schreiben! – Und nun wünsche ich
+               Dir ein neues Jahr, dessen Hauptinhalt, der Sieg im Kampf mit der Prüfungskommission,
+               die recht vollständig gelingen möge! – Und <hi rend="u">mein</hi> erster Wunsch fürs
+               neue Jahr ist ein Brief von Dir auf dem ersten Morgenkaffee des Jahres.
+            </p>
+<closer>
+<salute>Viele herzliche Grüße</salute>
+<signed>in treuer Liebe Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>. </signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__2138">
+                  <persName>Heller, Otto</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2091">
+                  <persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2265">
+                  <persName>Grüber, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2162">
+                  <persName>Lorenz, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2267">
+                  <persName>Kraut, Ts.</persName>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2266">
+                  <persName>???, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__877">
+                  <persName>Hensmann, Amos</persName>
+                  <occupation>Pfarrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2190">
+                  <persName>Spatz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2154">
+                  <persName>Stosch, Martin</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2262">
+                  <persName>Gründler, Ernst</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2263">
+                  <persName>Jäger, Th.</persName>
+               </person>
+               <person xml:id="tillich_person_id__2380">
+                  <persName>Kilger, Joh.</persName>
+                  <note type="bio"><p>Er war der Bruder von Albert Kilger.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2155">
+                  <persName>Voget, Hans</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
+               <person xml:id="tillich_person_id__2264">
+                  <persName>Starke, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2855">
+                  <persName>Stops, ???</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__403">
+                  <placeName>Soest</placeName>
+                  <location type="coords">
+                     <geo>51.57558 8.10619</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2831708/</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__225">
+                  <placeName>Jerusalem</placeName>
+                  <location type="coords">
+                     <geo>31.76904 35.21633</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/281184/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1218</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

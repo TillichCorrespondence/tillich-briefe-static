@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00575.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00574.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00576.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Erich Pfeiffer an Paul Tillich vom 26. Juli 1918</title>
+            <author ref="#tillich_person_id__1487">Erich Pfeiffer</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Leopold Potyka</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/174(39)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1487">Erich Pfeiffer</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1918-07-26">26.07.1918</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00574">Brief von Paul Tillich an Maria Klein vom 10. Juli 1918</ref><ref subtype="next_letter" type="withinCollection" target="L00576">Postkarte von Alwin Backhaus an Paul Tillich vom 20. August 1918</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="LP" when="2022-04-16">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-02-09">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>Reichwehr-Brigade No. 15<rs ref="#tillich_place_id__37" type="place">(Berlin)</rs>
+                  <date when="1918-07-26">26/VII</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>!</salute>
+            </opener>
+            <p>Erst heute erhielt ich Ihre Karte. Allerherzlichsten Glückwunsch. Ich habe mehrmals
+               wiederum vergeblich antelefoniert. Morgen fahre ich <add place="sublinear">auf Urlaub
+                  nach <rs ref="#tillich_place_id__437" type="place">Thüringen</rs> u. <rs ref="#tillich_place_id__32" type="place">Oberbayern</rs></add> u. fahre erst
+               Ende August<pb n="2"/> zurück. Leider macht es sich mit dem Koffer nicht mehr! </p>
+            <closer>
+               <salute>Herzlichst Ihr</salute>
+               <signed><rs ref="#tillich_person_id__1487" type="person">Pfeiffer</rs></signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPlace><place xml:id="tillich_place_id__32">
+                  <placeName>Bayern</placeName>
+                  <location type="coords">
+                     <geo>49.00000 11.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2951839/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q980</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__437">
+                  <placeName>Thüringen</placeName>
+                  <location type="coords">
+                     <geo>50.91667 11.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2822542/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1205</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1487">
+                  <persName>Pfeiffer, Erich</persName>
+                  <occupation>Hauptmann im 1. WK</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson></back></text>
+</TEI>

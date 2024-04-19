@@ -1,96 +1,96 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00481">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Maria Klein <lb/>vom 16. Mai 1916</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00481.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00478.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00483.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Maria Klein vom 16. Mai 1916</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divnity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/178(8)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divnity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/178(8)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__328">ohne Ort</placeName>
-               <date when="1916-05-16">16.05.1916</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1594">Maria Klein</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00478">Brief von Paul Tillich an Johannes Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00483">Brief von Paul Tillich an Toni Winkler </ref><ref subtype="next_letter" type="withinCorrespondence" target="L00508">Brief von Paul Tillich an Maria Klein </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-05-10">Intitale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2023-11-29">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline> d. <date when="1916-05-16">16. Mai</date></dateline>
-               <salute>Liebe Maria!</salute>
-            </opener>
-            <p><rs ref="tillich_work_id__74" type="work">Die Rede</rs> von <rs ref="#tillich_person_id__1954" type="person">Tröltsch</rs> habe ich bekommen.<note type="ea">Vgl. den <rs xml:id="L00508" type="letter">Brief vom Oktober 1916</rs>.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__328">ohne Ort</placeName>
+<date when="1916-05-16">16.05.1916</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1594">Maria Klein</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00478">Brief von Paul Tillich an Johannes Tillich vom 1. Mai 1916</ref><ref subtype="next_letter" type="withinCollection" target="L00483">Brief von Paul Tillich an Toni Winkler vom 23. Mai 1916</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-10" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-29" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline> d. <date when="1916-05-16">16. Mai</date></dateline>
+<salute>Liebe Maria!</salute>
+</opener>
+<p><rs ref="#tillich_work_id__74" type="work">Die Rede</rs> von <rs ref="#tillich_person_id__1954" type="person">Tröltsch</rs> habe ich bekommen.<note type="ea">Vgl. den <rs ref="L00508" type="letter">Brief vom Oktober 1916</rs>.
                   In dem Brief bezieht sich <rs ref="#tillich_person_id__1928" type="person">Tillich</rs> auf die angesprochene Rede als "Rektoratsrede".</note> Sie hat mir
                viel Freude gemacht; es ist Geist drin, sogar Wahrheit, allerdings nicht nur; der
-               Relativismus ist zu wenig ernst bekämpft. Hab vielen Dank dafür! – Daß <rs ref="#tillich_person_id__374" type="person">H.</rs><note>Wahrscheinlich ist <rs type="person" ref="#tillich_person_id__374">Hans Christiansen</rs> gemeint.
-                  Vgl. Briefe vom <rs type="letter" xml:id="L00523">27. November 1916</rs> und <rs type="letter" xml:id="L00532">26. März 1917</rs>.</note> bei <rs ref="#tillich_place_id__459" type="place">Verdun</rs> ist, ist natürlich schwer
+               Relativismus ist zu wenig ernst bekämpft. Hab vielen Dank dafür! – Daß <rs ref="#tillich_person_id__374" type="person">H.</rs><note>Wahrscheinlich ist <rs ref="#tillich_person_id__374" type="person">Hans Christiansen</rs> gemeint.
+                  Vgl. Briefe vom <rs ref="L00523" type="letter">27. November 1916</rs> und <rs ref="L00532" type="letter">26. März 1917</rs>.</note> bei <rs ref="#tillich_place_id__459" type="place">Verdun</rs> ist, ist natürlich schwer
                für Dich; aber es mußte ja auch im Westen endlich mal zu Entscheidungen kommen; und
                jeder kann stolz sein, der dabei mitwirkt. – Warum ich Dir nicht schreibe;<pb n="2"/>
                Vor allem deshalb nicht, weil ich seit Februar 6 mal das Quartier gewechselt habe;
@@ -106,12 +106,17 @@
                   geben ist Eure Sache</hi> denn darin haben wir Mangel, nicht an Äußerem. Wir
                verlieren nur. Ihr solltet uns helfen, etwas zu behalten durch Berichte, Gedanken,
                Leben, Geist… Diese "Liebesgabe" erhoffe ich von Dir.</p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-            </closer>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1954"><reference>Tröltsch</reference><persName>Troeltsch, Ernst</persName>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1061">
+                  <persName>Klein, Ernst August Ferdinand</persName>
+                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1954">
+                  <persName>Troeltsch, Ernst</persName>
                   <birth>
                      <date>1865-02-17</date>
                      <settlement>
@@ -125,7 +130,17 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
-               </person><person ref="#tillich_person_id__1928"><reference>Tillich</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1063">
+                  <persName>Klein, Elisabeth</persName>
+                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -138,15 +153,9 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__374"><reference>H.</reference><persName>Christiansen, Hans</persName>
-                  <occupation>Unterhielt wohl eine Art Liasion mit Maria Klein; wird in ihren Briefen von 1913 an Tillich erwähnt</occupation>
-               </person><person ref="#tillich_person_id__374"><reference>Hans Christiansen</reference><persName>Christiansen, Hans</persName>
-                  <occupation>Unterhielt wohl eine Art Liasion mit Maria Klein; wird in ihren Briefen von 1913 an Tillich erwähnt</occupation>
-               </person><person ref="#tillich_person_id__1061"><reference>Vater</reference><persName>Klein, Ernst August Ferdinand</persName>
-                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
-               </person><person ref="#tillich_person_id__1063"><reference>Mutti</reference><persName>Klein, Elisabeth</persName>
-                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
-               </person><person ref="#tillich_person_id__2020"><reference>Dox</reference><persName>Wegener, Carl Richard</persName>
+               </person>
+               <person xml:id="tillich_person_id__2020">
+                  <persName>Wegener, Carl Richard</persName>
                   <birth>
                      <date>1883-08-03</date>
                      <settlement>
@@ -161,39 +170,35 @@
                   </death>
                   <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
-               </person><person ref="#tillich_person_id__1931"><reference>Greti</reference><persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl><bibl ref="tillich_work_id__74">Troeltsch, Ernst, Über Maßstäbe zur Beurteilung historischer Dinge. Rede zur Kaisersgeburtstagsfeier der Berliner Universität. in: Historische Zeitschrift, Jg. 116. Nr. 1 (1916), S. 1-47.</bibl></listBibl><listPlace><place ref="#tillich_place_id__459"><reference>Verdun</reference><placeName>Verdun</placeName>
+               </person>
+               <person xml:id="tillich_person_id__374">
+                  <persName>Christiansen, Hans</persName>
+                  <occupation>Unterhielt wohl eine Art Liasion mit Maria Klein; wird in ihren Briefen von 1913 an Tillich erwähnt</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__459">
+                  <placeName>Verdun</placeName>
                   <location type="coords">
                      <geo>49.15964 5.38290</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2969958/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q154748</idno>
-               </place><place ref="#tillich_place_id__41"><reference>Lichtenrade</reference><placeName>Berlin-Lichtenrade</placeName>
-                  <location type="coords">
-                     <geo>52.39844 13.40637</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
-               </place><place ref="#tillich_place_id__126"><reference>Dresden</reference><placeName>Dresden</placeName>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place></listPlace><listLetter><letter ref="L00508"><reference>Brief vom Oktober 1916</reference><title>Brief von Paul Tillich an Maria Klein <lb/>vom Oktober 1916 </title>
-            </letter><letter ref="L00523"><reference>27. November 1916</reference></letter><letter ref="L00532"><reference>26. März 1917</reference></letter></listLetter></back></text>
+               </place>
+               <place xml:id="tillich_place_id__41">
+                  <placeName>Berlin-Lichtenrade</placeName>
+                  <location type="coords">
+                     <geo>52.39844 13.40637</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__74">Troeltsch, Ernst, Über Maßstäbe zur Beurteilung historischer Dinge. Rede zur Kaisersgeburtstagsfeier der Berliner Universität. in: Historische Zeitschrift, Jg. 116. Nr. 1 (1916), S. 1-47.</bibl>
+               </listBibl></back></text>
 </TEI>

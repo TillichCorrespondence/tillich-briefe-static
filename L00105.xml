@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00105.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00103.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00106.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Johannes Tillich und Toni Winkler an Paul Tillich vom 26. Mai 1906</title>
+            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
+            <author ref="#tillich_person_id__2085">Toni Winkler</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig und diktiert</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1925">Johannes Tillich</persName>
+               <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1906-05-26">26.05.1906</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00103">Brief von Hermann Schafft an Paul Tillich vom 5. April 1906</ref><ref subtype="next_letter" type="withinCollection" target="L00106">Brief von Johanna Tillich und Toni Winkler an Paul Tillich vom Juli 1906</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-02-22">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2024-02-07">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>, d. <date when="1906-05-26">26./V. 06.</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Sohn</rs>.</salute>
+            </opener>
+            <p>Endlich komme ich einmal dazu, einen Brief an Dich zu diktieren. Ueber die
+               fortgesetzten guten Nachrichten von Dir freuen wir uns sehr. Siehe nur zu, daß Du
+               nicht zu viel arbeitest, u. gönne Dir ein paar Tage der Erholung in den
+               Pfingstferien. Vielleicht ist <rs type="place" ref="#tillich_place_id__583">Ilmenau</rs> nicht zu weit wo
+               <rs type="person" ref="#tillich_person_id__2794">Tante Lenchen</rs> wohnt, die würde Euch
+               vielleicht ein billiges Quartier beschaffen können. Uebrigens ist der <rs type="person" ref="#tillich_person_id__2535">Harz</rs> ebenso
+               nah. Nach <rs type="place" ref="#tillich_place_id__132">Eisenach</rs> zu gehen haben wir endgültig aufgegeben.
+               Die Tage dort wären zu anstrengend für mich. Ich denke mich besser bei Pastor <rs type="person" ref="#tillich_person_id__2795">Horn</rs> zu erholen, wohin<pb n="2"/>
+               <rs ref="#tillich_person_id__644" type="person">Johanna</rs> mitgehen wird, etwa vom <date when="1906-06-05">5.</date> – <date when="1906-06-09">9. Juni</date>.
+               Einiges möchte ich noch auf Deinen Kollegienbericht erwidern: Ich verstehe, was Dir
+               an <rs ref="#tillich_person_id__1013" type="person">Kähler</rs> anstössig ist, aber es bleibt dabei, dass
+               man nur durch den Glaubensakt oder durch die Wiedergeburt in den Kreis der
+               christlichen Erkenntnis gelangen kann. Daß der Glaube einerseits durch das Wort
+               Gottes in der Schrift gewirkt wird, und andrerseits doch als neues Organ der
+               Erkenntnis der Bibel gegenüber seine relative Selbstständigkeit hat, ist durchaus
+               keine Paradoxie. <rs ref="#tillich_person_id__484" type="person">Dorner</rs> hat ähnliche
+                  Ausführungen.<pb n="3"/> Auch <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs> stimmt
+               damit überein, wenn auch sein Aufbau etwas anders ist. Es giebt eben keine
+               voraussetzungslose Wissenschaft, insonderheit gilt das von der Theologie, sowohl bei
+               der Ethik wie bei der Dogmatik. Lies einmal wieder <rs type="bible" ref="1Kor-2,4-16">1. Cor. 2. v. 4–16.</rs> –</p>
+            <p>– Nächstens wird in den Wingolfsblättern ein Artikel von mir erscheinen, eine scharfe
+               Entgegnung auf den Angriff von "<hi rend="aq">Heppe</hi>" in № 16., der Euch auch
+               geärgert haben wird. Im Berliner Wingolf ist man ziemlich einig und vermeidet bei
+               vermittelndem Standpunkt scharfe Auseinandersetzung. Ich denke, der Göttinger
+               Vertagungsantrag wird die notwendige<pb n="4"/> Entscheidung herbeiführen. Haltet
+               nur Euren Zusatz zum Prinzip fest. Auch <rs type="place" ref="#tillich_place_id__37">Berlin</rs> giebt hierin nicht nach, nachdem man
+               den neuen Zusatz (religiöse Auffassung) im vorigen Semester beschlossen hat. –
+               Endlich noch die Mitteilung, daß wir unsere Sommerferien vom <date when="1906-07-09">9. Juli</date> – <date when="1906-08-17">17. August</date> zu
+               halten gedenken. Nun behüte Dich Gott und gebe Dir viel Pfingstsegen. –– </p>
+            <closer>
+               <signed>Gruß u. Kuß Dein tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs></signed>
+            </closer>
+         </div>
+         <div>
+            <opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute></opener>
+            <p>auch von mir noch einen recht schönen Sonntagsgruß! Gestern war die erste
+               Pfingstbetstunde <rs ref="#tillich_person_id__276" type="person">Pastor Braun</rs>, außer daß sie etwas
+               zu lang war, war es sehr schön, ich freue mich schon auf heut, <rs ref="#tillich_person_id__2260" type="person">Past. Conrad</rs>, der mir zwar voriges Jahr garnicht gefiel, aber wer
+               weiß, ob sich mein Geschmack nicht geändert hat, oder er jetzt nicht mehr so laut
+               schreit. – <rs ref="#tillich_person_id__1924" type="person">Papa</rs> wird morgen von den alten jungen u.
+               jungen Mädchen beschert, er bekommt einen Aktenständer u. 1 Werk <rs type="work" ref="#tillich_work_id__281">Zahn, Einführung in
+                  das Neue Testament, 2 Bände 25 MK</rs> Er weiss es aber noch nicht. –</p>
+            <closer><salute>Nun leb wohl, sie sehr gegrüßt von D. tr. T. <rs ref="#tillich_person_id__2085" type="person">Toni</rs></salute></closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2260">
+                  <persName>???, Conrad</persName>
+                  <occupation>Pfarrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2535">
+                  <persName>Harz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1013">
+                  <persName>Kähler, Martin</persName>
+                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2794">
+                  <persName>Lenchen, Tante</persName>
+               </person>
+               <person xml:id="tillich_person_id__276">
+                  <persName>Braun, Theodor</persName>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__484">
+                  <persName>Dorner, Isaak August</persName>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__2795">
+                  <persName>Pastor Horn</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__281">Zahn, Theodor. Einführung in das Neue Testament, Leipzig 1887.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__583">
+                  <placeName>Ilmenau</placeName>
+                  <location type="coords">
+                     <geo>50.68322 10.91858</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2896514/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32062217</idno>
+               </place>
+               <place xml:id="tillich_place_id__132">
+                  <placeName>Eisenach</placeName>
+                  <location type="coords">
+                     <geo>50.98070 10.31522</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2931574/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31987608</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

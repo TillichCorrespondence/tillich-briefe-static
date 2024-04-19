@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01007.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01005.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01008.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Postkarte von Paul Tillich an Hannah Tillich vom 4. März 1929 [PS]</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/2(26)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Postkarte, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+                    <date when="1929-03-04">04.03.1929</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01005">Brief von Ad. v. Rantzau an Paul Tillich vom 3. März 1929</ref><ref subtype="next_letter" type="withinCollection" target="L01008">Brief von Harald Poelchau an Paul Tillich vom 8. März 1929</ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-09-06">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-12-20">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="postcard">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+                    <salute>Liebste!!</salute>
+                </opener>
+                <p>Nach mühsamer Fahrt, trotz F-D-Zug 1 <formula notation="TeX">\frac{1}{2}</formula> St. Verspätung, in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> an, von <rs ref="#tillich_person_id__664" type="person">Gelb</rs> abgeholt, kurze Unterhaltung, um 1 ins Bett, glänzend geschlafen. Um <formula notation="TeX">\frac{1}{2}</formula> 10 bei <rs ref="#tillich_person_id__1610" type="person">Riezler</rs>. Sehr feine Besprechungen. Dann mit <rs ref="#tillich_person_id__664" type="person">Gelb</rs> im Seminar, dann beim <rs ref="#tillich_person_id__2503" type="person">Dekan</rs>. Überall freundlichste Aufnahme. Mittagessen bei <rs ref="#tillich_person_id__1610" type="person">Riezler</rs>: Fabelhafte Wohnung und Bilder. Spaziergang mit <rs ref="#tillich_person_id__1972" type="person">Ilse</rs>. Tee bei <rs ref="#tillich_person_id__1577" type="person">Reinhard</rs> (berühmter Gräcist) Dort <rs ref="#tillich_person_id__736" type="person">Gundolf</rs> und <rs ref="#tillich_person_id__2504" type="person">Frau</rs>. Feine Unterhaltung mit ihm. Bitte, ihn in <rs ref="#tillich_place_id__203" type="place">Heidelberg</rs> zu besuchen.<note type="ea">Tillich kam dieser Einladung im Jahr 1930 nach, wie aus dem Gästebuch Gundolfs zu entnehmen ist (vgl. <rs ref="#tillich_work_id__79" type="work">Gundolf, Briefe. Neue Folge, 262, Anm. 353</rs>).</note> Dann Abendbrot bei <rs ref="#tillich_person_id__664" type="person">Gelb</rs>. Lange intensive Dis<pb n="2"/>kussion mit ihm, <rs ref="#tillich_person_id__697" type="person">Goldstein</rs>, <rs ref="#tillich_person_id__1610" type="person">Riezler</rs>, <rs ref="#tillich_person_id__1532" type="person">Prinzhorn</rs>, <rs ref="#tillich_person_id__1577" type="person">Reinhardt</rs> etc. Glänzender Kreis. Heute Wohnungssachen etc... Wahrscheinlich Ankunft in <rs ref="#tillich_place_id__126" type="place">Dresden</rs> <date when="1929-03-05">Dienstag</date> Abend um 11. / <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> nicht sehr groß-städtisch!
+</p>
+                <closer>
+                    <salute>In Liebe</salute>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+                </closer>
+            </div>
+        </body>
+    <back><listPerson><person xml:id="tillich_person_id__2504">
+                  <persName>Gundolf, Elisabeth</persName>
+                  <birth>
+                     <date>1893-11-10</date>
+                  </birth>
+                  <death>
+                     <date>1958-02-13</date>
+                     <settlement>
+                        <placeName>Oxford</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Nationalökonomin; Schriftstellerin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116766972</idno>
+                  <note type="bio"><p>Sie war die Frau von Friedrich Gundolf.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__697">
+                  <persName>Goldstein, Kurt</persName>
+                  <occupation>Deutsch-amerikanischer Neurologe und Psychiater</occupation>
+                  <note type="bio"><p>Kurt G. studierte bis 1903 Medizin in Breslau und Heidelberg, wo er promoviert wurde. Nach dem Studium arbeitete er zunächst als klinischer Assistent am Neurologischen Institut Frankfurt/Main sowie in der psychiatrischen Klinik der Universität Heidelberg, bevor er 1906-1914 an die psychiatrischen Klinik Königsberg wechselte, an der dortigen Universität als Privatdozent tätig war und sich schließlich auch habilitierte. Bereits 1905 hatte er Ida Zuckermann geheiratet, mit der er drei Töchter hatte. 1916-1930 arbeitete er an der Universität Frankfurt/Main und als Direktor des Neurologischen Instituts. 1930 wechselte er nach Berlin, wo er bis 1933 blieb. Nach kurzer SA-Haft konnte G. 1933 zuerst nach Amsterdam und 1934 weiter in die USA emigrieren. Im selben Jahr ließ es sich von seiner ersten Frau Ida scheiden und heiratete kurz darauf die Neuropsychiaterin Eva Rothmann. In den USA lehrte und arbeitete er bis 1940 an diversen New Yorker Hochschulen (u.a. Columbia) bzw. Kliniken und war anschließend 1940-1945 an der School of Medicine der Tufts University, Massachusetts, beschäftigt. Nach dem Krieg hatte es bis zu seinem Tod eine Privatpraxis in New York und hatte währenddessen diverse Gastprofessuren (u.a. City College, New School, Brandeis Univ.) inne.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1610">
+                  <persName>Riezler, Kurt</persName>
+                  <birth>
+                     <date>1882-02-11</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1955-09-06</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Diplomat und Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
+                  <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2503">
+                  <persName>Platzhoff, Walter</persName>
+                  <birth>
+                     <date>1881-09-27</date>
+                     <settlement>
+                        <placeName>Elberfeld</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969-08-09</date>
+                  </death>
+                  <occupation>Historiker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116208929</idno>
+               </person>
+               <person xml:id="tillich_person_id__664">
+                  <persName>Gelb, Adhémar</persName>
+               </person>
+               <person xml:id="tillich_person_id__1972">
+                  <persName>Usener, Ilse</persName>
+               </person>
+               <person xml:id="tillich_person_id__736">
+                  <persName>Gundolf, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1532">
+                  <persName>Prinzhorn, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__1577">
+                  <persName>Reinhardt, Karl</persName>
+                  <occupation>Altphilologe</occupation>
+                  <note type="bio"><p>1905-1910 Studium der Klassischen Philologie in Bonn und Berlin, 1910 Promotion in Berlin, 1914 Habilitation in Bonn. 1916-1918 außerordentlicher Professor in Marburg, 1919-1923 ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf an die Universität Frankfurt, wo R., unterbrochen von einigen Jahren an der Universität Leipzig (1942-1946) bis zu seiner Emeritierung 1951 blieb und lehrte. Er war mit Elly Reinhardt (geb. Boessneck) verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__203">
+                  <placeName>Heidelberg (Deutschland)</placeName>
+                  <location type="coords">
+                     <geo>49.40768 8.69079</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2907911/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2966</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__79">Gundolf, Friedrich, Briefe. Neue Folge, hg. von Lother Helbing und Claus Victor Bock, 2. Aufl., Amsterdam 1965</bibl>
+               </listBibl></back></text>
+</TEI>

@@ -1,117 +1,117 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00971">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 23. März 1928<note type="ea">Datum durch Kontext ermittelt.</note></title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00971.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00970.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00972.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich vom 23. März 1928</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(24)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(24)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__119">Davos</placeName>
-               <date when="1928-03-23">23.03.1928</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00970">Postkarte von Hannah Tillich an Paul Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00972">Brief von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-11-22">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-11-22">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
-            </opener>
-            <p>Dieses wird wohl der letzte Brief sein, ehe ich komme. Wahrscheinlich fahre ich
-               Dienstag hier ab und komme Mittwoch im Lauf des Nachmittag in <rs type="place" ref="#tillich_place_id__260">L.</rs> an. Wenn es technisch möglich ist, schreibe
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__119">Davos</placeName>
+<date when="1928-03-23">23.03.1928</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00970">Postkarte von Hannah Tillich an Paul Tillich vom 16. März 1928 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L00972">Brief von Paul Tillich an Hannah Tillich vom 25. März 1928</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-11-22" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-22" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+   <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Das Datum dieses Briefes wurde durch seinen Kontext ermittelt.</note></salute>
+</opener>
+<p>Dieses wird wohl der letzte Brief sein, ehe ich komme. Wahrscheinlich fahre ich
+               Dienstag hier ab und komme Mittwoch im Lauf des Nachmittag in <rs ref="#tillich_place_id__260" type="place">L.</rs> an. Wenn es technisch möglich ist, schreibe
                ich nach dem Zug. Sonst gehe ich einfach ins Albergo und an den Strand. Hier geht die
-               Strapaze immer weiter. Inzwischen sind <rs type="person" ref="#tillich_person_id__2616">Litt</rs> (<rs type="person" ref="#tillich_place_id__260">Leipzig</rs>) und <rs type="person" ref="#tillich_person_id__816">Hartmann</rs> (<rs type="place" ref="#tillich_place_id__279">Marburg</rs>-<rs type="person" ref="#tillich_place_id__244">Köln</rs>) gekommen. Die Debatte: <rs type="person" ref="#tillich_person_id__719">Griesebach</rs>-<rs type="person" ref="#tillich_person_id__1291">Medikus</rs> und ich wird jetzt auch in den
-               Vorlesungen fortgesetzt. Sonnabend gibt <rs type="person" ref="#tillich_person_id__520">Einstein</rs> ein Konzert. (Er ist auch ein
-               bedeutender Musiker.) Sonntag fahren wir alle im Extrazug nach <rs type="place" ref="#tillich_place_id__497">St. Moritz</rs>. Heut, Freitag Abend, habe ich meine
+               Strapaze immer weiter. Inzwischen sind <rs ref="#tillich_person_id__2616" type="person">Litt</rs> (<rs ref="#tillich_place_id__260" type="person">Leipzig</rs>) und <rs ref="#tillich_person_id__816" type="person">Hartmann</rs> (<rs ref="#tillich_place_id__279" type="place">Marburg</rs>-<rs ref="#tillich_place_id__244" type="person">Köln</rs>) gekommen. Die Debatte: <rs ref="#tillich_person_id__719" type="person">Griesebach</rs>-<rs ref="#tillich_person_id__1291" type="person">Medikus</rs> und ich wird jetzt auch in den
+               Vorlesungen fortgesetzt. Sonnabend gibt <rs ref="#tillich_person_id__520" type="person">Einstein</rs> ein Konzert. (Er ist auch ein
+               bedeutender Musiker.) Sonntag fahren wir alle im Extrazug nach <rs ref="#tillich_place_id__497" type="place">St. Moritz</rs>. Heut, Freitag Abend, habe ich meine
                Besprechung mit den Studenten. Es wird sehr zahlreich und sehr heftig werden.</p>
-            <p>Seit zwei Tagen ist Frau Weinhagen hier. Von Arosa herübergekommen. Ich sehe sie
+<p>Seit zwei Tagen ist Frau Weinhagen hier. Von Arosa herübergekommen. Ich sehe sie
                verhältnismäßig selten, da sie viel Ski läuft. Sie hat in Arosa einen internationalen
                Preis erhalten. Ich verstehe mich eigentlich gar nicht mit ihr. Dabei glaube ich, daß
-               sie ein wertvollerer Mensch ist, als man annimmt. Heut fährt sie nach <rs type="place" ref="#tillich_place_id__480">Zürich</rs> ab, da es ihrem Mann wieder
-               schlecht geht. – Gestern bin ich mit <rs type="person" ref="#tillich_person_id__2353">Frau Medikus</rs> die Drahtseilbahn hinaufgefahren; die Analyse hatte schon viel
+               sie ein wertvollerer Mensch ist, als man annimmt. Heut fährt sie nach <rs ref="#tillich_place_id__480" type="place">Zürich</rs> ab, da es ihrem Mann wieder
+               schlecht geht. – Gestern bin ich mit <rs ref="#tillich_person_id__2353" type="person">Frau Medikus</rs> die Drahtseilbahn hinaufgefahren; die Analyse hatte schon viel
                geholfen. Ich konnte mich ganz ruhig unterhalten. – Weiter existiert die Frau eines
                finnischen Konsuls in Genua, Pragerin, ein Schützling der Frau Bankdirektor. Sie hat
-               uns für die Rückfahrt nach <rs type="place" ref="#tillich_place_id__174">Genua</rs>
+               uns für die Rückfahrt nach <rs ref="#tillich_place_id__174" type="place">Genua</rs>
                eingeladen, falls sie schon herunter darf. – Weiter ist eine Ärztin da, selbst krank,
                die mir durch<pb n="2"/> Ihren Mann sagen ließ, daß sie mich von einem
                Sozialistenball her kennt. Wir stellten dann fest, daß sie mich versetzt hatte, weil
                ich zu viel philosophierte. Ich erinnerte mich genau; denn mich hatte das damals
-               etwas getroffen; und sie war so schön, daß <rs type="person" ref="#tillich_person_id__1931">Greti</rs> mir damals sagte, solche schönen Frauen
+               etwas getroffen; und sie war so schön, daß <rs ref="#tillich_person_id__1931" type="person">Greti</rs> mir damals sagte, solche schönen Frauen
                wären nichts für mich. Jetzt scheint sie recht krank zu sein. Weiter ist da eine
-               Berichterstatterin Frau Dr. Herzberg, Schützling von <rs type="person" ref="#tillich_person_id__1792">Hugo Simon</rs>. – Weiter ... u. s. m. du siehst:
+               Berichterstatterin Frau Dr. Herzberg, Schützling von <rs ref="#tillich_person_id__1792" type="person">Hugo Simon</rs>. – Weiter ... u. s. m. du siehst:
                Die Möglichkeiten sind gleich "<unclear cert="medium">unredlich</unclear>". Die
                Wirklichkeiten infolgedessen gleich "Null". Außer der Abendstunde frißt Arbeit und
                Sonne alles auf. Und Abends auch nur von 10-11 zum Tanz. Bis dahin wird
                debattiert.</p>
-            <p>Die Atmosphäre von <rs type="place" ref="#tillich_place_id__119">Davos</rs> ist
+<p>Die Atmosphäre von <rs ref="#tillich_place_id__119" type="place">Davos</rs> ist
                unheimlich für mich. 4-5000 Kranke auf den Hallen aller Sanatorien, auf den Straßen
                und Wegen; ständige Suggestion, selbst krank zu werden. Sehr viel Schönheit und
                Eleganz. Sehr viel Klatsch und Erotik. Der Ort unerhört häßlich in unerhört schöner
@@ -119,33 +119,27 @@
                freiwillig nicht wiederkommen. Was allen fehlt ist die Einfügung in den sozialen
                Arbeitszusammenhang. Es ist eine irgendwie abstrakte Existenzform. Für mich ist es
                überaus unheimlich. – Herr Gideon und Frau (Askona) lassen Dich grüßen. – Hab Dank
-               für die Briefe! Von Sonntag an lasse ich alle Post nach <rs type="place" ref="#tillich_place_id__251">Laigueglia</rs> schicken. Grüß <rs type="person" ref="#tillich_person_id__688">Heinrich</rs> herzlich. Er hat einen Konkurrenten in
-                  <rs type="person" ref="#tillich_person_id__1426">Oppenheimer</rs>, der fast
+               für die Briefe! Von Sonntag an lasse ich alle Post nach <rs ref="#tillich_place_id__251" type="place">Laigueglia</rs> schicken. Grüß <rs ref="#tillich_person_id__688" type="person">Heinrich</rs> herzlich. Er hat einen Konkurrenten in
+                  <rs ref="#tillich_person_id__1426" type="person">Oppenheimer</rs>, der fast
                wörtlich wie er über seine Lösung der sozialen Fragen spricht und sich beklagt, daß
                er nicht gehört wird.</p>
-            <closer>
-               <salute>Süße liebe <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>, ich
+<closer>
+<salute>Süße liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>, ich
                   freue mich auf Euch!</salute>
-               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__2616"><reference>Litt</reference><persName>Litt, Theodor</persName>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1792">
+                  <persName>Simon, Hugo</persName>
+                  <occupation>Bankier und Mäzen</occupation>
+                  <note type="bio"><p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__520">
+                  <persName>Einstein, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2616">
+                  <persName>Litt, Theodor</persName>
                   <birth>
                      <date>1880-12-27</date>
                      <settlement>
@@ -161,34 +155,19 @@
                   <occupation>Kulturphilosoph; Sozialphilosoph;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118573543</idno>
                   <note type="bio"><p>Er studierte Philosophie an der Universität Bonn. Von 1920 bis 1937 war er an der Universität Leipzig tätig. Er wirkte u. a. als Rektor von 1931 bis 1932.</p></note>
-               </person><person ref="#tillich_place_id__260"><reference>Leipzig</reference></person><person ref="#tillich_person_id__816"><reference>Hartmann</reference><persName>Hartmann, Nicolai</persName>
-               </person><person ref="#tillich_place_id__244"><reference>Köln</reference></person><person ref="#tillich_person_id__719"><reference>Griesebach</reference><persName>Grisebach, Eberhard</persName>
-               </person><person ref="#tillich_person_id__1291"><reference>Medikus</reference><persName>Medicus, Fritz</persName>
-                  <occupation>Philosoph</occupation>
-                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
-               </person><person ref="#tillich_person_id__520"><reference>Einstein</reference><persName>Einstein, Albert</persName>
-               </person><person ref="#tillich_person_id__2353"><reference>Frau Medikus</reference><persName>Medicus, Clara</persName>
-               </person><person ref="#tillich_person_id__1931"><reference>Greti</reference><persName>Tillich, Margarete</persName>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person><person ref="#tillich_person_id__1792"><reference>Hugo Simon</reference><persName>Simon, Hugo</persName>
-                  <occupation>Bankier und Mäzen</occupation>
-                  <note type="bio"><p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p></note>
-               </person><person ref="#tillich_person_id__688"><reference>Heinrich</reference><persName>Goesch, Heinrich</persName>
-                  <birth>
-                     <date>1880-07-02</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1931-02-16</date>
-                     <settlement>
-                        <placeName>Konstanz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
-               </person><person ref="#tillich_person_id__1426"><reference>Oppenheimer</reference><persName>Oppenheimer, Franz</persName>
-               </person><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+               </person>
+               <person xml:id="tillich_person_id__719">
+                  <persName>Grisebach, Eberhard</persName>
+               </person>
+               <person xml:id="tillich_person_id__1426">
+                  <persName>Oppenheimer, Franz</persName>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -203,7 +182,17 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2353">
+                  <persName>Medicus, Clara</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -216,45 +205,86 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__260"><reference>L.</reference><placeName>Leipzig</placeName>
-                  <location type="coords">
-                     <geo>51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
-               </place><place ref="#tillich_place_id__279"><reference>Marburg</reference><placeName>Marburg</placeName>
+               </person>
+               <person xml:id="tillich_person_id__688">
+                  <persName>Goesch, Heinrich</persName>
+                  <birth>
+                     <date>1880-07-02</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1931-02-16</date>
+                     <settlement>
+                        <placeName>Konstanz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
+               </person>
+               <person xml:id="tillich_person_id__816">
+                  <persName>Hartmann, Nicolai</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
                   <location type="coords">
                      <geo>50.80904 8.77069</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2873759/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place><place ref="#tillich_place_id__497"><reference>St. Moritz</reference><placeName>Sankt Moritz</placeName>
+               </place>
+               <place xml:id="tillich_place_id__244">
+                  <placeName>Köln</placeName>
                   <location type="coords">
-                     <geo>46.49937 9.84327</geo>
+                     <geo>50.93333 6.95000</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2658813/</idno>
-               </place><place ref="#tillich_place_id__480"><reference>Zürich</reference><placeName>Zürich</placeName>
+                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
+               </place>
+               <place xml:id="tillich_place_id__480">
+                  <placeName>Zürich</placeName>
                   <location type="coords">
                      <geo>47.36667 8.55000</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2657896/</idno>
-               </place><place ref="#tillich_place_id__174"><reference>Genua</reference><placeName>Genua</placeName>
+               </place>
+               <place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
                   <location type="coords">
-                     <geo>44.40478 8.94439</geo>
+                     <geo>51.33962 12.37129</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3176219/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33675638</idno>
-               </place><place ref="#tillich_place_id__119"><reference>Davos</reference><placeName>Davos</placeName>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               <place xml:id="tillich_place_id__497">
+                  <placeName>Sankt Moritz</placeName>
+                  <location type="coords">
+                     <geo>46.49937 9.84327</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2658813/</idno>
+               </place>
+               <place xml:id="tillich_place_id__119">
+                  <placeName>Davos</placeName>
                   <location type="coords">
                      <geo>46.80429 9.83723</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2661039/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q56528928</idno>
-               </place><place ref="#tillich_place_id__251"><reference>Laigueglia</reference><placeName>Laigueglia</placeName>
+               </place>
+               <place xml:id="tillich_place_id__251">
+                  <placeName>Laigueglia</placeName>
                   <location type="coords">
                      <geo>43.97590 8.15823</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3175239/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q30026464</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               <place xml:id="tillich_place_id__174">
+                  <placeName>Genua</placeName>
+                  <location type="coords">
+                     <geo>44.40478 8.94439</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3176219/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33675638</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

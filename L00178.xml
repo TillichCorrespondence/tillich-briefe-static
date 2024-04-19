@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00178.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00177.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00179.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Johanna Tillich an Paul Tillich vom 16. Juli 1907</title>
+<author ref="#tillich_person_id__644">Johanna Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/193</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+<placeName ref="#tillich_place_id__293">Misdroy</placeName>
+<date when="1907-07-16">16.07.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00177">Postkarte von Johanna Tillich an Paul Tillich vom 14. Juli 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00179">Postkarte von Hermann Witte an Paul Tillich vom 22. Juli 1907 [PS]</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-09" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-13" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-02-14" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__293" type="place"><hi rend="aq">Misdroy</hi></rs>, <date when="1907-07-16">Juli 07</date></dateline>
+<salute>M. l. <rs ref="#tillich_person_id__1928" type="person">P.</rs></salute>
+</opener>
+<p>Viele Grüße aus Sturm und Regen! Es ist fein am Strand das Meer ist in gewaltiger
+               Aufregung. Meine Finger sind noch ganz starr; wir kommen eben aus d. Strandkorb.
+               Gestern waren wir bei d. <unclear cert="low">h.</unclear> Schmidts in <hi rend="u"><rs ref="#tillich_place_id__616" type="place">Osternothafen</rs></hi>, sehr nett, feine Schiffe gesehen. – Denke Sonnabend kommt –
+               <hi rend="u">Großmama</hi> mit <hi rend="aq"><rs ref="#tillich_person_id__2196" type="person">Käte</rs></hi> zusammen! Wir freuen
+               natürlich riesig! Dann bist Du wohl schon in weiter ferne!!! <add place="left">Nachmittags liegen wir alle in – Hängematten – im Wald u. lesen – </add><note type="ea">Der Scan ist an dieser Stelle abgeschnitten, sodass der weitere Text nicht eruiert werden konnte.</note>
+<add place="right"><hi rend="u">die Typs</hi>?!!</add>
+</p>
+</div>
+</body>
+<back><listPlace><place xml:id="tillich_place_id__616">
+                  <placeName>Osternothafen</placeName>
+                  <location type="coords">
+                     <geo>53.91667 14.28333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3101629/</idno>
+               </place>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2196">
+                  <persName>???, Käte</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson></back></text>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00813.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00812.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00814.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Anja Schümer an Paul Tillich vom 8. Februar 1924</title>
+            <author ref="#tillich_person_id__2425">Anja Schümer</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/183(14)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2425">Anja Schümer</persName>
+               <placeName ref="#tillich_place_id__485">Magdeburg</placeName>
+               <date when="1924-02-08">08.02.1924</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00812">Brief von Wilhelm Ruprecht an Paul Tillich vom 22. Januar 1924</ref><ref subtype="next_letter" type="withinCollection" target="L00814">Postkarte von Paul Tillich an Wilhelm Ruprecht vom 24. Februar 1924</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-06-01">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-01-05">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__275" type="place"/>
+                  <address>
+                     <street>Neustädterstr. 46</street>
+                  </address>, <date when="1924-02-08">8. Febr. 24.</date></dateline>
+            </opener>
+            <p> Ein Lichtschein umgibt die Welt des Geistes.<lb/> Man vergißt einander, still u.
+               rein ganz, ganz mächtig und leer.<lb/> Die Leere wird durchleuchtet vom Schein des
+               Herzens der Himmel.<lb/> Das Meerwasser ist glatt u. spiegelt auf seiner Fläche den
+               Mond.<lb/> Die Wolken schwinden im blauen Raum.<lb/> Die Berge leuchten klar.<lb/>
+               Bewußtsein löst sich in Schauen auf.<lb/> Die Mondscheibe ruht einsam.<lb/>
+            </p>
+            <p>Aus dem Chinesischen.</p>
+            <p>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,</p>
+            <p>Dieses Gedicht fand ich neulich, u. ich wußte gleich, daß ich es Ihnen schreiben
+               möchte. Ich will es versuchen. Ob Sie diesen Brief bekommen, weiß ich ja nicht. Ich
+               habe mir die Adresse, die Sie mit Ihren Karten angeben. In Ihrem<pb n="2"/> Brief
+               schrieben Sie, Sie würden mir noch eine neue Adresse angeben. Aber die bekam ich noch
+               nicht.</p>
+            <p>Ihr Brief war so gut. Ich habe ihn oft gelesen – u. ich versuche, Ihr Leben dort zu
+               denken. Aber es gelingt wohl kaum. Und dann kehren die Gedanken in das Vergangene
+               zurück. Das ist noch lebendig u. wach.–</p>
+            <p>Wie mag nun alles mit Ihnen werden? Die Entscheidung hier ist doch gefallen. Ob Sie
+               dort bleiben können? ob Ihnen die Arbeit dort möglich sein wird? Man möchte so vieles
+               wissen.</p>
+            <p>Elisabeth läßt Sie grüßen. Sie ist auch bei Ihren Eltern in Wernigerode. Manchmal
+               kommt sie einen Tag zu mir. Das sind die Tage, an denen man lebt, es ist Ruhe da
+                  u.<pb n="3"/> Verstehen. Wir sitzen zusammen wie alte Leute – u. reden vom
+               Vergangenen. Die Zukunft ist ja eine Wand. Man mag nicht hinsehen. Bis Ostern bin ich
+               sicher noch hier. Meinen Eltern geht es nicht gut. Vater ist sehr alt geworden, u.
+               meine Mutter kann sich gar nicht recht erholen. Aber nach Ostern müßte ich wieder
+               eine Arbeit haben. Das einzig mögliche scheint mir eine Sekretärinnenstelle. Ich weiß
+               noch nicht, wie das werden wird.</p>
+            <p>Draußen tobt ein richtiger Sturm. Der Wind heult um das Haus, der Regen prasselt u.
+               die alten Bauern ächzen<pb n="4"/> unter dem Zerren. Man muß eben aushalten in aller
+               Angst u. Einsamkeit – u. warten.</p>
+            <closer>
+               <salute>Ich sende Ihnen viele viele Grüße</salute>
+               <signed>Ihre <rs ref="#tillich_person_id__2425" type="person">Anja
+                  Schümer</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPlace><place xml:id="tillich_place_id__275">
+                  <placeName>Magdeburg</placeName>
+                  <location type="coords">
+                     <geo>52.12773 11.62916</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2425">
+                  <persName>Schümer, Anja</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson></back></text>
+</TEI>

@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00211.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00210.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00212.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Alfred Fritz an Paul Tillich vom 19. September 1907</title>
+            <author ref="#tillich_person_id__641">Alfred Fritz</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/143(11)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+               <placeName ref="#tillich_place_id__420">Stuttgart</placeName>
+               <date when="1907-09-19">19.09.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00210">Postkarte von George Blech an Paul Tillich vom 19. August 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00212">Postkarte von Ebehard Röhricht an Paul Tillich vom 19. September 1907 [PS]</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-09-30">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-08">Vorbereitende Endabnahme</change>
+         <change who="EL" when="2024-02-26">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__420" type="place">Stuttgart</rs>. <date when="1907-09-19">19. IX. 07.</date></dateline>
+               <salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+            </opener>
+            <p>Es ist höchste Zeit, daß ich Dir für Deinen lb. Brief<note type="ea">Nicht überliefert.</note> danke. Viel Zeit habe ich zwar
+               nicht, da ich am nächsten Sonntag als Musterprediger mich betätigen will, über einen
+               ziemlich öden Text.</p>
+            <p>Ich freue mich, daß Dirs gut geht. Nun wirst Du Deinen Hunger auf Realitäten <del rend="s">ge</del> etwas gestillt haben in ernster Arbeit. Was Deine Erfahrungen
+               über <rs ref="#tillich_person_id__1227" type="person">Schmuhlsches</rs> u. <rs ref="#tillich_person_id__845" type="person">Heimsches</rs> Denkideal sind, möchte
+               ich gerne sehen. Ich muß sagen, daß ich sehr zu <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs> neige, immer im Rennen durch die Jahrhunderte u.
+               Systeme bleibt er eine geheime Sehnsucht! Das möchte ich genauer kennen lernen u. es
+               kostet schon ziemliche Überwindung, wenigstens nicht in der Realenzyklopädie
+               nachzusehen. Also die Liebe<pb n="2"/> zum Denken aus Liebe wäre schon da, aber
+               leider ist mein Denken zur Zeit zwar nicht aus Not, aber mit Not. Wenn ich daran
+               denken will, im Sommer Examen zu machen, muß ich mich zum theologischen Rennautomobil
+               ausbilden, was kein Vergnügen ist, nicht nur wegen der damit verbundenen Sturzgefahr.
+               Vorerst läuft mein Motor gut. Die letzte Woche durchrannte ich die orthodoxe Dogmatik
+               u. platze bald vor <hi rend="aq"><foreign xml:lang="lat">Statibus, genera specialia et universalia,
+                  communicationes</foreign></hi> etc. Doch machte es mir Spaß, es ist ein schöner regelmäßiger
+               Bau mit wundervoller Einteilung bis <unclear cert="low">ca.</unclear> Wie ein
+               Studiosus einst den <rs ref="#tillich_person_id__2204" type="person">Hutterus</rs>
+               lernte, muß er ein merkwürdig geordnetes Gedankenwerk im Kopf gehabt haben. Daraus
+               erkläre ich mir die geringe Neigung zu Seitensprüngen in der orthodoxen Periode. Es
+               lebt sich in diesem orthod. System so behaglich wie in den streng regelmäßigen
+               Gärtenanlangen der gleichen Zeit. Einige Kuriosa habe ich doch noch angestaunt <hi rend="aq"><foreign xml:lang="lat">resurrectio consistit in reproductione<pb n="3"/> eiusdem quod per
+                  mortem cecidit, ex atomis illius corporis, hinc inde disjectus atque
+                  dissipatis.</foreign></hi></p>
+            <p>Was für geduldige Schäfchen müssen die Studenten der damaligen Zeit gewesen sein.</p>
+            <p>Etwas andere Kost ist <rs ref="#tillich_person_id__2205" type="person">Beyschlags</rs> <rs type="work" ref="#tillich_work_id__253"><rs type="work" ref="#tillich_work_id__254">NT Theologie</rs></rs>. Er hat absolut keine Hinneigung zur Orthodoxie.
+               Nicht nur starke Polemik gegen Strafstellvertretung, sondern Verdrängung des <add><hi rend="sup">ref.</hi></add> Rechtfertigungsgedankens aus <del rend="s">der
+                  zu</del> dem Zentrum der paulinischen Theologie u. Einsetzung des
+               Heiligungsgedanken. <del rend="s">Sondern</del> Befreiung von der Sünde anstatt der
+               reformat. Befreiung von der Schuld. <rs ref="#tillich_person_id__35" type="person">Hales</rs> ist fein. Aber manchmal sieht man doch zu sehr das gemütliche Gesicht
+               des seligen <unclear><rs ref="#tillich_person_id__2205" type="person">B.</rs></unclear> hinter Pauli Mantelzipfeln hervorgucken.</p>
+            <p>Meine Predigt ist mir diesmal schwer gefallen. Ich habe das Unglück einen Text
+               behandeln zu müssen, der sich nicht ohne Moralpauken behandeln läßt (<rs type="bible" resp="Matt-21,28">Mt. 21, 28 ff.</rs>) u. das hasse ich, besonders
+               wenn man als jugendliches Bürschchen zum ersten Mal die Kanzel besteigt.</p>
+            <pb n="4"/>
+            <p>Daß Du noch soviel Dankbarkeit u. Liebe geerntet hast, freut mich recht für Dich. In
+                  <rs type="place" ref="#tillich_place_id__189">Halle</rs>, das wird wohl immer zu
+               den <hi rend="aq"><foreign xml:lang="lat">temporibus aureis</foreign></hi> unseres Lebens gehören, wenns auch für mich
+               einen recht traurigen Abschluß gefunden hat.</p>
+            <p>Deinen Körper schone! Deinen Geist lasse schön <del rend="s">f</del> brav am
+               Gängelband gehen! Ach Kerl es ist doch schade; daß man nicht hie u da mit einander
+               reden kann. Gerade jetzt wo alles Erleben auf Bücher beschränkt ist, empfindet man es
+               recht, denn da sind die Leute selten, denen man mitteilen kann u. das ist nun mal
+               nötig. – War nicht Dein <rs ref="#tillich_person_id__1295" type="person">Leibfux</rs>
+               in <rs type="place" ref="#tillich_place_id__293">Misdroy</rs> bei Dir. Was macht er
+               denn? Es ist schade, daß Ihr schon auseinander seid. – Der Rundbrief ist jetzt wohl
+               bei Dir gewesen. Wegen der Neuordnung fürchte ich nur das Porto, wenn es so oft sie
+               hin u. her geht. Auch verliert man viel Zeit. – Gestern war Philistertag. Ich saß
+               sehr nett mit <unclear><rs ref="#tillich_person_id__2206" type="person">Wergenthaler</rs></unclear> u. <rs ref="#tillich_person_id__2195" type="person">Häfele</rs> zusammen. Sonst hätte ich mich fremd dort gefühlt. Es
+               ist traurig.</p>
+            <p>Natürlich möchte ich beide Typs, das als X u. das als Mensch.</p>
+            <closer>
+               <salute>Sei herzlich gegrüßt von Deinem</salute>
+               <signed>tr. <rs ref="#tillich_person_id__641" type="person">Alfred</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listBibl><bibl xml:id="tillich_work_id__254">Beyschlag, Willibald. Neutestamentliche Theologie oder Geschichtliche Darstellung der Lehren Jesu und des Urchristenthums nach den neutestamentlichen Quellen, Bd. 2. Halle: E. Strien 1892.</bibl>
+               <bibl xml:id="tillich_work_id__253">Beyschlag, Willibald. Neutestamentliche Theologie oder Geschichtliche Darstellung der Lehren Jesu und des Urchristenthums nach den neutestamentlichen Quellen, Bd. 1. Halle: E. Strien 1891.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__420">
+                  <placeName>Stuttgart</placeName>
+                  <location type="coords">
+                     <geo>48.78232 9.17702</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2825297/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32749678</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__35">
+                  <persName>Alexander von Hales</persName>
+                  <birth>
+                     <date>1185</date>
+                  </birth>
+                  <death>
+                     <date>1245-08-21</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118648004</idno>
+               </person>
+               <person xml:id="tillich_person_id__2204">
+                  <persName>Hutter, Leonhard</persName>
+                  <birth>
+                     <date>1563-01</date>
+                     <settlement>
+                        <placeName>Nellingen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1616-10-23</date>
+                     <settlement>
+                        <placeName>Wittenberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118950037</idno>
+               </person>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__2195">
+                  <persName>Häfele, ???</persName>
+                  <note type="bio"><p>Er war ein Mitstudent von Paul Tillich in Halle.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2205">
+                  <persName>Beyschlag, Willibald</persName>
+                  <birth>
+                     <date>1823-09-05</date>
+                     <settlement>
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1900-11-25</date>
+                     <settlement>
+                        <placeName>Halle (Saale)</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119133431</idno>
+               </person>
+               <person xml:id="tillich_person_id__2206">
+                  <persName>Wergenthaler, ???</persName>
+                  <note type="bio"><p>Er stand vermutlich im Kontakt mit der Wingolfsverbindung in Stuttgart.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
+               </person>
+               </listPerson></back></text>
+</TEI>

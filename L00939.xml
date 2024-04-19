@@ -1,94 +1,94 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00939">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 22. Mai 1927 [PS]</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Andreas Burri</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00939.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00938.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00940.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich vom 22. Mai 1927 [PS]</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Andreas Burri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 721/2(24)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 721/2(24)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1927-05-22">22.05.1927</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-               <placeName ref="#tillich_place_id__126">Dresden</placeName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00938">Brief von Paul und Hannah Tillich an Bruno Goetz </ref><ref subtype="next_letter" type="withinCollection" target="L00943">Postkarte von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="AB" when="2023-11-23">Intitale Auszeichnung des Transkripts</change>
-         <change who="AB" when="2023-12-07">Endabnahme</change>
-         <change who="FS" when="2023-12-12">Revision der Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline><date when="1927-05-22">Sonntag</date> früh.</dateline>
-               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-            </opener>
-            <p>Hab Dank für Briefe und Karte!<note type="ea">Diese Schreiben liegen nicht vor.</note> Es ist so viel zu berichten, daß ich einiges schon
-               heut schreiben muß. Also höre und freue Dich: <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> und <rs ref="#tillich_person_id__2400" type="person">Doris</rs> haben mir bis zum Abschluß der Dogmatik<note type="ea">Tillich verfolgte zu jener Zeit das Ziel, seine seit 1925 in Marburg und Dresden gehaltenen <rs ref="#tillich_work_id__68" type="work">Dogmatik-Vorlesungen</rs> zu einer Publikation unter dem Titel "Die Wissenschaft vom religiösen Symbol (Dogmatik)" auzuarbeiten. Dieses Vorhaben wurde letztendlich nicht realisiert, stellt aber die Grundlage für seine spätere "<rs ref="#tillich_work_id__69" type="work">Systematische Theologie</rs>" dar. Vgl. <rs ref="#tillich_work_id__70" type="work" n="247-249">Christophersen/Graf, "Beweise einer unsichtbaren Beziehung", 247-249</rs>.</note> einen zeitlich
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1927-05-22">22.05.1927</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__126">Dresden</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00938">Brief von Paul und Hannah Tillich an Bruno Goetz vom 16. Mai 1927</ref><ref subtype="next_letter" type="withinCollection" target="L00940">Brief von Carl Erdmann an Paul Tillich vom 14. Juli 1927</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-11-23" who="AB">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-12-07" who="AB">Endabnahme</change>
+<change when="2023-12-12" who="FS">Revision der Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline><date when="1927-05-22">Sonntag</date> früh.</dateline>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Hab Dank für Briefe und Karte!<note type="ea">Diese Schreiben liegen nicht vor.</note> Es ist so viel zu berichten, daß ich einiges schon
+               heut schreiben muß. Also höre und freue Dich: <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> und <rs ref="#tillich_person_id__2400" type="person">Doris</rs> haben mir bis zum Abschluß der Dogmatik<note type="ea">Tillich verfolgte zu jener Zeit das Ziel, seine seit 1925 in Marburg und Dresden gehaltenen <rs ref="#tillich_work_id__68" type="work">Dogmatik-Vorlesungen</rs> zu einer Publikation unter dem Titel "Die Wissenschaft vom religiösen Symbol (Dogmatik)" auzuarbeiten. Dieses Vorhaben wurde letztendlich nicht realisiert, stellt aber die Grundlage für seine spätere "<rs ref="#tillich_work_id__69" type="work">Systematische Theologie</rs>" dar. Vgl. <rs n="247-249" ref="#tillich_work_id__70" type="work">Christophersen/Graf, "Beweise einer unsichtbaren Beziehung", 247-249</rs>.</note> einen zeitlich
                unbegrenzten Kredit von insgesamt 4000 M eröffnet. Das bedeutet, daß wir in den
                nächsten 2-3 Jahren Ruhe haben. Mir ist, als ob das Leben neu anfinge!! – – –
                Übrigens kommen sie beide diesen <date from="1927-05-28" to="1927-05-30">Sonnabend Nacht bis Montag früh</date> nach <rs ref="#tillich_place_id__126" type="place">Dresden</rs> und <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> bringt gleich eine
@@ -98,14 +98,81 @@
                Unterhaltung. Er geht jetzt ab – was mir aber für <rs ref="#tillich_place_id__37" type="place">Berlin</rs> kaum etwas helfen wird. Er war sehr begeistert, daß ich
                meine Dogmatik schreiben will. – Im Übrigen sehr vergnügt mit <rs ref="#tillich_person_id__2560" type="person">Ullichen</rs>, <rs ref="#tillich_person_id__2659" type="person">Anja</rs> und <unclear cert="medium" reason="illegible"><rs ref="#tillich_person_id__2660" type="person">Bine</rs></unclear>, <rs ref="#tillich_person_id__1307" type="person">Karolus</rs>, <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> u. <rs ref="#tillich_person_id__2041" type="person">M.L.</rs> Falls nichts Unerwartetes
                eintritt, komme ich <date when="1927-05-24">Dienstag</date> Mittag 1<hi rend="sup">53</hi>
-               <rs ref="#tillich_place_id__127" type="place">Neustadt</rs> an!</p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-            </closer>
-
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+<rs ref="#tillich_place_id__127" type="place">Neustadt</rs> an!</p>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1887">
+                  <persName>Sydow, Eckart von</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2660">
+                  <persName>???, Bine</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2560">
+                  <persName>???, Ulli</persName>
+                  <occupation>Künstler;</occupation>
+                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2659">
+                  <persName>???, Anja</persName>
+               </person>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2094">
+                  <persName>Wolfers, Arnold</persName>
+                  <birth>
+                     <date>1892-06-14</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-07-16</date>
+                  </death>
+                  <occupation>Politikwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
+                  <note type="bio"><p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1307">
+                  <persName>Mennicke, Carl August</persName>
+                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
+                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1761">
+                  <persName>Seeberg, Reinhold</persName>
+                  <occupation>Systematischer Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -120,92 +187,36 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__2094"><reference>Arnold</reference><persName>Wolfers, Arnold</persName>
-                  <birth>
-                     <date>1892-06-14</date>
-                     <settlement>
-                        <placeName>Sankt Gallen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1968-07-16</date>
-                  </death>
-                  <occupation>Politikwissenschaftler</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
-                  <note type="bio"><p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p></note>
-               </person><person ref="#tillich_person_id__2400"><reference>Doris</reference><persName>Wolfers, Doris</persName>
+               </person>
+               <person xml:id="tillich_person_id__2400">
+                  <persName>Wolfers, Doris</persName>
                   <note type="bio"><p>Sie war die Frau von Arnold Wolfers.</p></note>
-               </person><person ref="#tillich_person_id__2094"><reference>Arnold</reference><persName>Wolfers, Arnold</persName>
-                  <birth>
-                     <date>1892-06-14</date>
-                     <settlement>
-                        <placeName>Sankt Gallen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1968-07-16</date>
-                  </death>
-                  <occupation>Politikwissenschaftler</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
-                  <note type="bio"><p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p></note>
-               </person><person ref="#tillich_person_id__1761"><reference>Seeberg</reference><persName>Seeberg, Reinhold</persName>
-                  <occupation>Systematischer Theologe</occupation>
-               </person><person ref="#tillich_person_id__2560"><reference>Ullichen</reference><persName>???, Ulli</persName>
-                  <occupation>Künstler;</occupation>
-                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
-               </person><person ref="#tillich_person_id__2659"><reference>Anja</reference><persName>???, Anja</persName>
-               </person><person ref="#tillich_person_id__2660"><reference>Bine</reference><persName>???, Bine</persName>
-               </person><person ref="#tillich_person_id__1307"><reference>Karolus</reference><persName>Mennicke, Carl August</persName>
-                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
-                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
-               </person><person ref="#tillich_person_id__1887"><reference>Eckart</reference><persName>Sydow, Eckart von</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
-               </person><person ref="#tillich_person_id__2041"><reference>M.L.</reference><persName>Werner, Marie Luise</persName>
-                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
-                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl><bibl ref="#tillich_work_id__68">Tillich, Paul, Dogmatik-Vorlesung (Dresden 1925-1927) (=EW XIV), Berlin et al. 2005.</bibl><bibl ref="#tillich_work_id__69">Tillich, Paul, Systematic Theology, 3 Volumes, Chicago 1951/1957/1963</bibl><bibl ref="#tillich_work_id__70">Christophersen, Alf/Graf, Friedrich Wilhelm, "Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr, in: International Yearbook for Tillich Research 6 (1):237-408 (2011)</bibl></listBibl><listPlace><place ref="#tillich_place_id__126"><reference>Dresden</reference><placeName>Dresden</placeName>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__68">Tillich, Paul, Dogmatik-Vorlesung (Dresden 1925-1927) (=EW XIV), Berlin et al. 2005.</bibl>
+               <bibl xml:id="tillich_work_id__70">Christophersen, Alf/Graf, Friedrich Wilhelm, "Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr, in: International Yearbook for Tillich Research 6 (1):237-408 (2011)</bibl>
+               <bibl xml:id="tillich_work_id__69">Tillich, Paul, Systematic Theology, 3 Volumes, Chicago 1951/1957/1963</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place><place ref="#tillich_place_id__127"><reference>Neustadt</reference><placeName>Dresden Neustadt</placeName>
+               </place>
+               <place xml:id="tillich_place_id__127">
+                  <placeName>Dresden Neustadt</placeName>
                   <location type="coords">
                      <geo>51.07553 13.76259</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/12500814/</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               </listPlace></back></text>
 </TEI>

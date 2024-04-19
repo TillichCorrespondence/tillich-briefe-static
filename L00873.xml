@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00873.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00871.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00874.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Oskar Siebeck vom 4. Juni 1926</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, handschriftlich</p>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                           <title>"Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen
+                              Paul Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul
+                              Siebeck)</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                              <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <date when="2011">2011</date>
+                              <biblScope>237-407, hier: 286f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>Bd. 6, H. 1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <address>
+                  <placeName ref="#tillich_place_id__126">Dresden, <address>
+                        <street>Elisenstr. 11</street>
+                     </address></placeName>
+               </address>
+               <date when="1926-06-04">04.06.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00871">Brief von Oskar Siebeck an Paul Tillich vom 23. März 1926</ref><ref subtype="next_letter" type="withinCollection" target="L00874">Brief von Oskar Siebeck an Paul Tillich vom 8. Juni 1926</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00874">Brief von Oskar Siebeck an Paul Tillich vom 8. Juni 1926</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="NH" when="2022-12-13">Intitale Auszeichnung des Transkripts</change>
+         <change who="NH" when="2023-01-28"><!-->Bitte bei Änderungen im Dokument die Art der Änderung in einer neuen Zeile angeben<!--></change>
+         <change who="FS" when="2023-04-18">Ergänzende Auszeichnungen</change>
+         <change who="PS" when="2024-02-14">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><address>
+                     <rs ref="#tillich_place_id__126" type="place">Dresden, Elisenstr. 11</rs>
+                  </address>, den <date when="1926-06-04">4. <sic>7.</sic> 1926</date></dateline>
+               <salute>Sehr geehrter Herr <rs ref="#tillich_person_id__1780" type="person">Siebeck</rs>!</salute>
+            </opener>
+            <p>Heute erhielt ich eine Abschrift Ihres Briefes<note type="ea">Oskar Siebeck an
+                  Hendrik de Man vom 21.5.1926 (VA, 424 4 1926 Ma–Salz), vgl. Christophersen/Graf,
+                  Beweise einer unsichtbaren Beziehung, 253, Anm. 58</note> an Herrn <rs ref="#tillich_person_id__438" type="person">de Man.</rs> Es tut mir sehr
+                  <sic>Leid</sic>, daß Sie den Plan haben fallen lassen; ich hoffe aber, daß ich
+               nicht daran Schuld bin. Ich bin nach wie vor der Meinung, daß es für die Sache das
+               Beste wäre, wenn Sie die Zeitschrift übernähmen, und ich bin überzeugt, daß bei der
+               Art und Zahl der in Aussicht genommenen Mitarbeiter Sie reichlich Abonnenten finden
+               würden. Vielleicht ist es doch noch einmal möglich, auf den Plan zurückzukommen. Was
+               die Sammlung der Vorträge betrifft, so befinde ich mich noch im Status der abstrakten
+               Erwägungen, hoffe aber bald weiter zu kommen. Die Hauptarbeit liegt augenblicklich
+               auf dem "<rs type="work" ref="#tillich_work_id__15">Dämonenvortrag</rs>". Ich muß ihn
+               völlig neu arbeiten – im Unterschied zu meinem damaligen Vortrag über "<rs type="work" ref="#tillich_work_id__9">Kultur und <del rend="s">Religion</del>
+                  Kirche</rs>". Und nun habe ich eine Bitte: Ist es Ihnen möglich, mir 100 M als
+               Honorar-Vorschuß <hi rend="u">gleich</hi> zu übersenden. Ich mußte nämlich mein
+               ganzes Monatsgehalt für Kind-Geburts-Rechnungen verwenden, und müßte jetzt, um
+               existieren zu können, einige Zeitungs-Aufsätze schreiben, was ich <hi rend="u">sehr
+                  gern</hi> zu Gunsten des <rs type="work" ref="#tillich_work_id__15">Dämonen-Vortrags</rs> vermeiden möchte. Ich würde dann in spätestens 10 Tagen das
+               Manuskript an Sie schicken können.</p>
+            <p>Inzwischen habe ich von <rs ref="#tillich_person_id__1570" type="person">Reichl</rs>
+               den Vertragsentwurf für die Dogmatik bekommen. Ich habe noch nicht unterschrieben.
+               Hier liegen die Dinge ähnlich: Um an der Sache zu arbeiten, muß ich die Hände frei
+               haben. Um die Hände frei zu haben, muß ich die Schulden für die Rechnung los sein,
+               die mich ständig zu Vorträgen etc. zwingen. Ich bedaure es sehr, daß in diese Zeit
+               der ständigen Produktivität die Notwendigkeit fällt, eine "Aussteuer" aufzubringen.
+               Ob <rs ref="#tillich_person_id__1570" type="person">Reichl</rs> mir durch einen
+               Vorschuß hilft, ist mir zweifelhaft --- und Sie? Ich weiß ja, daß es für jeden jetzt
+               schwierig ist, auch nur die Summen, die für mich in Frage kommen, also ca 1000 M
+               aufzubringen. Andererseits habe ich nicht das Vermögen, Arbeitsruhe und Schuldenlast
+               zu vereinigen.</p>
+            <closer>
+               <salute>Mit herzlichem Gruße!</salute>
+               <signed>Ihr sehr ergebener <rs type="person" ref="#tillich_person_id__1928">P.
+                     Tillich</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1780">
+                  <persName>Siebeck, Oskar</persName>
+                  <occupation>Deutscher Verleger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1570">
+                  <persName>Reichl, Otto</persName>
+                  <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
+               </person>
+               <person xml:id="tillich_person_id__438">
+                  <persName>de Man, Hendrik</persName>
+                  <occupation>Belgischer Sozialpsychologe, Theoretiker des Sozialismus, Politiker und Publizist</occupation>
+                  <note type="bio"><p>In Antwerpen geboren, schloss er sich dort bereits in seiner Jugend einer sozialistischen Gruppierung an. Zunächst Studium der Naturwissenschaften und Mathematik in Gent und Brüssel, das er abbrach, um 1905-1909 in Leipzig und Wien Philosophie, Psychologie, Geschichte und Volkswirtschaft zu studieren und mit Promotion abzuschließen. Während des Studiums Mitarbeit an der sozialistischen Leipziger Volkszeitung, seit 1907 war er Internationaler Sekretär der Sozialistischen Jugendinternationale. Nach einem Jahr in England 1910 wurde er, zurück in Belgien, Leiter einer Arbeiterbildungszentrale. Nach dem ersten Weltkrieg lehrte er kurzzeitig Sozialpsychologie an der University of Washington, wurde jedoch aufgrund seines sozialpolitischen Engagements entlassen. Seit dem Ersten Weltkrieg zunehmende Distanzierung von der marxistischen Form des Sozialismus, im Laufe der 1920er endgültige Loslösung und Nähe zum Hofgeismarer Kreis der Jungsozialisten. 1929-1933 Lehrauftrag für Sozialpsychologie und Sozialpädagogik an der Frankfurter Universität, Mitarbeit bei Tillichs Neuen Blättern für den Sozialismus. 1933 emigrierte nach Belgien, 1935 wurde er Arbeitsminister, im Juni 1936 Finanzminister. Seit 1939 Vorsitzender der Belgischen Arbeiterpartei, die er 1940 auflöste. Die Bewertung seiner Kollaborationspolitik ist umstritten. Unter deutscher Herrschaft erhielt er Rede- und Auftrittsverbot, er ging bis 1944 in das unbesetzte Vichy-Frankreich,  anschließend als politischer Flüchtling in die Schweiz. 1946 wurde er in Abwesenheit von einem belgischen Gericht zu 20 Jahren Haft verurteilt. Er starb in der Schweiz bei einem Autounfall.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
+               <bibl xml:id="tillich_work_id__9">Tillich, Paul, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen 1924, S. 1-22.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

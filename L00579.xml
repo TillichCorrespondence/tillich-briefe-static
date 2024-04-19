@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00579.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00578.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00595.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Karl Koch an Paul Tillich vom 14. September 1918</title>
+            <author ref="#tillich_person_id__1074">Karl Koch</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Gerrit Mauritz</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/Box 159(3)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Feldpostbrief, handschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1074">Karl Koch</persName>
+               <date when="1918-09-14">14.09.1918</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00578">Brief von Heinrich Meinhof an Paul Tillich vom 8. September 1918</ref><ref subtype="next_letter" type="withinCollection" target="L00595">Brief von Cajus Fabricius an Paul Tillich vom 3. Februar 1919</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="GM" when="2023-03-06">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-02-09">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>Sonnabend den <date when="1918-09-14">14.9.18</date></dateline>
+               <salute>Hochwürdiger <rs ref="#tillich_person_id__1928" type="person">Herr
+                     Pfarrer!</rs></salute>
+            </opener>
+            <p>Den lieben Brief von <rs ref="#tillich_person_id__1928" type="person">Herrn
+                  Pfarrer</rs> mit bestem Dank erhalten. Hier ist soweit noch alles beim alten. <rs ref="#tillich_person_id__2285" type="person">Herr Pfarrer Grimm</rs> ist auf
+               Urlaub und bekam in Tegernsee das <ptr/>E.K.<note type="ea">Gemeint ist
+                  wahrscheinlich das Eiserne Kreuz</note> Der Herr <unclear reason="illegible">[...]</unclear> ist auch auf Urlaub, Herr<unclear reason="illegible">Jeritratzki</unclear> ist bei den 66 abkommandiert, Herr <unclear reason="illegible">Locherried/Bocherried</unclear> ist bei uns in Feldlazarett 22.
+               Wir liegen jetzt an der <rs ref="#tillich_place_id__33" type="place">belgischen</rs>
+               Grenze in Ruhe seit Montag wir haben die schwierige Tour zu Fuß gemacht von unten
+               rauf, immer hübsche Märsche den letzten Tag 39 kilm. Aber es sind bloß noch ein paar
+               Tage dann kommen wir wieder in die Gegend wo der <rs ref="#tillich_person_id__1928" type="person">Pfarrer</rs> Abschied genommen hat. Für mich ist auch eine
+               Reklamation eingereicht worden von zu Hause und wenn ich vielleicht Glück habe dann
+               bin ich den Winter auch zu Hause. Wir liegen in einem Ort hier, da liegt ein jedes
+               Haus 5 bis 10 Minuten weit entfernt. Der Schimmel befindet sich wohl. Die Sohlen sind
+               in <sic>den</sic> großen Koffer unten gewesen wo der Honig und die anderen Sachen
+               waren.</p>
+            <closer>
+               <salute>Viele Grüße sendet Ihnen nebst <rs ref="#tillich_person_id__1931" type="person">Gemahlin</rs><lb/>Ihr früherer Bursche </salute>
+               <signed><rs ref="#tillich_person_id__1074" type="person">Koch</rs></signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1074">
+                  <persName>Koch, Karl</persName>
+                  <occupation>Referent, Bursche von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2285">
+                  <persName>Grimm, ???</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er war Feldpfarrer im 1. Weltkrieg.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__33">
+                  <placeName>Belgien</placeName>
+                  <location type="coords">
+                     <geo>50.75000 4.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2802361/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

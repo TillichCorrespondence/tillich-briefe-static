@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00374.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00373.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00376.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Maria Rhine an Paul Tillich vom 29. September 1913</title>
+<author ref="#tillich_person_id__1594">Maria Rhine</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS649/178</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1594">Maria Rhine</persName>
+<placeName ref="#tillich_place_id__41">Lichtenrade</placeName>
+<date when="1913-09-29">29.09.1913</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00373">Brief von Maria Rhine an Paul Tillich vom 27. September 1913</ref><ref subtype="next_letter" type="withinCollection" target="L00376">Brief von Maria Rhine an Paul Tillich vom 23. Oktober 1913</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2023-12-06" who="AA">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs>
+   , den 
+   <date when="1913-09-29">29.09.1913</date>
+</dateline>
+<salute>Lieber Tillich,</salute>
+</opener>
+<p>
+   ich kann es nicht mehr tragen. All die mühsam
+   errungene Fassung ist zum Teil vernichtet durch <rs ref="#tillich_person_id__2020" type="person">Dox</rs>.
+   Er konnte natürlich zu <rs ref="#tillich_person_id__1063" type="person">Mutti</rs>
+   nicht schweigen. Das war ja vorauszusehen.
+   Das ist kein richtiger Freund, der nicht schweigen
+   kann. Nur eins hat er verschwiegen, wie nah
+   es mich angeht, sogar scheint er dabei noch
+   Ausflüchte gebraucht zu haben, denn er sagte zu
+   <rs ref="#tillich_person_id__1063" type="person">Mutti</rs> auf ihre Frage, wie er glaubte, daß die
+   ganze Sache mich berührt hat, er glaube, die
+   Sache sei mir nicht sehr nah gegangen. —
+   Trotzdem ich ihm noch ziemlich verzweifelt.
+   schrieb. Bitte sagen Sie nichts zu <rs ref="#tillich_person_id__2020" type="person">Dox</rs> darüber,
+   ich will <hi rend="u">mich</hi> mit ihm selbst auseinandersetzen.—
+   Aber ich kann nicht mehr. Ich muß
+   mich nun <rs ref="#tillich_person_id__1063" type="person">Mutti</rs> gegenüber so verstellen,
+   wie es meiner selbst ganz unwürdig ist.
+   Außerdem macht sie mir stundenlange
+   Vorhaltungen, daß sie mein Vertrauen
+   nicht besäße! — — Wenn Sie doch morgens
+   immer so spät aufstehen, dann könnten Sie
+   <pb n="2"/>
+   doch wenigstens einmal morgen oder übermorgen
+   etwas früher aufstehen, und mit
+   mir am Potsdamer Platz zusammentreffen,
+   um 8 Uhr, damit ich es mit Ihnen besprechen
+   kann, ehe Sie nach <rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs> kommen. —
+   <rs ref="#tillich_person_id__1063" type="person">Mama</rs> hat Emma gefragt, ob Sie mir
+   noch einmal geschrieben hätten. Jedenfalls
+   dürfen Sie <hi rend="u">keine Karte</hi> schreiben. Gott, warum
+   verlassen mich denn alle Menschen gerade
+   in der schwersten Zeit?— Sie werden
+   es noch bereuen.— Ich will nicht so vernachlässigt
+   werden von Ihnen! Dann zu sagen,
+   <hi rend="u">ich</hi> sollte nichts "zu erzwingen suchen" ist
+   <hi rend="u">einfach</hi>, um mich los zu werden. Aber durch
+   <rs ref="#tillich_person_id__2020" type="person">Doxens</rs> Tun bin ich in der größten Verwirrung.
+   Wenn Sie doch nur eine Viertelstunde
+   mit mir sprächen. Ich bin jetzt doch immer
+   zu Ihrer Verfügung, da Ferien sind, nur zu
+   Mittag muß ich zu Hause sein! Schreiben
+   Sie mir <hi rend="u">umgehend</hi>. Ich muß reden mit
+   einem Menschen. Sind sie denn den ganzen
+   Tag mit Gr. zusammen.— Ich kann hier
+   nicht sitzen. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>, fühlen Sie denn gar keine
+   Verantwortung? Eine Viertelstunde könnte
+   Gr. Sie auch entbehren.
+  </p>
+<closer>
+<salute>Ihre</salute>
+<signed>Maria Klein.</signed>
+</closer>
+<postscript>
+<p>
+   Ich weiß nicht mehr, was ich tun soll.
+   Warum verstanden Sie denn am Telefon nicht, was ich wollte?
+   </p>
+</postscript>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__2020">
+                  <persName>Wegener, Carl Richard</persName>
+                  <birth>
+                     <date>1883-08-03</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1967-07-11</date>
+                     <settlement>
+                        <placeName>Neuruppin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1063">
+                  <persName>Klein, Elisabeth</persName>
+                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__41">
+                  <placeName>Berlin-Lichtenrade</placeName>
+                  <location type="coords">
+                     <geo>52.39844 13.40637</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

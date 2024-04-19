@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01105.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01104.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01106.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Erich Seeberg an Paul Tillich vom 21. Mai 1931</title>
+            <author ref="#tillich_person_id__1760">Erich Seeberg</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__239">Koblenz</settlement>
+                  <institution>Bundesarchiv Koblenz</institution>           
+                  <collection>Nachlass Reinhold und Erich Seeberg</collection>
+                  <idno>&gt;N 1248</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Briefdurchschlag, maschinenschriftlich</p>
+                  </physDesc>             
+               <additional> 
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Erdmann Sturm</author>
+                           <title>"Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924–1935)</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <date when="2012">2012</date>
+                              <biblScope>211–253, hier: 247f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>Bd. 7, H. 1</biblScope>
+                        </series>
+                     </biblStruct>  
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1760">Erich Seeberg</persName>
+              <date when="1931-05-21">21.05.1931</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+           </correspAction>
+        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01104">Brief von Arthur Jacker an Paul Tillich vom 7. Mai 1931</ref><ref subtype="next_letter" type="withinCollection" target="L01106">Brief von Paul Tillich an Verlag Mohr Siebeck vom 25. Mai 1931 [PS]</ref></correspContext></correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-11-29">Initiale Auszeichnung des Transkripts</change>
+        <change who="SK" when="2023-12-05">XML Id hinzugefügt</change>
+        <change who="SK" when="2023-12-13">Name ID von Kohlmeyer und Uhlig ausgebessert</change>
+        <change who="FS" when="2024-01-11">Endabnahme</change>        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline><date when="1931-05-21">21. Mai 1931</date><note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note></dateline>
+           <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Herr Tillich</rs>!</salute>
+        </opener>
+        <p>Ich komme heute mit einer diskreten Bitte zu Ihnen, die Sie vielleicht gelegentlich bei dem Ihnen befreundeten <rs ref="#tillich_person_id__1965" type="person">Herrn Uhlig</rs>, den ich nur oberflächlich kenne, unterbreiten könnten.</p>
+        <p>Wie ich höre, wünscht <rs ref="#tillich_person_id__2640" type="person">Herr Rückert</rs> in <rs ref="#tillich_person_id__260" type="place">Leipzig</rs> zu seinem Nachfolger einen Privatdozenten <rs ref="#tillich_person_id__2641" type="person">Vogelsang</rs> aus <rs ref="#tillich_person_id__515" type="place">Königsberg</rs>, der zwar eine brauchbare <rs ref="#tillich_work_id__65" type="work">Dissertation über Lutherische Christologie</rs> geschrieben hat, der aber sicher aus ebenso dürrem Holz wie <rs ref="#tillich_person_id__2640" type="person">Rückert</rs> selbst geschnitzt ist. Ich würde es sehr bedauern, wenn aus reinen Schulgesichtspunkten ein so blutiger Anfänger auf einen der grossen Lehrstühle meines Faches berufen werden würde. Soviel man gegen ältere Gelehrte wie <rs ref="#tillich_person_id__2401" type="person">Hermelink</rs>, <rs ref="#tillich_person_id__2127" type="person">Zscharnack</rs> oder <rs ref="#tillich_person_id__2650" type="person">Kohlmeyer</rs> einzuwenden vermag, so sehr würde ich doch jedem einzelnen von diesen den Vorzug geben vor einem Anfänger, dessen zukünftige Entwicklung ebenfalls keine glänzende sein wird, und wenn man in <rs ref="#tillich_person_id__260" type="place">Leipzig</rs> an <rs ref="#tillich_person_id__2641" type="person">Herrn Vogelsang</rs> denkt, so ist das zum mindesten auch eine Ungerechtigkeit gegenüber dem hiesigen <rs ref="#tillich_person_id__2651" type="person">Privatdozenten Dress</rs>, der älter als sein <rs ref="#tillich_person_id__515" type="place">Königsberger</rs> <rs ref="#tillich_person_id__2641" type="person">Konkurrent</rs> und zugleich universaler begabt ist. Verzeihen Sie, dass ich Sie mit dieser Sache behellige, da ich aber von <rs ref="#tillich_person_id__260" type="place">Leipzig</rs> nicht gefragt bin, sondern da doch alles innerhalb der Schule <rs ref="#tillich_person_id__904" type="person">Hirsch</rs>-<rs ref="#tillich_person_id__2640" type="person">Rückert</rs>-<rs ref="#tillich_person_id__1180" type="person">Lietzmann</rs> abgemacht wird, so möchte ich auch nicht direkt an einen der <rs ref="#tillich_person_id__260" type="place">Leipziger</rs> Kollegen schreiben, möchte aber gern, dass diese Meinung in irgend einer Form von Ihnen bei der entscheidenden Instanz zur Geltung gebracht wird.</p>
+        <p>Es hat mir sehr leid getan, dass wir uns im <date when="1931-03">März</date> nicht getroffen haben. Ich hätte mich gern wieder mit Ihnen unterhalten zumal, da ich Ihre Ablehnung von <rs ref="#tillich_person_id__189" type="place">Halle</rs> sehr gut verstehen kann.<note type="ea">Tillich hatte am <date when="1931-03-20">20. März 1931</date> den Ruf an eine Systematische Professur in Halle abgelehnt.</note> Ich denke doch, dass diese Absage keine universale Absage an die Theologie überhaupt gewesen ist.        
+        </p>
+        <closer>
+           <salute>Mit den herzlichsten Grüssen bitte auch an <rs ref="#tillich_person_id__1923" type="person">Ihre Frau Gemahlin</rs> bin ich<lb/>
+              Ihr<note type="ea">Unterschrift fehlt, da Briefdurchschlag.</note></salute>
+        </closer>
+      
+     </div>
+    </body>
+  <back><listPerson><person xml:id="tillich_person_id__515">
+                  <persName>Ehrenström, Nils</persName>
+                  <occupation>Theologe (Ökumenik)</occupation>
+                  <note type="bio"><p>1926 schloss er sein Studium an der Universität Uppsala ab und arbeitete 25 Jahre lang als Repräsentant der Schwedischen Kirche am Ökumenischen Institut in Genf. 1955-1969 hatte er eine Professur für Ökumenik an der Boston University inne. Nach seiner Emeritierung zog er zurück nach Genf, wo er bis zu seinem Tod lebte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1180">
+                  <persName>Lietzmann, Hans</persName>
+                  <birth>
+                     <date>1875-03-02</date>
+                     <settlement>
+                        <placeName>Düsseldorf</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1942-06-25</date>
+                     <settlement>
+                        <placeName>Locarno</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe, Kirchenhistoriker, Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118572865</idno>
+               </person>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
+                  <birth>
+                     <date>1888-06-14</date>
+                     <settlement>
+                        <placeName>Bentwisch</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-07-17</date>
+                     <settlement>
+                        <placeName>Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+               </person>
+               <person xml:id="tillich_person_id__1965">
+                  <persName>Ulich, Robert</persName>
+                  <birth>
+                     <date>1890-04-21</date>
+                  </birth>
+                  <death>
+                     <date>1977-06-17</date>
+                  </death>
+                  <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
+                  <note type="bio"><p>(verheiratet mit Brändström, Elsa)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2127">
+                  <persName>Zscharnack, Leopold</persName>
+                  <birth>
+                     <date>1877-08-22</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1955-08-19</date>
+                     <settlement>
+                        <placeName>Kassel</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe (Kirchengeschichte)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117015067</idno>
+                  <note type="bio"><p>Er wirkte ab 1922 als Professor für Kirchengeschichte in Breslau. Ab 1925 lebte und wirkte er in Königsberg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__189">
+                  <persName>Berger, Charles Edward</persName>
+                  <occupation>Reverend in St. Anne und All Saints´ Church in Chevy Chase (Washington)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__260">
+                  <persName>Borton, Hugh</persName>
+                  <occupation>Haverford College</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2650">
+                  <persName>Kohlmeyer, Ernst</persName>
+                  <birth>
+                     <date>1882</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Professor für Kirchengeschichte;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116307552</idno>
+                  <note type="bio"><p>Er wirkte ab 1926 als Professor für Kirchengeschichte in Breslau. Ab 1929 lebte und wirkte er in Halle.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2651">
+                  <persName>Dreß, Walter</persName>
+                  <birth>
+                     <date>1904</date>
+                  </birth>
+                  <death>
+                     <date>1979</date>
+                  </death>
+                  <occupation>Privatdozent für Kirchengeschichte;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118680722</idno>
+                  <note type="bio"><p>Er war ein Schwager und Freund Dietrich Bonhoeffers. Ab 1929 wirkte er als Privatdozent für Kirchengeschichte in Berlin. Von 1930-1933 wirkte er als Professor an der Lutherakademie in Dorpat. 1935 kam es zum Bruch mit seinem Lehrer E. Seeberg wegen des von R. Seeberg verfassten Gutachtens zu den Thesen der Reichsbewegung der Deutschen Christen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2641">
+                  <persName>Vogelsang, Erich</persName>
+                  <birth>
+                     <date>1904-04-20</date>
+                     <settlement>
+                        <placeName>Beverungen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1944-06-25</date>
+                     <settlement>
+                        <placeName>Witebsk</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Privatdozent für Kirchengeschichte und Kirchenmusik;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/133273830</idno>
+                  <note type="bio"><p>Er lebte und wirkte in Königsberg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2640">
+                  <persName>Rückert, Hanns</persName>
+                  <birth>
+                     <date>1901-09-18</date>
+                  </birth>
+                  <death>
+                     <date>1974-01-03</date>
+                  </death>
+                  <occupation>Professor für Kirchengeschichte;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116673567</idno>
+                  <note type="bio"><p>Er wirkte ab 1928 als Professor für Kirchengeschichte in Leipzig und ab 1931 in Tübingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2401">
+                  <persName>Hermelink, Heinrich</persName>
+                  <birth>
+                     <date>1877-07-30</date>
+                     <settlement>
+                        <placeName>Mulki</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-02-11</date>
+                     <settlement>
+                        <placeName>München-Obermenzing</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe (Kirchengeschichte)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
+                  <note type="bio"><p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__65">Vogelsang, Erich, Die Anfänge von Luthers Christologie nach der ersten Psalmenvorlesung, Berlin/Leipzig 1929</bibl>
+               </listBibl></back></text>
+</TEI>

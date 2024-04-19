@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01194.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01190.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01195.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Karl Keck an Paul Tillich vom 4. Februar 1933</title>
+            <author ref="#tillich_person_id__2456">Karl Keck</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/157(46)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2456">Karl Keck</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+               <date when="1933-02-04">04.02.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01190">Postkarte von Paul Tillich an Hannah Tillich vom 7. Januar 1933 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01195">Brief von Paul Tillich an Kurt Leese vom 20. Februar 1933</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-09">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+               <rs ref="#tillich_place_id__143" type="place">Frankfurt <hi rend="sup">a</hi>M.</rs>, den <date when="1933-02-04">4. Februar 1933</date><note type="ea">Vorgedruckter Briefkopf: Dr. <rs ref="#tillich_person_id__2456" type="person">Karl Keck</rs>, Regierungsrat a. D., Syndikus der Industrie- und Handelskammer, <rs ref="#tillich_place_id__143" type="place">Frankfurt <hi rend="sup">a</hi>M.</rs>-<rs ref="#tillich_place_id__540" type="place">Hanau</rs>.</note></dateline>
+               <salute>Sehr geehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
+            </opener>
+            <p>Unter Bezugnahme auf die Ihnen bereits übersandte Einladung zu dem Diskussionsabend
+               des Bundes für wirtschaftliche und politische Bildung (Volkswirt-Kreis)<note type="ea">Der im Herbst 1932 von <rs ref="#tillich_person_id__2697" type="person">Gustav Stolper</rs> gegründete Volkswirt-Kreis wollte - gegen die emotionalisierende und Halbwissen verbreitende Propaganda seiner Zeit - "die Kenntnis der 'reinen [ökonomischen, Anm.] Theorie' ebenso wie die Kenntnis der wirtschaftlichen und politischen Wirklicheit über Deutschland so verbreiten, daß diese Kenntnis zu einer größeren politischen Macht werde, als es heute ihre Unkenntnis ist" (zit. nach <rs ref="#tillich_work_id__88" type="work">Rieter, Der deutsche Volkswirt 1926 bis 1933</rs>, 123.).</note> erlaube ich
+               mir zugleich im Namen der Herren Prof. <rs ref="#tillich_person_id__1610" type="person">Riezler</rs> und
+                  <rs ref="#tillich_person_id__760" type="person">Hahn</rs> die Bitte auszusprechen, dass Sie die
+               Freundlichkeit haben möchten, an der Diskussion teilzunehmen,</p>
+            <closer>
+               <salute>In vorzüglicher Hochachtung</salute>
+               <signed><rs ref="#tillich_person_id__2456" type="person">K. Keck</rs></signed>
+            </closer>
+
+
+         </div>
+
+      </body>
+   <back><listBibl><bibl xml:id="tillich_work_id__88">Rieter, Heinz, Der deutsche Volkswirt 1926 bis 1933. Eine Fallstudie zur publizistischen Umsetzung wirtschaftspolitischer Konzeptionen, in: Albeda, Willem et al., Die Umsetzung wirtschaftspolitischer Grundkonzeptionen in die kontinentaleuropäische Praxis des 19. und 20. Jahrhunderts, II. Teil (Studien zur Entwicklung der ökonomischen Theorie XVII, hg. von Erich W. Streissler), Berlin 1998, S. 95-153.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1610">
+                  <persName>Riezler, Kurt</persName>
+                  <birth>
+                     <date>1882-02-11</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1955-09-06</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Diplomat und Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
+                  <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2456">
+                  <persName>Keck, Karl</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116141182</idno>
+               </person>
+               <person xml:id="tillich_person_id__2697">
+                  <persName>Stolper, Gustav</persName>
+                  <birth>
+                     <date>1888-07-25</date>
+                     <settlement>
+                        <placeName>Wien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1947-12-08</date>
+                     <settlement>
+                        <placeName>New York, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/11861858X</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__760">
+                  <persName>Hahn, L. Albrecht</persName>
+                  <occupation>Bankier und Finanzwissenschaftler</occupation>
+                  <note type="bio"><p>Studium der Rechtswissenschaften, Volkswirtschaft und Philosophie in Freiburg/Breisgau, Heidelberg, Marburg und Berlin, 1912 wurde er zum Dr. jur. promoviert, 1919 zum Dr. phil. 1919-1933 Vorstandsmitglied der Deutschen Effekten- und Wechselbank (vormals Bankhaus L. A. Hahn), 1929-1933 war er zudem Honorarprofessor für Geld- und Kreditwesen an der Universität Frankfurt. 1936 Emigration in die Schweiz, 1939 in die USA, wo er als Dozent an der New School for Sozial Research in New York tätig war. Nach dem Zweiten Weltkrieg kehrte er nach Europa zurück und hielt ab 1950 auch wieder Lehrveranstaltungen in Frankfurt.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__540">
+                  <placeName>Hanau</placeName>
+                  <location type="coords">
+                     <geo>50.13423 8.91418</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911007/</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

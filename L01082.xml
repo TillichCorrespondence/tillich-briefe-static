@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01082.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01081.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01083.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich vom 9. Oktober 1930 [PS]</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(27)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__274">Lübeck</placeName>
+               <date when="1930-10-09">09.10.1930</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__529">Bad Freienwalde</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01081">Postkarte von Paul Tillich an Hannah Tillich vom 6. Oktober 1930 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01083">Postkarte von Paul Tillich an Hannah Tillich vom 7. Dezember 1930 [PS]</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-12-14">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-12-14">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
+            </opener>
+            <p>Zwei Briefe von Dir<note type="ea">Diese Briefe sind nicht erhalten.</note> und die
+               Blume: Ich bin selig. Du schreibst so unglaublich lieb! Hab' keine Angst: Im
+               Augenblick ist nichts zu fürchten. Ich sitze im Zuge <rs type="place" ref="#tillich_place_id__198">Hamburg</rs>-<rs type="place" ref="#tillich_place_id__274">Lübeck</rs>, will mir <rs type="place" ref="#tillich_place_id__274">Lübeck</rs> ansehen (Es wackelt hier schrecklich) Bei
+                  <rs type="person" ref="#tillich_person_id__846">Heimanns</rs> war es reizend. Du
+               sollst <unclear cert="medium">Elli</unclear> mal schreiben. In <rs type="place" ref="#tillich_place_id__530">Dortmund</rs> alles gut verlaufen. Im Zuge nach <rs type="place" ref="#tillich_place_id__198">Hamburg</rs> traf ich <rs type="person" ref="#tillich_person_id__1154">Kurt Leese</rs>. Ich sehne mich sehr nach Dir!</p>
+            <closer>
+               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__846">
+                  <persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1154">
+                  <persName>Leese, Kurt</persName>
+                  <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__530">
+                  <placeName>Dortmund</placeName>
+                  <location type="coords">
+                     <geo>51.51494 7.46600</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935517/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31971850</idno>
+               </place>
+               <place xml:id="tillich_place_id__198">
+                  <placeName>Hamburg</placeName>
+                  <location type="coords">
+                     <geo>53.55073 9.99302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911298/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
+               </place>
+               <place xml:id="tillich_place_id__274">
+                  <placeName>Lübeck</placeName>
+                  <location type="coords">
+                     <geo>53.86893 10.68729</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2875601/</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00785.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00782.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00786.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Wilhelm Ruprecht vom 03. April 1923</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Anna Rüther</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__37">Berlin</settlement>
+<institution>Stiftung Preußischer Kulturbesitz</institution>
+<repository>Staatsbibliothek zu Berlin</repository>
+<collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+<idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="1" type="journal">
+<monogr>
+<author>GRAF, FRIEDRICH WILHELM</author>
+<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+<imprint>
+<date when="2020">2020</date>
+<biblScope>26-170</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
+<biblScope>Vol. 27 (Issue 1)</biblScope>
+<publisher>De Gruyter</publisher>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1923-04-03">03.04.1923</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00782">Brief von Paul Tillich an Wilhelm Ruprecht vom 17. März 1923</ref><ref subtype="next_letter" type="withinCollection" target="L00786">Postkarte von Paul Tillich an Wilhelm Ruprecht vom 12. April 1923</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2024-01-17" who="AR">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+   den <date when="1923-04-03">03.04.1923</date>
+</dateline>
+<salute>Sehr geehrter Herr Ruprecht!</salute>
+</opener>
+<p>Gleichzeitig sende ich die letzten Korrekturen, Vorwort und Inhaltsangabe. Das
+Schlußkapitel werden Sie schon erhalten haben. Übermorgen fahre ich nach
+<hi rend="u">Frankfurt a. Main, Goetheplatz 7 bei <rs ref="#tillich_person_id__641" type="person">Pfarrer Fritz</rs> </hi> und bitte Sie, alle Sachen
+dorthin zu schicken. <unclear cert="high">Nach</unclear> dem 20ten komme ich durch Göttingen <unclear>¿¿¿ ... ¿¿¿</unclear> <unclear cert="high">würde</unclear> mir dann erlauben, Sie <unclear>¿¿¿ ... ¿¿¿</unclear> Über das Papier habe ich mich sehr gefreut.</p>
+<closer>
+<salute>Ihr sehr ergebener</salute>
+<signed>P. Tillich.</signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               </listPerson></back></text>
+</TEI>

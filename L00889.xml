@@ -1,94 +1,93 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00889">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 12. August 1926 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00889.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00888.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00890.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich vom 12. August 1926</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(23)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(23)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__361">Quiberon</placeName>
-               <date when="1926-08-12">12.08.1926</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00888">Brief von Paul Tillich an Hannah Tillich
-                    </ref><ref subtype="next_letter" type="withinCollection" target="L00890">Brief von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-10-19">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-10-19">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-            </opener>
-            <p>Ich sitze auf dem Dampfer zwischen <rs ref="#tillich_place_id__361" type="place">Quiberon</rs> und
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__361">Quiberon</placeName>
+<date when="1926-08-12">12.08.1926</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00888">Brief von Paul Tillich an Hannah Tillich vom 8. August 1926</ref><ref subtype="next_letter" type="withinCollection" target="L00890">Brief von Paul Tillich an Hannah Tillich vom 16. August 1926</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-10-19" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-19" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Ich sitze auf dem Dampfer zwischen <rs ref="#tillich_place_id__361" type="place">Quiberon</rs> und
                Belle-Ile, der mächtig schaukelt bei herrlichem blauem Wetter. Ich denke so viel an
-               Dich und unsere Meerfahrt und an die südlichen Buchten die hier schon anfangen. <bibl type="letter" xml:id="L00888">Der letzte Brief</bibl> war auf der Fahrt nach
+               Dich und unsere Meerfahrt und an die südlichen Buchten die hier schon anfangen. <rs ref="L00888" type="letter">Der letzte Brief</rs>  war auf der Fahrt nach
                   <rs ref="#tillich_place_id__361" type="place">Quiberon</rs> geschrieben. Die Ankunft war eine
                große Enttäuschung: Herrliche Lage, aber völlig versaut durch Autos, Staub und
                Schmutz. Mit Mühe fanden wir Zimmer und fuhren dann bei erstem Morgen herüber zur
@@ -104,7 +103,7 @@
                südlich. Die Ufer ähnlich wie <rs ref="#tillich_place_id__430" type="place">Taormina</rs>, nur
                wüster. Jeden Morgen kommt der Dampfer mit Touristen, die im Autotaxi die Tour rings
                um die Insel machen – Wir waren noch zu sparsam dazu – – –</p>
-            <p>Ich habe viele sehr merkwürdige Träume gehabt: In der ersten Nacht wollte ich
+<p>Ich habe viele sehr merkwürdige Träume gehabt: In der ersten Nacht wollte ich
                   <rs ref="#tillich_person_id__2356" type="person">Christian</rs> die Freundschaft kündigen, wenn er mir
                   nicht<pb n="4"/> das (<rs ref="#tillich_person_id__2008" type="person">Eckart</rs>) geliehene Geld
                zurückgeben würde. In der zweiten ging ich mit <rs ref="#tillich_person_id__2455" type="person">Spitta</rs> Arm in Arm als Liebespaar spazieren. In der dritten Nacht
@@ -124,12 +123,12 @@
                Überbleibsel der Gothisierung der alten Basilika, die man wieder beseitigt hatte. Ich
                erklärte mit höchster Begeisterung, daß nur die basilikale Kirche gut war und alles
                seit-dem Kitsch – – – – –</p>
-            <p>So weit die Träume. Ich führe sie darauf zurück, daß durch das Zusammensein mit
+<p>So weit die Träume. Ich führe sie darauf zurück, daß durch das Zusammensein mit
                   <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> am Meer die Kindheitssituation
                wiederhergestellt ist, vor aller Frau, also<pb n="6"/> mit stark homosexueller und
                analer Note, die übrigens <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> gegenüber nie im
                geringsten aktuell war. Vielleicht gibst Du dieses Material mal an <rs ref="#tillich_person_id__688" type="person">Heinrich</rs>. Es ist ja reichlich toll.</p>
-            <p>Wir wohnen jetzt also auf der Belle-Ile im Atlantischen Ozean in La Palais, dem
+<p>Wir wohnen jetzt also auf der Belle-Ile im Atlantischen Ozean in La Palais, dem
                Hauptort. Gestern haben wir einen starken Westwind erlebt mit der Wirkung der Wellen
                (Biskaya!!) auf die Felsen, die auf der Karte nebenbei abgebildet sind. Es war
                grandios. Es spricht für <rs ref="#tillich_person_id__2566" type="person">Sarah Bernhardt</rs>, daß sie
@@ -143,22 +142,23 @@
                darum keine starke See haben. Wir werden darum wahrscheinlich Montag weiter fahren.
                Aber schreibe hierher!! <rs ref="#tillich_person_id__2356" type="person">Christian</rs> wird dann
                abfahren. <rs ref="#tillich_person_id__2008" type="person">Eckart</rs> bleibt noch.</p>
-            <pb n="8"/>
-            <p>Menschen, besonders Frauen, lernen wir überhaupt nicht kennen. Das scheint nicht nur
+<pb n="8"/>
+<p>Menschen, besonders Frauen, lernen wir überhaupt nicht kennen. Das scheint nicht nur
                an uns zu liegen, sondern ganz allgemein zu sein. Ich bedaure es nicht sehr. Für die
                Erholung ist es so besser.</p>
-            <p>Da ich überhaupt nicht weiß, wie es bei Euch steht, kann ich auch nichts fragen;
+<p>Da ich überhaupt nicht weiß, wie es bei Euch steht, kann ich auch nichts fragen;
                höchstens, was der wilde Wein macht– – – –</p>
-            <p>Liebste, süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Daß wir so lange und so
+<p>Liebste, süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Daß wir so lange und so
                radikal getrennt sind, ist bös!! Ich darf gar nicht daran denken!! Von Tag zu Tag
                hoffe ich auf Dich und ein Wort von Dir. Ich selbst schreibe jeden Tag! In großer
                Liebe!</p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -173,93 +173,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person><person ref="#tillich_person_id__2455"><reference>Spitta</reference><persName>Spitta, Walter</persName>
-                  <birth>
-                     <date>1903-10-05</date>
-                     <settlement>
-                        <placeName>Bremen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1945-01-26</date>
-                     <settlement>
-                        <placeName>Nakło nad Notecia̜</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/122188918</idno>
-               </person><person ref="#tillich_person_id__2564"><reference>Kallen</reference><persName>Kallen, ???</persName>
-               </person><person ref="#tillich_person_id__2565"><reference>Frl.
-                  Große</reference><persName>Große, (Fräulein)</persName>
-               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person><person ref="#tillich_person_id__688"><reference>Heinrich</reference><persName>Goesch, Heinrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__688">
+                  <persName>Goesch, Heinrich</persName>
                   <birth>
                      <date>1880-07-02</date>
                      <settlement>
@@ -273,7 +189,44 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
-               </person><person ref="#tillich_person_id__2566"><reference>Sarah Bernhardt</reference><persName>Bernhardt, Sarah</persName>
+               </person>
+               <person xml:id="tillich_person_id__2455">
+                  <persName>Spitta, Walter</persName>
+                  <birth>
+                     <date>1903-10-05</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-01-26</date>
+                     <settlement>
+                        <placeName>Nakło nad Notecia̜</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/122188918</idno>
+               </person>
+               <person xml:id="tillich_person_id__2356">
+                  <persName>Herrmann, Christian</persName>
+                  <occupation>Philosoph; Pädagoge;</occupation>
+                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2565">
+                  <persName>Große, (Fräulein)</persName>
+               </person>
+               <person xml:id="tillich_person_id__2008">
+                  <persName>von Sydow, Eckart</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+               </person>
+               <person xml:id="tillich_person_id__2566">
+                  <persName>Bernhardt, Sarah</persName>
                   <birth>
                      <date>1844-10-22</date>
                      <settlement>
@@ -287,34 +240,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118509896</idno>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -327,45 +255,55 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__361"><reference>Quiberon</reference><placeName>Quiberon</placeName>
-                  <location type="coords">
-                     <geo>47.48368 -3.11986</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2984741/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q128783</idno>
-               </place><place ref="#tillich_place_id__361"><reference>Quiberon</reference><placeName>Quiberon</placeName>
-                  <location type="coords">
-                     <geo>47.48368 -3.11986</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2984741/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q128783</idno>
-               </place><place ref="#tillich_place_id__430"><reference>Taormina</reference><placeName>Taormina</placeName>
-                  <location type="coords">
-                     <geo>37.85206 15.28699</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6537773/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q199952</idno>
-               </place><place ref="#tillich_place_id__141"><reference>Florenz</reference><placeName>Florenz</placeName>
-                  <location type="coords">
-                     <geo>43.77925 11.24626</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3176959/</idno>
-               </place><place ref="#tillich_place_id__369"><reference>Rom</reference><placeName>Rom</placeName>
-                  <location type="coords">
-                     <geo>41.89193 12.51133</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3169070/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q220</idno>
-               </place><place ref="#tillich_place_id__400"><reference>Siena</reference><placeName>Siena</placeName>
+               </person>
+               <person xml:id="tillich_person_id__2564">
+                  <persName>Kallen, ???</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__400">
+                  <placeName>Siena</placeName>
                   <location type="coords">
                      <geo>43.31822 11.33064</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3166548/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q49280771</idno>
-               </place><place ref="#tillich_place_id__332"><reference>Orvieto</reference><placeName>Orvieto</placeName>
+               </place>
+               <place xml:id="tillich_place_id__369">
+                  <placeName>Rom</placeName>
+                  <location type="coords">
+                     <geo>41.89193 12.51133</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3169070/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q220</idno>
+               </place>
+               <place xml:id="tillich_place_id__332">
+                  <placeName>Orvieto</placeName>
                   <location type="coords">
                      <geo>42.71924 12.11249</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3171874/</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               <place xml:id="tillich_place_id__430">
+                  <placeName>Taormina</placeName>
+                  <location type="coords">
+                     <geo>37.85206 15.28699</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6537773/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q199952</idno>
+               </place>
+               <place xml:id="tillich_place_id__141">
+                  <placeName>Florenz</placeName>
+                  <location type="coords">
+                     <geo>43.77925 11.24626</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3176959/</idno>
+               </place>
+               <place xml:id="tillich_place_id__361">
+                  <placeName>Quiberon</placeName>
+                  <location type="coords">
+                     <geo>47.48368 -3.11986</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2984741/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q128783</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

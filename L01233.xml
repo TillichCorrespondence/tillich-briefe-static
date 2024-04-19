@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01233.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01232.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01234.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Eugen und Hildegard Claassen an Paul und Hannah Tillich vom 15. Juni 1933</title>
+            <author ref="#tillich_person_id__2867">Eugen Claassen</author>
+            <author ref="#tillich_person_id__2868">Hildegard Claassen</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/129(38)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2867">Eugen Claassen</persName>
+               <persName ref="#tillich_person_id__2868">Hildegard Claassen</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+               <date when="1933-06-15">15.06.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__389">Sassnitz</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01232">Brief von "Melissandros" an Paul Tillich vom 2. Juni 1933</ref><ref subtype="next_letter" type="withinCollection" target="L01234">Brief von Agnes Rosenbusch an Paul Tillich vom 20. Juni 1933</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-09-06">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-02-17">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <date when="1933-06-15">15. Juni 33</date></dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__1928" type="person"><rs ref="#tillich_person_id__1923" type="person">Tillichs</rs></rs>!</salute>
+            </opener>
+            <p>Vielen Dank für Ihre Karte, die eine weite Reise gemacht hat (über
+               <rs type="place">Rom</rs> wohin sie <rs ref="#tillich_person_id__2867" type="person">Claassen</rs>, der dort für 3
+               Wochen bei seiner <rs ref="#tillich_person_id__2869" type="person">Mutter</rs> ist, abgeschickt wurde) bis sie in
+                  <rs type="place">Frankfurt</rs> landete. Ich freue mich dass es Ihnen gut geht
+               und dass Sie das Meer haben. Das ist ja doch besser als alle andere Landschaft. Es
+               wäre schön, Sie bald wiederzusehen – oder kommen Sie gar nicht mehr nach
+                  <rs type="place">Frankfurt</rs>? Herzliche Grüsse und sehr viele gute Wünsche</p>
+            <closer>
+               <signed>Ihre <rs ref="#tillich_person_id__2867" type="person"><rs ref="#tillich_person_id__2868" type="person">Claassens</rs></rs></signed>
+            </closer>
+
+         </div>
+
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__2869">
+                  <persName>Schmujlow-Claassen, Ria</persName>
+                  <birth>
+                     <date>1868-10-12</date>
+                  </birth>
+                  <death>
+                     <date>1952-08-11</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118609424</idno>
+               </person>
+               <person xml:id="tillich_person_id__2867">
+                  <persName>Claassen, Eugen</persName>
+                  <birth>
+                     <date>1895-02-14</date>
+                     <settlement>
+                        <placeName>Zürich</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1955-04-26</date>
+                     <settlement>
+                        <placeName>Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Verleger;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11852089X</idno>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2868">
+                  <persName>Claassen, Hildegard</persName>
+                  <birth>
+                     <date>1897-04-21</date>
+                     <settlement>
+                        <placeName>Linnich</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-02-16</date>
+                     <settlement>
+                        <placeName>Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistorikerin; Verlegerin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116524774</idno>
+               </person>
+               </listPerson></back></text>
+</TEI>

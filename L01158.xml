@@ -1,101 +1,144 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01158">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Hannah Tillich
-                    <lb/>vom 28. September 1932<note type="ea">Auf dem Brief findet sich keine Datumsangabe. Die vorgenommene Datierung ergibt sich aus dem Kontext (vgl. den <rs xml:id="L01157" type="letter">Brief Paul Tillichs an Hannah Tillich vom 26. September 1932</rs>).</note>
-                </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>        
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/3(2)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig. Das verwendete Briefpapier ist am Briefkopf bedruckt: "Das Haus auf dem Küssel. Potsdam, Küsselstraße 40-41, Fernruf 5034"</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc> 
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__356">Potsdam</placeName>
-                    <date when="1932-09-28">28.09.1932</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                </correspAction>
-            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01157">Postkarte von Paul Tillich an Hannah Tillich
-                    </ref><ref subtype="next_letter" type="withinCollection" target="L01167">Postkarte von Paul Tillich an Fritz Medicus
-               </ref></correspContext></correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2023-12-14">Initiale Auszeichnung des Transkripts und Endabnahme</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                
-                <opener><add>4 Minuten<lb/><formula notation="TeX">\frac{3}{4}</formula></add><note type="ea">Von fremder Hand.</note>
-                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-                </opener>
-                <p>Hab' Dank für Brief<note type="ea">Dieser Brief liegt nicht vor.</note> und Paket! Inzwischen ist allerhand zu berichten: <date when="1932-09-26">Montag</date> Abend nach <rs ref="#tillich_person_id__641" type="person">Fredes</rs> Geburtstags-Kaffee feierten <rs ref="#tillich_person_id__1211" type="person"><rs ref="#tillich_person_id__1212" type="person"><rs ref="#tillich_person_id__1928" type="person"><rs ref="#tillich_person_id__1498" type="person"><rs ref="#tillich_person_id__1499" type="person">wir 5</rs></rs></rs></rs></rs> <rs ref="#tillich_person_id__1211" type="person">Claires</rs> Geburtstag: Wir trafen uns zunächst bei Holländer, wo ein glänzendes, teilweise politisches Kabaret ist. Daselbst traf ich <rs ref="#tillich_person_id__2667" type="person">Rosie Gräfenberg</rs>, die fabelhaft aussah und um meinen Besuch bat. Auch <rs ref="#tillich_person_id__1211" type="person"><rs ref="#tillich_person_id__1212" type="person">Löwenfelds</rs></rs> fanden sie sehr interessant. Nach dem Kabaret in die "Königin" wo wir ein fabelhaftes Paar fanden, für das Männer und Frauen sich in gleicher Weise begeisterten: Er ein alter Aristokrat mit einer fabelhaften Hand. Sie mit wunderbaren roten Haaren und grünem Schawl. Sie trotzdem ganz langsam und vollendet. Im Auto spät nach Haus. Am nächsten Tag telephoniere ich <rs ref="#tillich_person_id__2020" type="person">Dox</rs> an, der hier gegenüber als Direktor der staatlichen Bildungsanstalt wohnt. Bin um 6 bei ihm, als die Familie Löwenfeld zur Geburtstagsfeier kommt und bleibe den Abend da. Er zeigt mir die riesige Anstalt mit Eß-Schlafsälen u. s. w. <pb n="2"/> er regiert da wie ein König. Im Übrigen hat er sich nicht geändert, sondern ist nur in allem fester geworden, z.T. etwas starr. Die <rs ref="#tillich_person_id__2668" type="person">Frau</rs> hat wärmere Augen, ist sehr gealtert, hat sich wohl ganz mit ihrem Schicksal abgefunden. Wir sprachen über alte und neue Zeiten. Um <formula notation="TeX">\frac{1}{2}</formula> 10 war schon Schluß, da er um diese Zeit ins Bett geht. - - Heut früh ein herrlicher Arbeitsvormittag. Um 5 kam <rs ref="#tillich_person_id__2020" type="person">Dox</rs> und <rs ref="#tillich_person_id__2668" type="person">Frau</rs> zu einem kurzen Besuch. Heut gefiel er mir gar nicht, kurz, herrisch, steif, unliebenswürdig. Dabei wurde ihm rührend das ganze Haus gezeigt. Vielleicht war es Schüchternheit. Dann haben wir sie im Motorboot nach Hause gebracht. - -</p>
-                <p>Und Du mußt kommen. Wenn Du mit C.<note type="ea">Identität nicht geklärt. Womöglich ist <rs ref="#tillich_person_id__1307" type="person">Carl Mennicke</rs> gemeint.</note> im Auto kommst, spart das über 20M. Wir freuen uns alle und ich umarme Dich wieder, aber nicht probeweise. Ich liebe dich, komm! Schreibe bald und genau, wann. Und rast nicht zu sehr! Ich werde den ganzen Tag zittern!
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01158.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01157.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01159.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich vom 28. September 1932</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/3(2)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig. Das verwendete Briefpapier ist am Briefkopf bedruckt: "Das Haus auf dem Küssel. Potsdam, Küsselstraße 40-41, Fernruf 5034"</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__356">Potsdam</placeName>
+<date when="1932-09-28">28.09.1932</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L01157">Postkarte von Paul Tillich an Hannah Tillich vom 26. September 1932 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01159">Brief von der SPD Groß-Frankfurt an Paul Tillich vom 07. Oktober 1932</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-12-14" who="FS">Initiale Auszeichnung des Transkripts und Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><add>4 Minuten<lb/><formula notation="TeX">\frac{3}{4}</formula></add><note type="ea">Von fremder Hand.</note>
+                <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Auf dem Brief findet sich keine Datumsangabe. Die vorgenommene Datierung ergibt sich aus dem Kontext (vgl. den <rs ref="L01157" type="letter">Brief Paul Tillichs an Hannah Tillich vom 26. September 1932</rs>).</note></salute>
+</opener>
+<p>Hab' Dank für Brief<note type="ea">Dieser Brief liegt nicht vor.</note> und Paket! Inzwischen ist allerhand zu berichten: <date when="1932-09-26">Montag</date> Abend nach <rs ref="#tillich_person_id__641" type="person">Fredes</rs> Geburtstags-Kaffee feierten <rs ref="#tillich_person_id__1211" type="person"><rs ref="#tillich_person_id__1212" type="person"><rs ref="#tillich_person_id__1928" type="person"><rs ref="#tillich_person_id__1498" type="person"><rs ref="#tillich_person_id__1499" type="person">wir 5</rs></rs></rs></rs></rs> <rs ref="#tillich_person_id__1211" type="person">Claires</rs> Geburtstag: Wir trafen uns zunächst bei Holländer, wo ein glänzendes, teilweise politisches Kabaret ist. Daselbst traf ich <rs ref="#tillich_person_id__2667" type="person">Rosie Gräfenberg</rs>, die fabelhaft aussah und um meinen Besuch bat. Auch <rs ref="#tillich_person_id__1211" type="person"><rs ref="#tillich_person_id__1212" type="person">Löwenfelds</rs></rs> fanden sie sehr interessant. Nach dem Kabaret in die "Königin" wo wir ein fabelhaftes Paar fanden, für das Männer und Frauen sich in gleicher Weise begeisterten: Er ein alter Aristokrat mit einer fabelhaften Hand. Sie mit wunderbaren roten Haaren und grünem Schawl. Sie trotzdem ganz langsam und vollendet. Im Auto spät nach Haus. Am nächsten Tag telephoniere ich <rs ref="#tillich_person_id__2020" type="person">Dox</rs> an, der hier gegenüber als Direktor der staatlichen Bildungsanstalt wohnt. Bin um 6 bei ihm, als die Familie Löwenfeld zur Geburtstagsfeier kommt und bleibe den Abend da. Er zeigt mir die riesige Anstalt mit Eß-Schlafsälen u. s. w. <pb n="2"/> er regiert da wie ein König. Im Übrigen hat er sich nicht geändert, sondern ist nur in allem fester geworden, z.T. etwas starr. Die <rs ref="#tillich_person_id__2809" type="person">Frau</rs> hat wärmere Augen, ist sehr gealtert, hat sich wohl ganz mit ihrem Schicksal abgefunden. Wir sprachen über alte und neue Zeiten. Um <formula notation="TeX">\frac{1}{2}</formula> 10 war schon Schluß, da er um diese Zeit ins Bett geht. - - Heut früh ein herrlicher Arbeitsvormittag. Um 5 kam <rs ref="#tillich_person_id__2020" type="person">Dox</rs> und <rs ref="#tillich_person_id__2809" type="person">Frau</rs> zu einem kurzen Besuch. Heut gefiel er mir gar nicht, kurz, herrisch, steif, unliebenswürdig. Dabei wurde ihm rührend das ganze Haus gezeigt. Vielleicht war es Schüchternheit. Dann haben wir sie im Motorboot nach Hause gebracht. - -</p>
+<p>Und Du mußt kommen. Wenn Du mit C.<note type="ea">Identität nicht geklärt. Womöglich ist <rs ref="#tillich_person_id__1307" type="person">Carl Mennicke</rs> gemeint.</note> im Auto kommst, spart das über 20M. Wir freuen uns alle und ich umarme Dich wieder, aber nicht probeweise. Ich liebe dich, komm! Schreibe bald und genau, wann. Und rast nicht zu sehr! Ich werde den ganzen Tag zittern!
                 </p>
-                <closer>
-                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-                </closer>
-            </div>
-        </body>
-    <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__2667">
+                  <persName>Gräfenberg, Rosie</persName>
+                  <birth>
+                     <date>1898-07-24</date>
+                     <settlement>
+                        <placeName>Mannheim</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1982-08-08</date>
+                  </death>
+                  <occupation>Schriftstellerin; Journalistin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/107662450</idno>
+               </person>
+               <person xml:id="tillich_person_id__1211">
+                  <persName>Löwenfeld, Claire</persName>
+                  <occupation>Diätetikerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1212">
+                  <persName>Löwenfeld, Günther</persName>
+                  <occupation>Jurist</occupation>
+                  <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1498">
+                  <persName>Pincus, Lily</persName>
+                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
+                  <note type="bio"><p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1499">
+                  <persName>Pincus, Fritz</persName>
+                  <occupation>Mitbesitzer Haus auf dem Küssel</occupation>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2809">
+                  <persName>Apelius, Hildegard</persName>
+                  <note type="bio"><p>Sie war eine geborene Erbslöb und die Frau von Wegener.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -110,36 +153,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__641"><reference>Fredes</reference><persName>Fritz, Alfred</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                  </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person><person ref="#tillich_person_id__1499"><reference>wir 5</reference><persName>Pincus, Fritz</persName>
-                  <occupation>Mitbesitzer Haus auf dem Küssel</occupation>
-               </person><person ref="#tillich_person_id__1211"><reference>Claires</reference><persName>Löwenfeld, Claire</persName>
-                  <occupation>Diätetikerin</occupation>
-               </person><person ref="#tillich_person_id__2667"><reference>Rosie Gräfenberg</reference><persName>Gräfenberg, Rosie</persName>
-                  <birth>
-                     <date>1898-07-24</date>
-                     <settlement>
-                        <placeName>Mannheim</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1982-08-08</date>
-                  </death>
-                  <occupation>Schriftstellerin; Journalistin;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/107662450</idno>
-               </person><person ref="#tillich_person_id__1212"><reference>Löwenfelds</reference><persName>Löwenfeld, Günther</persName>
-                  <occupation>Jurist</occupation>
-                  <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
-               </person><person ref="#tillich_person_id__2020"><reference>Dox</reference><persName>Wegener, Carl Richard</persName>
+               </person>
+               <person xml:id="tillich_person_id__2020">
+                  <persName>Wegener, Carl Richard</persName>
                   <birth>
                      <date>1883-08-03</date>
                      <settlement>
@@ -154,29 +170,9 @@
                   </death>
                   <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
-               </person><person ref="#tillich_person_id__2668"><reference>Frau</reference><persName>Wegener, ???</persName>
-                  <note type="bio"><p>Es handelt sich um die Frau eines gewissen Herrn Berger.</p></note>
-               </person><person ref="#tillich_person_id__2020"><reference>Dox</reference><persName>Wegener, Carl Richard</persName>
-                  <birth>
-                     <date>1883-08-03</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1967-07-11</date>
-                     <settlement>
-                        <placeName>Neuruppin</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
-               </person><person ref="#tillich_person_id__2668"><reference>Frau</reference><persName>Wegener, ???</persName>
-                  <note type="bio"><p>Es handelt sich um die Frau eines gewissen Herrn Berger.</p></note>
-               </person><person ref="#tillich_person_id__1307"><reference>Carl Mennicke</reference><persName>Mennicke, Carl August</persName>
-                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
-                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -189,5 +185,11 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace/><listLetter/></back></text>
+               </person>
+               <person xml:id="tillich_person_id__1307">
+                  <persName>Mennicke, Carl August</persName>
+                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
+                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

@@ -1,110 +1,134 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00949">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 16. Oktober 1927
-               [PS]</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00949.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00948.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00950.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich vom 16. Oktober 1927 [PS]</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(24)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(24)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1927-10-16">16.10.1927</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00948">Postkarte von Paul Tillich an Hannah Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00956">Postkarte von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-11-22">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-11-22">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession" n="1">
-            <pb n="1"/>
-            <opener>
-               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
-            </opener>
-            <p>Ich schicke in Eile diese Karte, damit Du noch einen Gruß in <rs type="place" ref="#tillich_place_id__143">Frankfurt</rs> hast. <rs type="person" ref="#tillich_person_id__688">Heinrich</rs> schreibt Dir auch nach Baseler-Hof.
-               Ein <sic>Bischen</sic> Unruhe habe ich doch, solange Du in <rs type="place" ref="#tillich_place_id__143">Frankfurt</rs> bist – – – – – <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> geht es sehr gut. Heut war wieder <rs type="person" ref="tillich_person_id__1972">Ilse</rs> mit ihr weg. Ich bin neulich
-               Nacht von der Theologie überschallen und befinde mich in milder Gärung der
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1927-10-16">16.10.1927</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00948">Postkarte von Paul Tillich an Hannah Tillich vom 12. Oktober 1927 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L00950">Brief von Paul Tillich an Wilhelm Ruprecht vom 17. Oktober 1927</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-11-22" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-22" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div n="1" type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Ich schicke in Eile diese Karte, damit Du noch einen Gruß in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> hast. <rs ref="#tillich_person_id__688" type="person">Heinrich</rs> schreibt Dir auch nach Baseler-Hof.
+               Ein <sic>Bischen</sic> Unruhe habe ich doch, solange Du in <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> bist – – – – – <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> geht es sehr gut. Heut war wieder <rs ref="#tillich_person_id__1972" type="person">Ilse</rs> mit ihr weg. Ich bin neulich
+               Nacht von der Theologie überfallen und befinde mich in wilder Gärung der
                Gedanken.</p>
-            <closer>
-               <signed>Sei sehr gegrüßt von Deinem <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
-            </closer>
-         </div>
-         <div type="writingSession" n="2">
-            <opener><salute>Liebe Freundin,</salute></opener>
-            <p>wie ist es mit Deinem Kommen? Ab 19ten ist mein Fremdenzimmerchen wieder frei.</p>
-            <salute>Schönste Grüsse</salute>
-            <signed><unclear reason="illegible">¿¿¿</unclear><note type="ea">Wer diesen Zusatz auf
+<closer>
+<signed>Sei sehr gegrüßt von Deinem <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+<div n="2" type="writingSession">
+<opener><salute>Liebe Freundin,</salute></opener>
+               <p>wie ist es mit Deinem Kommen? Ab <date when="1927-10-19">19ten</date> ist mein Fremdenzimmerchen wieder frei.</p>
+<salute>Schönste Grüsse</salute>
+<signed><unclear reason="illegible">¿¿¿</unclear><note type="ea">Wer diesen Zusatz auf
                   die Karte von Paul Tillich an Hannah Tillich geschrieben hat, konnte nicht
                   ermittelt werden.</note></signed>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__688">
+                  <persName>Goesch, Heinrich</persName>
+                  <birth>
+                     <date>1880-07-02</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1931-02-16</date>
+                     <settlement>
+                        <placeName>Konstanz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
+               </person>
+               <person xml:id="tillich_person_id__1972">
+                  <persName>Usener, Ilse</persName>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -119,24 +143,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__688"><reference>Heinrich</reference><persName>Goesch, Heinrich</persName>
-                  <birth>
-                     <date>1880-07-02</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1931-02-16</date>
-                     <settlement>
-                        <placeName>Konstanz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
-               </person><person ref="#tillich_person_id__570"><reference>Erdmuthe</reference><persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-               </person><person ref="tillich_person_id__1972"><reference>Ilse</reference><persName>Usener, Ilse</persName>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -149,17 +158,14 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__143"><reference>Frankfurt</reference><placeName>Frankfurt am Main</placeName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place><place ref="#tillich_place_id__143"><reference>Frankfurt</reference><placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               </listPlace></back></text>
 </TEI>

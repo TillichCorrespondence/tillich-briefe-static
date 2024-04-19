@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00122.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00121.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00123.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gottfried von Hanffstengel an Paul Tillich vom 7. September 1906</title>
+<author ref="#tillich_person_id__788">Gottfried von Hanffstengel</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/147</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__788">Gottfried von Hanffstengel</persName>
+<placeName ref="#tillich_place_id__485">Bremervörde</placeName>
+<date when="1906-09-07">07.09.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00121">Postkarte von Alfred Fritz an Paul Tillich vom 5. September 1906</ref><ref subtype="next_letter" type="withinCollection" target="L00123">Brief von Hermann Schafft an Paul Tillich vom 7. September 1906</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-03-06" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-01-23" who="PS">Vorbereitung zur Endabnahme</change>
+<change when="2024-02-12" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__75" type="place">Bremervörde</rs>, <date when="1906-09-07">7. IX. 06.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Philosoph</rs>!</salute>
+</opener>
+<p>habe Dank für Deinen Brief<note type="ea">Nicht überliefert.</note>, der mich wieder
+               an eine immer vorgehabte, aber nie zur Ausführung gekommene Pflicht erinnerte, der
+               mich jetzt aber so aus meinen Studien aufweckte, daß ich <rs ref="#tillich_person_id__1712" type="person">Schlatter's</rs>
+               Matthäus schleunigst
+               zur Seite lege u Dich aufkläre. Du scheintest mir nämlich von einer falschen
+               Voraussetzung auszugehen. Der erste Teil Deiner Vorstellung stimmt, der Garten u
+               meine <rs ref="#tillich_person_id__2171" type="person"><rs ref="#tillich_person_id__2181" type="person"><rs ref="#tillich_person_id__2182" type="person">Geschwister</rs></rs></rs> nebst einer kleinen Cousine beschäftigen mich
+               intensiv, der Garten, <del rend="s">d</del> indem ich ihm alles überflüssige Obst<pb n="2"/> entziehe, meine kleinen <rs ref="#tillich_person_id__2171" type="person"><rs ref="#tillich_person_id__2181" type="person"><rs ref="#tillich_person_id__2182" type="person">Geschwister</rs></rs></rs> u die Cousine, indem ich ihnen von
+               meiner Weisheit in den Sprachen etwas abgebe. Wenn du aber glaubst, ich fragte jeden
+               Arbeiter oder Handwerker, welchen Eindruck er von der Sixtinischen Madonna oder <rs ref="#tillich_person_id__2289" type="person">Mackensen's</rs> Ziege hat, so bist
+               Du in einem schweren Irrtum. Also, Scherz beiseite, ich kann das Thema nicht
+               bewältigen, es entspricht <del rend="s">s</del> nun mal meiner auf die Wirklichkeit
+               gerichteten Natur auch sich so intensiv mit der Kunst, speziell der Malerei zu
+               befassen. Und dann darüber Theorien aufzustellen, würde mir Überhebung scheinen. Aber
+               der Schreck, den du gekriegt hast,<pb n="3"/> darf bald schwinden. Ein anderes Thema
+               hat mich sehr beschäftigt, ich hoffe es zu einem Vortrage ausarbeiten zu können. Es
+               handelt sich um die Frage: "welche<del rend="s">n</del> Pflicht hat der Staat der
+               Volksschule gegenüber in Sachen der Religion?" So oder ähnlich denke ich die Sache zu
+               formulieren. Literatur habe ich viel dafür, hoffentlich hat nur nicht schon ein
+               anderer dies Thema! Das wäre übel. Diese Frage interessiert mich mehr, da sie gerade
+               jetzt aktuell geworden ist durch die Entscheidung des Abgeordnetenhauses. Äußerungen
+               verschiedener Parteien stehen mir zu Gebote. Schreibe mir doch bitte ob jemand sich
+               dies Thema erwählt hat.<pb n="4"/> Etwas mehr als du Dir vorstellst, besinne ich mich
+               doch auf <del rend="s">d</del> mein 4. Semester. Ich schaffe <rs ref="#tillich_person_id__2082" type="person">Windelband's</rs>
+<rs ref="#tillich_work_id__29" type="book">Präludien</rs>, <rs ref="#tillich_person_id__1712" type="person">Schlatters</rs>
+<rs resp="#tillich_work_id__161" type="book">Glaube</rs>, die kleinen Propheten, die
+               Psalmen, u Matthäus. Außer mit <rs ref="#tillich_person_id__1712" type="person">Schlatters</rs>
+<rs resp="#tillich_work_id__161" type="book">Glaube</rs> denke ich mit allem fertig
+               zu werden. Meine Bibliothek hat sich auch etwas bereichert. Etwas treibe ich auch
+               Kirchengeschichte, mir liegt das Reformationszeitalter am Herzen (!), wozu ich <rs ref="#tillich_person_id__2848" type="person">Hausratz's</rs> <rs ref="#tillich_work_id__207" type="work">Luther</rs>
+               zur Erholung lese. Ein prachtvolles Werk ist es, so leicht u fein geschrieben u doch
+               merkt man die Forschung dahinter.</p>
+<p>Ganz so schlecht wie ich mich zu Anfang geschildert habe, bin ich<pb n="5"/> doch
+               nicht. Als mir nämlich die Erkenntnis meines Unvermögens aufging schrieb ich eine
+               Postkarte <hi rend="sup">an Dich</hi> nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, jedoch ohne weitere Adresse, da ich sie
+               vergessen hatte. Außerdem fiel in die Zeit, es war wohl der <date when="1906-08-20">20. <del rend="s">Sept.</del> Aug</date>, Dein Geburtstag, zu dem ich Dir zu gratulieren mir erlaubte;
+               sogar ein griechischer Vers zierte die Karte <foreign xml:lang="grc">σοὶ δὲ θεοὶ τόσα δοῖεν, ὅσα φρεσὶ σῇσι μενούνας </foreign>, und ..... die Karte kam zurück. In meiner Verzweiflung fragte ich bei
+               meinem Lbb in <rs ref="#tillich_place_id__189" type="place">Halle</rs> an, ob er eine
+               Liste der Ferienadressen als Ferienchargierter besitze; Nein, auch der nicht, aber
+                  <rs ref="#tillich_person_id__2155" type="person">Voget</rs> wußte sie u schrieb
+               sie auch. Wieder wollte ich nun schreiben; aber kann<pb n="6"/> ein Sohn, der beinahe
+                  Knödelwirt geworden wäre, Briefe schreiben, wenn seine Eltern
+               in 8 Tagen ihre silberne Hochzeit feiern? Muß er nicht sich auf sich selbst setzen
+               und lange Gedichte verbrechen oder es wenigstens versuchen? Also ich kam nicht dazu,
+               u so gratuliere ich Dir jetzt, es kommt spät, aber "letzter, bester".</p>
+<p>Die Feiertage waren großartig, natürlich tat man nichts; 35 Personen waren wir bei
+               Tisch. Das Wetter begünstigte uns sehr. Einige Aufnahmen von da kann ich dir in <rs ref="#tillich_place_id__189" type="place">Halle</rs> zeigen.</p>
+<p>Vorigen Mittwoch feierten wir nochmal im Kreis der Inspektion<pb n="7"/> meines
+               <rs ref="#tillich_person_id__2806" type="person">Vaters</rs>. Von einigen Pastoren wurde ich auch schon angekeilt ich sollte für sie
+               predigen, übers Jahr werde ich dem kaum entgehen können. An den Konferenzen nehme ich
+               auch tätigen Anteil.</p>
+<p>Das Studium von <rs ref="#tillich_person_id__2082" type="person">Windelbands</rs>
+<rs ref="#tillich_work_id__29" type="book">Präludien</rs> macht mir sehr viel Spaß,
+               sehr dankbar würde ich Dir sein, wenn du mir etwas angeben könntest, woraus ich etwas
+                  <rs ref="#tillich_person_id__589" type="person">Fichte</rs> kennen lernen kann,
+               für <rs ref="#tillich_person_id__1291" type="person">Medicus</rs> nämlich. Sehr
+               dankbar <del rend="s">f</del> würde ich dir auch sein, wenn du dich aus deiner Höhe
+               herabließest, um mit mir armen Stümper im nächsten Semester etwas<pb n="8"/>
+               Philosophisches zu lesen. <rs ref="#tillich_person_id__1712" type="person">Schlatters</rs>
+<rs ref="#tillich_work_id__161" type="book">"Glaube im NT"</rs> ist sehr schwer, ich
+               komme aber durch. Wenn ich mit Matthäus fertig bin, denke ich mit Johannes, ebenfalls
+               nach <rs ref="#tillich_person_id__1712" type="person">Schlatter</rs>, anzufangen.</p>
+<p>Zum Lesen der deutschen Kulturgeschichte komme ich kaum, in der ersten Zeit etwas,
+               der Stoff liegt mir auch etwas fern; dagegen habe ich die 4 Hefte der Kosmosbibliothek fast durchstudiert.</p>
+<p>Gekneipt habe ich wenig, nur <unclear>¿¿¿</unclear> abends kegele ich mit den
+               Honoratioren der Stadt, aber deren Interessenkreis liegt meist anderswo.</p>
+<p>Jetzt kommt noch ein Geständnis, daß nämlich das vorige Se<pb n="9"/>mester mich erst
+               etwas <sic>zereist</sic> hat, es hat mir mehr gebracht, als ich in
+                  <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> je gelernt hätte,
+               jetzt weiß ich erst, wozu ich auf der Welt u im Wingolf bin. Und das danke ich Dir,
+               fast Dir allein, habe herzlichen Dank. </p>
+<closer>
+<salute>Dir u Deinen Angehörigen sendet herzliche Grüße</salute>
+<signed>Dein treuer <rs ref="#tillich_person_id__788" type="person">G. v.
+                     Hanffstengel</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1712">
+                  <persName>Schlatter, Adolf</persName>
+                  <birth>
+                     <date>1852-08-16</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1938-05-19</date>
+                     <settlement>
+                        <placeName>Tübingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
+               </person>
+               <person xml:id="tillich_person_id__589">
+                  <persName>Fichte, Johann Gottlieb</persName>
+                  <birth>
+                     <date>1762-05-19</date>
+                     <settlement>
+                        <placeName>Rammenau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1814-01-29</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
+               </person>
+               <person xml:id="tillich_person_id__2806">
+                  <persName>Hanffstengel, Theodor von</persName>
+                  <birth>
+                     <date>1844-04-08</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1922-01-05</date>
+                     <settlement>
+                        <placeName>Braunschweig</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
+                  <note type="bio"><p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2848">
+                  <persName>Hausrath, Adolf</persName>
+                  <birth>
+                     <date>1837-01-13</date>
+                     <settlement>
+                        <placeName>Karlsruhe</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1909-08-02</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119059517</idno>
+               </person>
+               <person xml:id="tillich_person_id__2181">
+                  <persName>Hanffstengel , Georg von</persName>
+                  <birth>
+                     <date>1874</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/14373685X</idno>
+                  <note type="bio"><p>Bruder von G. v. Hanffstengel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2289">
+                  <persName>Mackensen, Fritz</persName>
+                  <birth>
+                     <date>1866-04-08</date>
+                     <settlement>
+                        <placeName>Einbeck-Greene</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1953-05-12</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Maler;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118575910</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2171">
+                  <persName>Hanffstengel, Karl von</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2155">
+                  <persName>Voget, Hans</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2082">
+                  <persName>Windelband, Wilhelm</persName>
+                  <birth>
+                     <date>1848-05-11</date>
+                     <settlement>
+                        <placeName>Potsdam</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1915-10-24</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
+               </person>
+               <person xml:id="tillich_person_id__2182">
+                  <persName>Hanffstengel, Otto von</persName>
+                  <note type="bio"><p>Bruder von G. v. Hanffstengel.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__75">
+                  <placeName>Bremervörde</placeName>
+                  <location type="coords">
+                     <geo>53.48458 9.14306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__161">Schlatter, Adolf, Der Glaube im Neuen Testament. Eine Untersuchung zur neutestamentlichen Theologie. Leiden 1885</bibl>
+               <bibl xml:id="tillich_work_id__29">Windelband, Wilhelm, Einleitung in die Philosophie, Tübingen 1914</bibl>
+               <bibl xml:id="tillich_work_id__207">Hausrath, Adolf, Luthers Leben. Berlin: G. Grote'sche Verlagsbuchhandlung, 1904.</bibl>
+               </listBibl></back></text>
+</TEI>

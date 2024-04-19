@@ -1,146 +1,125 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00086">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Gustav Dürselen und Tante Else an Paul Tillich <lb/>vom 19. Juli 1905 </title>
-            <author ref="#tillich_person_id__2237">Gustav Dürselen</author>
-            <author ref="#tillich_person_id__2236">Tante Else</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00086.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00085.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00087.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Gustav Dürselen und Tante Else an Paul Tillich vom 19. Juli 1905</title>
+<author ref="#tillich_person_id__2237">Gustav Dürselen</author>
+<author ref="#tillich_person_id__2236">Tante Else</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/137(46)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/137(46)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2237">Gustav Dürselen</persName>
-               <persName ref="#tillich_person_id__2236">Tante Else</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1905-08-19">19.08.1905</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00085">Postkarte von George Blech an Paul Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00087">Postkarte von W. Nell an Paul Tillich </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-04-05">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2023-10-30">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="ErsteHandschrift">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date when="1905-08-19">19
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2237">Gustav Dürselen</persName>
+<persName ref="#tillich_person_id__2236">Tante Else</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1905-08-19">19.08.1905</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00085">Postkarte von George Blech an Paul Tillich vom 16. August 1905</ref><ref subtype="next_letter" type="withinCollection" target="L00087">Postkarte von W. Nell an Paul Tillich vom 20. August 1905</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-04-05" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-30" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="ErsteHandschrift">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs> d. <date when="1905-08-19">19
                      Aug 05.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul!</rs></salute>
-            </opener>
-            <p>Meinen herzlichsten Glück x Segenswunsch zu Deinem Geburtstage Bleibe recht gesund
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul!</rs></salute>
+</opener>
+<p>Meinen herzlichsten Glück x Segenswunsch zu Deinem Geburtstage Bleibe recht gesund
                und munter, was wir alle Dir von ganzem Herzen wünschen besonders </p>
-               <closer>
-                  <signed>Dein treuer Großvater <rs ref="#tillich_person_id__2237" type="person">Dürselen</rs>
-                  </signed>
-               </closer>
-         </div>
-         <div type="ZweiteHandschrift"> 
-            <p>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>! Von ganzem Herzen wünschen
+<closer>
+<signed>Dein treuer Großvater <rs ref="#tillich_person_id__2237" type="person">Dürselen</rs>
+</signed>
+</closer>
+</div>
+<div type="ZweiteHandschrift">
+<p>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>! Von ganzem Herzen wünschen
                wir Dir Glück und Segen zum Geburtstag. Gebe der liebe Gott, daß Du im neuen
                Lebensjahr ganz gesund werdest u. bleibest, damit Du die freie <unclear cert="high">Burschenherrlichkeit</unclear> ohne Schaden genießen kannst.</p>
-            <closer>
-               <salute>Einen herzlichen Geburtstags-Gruß u. Kuß, mein lieber Junge</salute> 
-                  <signed>von Deiner Tante <rs ref="#tillich_person_id__2236" type="person">Else</rs></signed>. 
+<closer>
+<salute>Einen herzlichen Geburtstags-Gruß u. Kuß, mein lieber Junge</salute>
+<signed>von Deiner Tante <rs ref="#tillich_person_id__2236" type="person">Else</rs></signed>. 
                Grüße <rs ref="#tillich_person_id__1924" type="person">Papa</rs> u. Alle herzl.
             </closer>
-                  <postscript>
-                     <p><add resp="P02241"><hi rend="u">Gruß an alle!</hi></add></p>
-                  </postscript>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1928"><reference>Paul!</reference><persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__2237"><reference>Dürselen</reference><persName>Dürselen, Gustav</persName>
-                  <note type="bio"><p>Er war ein Großvater von Paul Tillich.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__2236"><reference>Else</reference><persName>???, Else</persName>
+<postscript>
+<p><add resp="P02241"><hi rend="u">Gruß an alle!</hi></add></p>
+</postscript>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__2236">
+                  <persName>???, Else</persName>
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
-               </person><person ref="#tillich_person_id__1924"><reference>Papa</reference><persName>Tillich, Johannes Oskar</persName>
+               </person>
+               <person xml:id="tillich_person_id__2237">
+                  <persName>Dürselen, Gustav</persName>
+                  <note type="bio"><p>Er war ein Großvater von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
                   </birth>
@@ -150,11 +129,29 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               </listPlace></back></text>
 </TEI>

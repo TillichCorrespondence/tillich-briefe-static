@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00564.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00562.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00565.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Johannes Tillich vom 13. März 1918</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement ref="#tillich_place_id__82">Cambdridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 649/193(16)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1918-03-13">13.03.1918</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00562">Brief von Paul Tillich an Maria Klein vom 21. Februar 1918</ref><ref subtype="next_letter" type="withinCollection" target="L00565">Brief von Paul Tillich an Johannes Tillich vom 2. April 1918</ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2022-05-25">Initiale Auszeichnung des Transkripts</change>
+            <change who="GM" when="2024-02-09">Endabnahme</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+
+                <opener>
+                    <dateline>D. <date when="1918-03-13">13.III.18</date>.</dateline>
+                    <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+                </opener>
+                <p>Noch immer sind wir in Erwartung und Spannung, die schon hier und da zur
+                    Nervosität wird. Bei Euch ist es ebenso; denn es handelt sich zweifellos um die
+                    größte aller bisherigen Entscheidungen; wenn sie da ist, denk an mich. – Ich
+                    wohne in einer Bauernstube auf einem kleinen Dorf, Mann, Frau, 2 Kinder; Felder
+                    und Berge glänzen in Frühlingssonne, so schön, so leuchtend wie nur je. Aber
+                    keine Frühlingsstimmung kann durchbrechen; der Druck des Kommenden lastet zu
+                    schwer. – Sonntags mache ich weite Predigtreisen in die umliegenden Dörfer,
+                    altbekannte schöne Gegend, wo wir schon vor 2 Jahren mal waren. In meine erste
+                    Predigt hatte ich meinen ganzen Zorn über den Streik<note type="ea">Die
+                        Januarstreiks von 1918 im Deutschen Reich waren Teil einer breiteren
+                        Bewegung von Massenstreiks während des Ersten Weltkriegs. Sie spiegelten den
+                        wachsenden Unmut der Arbeiter über die ungünstigen Lebens- und
+                        Arbeitsbedingungen sowie über die anhaltende Kriegsführung wider. Die
+                        Forderungen nach Verbesserungen in Lebensqualität, dem Kriegsende und einer
+                        demokratischeren Verfassung des Kaiserreichs waren zentrale Anliegen dieser
+                        Streiks.</note> geschüttet, wenn auch nur in wenigen scharf geschliffenen
+                    Sätzen. Sie gefiel dem <rs ref="#tillich_person_id__2842" type="person">Unterrichtsoffizier</rs> (Aufklärung etc.) so, daß ein Bericht sogar bis
+                        <pb n="2"/> ans Armee-Oberkommando unserer Armee ging – eine vom religiösen
+                    Standpunkt vielleicht nicht ganz unbedenkliche Ehre! – Alltags arbeite ich viel.
+                    Ich fühle mich jetzt schon in der modernen Philosophie heimisch; sie bewegt sich
+                    in ihrem <rs ref="#tillich_person_id__1020" type="person">Kantisch</rs>-<rs ref="#tillich_person_id__589" type="person">Fichteschen</rs> und
+                    deskriptiv-psychologischen Flügel mit Schnelligkeit auf <rs ref="#tillich_person_id__839" type="person">Hegel</rs> zu, auch da, wo sein
+                    Name noch verpönt ist. – Um selbständig zu arbeiten, muß ich eine Bibliothek
+                    haben. Darum denke ich nun doch ernsthaft an Rückkehr. Es wäre mir lieb, wenn
+                    ich wüßte, was etwa <date from="1918-06" to="1918-07">Juni-Juli</date> in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> in Betracht käme.
+                    Schreib mir mal darüber! – – – Nun ziehst Du bald aus unserer Wohnung aus; ich
+                    habe damals gar nicht richtig Abschied genommen<unclear>,</unclear> vielleicht
+                    besser so! Wer wird Nachfolger? Hoffentlich hast Du nicht zu viel Ärger zum
+                    Schluß!</p>
+                <closer>
+                    <salute>Viele herzliche Grüße!</salute> Dein treuer <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>.
+                </closer>
+            </div>
+        </body>
+    <back><listPerson><person xml:id="tillich_person_id__839">
+                  <persName>Hegel, Georg Wilhelm Friedrich</persName>
+                  <birth>
+                     <date>1770-08-27</date>
+                     <settlement>
+                        <placeName>Stuttgart</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1831-11-14</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2842">
+                  <persName>Unteroffizier</persName>
+               </person>
+               <person xml:id="tillich_person_id__589">
+                  <persName>Fichte, Johann Gottlieb</persName>
+                  <birth>
+                     <date>1762-05-19</date>
+                     <settlement>
+                        <placeName>Rammenau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1814-01-29</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1020">
+                  <persName>Kant, Immanuel</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01077.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01076.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01078.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Eduard Schröer an Paul Tillich vom 23. Juli 1930</title>
+            <author ref="#tillich_person_id__2452">Eduard Schröer</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/183(10)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2452">Eduard Schröer</persName>
+               <placeName ref="#tillich_place_id__305">Mühlhausen</placeName>
+               <date when="1930-07-23">23.07.1930</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01076">Brief von Hilde Hennig an Paul Tillich vom 23. Juli 1930</ref><ref subtype="next_letter" type="withinCollection" target="L01078">Postkarte von Paul Tillich an Oskar Siebeck vom 8. September 1930 [PS]</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-07-10">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-22">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__305" type="place">Mühlhausen (Thüring.)</rs>, den <date when="1930-07-23">23. Juli 1930</date></dateline>
+               <address>
+                  <street>Allee Blobach 33</street>
+               </address>
+               <salute>Hochgeehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>!</salute>
+            </opener>
+            <p>Auf den von Ihnen am gestrigen Tage durch den Deutschlandsender gehaltenen Vortrag:
+               "<rs ref="#tillich_work_id__124" type="work">Was ist religiöser Sozialismus</rs>" war ich sehr gespannt, als ich die Ankündigung im
+               Programmheft gelesen hatte. Meine Erwartungen sind bei weitem übertroffen worden
+               durch Ihre ganz hervorragenden Ausführungen über das behandelte Thema. Alles was Sie
+               sagten, ist mir voll und ganz aus der Seele gesprochen und jeder rechtlich denkender
+               Mensch müßte Ihre Worte als richtig und wahr anerkennen. Das ist die Religion, die
+               die Menschheit haben sollte aber bisher nicht hat. Es ist wohl keine Täuschung von
+               mir, wenn ich annehme, daß Sie evangelischer Theologe sind. Einiges über die noch
+               nicht lange hervorgetretene Richtung habe ich schon gelesen, aber man bekommt ja
+               derartiges nur selten zu Gesicht. Ich möchte deshalb die bescheidene Anfrage stellen,
+               ob es wohl eine kleine Schrift gibt, in der die von Ihnen vertretenen Grundsätze
+               niedergelegt sind. Als kleiner Beamter i.R. kann ich mir größere Werke leider nicht
+               anschaffen, obwohl ich mich gern eingehend<pb n="2"/> auf diesen Gebieten
+               unterrichten möchte: Jeden Ihrer Sätze hätte ich mir einprägen oder niederschreiben
+               mögen, um ihn anderen Menschen zu wiederholen. Da ich dem Gemeindekirchenrat der
+               hiesigen ev. Petersgemeinde angehöre, böte sich dazu wohl oft Gelegenheit. Wir hatten
+               hier einen Geistlichen, der sich zwar offiziell nicht als religiöser Sozialist
+               bekannte, es aber in Wirklichkeit wohl war: <rs ref="#tillich_person_id__2453" type="person">Pfr Walter
+                  Kawerau</rs>, der nach 1 <formula notation="TeX">\frac{1}{2}</formula> Jahren von hier nach <rs ref="#tillich_place_id__189" type="place">Halle
+                  (Saale)</rs> als Pfarrer einer dortigen Gemeinde ging. Er war durch seinen
+               Schwager, <rs ref="#tillich_person_id__2454" type="person">Pfr Amsler</rs> in <rs ref="#tillich_place_id__55" type="place">Bern</rs>
+               oder <rs ref="#tillich_place_id__480" type="place">Zürich</rs> (Schweiz) beeinflußt, der wohl auch ein
+               hervorragender Theologe, vor einigen Jahren in Italien im Seebad plötzlich starb. Den
+               Weggang des <rs ref="#tillich_person_id__2453" type="person">Pfr Kawerau</rs> habe ich sehr bedauert. Da
+               wir hier in der Gem. 2 Geistliche haben, stehen wir jetzt schon wieder vor einer
+               Pfarrerwahl. Da habe ich nun noch eine weitere große Bitte und Anfrage: Könnten Sie
+               mir vielleicht einen jüngeren Pfarrer nennen, der in Ihrer Richtung steht und geneigt
+               wäre, hierher zu kommen. Er könnte hier in unserer K.-Gemeinde von etwa 10000 Seelen,
+               die als Vorstadtgemeinde viel Arbeiterbevölkerung hat, großen Segen stiften. Wenn
+               sich ein solcher Herr hierher melden würde, so würde ich mit Hilfe<pb n="3"/> einiger
+               Gesinnungsgenossen alles versuchen, um seine Wahl durchzusetzen. Zunächst würde es
+               genügen, mir die Anschrift eines solchen Herrn mitzuteilen. Der andere hier noch
+               vorhandene Geistliche ist auch sehr guter Kanzelredner und auch ein ausgezeichneter
+               Mensch, in der Richtung aber doch noch zu sehr im Überlieferten befangen. Damit muß
+               aber doch mehr und mehr aufgeräumt werden, wenn wir in der wahren Religion vorwärts
+               kommen wollen.</p>
+            <p>Verzeihen Sie, hochgeehrter Herr, daß ich es wage, Sie mit meinem Schreiben zu
+               belästigen. Es wäre mir aber so sehr lieb, zu einer, am liebsten aber zu beiden
+               Fragen von Ihnen eine Antwort zu erhalten.</p>
+            <closer>
+               <salute>In dieser Erwartung zeichne ich mit vorzüglicher Hochachtung ganz
+                  ergebenst</salute>
+               <signed><rs ref="#tillich_person_id__2452" type="person">Eduard Schröer</rs> Oberpostsekretär
+                  i.R.</signed>
+            </closer>
+
+         </div>
+
+      </body>
+   <back><listPlace><place xml:id="tillich_place_id__305">
+                  <placeName>Mühlhausen</placeName>
+                  <location type="coords">
+                     <geo>51.20896 10.45275</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2867996/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32664001</idno>
+               </place>
+               <place xml:id="tillich_place_id__55">
+                  <placeName>Bern</placeName>
+                  <location type="coords">
+                     <geo>46.94809 7.44744</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661552/</idno>
+               </place>
+               <place xml:id="tillich_place_id__480">
+                  <placeName>Zürich</placeName>
+                  <location type="coords">
+                     <geo>47.36667 8.55000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2657896/</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2453">
+                  <persName>Kawerau, Walter</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1293210633</idno>
+               </person>
+               <person xml:id="tillich_person_id__2454">
+                  <persName>Amsler, Hermann</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Bern.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2452">
+                  <persName>Schröer, Eduard</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__124">Tillich, Paul, Was ist religiöser Sozialismus? Rundfunkvortrag beim "Deutschlandsender" am 22. Juli 1930.</bibl>
+               </listBibl></back></text>
+</TEI>

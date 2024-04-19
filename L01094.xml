@@ -1,102 +1,104 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01094">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Postkarte von Paul Tillich an Hannah Tillich
-                    <lb/>vom 4. März 1931 [PS]
-                </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>        
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/3(1)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Postkarte, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc> 
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__107">Clausthal-Zellerfeld</placeName>
-                    <date when="1931-03-04">04.03.1931</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                    <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-                </correspAction>
-            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01093">Postkarte von Paul Tillich an Hannah Tillich
-               </ref><ref subtype="next_letter" type="withinCollection" target="L01095">Postkarte von Paul Tillich an Hannah Tillich
-                    </ref><ref subtype="next_letter" type="withinCorrespondence" target="L01095">Postkarte von Paul Tillich an Hannah Tillich
-                    </ref></correspContext></correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2023-04-19">Initiale Auszeichnung des Transkripts</change>
-            <change who="FS" when="2023-11-29">Endabnahme</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    <text type="postcard">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-                </opener>
-                <p>Gestern Abend erster Vortrag,<note type="ea">Es dürfte sich hierbei um den am <date when="1931-03-02">2. März 1931</date> in <rs ref="#tillich_place_id__274" type="place">Lübeck</rs> gehaltenen Vortrag "<rs ref="#tillich_work_id__20" type="work">Über gläubigen Realismus</rs>" handeln (vgl. dazu die <rs xml:id="L01093" type="letter">Karte Paul Tillichs an Hannah Tillich desselben Datums</rs>). Der Poststempel der vorliegenden Karte trägt die Uhrzeit "5-6 V", verfasst wurde sie von daher vermutlich bereits am <date when="1931-03-03">3. März 1931</date>.</note> voller Saal, nachher im kleinen Kreis erstklassige Diskussion. Ich völlig frisch infolge der Seewanderung. Zum Schluß war das Meer so metaphysisch kalt, daß meine Nerven es fast nicht mehr ertrugen. In der Nacht herrlich geschlafen. Dann lange Fahrt mit Eilzug nach <rs ref="#tillich_place_id__180" type="place">Goslar</rs>. Dann hoch in den <rs ref="#tillich_place_id__201" type="place">Harz</rs> nach <rs ref="#tillich_place_id__106" type="place">Clausthal</rs> (wo <rs ref="#tillich_person_id__757" type="person">Margot Faust</rs> gewohnt hat). Alles in tiefstem Märchenschnee. Mit dem Leiter der Sache<note type="ea">Nicht ermittelt.</note> einen schönen Schneespaziergang. Schnee, schwarze Tannen, grauer Himmel, rötlicher Mond. Aber nicht so kalt wie <pb n="2"/>das Meer. Ich freue mich, endlich was vom <rs ref="#tillich_place_id__201" type="place">Harz</rs> gesehen zu haben. Ich wohne in dem alten Hotel zur Krone, wo auch <rs ref="#tillich_person_id__847" type="person">Heine</rs> gewohnt hat. Der Ort ist alt und interessant! Gleich zum Vortrag<note type="ea">Zum Thema "Philosophie der Macht" (vgl. die <rs xml:id="L01095" type="letter">Karte Paul Tillichs an Hannah Tillich vom 4. März 1931</rs>. Tillich hatte beispielsweise bereits im <rs ref="#tillich_work_id__61" type="work">November 1929 in Stuttgart</rs> darüber gesprochen).</note>!
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01094.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01093.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01095.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich vom 4. März 1931 [PS]</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/3(1)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__107">Clausthal-Zellerfeld</placeName>
+<date when="1931-03-04">04.03.1931</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L01093">Postkarte von Paul Tillich an Hannah Tillich vom 2. März 1931 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01095">Postkarte von Paul Tillich an Hannah Tillich vom 4. März 1931 [PS]</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-04-19" who="FS">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-11-29" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Gestern Abend erster Vortrag,<note type="ea">Es dürfte sich hierbei um den am <date when="1931-03-02">2. März 1931</date> in <rs ref="#tillich_place_id__274" type="place">Lübeck</rs> gehaltenen Vortrag "<rs ref="#tillich_work_id__20" type="work">Über gläubigen Realismus</rs>" handeln (vgl. dazu die <rs ref="L01093" type="letter">Karte Paul Tillichs an Hannah Tillich desselben Datums</rs>). Der Poststempel der vorliegenden Karte trägt die Uhrzeit "5-6 V", verfasst wurde sie von daher vermutlich bereits am <date when="1931-03-03">3. März 1931</date>.</note> voller Saal, nachher im kleinen Kreis erstklassige Diskussion. Ich völlig frisch infolge der Seewanderung. Zum Schluß war das Meer so metaphysisch kalt, daß meine Nerven es fast nicht mehr ertrugen. In der Nacht herrlich geschlafen. Dann lange Fahrt mit Eilzug nach <rs ref="#tillich_place_id__180" type="place">Goslar</rs>. Dann hoch in den <rs ref="#tillich_place_id__201" type="place">Harz</rs> nach <rs ref="#tillich_place_id__106" type="place">Clausthal</rs> (wo <rs ref="#tillich_person_id__757" type="person">Margot Faust</rs> gewohnt hat). Alles in tiefstem Märchenschnee. Mit dem Leiter der Sache<note type="ea">Nicht ermittelt.</note> einen schönen Schneespaziergang. Schnee, schwarze Tannen, grauer Himmel, rötlicher Mond. Aber nicht so kalt wie <pb n="2"/>das Meer. Ich freue mich, endlich was vom <rs ref="#tillich_place_id__201" type="place">Harz</rs> gesehen zu haben. Ich wohne in dem alten Hotel zur Krone, wo auch <rs ref="#tillich_person_id__847" type="person">Heine</rs> gewohnt hat. Der Ort ist alt und interessant! Gleich zum Vortrag<note type="ea">Zum Thema "Philosophie der Macht" (vgl. die <rs ref="L01095" type="letter">Karte Paul Tillichs an Hannah Tillich vom 4. März 1931</rs>. Tillich hatte beispielsweise bereits im <rs ref="#tillich_work_id__61" type="work">November 1929 in Stuttgart</rs> darüber gesprochen).</note>!
                 </p>
-                <closer>
-                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-                </closer>
-            </div>
-        </body>
-    <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__757">
+                  <persName>Hahl, Margot</persName>
+                  <note type="bio"><p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p></note>
+               </person>
+               <person xml:id="tillich_person_id__847">
+                  <persName>Heine, Heinrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -111,10 +113,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__757"><reference>Margot Faust</reference><persName>Hahl, Margot</persName>
-                  <note type="bio"><p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p></note>
-               </person><person ref="#tillich_person_id__847"><reference>Heine</reference><persName>Heine, Heinrich</persName>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -127,40 +128,39 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl><bibl ref="#tillich_work_id__20">Tillich, Paul, Gläubiger Realismus II, in: Ders., Philosophie und Schicksal. Schriften zur Erkenntnislehre und Existenzphilosophie (GW IV), hg. von Renate Albtecht, Stuttgart 1961, S. 88-106.</bibl><bibl ref="#tillich_work_id__61">Tillich, Paul, Zwang und Freiheit im sozialen Leben (Philosophie der Macht), in: EW XI/2, S. 233-247.</bibl></listBibl><listPlace><place ref="#tillich_place_id__274"><reference>Lübeck</reference><placeName>Lübeck</placeName>
-                  <location type="coords">
-                     <geo>53.86893 10.68729</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2875601/</idno>
-               </place><place ref="#tillich_place_id__180"><reference>Goslar</reference><placeName>Goslar</placeName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__180">
+                  <placeName>Goslar</placeName>
                   <location type="coords">
                      <geo>51.90425 10.42766</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2918840/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
-               </place><place ref="#tillich_place_id__201"><reference>Harz</reference><placeName>Harz</placeName>
+               </place>
+               <place xml:id="tillich_place_id__201">
+                  <placeName>Harz</placeName>
                   <location type="coords">
                      <geo>51.75619 10.63462</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2909965/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q4186</idno>
-               </place><place ref="#tillich_place_id__106"><reference>Clausthal</reference><placeName>Clausthal</placeName>
+               </place>
+               <place xml:id="tillich_place_id__274">
+                  <placeName>Lübeck</placeName>
+                  <location type="coords">
+                     <geo>53.86893 10.68729</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2875601/</idno>
+               </place>
+               <place xml:id="tillich_place_id__106">
+                  <placeName>Clausthal</placeName>
                   <location type="coords">
                      <geo>51.80441 10.33384</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2939996/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q15377091</idno>
-               </place><place ref="#tillich_place_id__201"><reference>Harz</reference><placeName>Harz</placeName>
-                  <location type="coords">
-                     <geo>51.75619 10.63462</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2909965/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q4186</idno>
-               </place></listPlace><listLetter><letter ref="L01093"><reference>Karte Paul Tillichs an Hannah Tillich desselben Datums</reference><title>Postkarte von Paul Tillich an Hannah Tillich
-               <lb/>vom 2. März 1931 [PS]
-            </title>
-            </letter><letter ref="L01095"><reference>Karte Paul Tillichs an Hannah Tillich vom 4. März 1931</reference><title>Postkarte von Paul Tillich an Hannah Tillich
-                    <lb/>vom 4. März 1931 [PS]
-                </title>
-                </letter></listLetter></back></text>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__61">Tillich, Paul, Zwang und Freiheit im sozialen Leben (Philosophie der Macht), in: EW XI/2, S. 233-247.</bibl>
+               <bibl xml:id="tillich_work_id__20">Tillich, Paul, Gläubiger Realismus II, in: Ders., Philosophie und Schicksal. Schriften zur Erkenntnislehre und Existenzphilosophie (GW IV), hg. von Renate Albtecht, Stuttgart 1961, S. 88-106.</bibl>
+               </listBibl></back></text>
 </TEI>

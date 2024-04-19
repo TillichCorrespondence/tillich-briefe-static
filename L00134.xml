@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00134.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00133.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00135.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Alfred Fritz von 1907</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Andreas Burri</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008C</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__328">ohne Ort</placeName>
+<date when="1907">1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00133">Brief von Paul Tillich an Alfred Fritz von 1906/1907</ref><ref subtype="next_letter" type="withinCollection" target="L00135">Brief von Paul Tillich an Alfred Fritz von 1907 (Herbst)</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-08-25" who="AB">Intitale Auszeichnung des Transkripts</change>
+<change when="2022-09-01" who="AB">Überprüfung und Ergänzung der Auszeichnungen</change>
+<change when="2024-02-13" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute>
+</opener>
+<p>So schwer mir sonst das Briefeschreiben wird, so sehr habe ich mich darauf gefreut
+               heute einmal 2 Stunden Zeit dazu zu haben, allerdings keine Minute mehr! Wieweit ich
+               zurückgreifen müßte, um den Faden der Korrespondenz in lückenlosen Parallelismus zum
+               Faden der Ereignisse zu bringen, was ja wohl das Ideal ist, das kann ich nicht mehr
+               sagen. Im Voraus möchte ich bemerken, daß der "Persönlichkeitsgehalt", den ein Brief
+               ja mitteilen soll, rein sachlich orientiert ist. Und diese Bemerkung, die man auf
+               Deutsch eine Moralische nennt, ist zugleich sein Hauptinhalt. Die vollkommene
+               Unfähigkeit, neben den sachlichen Beziehungen, Personen, etc. Geist zur Füllung des
+               sich allmählich entwickelnden inneren Hohlraums zu bekommen, knickt mich
+                  einigermaßen. <pb n="2"/>Natürlich meine ich keinen Moralischen im allgemeinen
+               Sinne, sondern nur die Leere, die die einseitige Gedanken-Gefühls- und
+               Willenskoncentration auf die Verbindung und ihre sachlichen Beziehungen, notwendig
+               produciert. Ich denke mir, daß ich gerade darin zuviel habe, worin Ihr Mangel leidet
+               und umgekehrt. Aber trotzdem kann man wohl auch auf diesen Zustand den
+               Pflichtgedanken anwenden,
+               ganz abgesehen von dem vielen, was man natürlich davon hat. Der Zwang, geben zu
+               müssen ist schön, solange er verbunden ist mit dem Bewußtsein der Fähigkeit und er
+               ist drückend, sobald er auf Mangel an Besitz stößt. Und in dieser Zwitterstellung
+               befinde ich mich augenblicklich. Viel Freude machen mir z. B. die Pauken, Konvente,
+               selbst die Statutenrevision, u. s. w. Daß sie aber in so großer Fülle kommen, daß Zeit und Kraft dadurch fast
+               ganz in Anspruch genommen ist, das ist das Traurige dabei. Darum wird mir der
+               persönliche Verkehr bei Kaffon etc. nicht ganz leicht. Soll und Haben! - Entschuldige
+               diese Auseinandersetzung, <pb n="3"/>aber sie war mir mal ganz lieb. Was sagst Du
+               dazu? –<lb/> Doch nun der Beweis, d.h. die Tatsachen! Was die <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> betrifft, so
+               bin ich natürlich durchaus pessimistisch. <hi rend="u">Nichts</hi> haben sie kapiert.
+               Kein Mensch weiß warum der Aktivitätszwang<!--<note type="ea">Aktivitätszwang</note>--> aufgehoben ist, kein
+               Mensch weiß, was wir wollen, alles pennt weiter, nur noch ungehinderter! Das
+               Wingolfsideal, soweit es nicht Phrase ist, kennt man selbst in <rs ref="#tillich_place_id__189" type="place">Halle</rs> kaum mehr. (Ich meine in Beziehung auf den Bund.) Darum war es
+               mir lieb, als die Heidelberger Unverschämtheit Gelegenheit zum Necken und – unter dem
+               Siegel der tiefsten Verschwiegenheit – eventuell noch zum Krachen gab. Heute kam ein
+               Brief v. <rs ref="#tillich_place_id__203" type="place">Hdg</rs>, worin es sich wundert, daß <rs ref="#tillich_place_id__189" type="place">Halle</rs> nicht schon längst die "Konsequenz"
+               gezogen hätte. In Bezug auf mein <foreign xml:lang="grc">θυμός</foreign> bin ich
+               durchaus damit einverstanden. Das noch schwankende <foreign xml:lang="grc">πνεῦμα</foreign> wird sich bei der ersten, wirklich passenden Gelegen<pb n="4"/>heit auch dafür entscheiden! – Was unsre Konvente betrifft, so wirst Du schon
+               darüber Berichte gehört haben. Ich stehe ja da auf dem Standpunkt, daß der Konvent
+               auch ein Ort zur Aussprache ist, und zwar der geeignetste. Infolge dessen haben wir
+               nach der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> im Anschluß an die Pauke von Ph.
+               Bertheau sämtliche praktischen
+               Verbindungsorthodoxismen durchgesprochen und bei dieser Gelegenheit verschiedene
+               Augiasställe gründlich gereinigt. Die Luft, auch "der Wind von
+               Gryps" ist jetzt einigermaßen rein. Und Du schreibst ja selber,
+               daß <rs ref="#tillich_place_id__189" type="place">Halle</rs> jetzt bleiben muß! – Das geistige Leben
+               wuchert jetzt üppig empor in
+               den verschiedenartigsten G.-C.s und begabten Kaffons etc. – Gestern war
+               Trauerkneipe für <rs ref="#tillich_person_id__2189" type="person">Scheurich</rs>, sehr feierlich und
+               würdig, aber für mich innerlich sehr anstrengend. Sonntag war ich nach
+               <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> gefahren. Um 10 früh Montag war die
+               Beerdigung, wo ich auch eine<pb n="5"/> kurze Pauke hatte und dann Band und Kouleur
+               nachwarf. Es ist zu traurig! Es ist ziemlich sicher, daß schon in seinem
+               Fuxmajorsemester die Wurzeln der Krankheit liegen. Sicher waren wir oft nicht ganz
+               gerecht gegen ihn! – Heute habe ich <add place="superlinear">wieder</add>
+               Vertretersitzung der 4 Gruppen auf meiner Bude betreffend Fackelzugs. Bis jetzt sehr
+               zahme Leute. Lose Buben und Katholiken hauen sich und wir spielen den tertius
+               gaudens. – Sicher sehen wir uns also wieder in <rs ref="#tillich_place_id__418" type="place">Straßburg</rs>; und ich hoffe, daß Du aus Dank zum Stiftungsfest kommen
+               wirst. Diesmal <hi rend="u">gibts keine Ausrede</hi>! Und wenn Du deine zu haben
+               glaubst, so schreibe sie zur Widerlegung, aber sofort!! Was als solche <hi rend="u">nicht</hi> gilt, weißt Du ja! – Daß ich Dienstag in <rs ref="#tillich_place_id__19" type="place">Hersfeld</rs><pb n="6"/> war, hat Dir wohl <rs ref="#tillich_person_id__1696" type="person">Hermann</rs>
+               schon geschrieben.<note type="ea">Vgl. <rs ref="L00175" type="letter">Brief von Hermann Schafft an Paul Tillich vom 13. Juli 1907</rs>.</note> Es war eine Erquickung für Leib und Seele! _<lb/> Mein <rs ref="#tillich_person_id__1295" type="person">Leibfux</rs> ist
+               ein famoser Kerl, aber nicht gerade einfach; er hat sehr viel mit sich zu tun, ist
+               leidenschaftlich und äußerst empfindsam, ohne davon viel zu sagen, so daß die
+               plötzlichen, oft unerwarteten Ausbrüche schwer zu behandeln und zu verstehen sind.
+               Leider kann ich nicht so oft mit ihm zusammen sein, wie ich es gern täte. Vor allem
+               aber lieben wir uns gegenseitig sehr! –<lb/> Mit meiner
+               Frau stehe ich sehr gut, nur verbietet sie mir zu
+               viel. Famos ist das Verhältnis der drei Verehrlichen, namentlich mit dem Fuxmajor
+               wird alles vorher besprochen. <rs ref="#tillich_person_id__2190" type="person">Spatz</rs>, den ich immer
+               lieber gewinne (intensiver Verkehr), läßt Euch beide <hi rend="u">herzlichst</hi>
+               grüßen! –<pb n="7"/> Sage bitte <rs ref="#tillich_person_id__2170" type="person">Daniel</rs>, ob er
+               etwas von den alten Büchern im A-H-C-Zimmer mit den alten Silhouetten (Orthogr.
+               schwach!) weiß! Er hat sie gehabt, jetzt sind sie verschwunden! – An
+               <rs ref="#tillich_person_id__1050" type="person">Albert</rs> speciell: Er soll sich endlich entscheiden
+               und die moralische Tat tun, mir mitzuteilen, daß er im nächsten Semester nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+               kommt. <rs ref="#tillich_person_id__204" type="person">Johannes</rs> ist ganz mit einverstanden! Ich
+               gehe noch mal so erleichtert aus dem Semester, wenn ich es genau weiß! Bitte recht
+               schnell und wäre es auch nur eine Postkarte mit dem <hi rend="u">Wörtchen "ja"</hi>!!
+               Im übrigen ist der Brief an Euch beide gerichtet und gemeinsam zu lesen! Ob ich vor dem Stiftungsfest
+               noch zu einem komme, weiß ich nicht! </p>
+<closer>
+<salute>Bis dahin herzliche Grüße</salute>
+<signed>Euer treuer <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__2190">
+                  <persName>Spatz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__204">
+                  <persName>Bertheau, Johannes</persName>
+                  <occupation>Lehrer im Johanneum in Hamburg, studierte in Halle</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2170">
+                  <persName>???, Daniel</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2189">
+                  <persName>Scheurich, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__418">
+                  <placeName>Straßburg</placeName>
+                  <location type="coords">
+                     <geo>49.55239 8.85112</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2826178/</idno>
+               </place>
+               <place xml:id="tillich_place_id__203">
+                  <placeName>Heidelberg (Deutschland)</placeName>
+                  <location type="coords">
+                     <geo>49.40768 8.69079</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2907911/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2966</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__19">
+                  <placeName>Bad Hersfeld</placeName>
+                  <location type="coords">
+                     <geo>50.87197 9.70891</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

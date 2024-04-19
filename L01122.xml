@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01122.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01118.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01123.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Oskar Siebeck an Paul Tillich vom 19. Jänner 1932</title>
+            <author ref="#tillich_person_id__1780">Oskar Siebeck</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="copy">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich; Durchschlag</p>
+               </physDesc>
+            </msDesc>
+            <biblStruct type="journal">
+               <monogr>
+                  <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
+                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <imprint>
+                     <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                     <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                     <date when="2011">2011</date>
+                     <biblScope>237-403, hier: S. 309</biblScope>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>International Yearbook for Tillich Research</title>
+                  <biblScope>Band 6 Heft 1</biblScope>
+               </series>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <placeName ref="#tillich_place_id__448">Tübingen</placeName>
+               <date when="1932-11-18">18.11.1932</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01118">Brief von Paul Tillich an Reinhold Niebuhr vom 19. Dezember 1931</ref><ref subtype="next_letter" type="withinCollection" target="L01123">Brief von Paul Tillich an Oskar Siebeck vom 23. Januar 1932</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01123">Brief von Paul Tillich an Oskar Siebeck vom 23. Januar 1932</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-09-12">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-16">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><date when="1932-01-19">19. Januar 1932.</date>
+               </dateline>
+            </opener>
+            <p>Sehr verehrter <rs ref="#tillich_person_id__1928" type="person">Herr Professor</rs>,
+               in der "Frankfurter Zeitung" lese ich den Bericht über Ihre Reichsgründungsfeier und
+               möchte Sie gleich fragen, ob Sie mir deren <rs type="work" ref="#tillich_work_id__231">Manuskript</rs> nicht zur Veröffentlichung in einer
+               meiner Schriftenreihen übergeben wollen. Dem Thema nach würde diese Rede wohl am
+               besten in die Reihe "Philosophie und Geschichte" passen. Aber vielleicht gefällt es
+               Ihnen besser, wenn sie im selben Rahmen erscheint wie Ihre Hefte 111 und 119 der
+               "Sammlung gemeinverständlicher Vorträge".</p>
+            <p>Ein Exemplar des neuesten Gesamtverzeichnisses meiner Schriftenreihen füge ich zu
+               Ihrer Orientierung hier bei.</p>
+            <p>Meine Vorschläge für die Verlagsbedingungen müsste ich mir noch solange vorbehalten,
+               bis Sie mir Ihr Manuskript freundlichst zur Berechnung einschicken können. Denn ich
+               bin gerade dabei, die Honorarbedingungen zu kalkulieren, die ich bei den seit <date when="1932-01-01">1. Januar</date> gesenkten Preisen in neue Verträge über
+               Beiträge zu meinen 3 Schriftenreihen werde einsetzen müssen. </p>
+            <closer>
+               <salute>Ihrer freundlichen Rückäusserung sehe ich gern entgegen und verbleibe in
+                  vorzüglicher Hochachtung Ihr ergebener</salute>
+               <signed>
+                  <ptr/><rs ref="#tillich_person_id__1780" type="person"><hi rend="hand">Dr. O.
+                        Siebeck</hi></rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1780">
+                  <persName>Siebeck, Oskar</persName>
+                  <occupation>Deutscher Verleger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__231">Tillich, Paul, Der junge Hegel und das Schicksal Deutschlands, in: Tillich, Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
+               </listBibl></back></text>
+</TEI>

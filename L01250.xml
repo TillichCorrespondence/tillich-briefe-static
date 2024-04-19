@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01250.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01248.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01251.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief vom Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung an Paul Tillich vom 9. Septmeber 1933</title>
+            <author ref="#tillich_person_id__1663">Bernhard Rust</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/175(50)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2457">Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1933-09-09">09.09.1933</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01248">Postkarte von Paul Tillich und (verm.) Claire Löwenfeld an Hannah Tillich vom 3. August 1933 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01251">Brief von Dolf Sternberger an Paul Tillich vom 2. Oktober 1933</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-09-06">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-02-12">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>Der Preußische <rs ref="#tillich_person_id__1663" type="person">Minister</rs> für Wissenschaft, Kunst und Volksbildung<lb/>
+               U I Nr. 22941<lb/>
+               <dateline>
+                  <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, den <date when="1933-09-09">9.
+                     September 1933</date></dateline>
+            </opener>
+            <p>Auf Ihren Antrag vom <date when="1933-08-29">29. August d.Js.</date> beurlaube ich Sie ohne Gehalt für eine
+               einjährige Vorlesungstätigkeit in <rs ref="#tillich_place_id__319" type="place">New York</rs> vorbehaltlich der Entscheidung auf Grund
+               des Gesetzes zur Wiederherstellung des Berufsbeamtentums.</p>
+            <closer>
+               <salute>Im Auftrage</salute>
+               <signed><unclear reason="illegible">¿¿¿</unclear></signed>
+            </closer>
+
+         </div>
+
+      </body>
+   <back><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__319">
+                  <placeName>New York</placeName>
+                  <location type="coords">
+                     <geo>40.71427 -74.00597</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5128581/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q60</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1663">
+                  <persName>Rust, Bernhard</persName>
+                  <occupation>Am 2. Februar 1933 wurde er kommissarischer preußischer Kultusminister und 1934 mit Bildung des Reichsministeriums für Wissenschaft, Erziehung und Volksbildung in Personalunion Reichsminister</occupation>
+               </person>
+               </listPerson></back></text>
+</TEI>

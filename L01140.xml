@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01140.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01139.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01141.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Verlag Mohr Siebeck vom 25. April 1932 [PS]</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="Kopie">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, an den Verlag Mohr Tübingen, maschinenschriftlich; als
+                     maschinenschriftliche Abschrift überliefert</p>
+               </physDesc>
+            </msDesc>
+            <biblStruct type="journal">
+               <monogr>
+                  <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
+                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <imprint>
+                     <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                     <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                     <date when="2011">2011</date>
+                     <biblScope>237-403, hier: S. 326</biblScope>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>International Yearbook for Tillich Research</title>
+                  <biblScope>Bd. 6, H. 1</biblScope>
+               </series>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+               <date when="1932-04-25">25.04.1932</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2440">Verlag Mohr Siebeck</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01139">Brief von Verlag Mohr Siebeck an Paul Tillich vom 21. April 1932</ref><ref subtype="next_letter" type="withinCollection" target="L01141">Brief von Paul Tillich an Verlag Mohr Siebeck vom 1. Mai 1932</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-07-18">Intitale Auszeichnung des Transkripts</change>
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <p> Deutsche Literaturzeitung<lb/>
+               <lb/> Blätter für deutsche Philosophie<lb/> Geisteskultur<lb/> Philosophisches
+               Jahrbuch<lb/> Philosophie und Leben<lb/> Die Tatwelt<lb/> Theologische Rundschau<lb/>
+               Theologische Literaturzeitung<lb/> Christliche Welt<lb/> Zwischen den Zeiten<lb/>
+               Zeitwende<lb/> Sozialistische Monatshefte<lb/> Schweizerische Monatshefte für Politik
+               u. Kultur<lb/> Der Ring<lb/> Hochland<lb/> Deutsche Rundschau<lb/> Neue
+               Rundschau<lb/> Stimmen der Zeit<lb/> Deutsche Vierteljahresschrift f. Geistesgesch.
+               und LitWiss.<lb/> Eiche<lb/> Furche<lb/> Der religiöse Sozialist<lb/> Neue Blätter f.
+               d. Sozialismus<lb/> Frankfurter Zeitung<lb/> Kölnische Zeitung<lb/> Kölnische
+               Volkszeitung<lb/> DAZ<lb/> Vossische Zeitung<lb/> Vorwärts<lb/> Münchner Neueste
+               Nachrichten<lb/> Neue Bad. Landeszeitung<lb/> Volkswacht f. Schlesien<lb/> Neue
+               Leipziger Zeitung<lb/> Basler Nachrichten<lb/> Neue Zürcher Zeitung<lb/>
+            </p>
+            <p>ich vermisse noch <bibl><hi rend="u">Theologische Blätter</hi></bibl> und <bibl><hi rend="u">Zeitschrift für Religion und Sozialismus</hi></bibl>.<lb/>
+               <rs ref="#tillich_person_id__1723" type="person">Prof. D. K. L. Schmidt</rs>, <rs ref="#tillich_place_id__68" type="place">Bonn (Rhein) </rs><lb/>
+               <rs ref="#tillich_person_id__2107" type="person">Prof. D. G. Wünsch</rs>, <rs ref="#tillich_place_id__279" type="place">Marburg (Lahn) Frankfurterstr. 16.</rs>
+            </p>
+            <closer>
+               <signed><ptr/><rs ref="#tillich_person_id__1928" type="person"><hi rend="hand">Tillich</hi></rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1723">
+                  <persName>Schmidt, Karl Ludwig</persName>
+                  <occupation>evangelischer Theologe (Neues Testament)</occupation>
+                  <note type="bio"><p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2107">
+                  <persName>Wünsch, Georg</persName>
+                  <birth>
+                     <date>1887-04-29</date>
+                     <settlement>
+                        <placeName>Augsburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1964-11-22</date>
+                     <settlement>
+                        <placeName>Marburg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118635441</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__68">
+                  <placeName>Bonn</placeName>
+                  <location type="coords">
+                     <geo>50.73438 7.09549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

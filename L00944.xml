@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00944.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00943.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00945.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Gustav Ruprecht vom 06. Oktober 1927</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Berlin</settlement>
+                  <repository>Verlagsarchiv Vandenhoeck &amp; Ruprecht</repository>
+                  <collection>Autorenkorrespodenz</collection>
+                  <idno>G 1923.138</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig; Unterstreichung des Empfängers</p>
+                  </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 145f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+               
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__126">Dresden</placeName>
+              <date when="1927-10-06">06.10.1927</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__2518">Gustav Ruprecht</persName>
+           </correspAction>
+        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00943">Postkarte von Paul Tillich an Hannah Tillich vom 5. Oktober 1927 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L00945">Brief von Gustav Ruprecht an Paul Tillich vom 08. Oktober 1927</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00945">Brief von Gustav Ruprecht an Paul Tillich vom 08. Oktober 1927</ref></correspContext></correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2023-07-31">Initiale Auszeichnung des Transkripts</change>
+        <change who="NH" when="2024-01-03">Vorbereitung/Korrektur für die Endabnahme</change>
+        <change who="FS" when="2024-01-24">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline><rs ref="#tillich_place_id__126" type="place">Dresden</rs>, am <date when="1927-10-06">6.10.27.</date><note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note></dateline>
+           <salute>Sehr geehrter <rs ref="#tillich_person_id__2518" type="person"/>Herr Ruprecht</salute>.
+        </opener>
+        <p>Ihre <rs ref="L00941" type="letter">Anfrage</rs> vom <date when="1927-07-20">20.7.</date> kam in meine Sommerreise und ist infolgedessen liegen geblieben. Ich beabsichtige, ein Buch herauszubringen unter dem wahrscheinlichen Titel "Wissenschaft vom religiösen Symbol". Ich bin aber dafür bei <rs ref="#tillich_person_id__1570" type="person">Reichl</rs> gebunden, dem ich mich im Zusammenhang mit der Übernahme <hi rend="u">meines</hi><note type="ea">Am Rand ist hierzu ein Fragezeichen notiert.</note> <rs ref="#tillich_work_id__38" type="work">Kairos-Jahrbuches</rs> für das genannte Buch verpflichtet habe.<note type="ea">Am <date when="1926-06-17">17. Juni 1926</date> schloss Tillich mit dem Verlag von Otto Reichl einen Vertrag über "Die Wissenschaft vom Religiösen Symbol (Dogmatik)". Zu Tillichs Beziehungen zum Reichl-Verlag siehe <rs ref="#tillich_work_id__164" type="work">Seng, Weltanschauung als verlegerische Aufgabe, 271-277</rs>.</note> Vielleicht findet sich weiterhin einmal Gelegenheit,<note type="ea">Unterhalb dieses Satzes, am unteren Ende des Blattes, notiert <rs ref="#tillich_person_id__1660" type="person">Günther Ruprecht</rs>: "Ich wäre dafür, ihm wörtlich seine alte Verpflichtung gegen uns zu zitieren nur für die Zukunft:" <rs ref="#tillich_person_id__2518" type="person">Gustav Ruprecht</rs> bemerkt hierzu: "War ja schon geschehen!" (Vgl. den <rs ref="L00941" type="letter">Brief Gustav Ruprechts an Paul Tillich vom 20. Juli 1927</rs>.)</note> etwas bei Ihnen erscheinen zu lassen. Darf ich Sie fragen, wie etwa der Absatz des <rs ref="#tillich_work_id__1" type="work">"Systems der Wissenschaften"</rs> zur Zeit steht?
+        </p>
+        <closer>
+           <salute>Ihr sehr ergebener</salute>
+           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs><note type="ea">Darunter ist in der Anordnung einer schriftlichen Subtraktion notiert: 987 359 Absatz 628 (in d. Absatzstatistik 625!)".</note></signed>
+        </closer>
+     </div>
+    </body>
+  <back><listBibl><bibl xml:id="tillich_work_id__38">Tillich, Paul (Hg.): Kairos. 1ter Band: Zur Geisteslage und Geisteswendung, Darmstadt Otto Reichl Verlag 1926</bibl>
+               <bibl xml:id="tillich_work_id__1">Tillich, Paul, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen 1923.</bibl>
+               <bibl xml:id="tillich_work_id__164">Seng, Thomas, Weltanschauung als verlegerische Aufgabe. Der Otto Reichl Verlag 1909-1954. St. Goar 1994</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1660">
+                  <persName>Ruprecht, Günther</persName>
+                  <occupation>Ein deutscher Verleger. Er leitete ab 1929 den Göttinger Verlag Vandenhoeck &amp; Ruprecht. Er war eine führende Kraft in der Jungreformatorischen Bewegung im Kirchenkampf innerhalb der Deutschen Evangelischen Kirche (DEK) in der Zeit des Nationalsozialismus</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1570">
+                  <persName>Reichl, Otto</persName>
+                  <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2518">
+                  <persName>Ruprecht, Gustav</persName>
+                  <birth>
+                     <date>1860</date>
+                  </birth>
+                  <death>
+                     <date>1950</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/116709065</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01045.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01044.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01046.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Kurt Riezler (Kurator der Universität Frankfurt am Main) an Paul Tillich vom 23. Dezember 1929</title>
+            <author ref="#tillich_person_id__1610">Kurt Riezler</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/196(4)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1610">Kurt Riezler (Kurator der Universität Frankfurt am Main)</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+               <date when="1929-12-23">23.12.1929</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01044">Brief von Alfred Fritz an Paul Tillich vom 11. Dezember 1929</ref><ref subtype="next_letter" type="withinCollection" target="L01046">Postkarte von Paul Tillich an Hannah Tillich vom Herbst 1930</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-08-23">Initiale Auszeichnung des Transkripts</change>
+         <change who="FS" when="2024-01-17">Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>Kuratorium der Universität<lb/>
+               Tgb.-Nr. 3138.<lb/>
+               Um Angabe der Nummer im Antwortschreiben wird gebeten.<lb/>
+               Haushaltsplan 1930.<lb/>
+               
+               <dateline>
+                  <rs ref="#tillich_place_id__143" type="place">Frankfurt (Main)</rs>, den <date when="1929-12-23">23. Dezember 1929.</date><lb/>
+               Mertonstraße 17<lb/>
+               Fernruf: Maingau 72216</dateline>
+               <salute/>
+            </opener>
+            <p>Nach Mitteilung des Herrn <rs ref="#tillich_person_id__169" type="person">Ministers für Wissenschaft, Kunst und Volksbildung</rs> ist bei
+               der Anmeldung des Staatsbeitrages für den Universitätshaushalt 1930 gegenüber dem
+               Haushaltsplan 1929 für das Philosophische Seminar eine Erhöhung der Sachausgaben um
+               800 RM auf 1 600 RM vorgesehen. Die Bewilligung der erhöhten Mittel für Sachausgaben
+               tritt erst nach gesetzlicher Feststellung des Staatshaushalts 1930 in Kraft.</p>
+            <p>Der außerdem beantragte außerplanmäßige Assistent ist leider nicht bewilligt
+               worden.</p>
+            <closer><signed><rs ref="#tillich_person_id__1610" type="person">Riezler</rs></signed></closer>
+
+         </div>
+
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1610">
+                  <persName>Riezler, Kurt</persName>
+                  <birth>
+                     <date>1882-02-11</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1955-09-06</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Diplomat und Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
+                  <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__169">
+                  <persName>Becker, Carl Heinrich</persName>
+                  <occupation>Deutscher Orientalist und Politiker, Kultusminister 1921 und 1925-30</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

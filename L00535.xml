@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00535.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00534.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00536.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Johannes Tillich vom 12. April 1917</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965.</collection>
+                  <idno>bMS 649/193(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-04-12">12.04.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00534">Brief von Paul Tillich an Johannes Tillich vom 5. April 1917</ref><ref subtype="next_letter" type="withinCollection" target="L00536">Brief von Paul Tillich an Johannes Tillich vom 23. April 1917</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-05-23">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-01-10">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1917-04-12">12. Apr. 1917</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+            </opener>
+            <p>Es sind Umstände eingetreten,<note type="ea">In <rs ref="#tillich_work_id__96" type="work">Paul Tillich, Ergänzungs- und Nachlassbände, Bd. 5, S.76</rs> wird
+                  in der Zeittafel des 1. Weltkriegs am 12. April 1917 ein nicht näher erläuterter
+                  "Krach mit <rs ref="tillich_person_id__252" type="person">Exzellenz von
+                  Bonin</rs>" erwähnt.</note> die es mir möglicherweise wünschenswert machen, im
+               heimatlichen Kirchendienst verwandt zu werden. Das Nähere ist gleichgültig.
+               Entscheidend wäre, wenn ich wie ich es jetzt oft empfinde, mit meiner Kraft und
+               meiner Frische und meinen Kriegsnerven zu Ende wäre! Dann könnte ich vielleicht in
+               der Heimat vieles leisten, während ein anderer hier mit neuem, frischen Eifer ans
+               Werk ginge!</p>
+            <p>Ich bitte Dich nun, mir umgehend und eingehend zu schreiben, 1. wie lange Du in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> bleibst. 2. In welcher Form
+               eine Reklamation vor sich gehen müßte, und was für Stellen in Betracht kämen. Auch
+               ein Tausch wäre in Erwägung zu ziehen. Augenblicklich wäre mir eine Landstelle mit
+               wenig Kasualien und 1 bis 2 Filialpredigten das Erwünschteste; aber natürlich auch
+               Vorort und <rs ref="#tillich_place_id__37" type="place">Berlin</rs> selbst kommen in
+               Betracht!</p>
+            <p>Deinen Brief bekam ich heut früh! Herzlichen Dank! Inzwischen<pb n="2"/> war auch ein
+               Brief von <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs>
+               eingetroffen; Sie hatte in der ersten Anzeige eine falsche Adresse geschrieben! Ich
+               freue mich sehr über mein <rs ref="#tillich_person_id__2355" type="person">Patchen</rs> und hoffe, von seiner Entwicklung mehr miterleben zu können, als von
+                  <rs ref="#tillich_person_id__2707" type="person">Eckehardts</rs>!</p>
+            <p>Ich muß jetzt schließen und wünsche Dir, daß Du nun auch diese 14 Tage noch gut
+               überstehst!</p>
+            <closer>
+               <signed>In Treuen Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__2707">
+                  <persName>Fritz, Eckehardt</persName>
+                  <note type="bio"><p>Er war der Sohn von Alfred Fritz und Johanna Fritz. Außerdem war er der Bruder von Paul Tillichs Patentochter Gisela Walker, geborene Fritz.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__252">
+                  <persName>Bonin, Henning von</persName>
+                  <occupation>Preußischer Infanteriegeneral</occupation>
+                  <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2355">
+                  <persName>Walker, Gisela</persName>
+                  <note type="bio"><p>Sie war die Patentochter von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

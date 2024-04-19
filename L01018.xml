@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01018.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01017.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01019.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Hannah Tillich vom 5. Mai 1929Das Briefmanuskript ist undatiert. Die hier vorgenommene Datierung ist aus dem Kontext erschließbar.<note type="ea">Das Briefmanuskript ist undatiert. Die hier vorgenommene Datierung ist aus dem Kontext erschließbar.</note>
+                </title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>        
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
+                        <idno>bMS 721/2(26)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc> 
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+                    <date when="1929-05-05">05.05.1929</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+                    <placeName ref="#tillich_place_id__279">Marburg a. d. Lahn</placeName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01017">Postkarte von Paul Tillich an Hannah Tillich vom 3. Mai 1929 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01019">Postkarte von Paul Tillich an Hannah Tillich vom 7. Mai 1929 [PS]</ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2023-09-06">Initiale Auszeichnung des Transkripts</change>
+            <change who="FS" when="2023-12-20">Endabnahme</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+                <opener>
+<dateline>Sonntag</dateline>
+                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+                </opener>
+                <p>Jetzt etwa <date when="1929-04-27">vor 8 Tagen</date> bist Du abgefahren und hast mich allein gelassen. Jetzt sitze ich in einem Hotel am Bahnhof und warte auf <rs ref="#tillich_person_id__1570" type="person">Reichl</rs>, der heut früh angerufen hat. [Inzwischen ist er gekommen. Wir haben uns lange und nett unterhalten. Er entschuldigte sich mit allgemeiner Verärgerung.] Jetzt bin ich zurück; es ist ein stiller sehr warmer Sonntagnachmittag. Heut früh war ich in den Anlagen und in der Galerie, auch am Wasser, wo sehr viel gerudert und gesegelt wird. Ich bin eigentlich sehr beglückt von <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs><pb n="2"/> Es ist auf kleinerem Raum lebendiger als <rs ref="#tillich_place_id__126" type="place">Dresden</rs>. Die inneren Anlagen sind jetzt wundervoll. – Gestern war viel los! Erst war ich auf der Universität. Dann wurde ich von Frau <rs ref="#tillich_person_id__1424" type="person">Oppenheim</rs> im Auto abgeholt, und sie zeigte mir die Stadt, vor allem die Neubauten von <rs ref="#tillich_person_id__2510" type="person">May</rs>. Ich bin froh, daß wir dort nicht wohnen. Ganz kleinbürgerlich; immer Reihenhäuser und ohne Auto kaum zu erreichen. Dann Mittagessen. Ich hatte mit <rs ref="#tillich_person_id__1423" type="person">dem Mann</rs>, der Großindustrieller und Wissenschaftstheoretiker ist eine stundenlange Unterhaltung. Dann in die Stadt, Bürste kaufen und die Buchhandlungen besichtigen (Nicht viel los). Am Abend bei<pb n="3"/> <rs ref="#tillich_person_id__1610" type="person">Riezler</rs>: Glänzendes Diner mit fabelhaften Weinen. Ich hatte <rs ref="#tillich_person_id__2395" type="person">Frau Riezler geb. Liebermann</rs> zu Tisch. Sie ist witzig, gesellschaftlich überlegen. Wir sprachen von <rs ref="#tillich_person_id__827" type="person">Hauptmann</rs>, <rs ref="#tillich_person_id__1177" type="person">ihrem Vater</rs>, <rs ref="#tillich_place_id__37" type="place">Berlin</rs> etc. Sie war auch im Kolleg<note type="ea">Vgl. auch die <rs xml:id="L01017" type="letter">Karte Paul Tillichs an Hannah Tillich vom 3. Mai 1929</rs>.</note> gewesen. Außerdem war da die <rs ref="#tillich_person_id__2509" type="person">ehemalige Frau Prinzhorn, jetzt Frau <unclear>Wolhard</unclear></rs>, die sehr schön aussah und Dich sehr herzlich grüßen läßt. Nachher gingen wir mit <rs ref="#tillich_person_id__664" type="person"><rs ref="#tillich_person_id__2396" type="person">Gelbs</rs></rs> und <rs ref="#tillich_person_id__1577" type="person"><rs ref="#tillich_person_id__1578" type="person">Reinhardts</rs></rs> noch ins Kaffee. <rs ref="#tillich_person_id__1578" type="person">Frau Reinhard</rs> freut sich sehr auf Dich und sagte, man wäre sehr gespannt. Sie war auch im Kolleg und hat ihrem Mann, an dessen Urteil mir am meisten liegt, alles sehr be<pb n="4"/>geistert erzählt. Dieses war der erste und bisher einzige Gesellschaftstag. Die Wohnung ist so weit, daß die Tapeten herankönnen, und dann soll das Parkett abgezogen werden. Das müssen wir bezahlen. Es ist aber unbedingt nötig. Telephon ist beantragt. Den Wohnungsschein erhält <hi rend="u">nicht</hi> das Kuratorium, sondern das Wohnungsamt dafür daß es uns den Wohnberechtigungsschein für hier erteilt. – In der Pension alles unverändert. Vorgestern riefen <rs ref="#tillich_person_id__2489" type="person"><rs ref="#tillich_person_id__2490" type="person">Sulzbachs</rs></rs> (<hi rend="aq">Crissier</hi>!) an. Wir haben uns aber noch nicht verabredet. Die Kollegs scheinen stark gewirkt zu haben. Jedenfalls waren am 2 Tage mehr da als am ersten. Ich freue mich, daß Ihr morgen näher kommt. Schreib' gleich!
+</p>
+                <closer>
+                    <salute>Ich liebe Dich!</salute>
+                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+                </closer>
+                <pb n="1"/>
+<postscript><p>Grüße alle Marburger!!</p></postscript>
+            </div>
+        </body>
+    <back><listPerson><person xml:id="tillich_person_id__664">
+                  <persName>Gelb, Adhémar</persName>
+               </person>
+               <person xml:id="tillich_person_id__1578">
+                  <persName>Reinhardt , Elly</persName>
+                  <note type="bio"><p>Frau von Karl Reinhardt</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1577">
+                  <persName>Reinhardt, Karl</persName>
+                  <occupation>Altphilologe</occupation>
+                  <note type="bio"><p>1905-1910 Studium der Klassischen Philologie in Bonn und Berlin, 1910 Promotion in Berlin, 1914 Habilitation in Bonn. 1916-1918 außerordentlicher Professor in Marburg, 1919-1923 ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf an die Universität Frankfurt, wo R., unterbrochen von einigen Jahren an der Universität Leipzig (1942-1946) bis zu seiner Emeritierung 1951 blieb und lehrte. Er war mit Elly Reinhardt (geb. Boessneck) verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1177">
+                  <persName>Liebermann, Max</persName>
+                  <occupation>Maler, herausragender Vertreter des Impressionismus in Deutschland, Vater von Käthe Riezler, Schwiegervater von Kurt Riezler</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1423">
+                  <persName>Oppenheim, Paul</persName>
+                  <occupation>Chemiker und Philosoph</occupation>
+                  <note type="bio"><p>Nach dem Studium der Chemie in Freiburg/Breisgau und Gießen wurde Paul O. 1908 promoviert und übernahm im Anschluss daran die Leitung des familiengeführten Juwelen-Großhandelsgeschäfts ‚N. M. Oppenheim‘. 1926-1933 arbeitete er bei der I. G. Farben. Gemeinsam mit seiner Frau emigrierte er 1933 in ihre Heimatland Belgien. Nach einer Lectorship an der Universität Cambridge (1938) folgte 1939 die Emigration in die USA, wo O. als Privatgelehrter und Spezialist für Wissenschaftstheorie Vortragstätigkeit entfaltete. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__827">
+                  <persName>Hauptmann, Gerhart</persName>
+               </person>
+               <person xml:id="tillich_person_id__2490">
+                  <persName>Sulzbach, Maria</persName>
+               </person>
+               <person xml:id="tillich_person_id__1424">
+                  <persName>Oppenheim, Gabrielle</persName>
+                  <note type="bio"><p>Frau von Paul Oppenheimer. Gemeinsam mit seinem Mann emigriete sie 1933 in ihre Heimatland Belgien. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941). </p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2396">
+                  <persName>Gelb, Nelly</persName>
+                  <note type="bio"><p>Sie war die Frau von Adhémar Gelb und die Tochter von Max Alvary.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2489">
+                  <persName>Sulzbach, Walter</persName>
+                  <birth>
+                     <date>1889-02-21</date>
+                     <settlement>
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969-04-17</date>
+                     <settlement>
+                        <placeName>Küssnacht am Rigi</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Bankier; Soziologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11737380X</idno>
+                  <note type="bio"><p>In seiner Forschung widmete er sich insbesondere der politischen Soziologie.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2395">
+                  <persName>Riezler, Käthe</persName>
+                  <birth>
+                     <date>1885-08-19</date>
+                  </birth>
+                  <death>
+                     <date>1955-09-06</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/116996242</idno>
+                  <note type="bio"><p>Sie war die Tochter von Max Liebermann und die Ehefrau von Kurt Riezler.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2509">
+                  <persName>Prinzhorn, (Frau)</persName>
+               </person>
+               <person xml:id="tillich_person_id__1610">
+                  <persName>Riezler, Kurt</persName>
+                  <birth>
+                     <date>1882-02-11</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1955-09-06</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Diplomat und Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
+                  <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2510">
+                  <persName>May, Ernst</persName>
+                  <birth>
+                     <date>1886-07-27</date>
+                     <settlement>
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1970-09-11</date>
+                     <settlement>
+                        <placeName>Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Architekt;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118732218</idno>
+               </person>
+               <person xml:id="tillich_person_id__1570">
+                  <persName>Reichl, Otto</persName>
+                  <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

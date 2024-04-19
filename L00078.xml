@@ -1,96 +1,96 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00078">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Marlen Kandeler an Paul Tillich <lb/>vom 19. Juli 1905 </title>
-            <author ref="#tillich_person_id__1017">Marlen Kandeler</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00078.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00076.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00079.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Marlen Kandeler an Paul Tillich vom 19. Juli 1905</title>
+<author ref="#tillich_person_id__1017">Marlen Kandeler</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__279">Marburg</settlement>
-                  <institution>Philipps-Universität Marburg</institution>
-                  <repository>Deutsches Paul-Tillich-Archiv</repository>
-                  <idno>008E</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008E</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1017">Marlen Kandeler</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1905-07-19">19.07.1905</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName>Tübingen</placeName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00076">Postkarte von Margarete Tillich an Paul Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00079">Brief von Toni Winkler an Paul Tillich </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-08-20">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2024-01-17">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__37" type="place">B.</rs> d. <date when="1905-07-19">19. VII.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1017">Marlen Kandeler</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1905-07-19">19.07.1905</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName>Tübingen</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00076">Postkarte von Margarete Tillich an Paul Tillich vom 16. Juli 1905</ref><ref subtype="next_letter" type="withinCollection" target="L00079">Brief von Toni Winkler an Paul Tillich vom 20. Juli 1905</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-08-20" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-01-17" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__37" type="place">B.</rs> d. <date when="1905-07-19">19. VII.
                      05.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Freund</rs>!</salute>
-            </opener>
-            <p>Wie lieb von Dir, daß Du feurige Kohlen auf mein Haupt sammelst und mir trotz meines
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Freund</rs>!</salute>
+</opener>
+<p>Wie lieb von Dir, daß Du feurige Kohlen auf mein Haupt sammelst und mir trotz meines
                Schweigens wieder schreibst. Ich komme Dir einen Hochachtungsschluck (in Kaffee!) –
                Von Herzen freue ich mich, daß es Dir schon besser geht und ebenso herzlich wünsche
-               ich Dir baldige, völlige Genesung!<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkankung. Vgl. <rs type="letter" xml:id="L00056">Brief von Toni Winkler an Paul Tillich vom 19. Mai 1905</rs>, <rs type="letter" xml:id="L00065">Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</rs>, <rs type="letter" xml:id="L00067">Brief von Gerich an Paul Tillich vom 26. Juni 1905</rs>, sowie <rs type="work" ref="#tillich_work_id__97" n="541">GW XIII, 541</rs>;<rs type="work" ref="#tillich_work_id__96" n="26">EW V, 26</rs>.</note> Wenn es Dich nicht zu sehr<pb n="2"/> anstrengt,
+               ich Dir baldige, völlige Genesung!<note type="ea">Paul Tillich hatte während des Sommersemesters 1905 in Tübingen wiederholt eine Ohrenerkankung. Vgl. <rs ref="L00056" type="letter">Brief von Toni Winkler an Paul Tillich vom 19. Mai 1905</rs>, <rs ref="L00065" type="letter">Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</rs>, <rs ref="L00067" type="letter">Brief von Gerich an Paul Tillich vom 26. Juni 1905</rs>, sowie <rs n="541" ref="#tillich_work_id__97" type="work">GW XIII, 541</rs>;<rs n="26" ref="#tillich_work_id__96" type="work">EW V, 26</rs>.</note> Wenn es Dich nicht zu sehr<pb n="2"/> anstrengt,
                würde ich mich <hi rend="u">sehr</hi> über einen ausführlichen Bericht von Dir u.
                Deinem jetzigem Leben freuen. Ich habe gehört, daß Du schon Andachten dem Druck
                übergeben hast. Wie gern würde ich mal eine davon haben. Du denkst
@@ -98,33 +98,51 @@
                im ganzen Wert erfassen. Nun, ich meine, da Deine <sic>Schreiften</sic> religiösen
                Inhaltes sind, wird das Verständnis des Herzens da einsetzen wo<pb n="3"/> mein
                schwacher Geist zurückbleibt. - -</p>
-            <p>Mein <rs type="person" ref="#tillich_person_id__2728">Vater</rs> war 6 Wochen von Amts wegen in <rs type="place" ref="#tillich_place_id__260">Leipzig</rs> um Vorträge
-               über seine Schule mit anzuhören. Da fuhr <rs type="person" ref="#tillich_person_id__2729">Mutter</rs> mit den drei Bubis nach einem Gut
-               Falkenwalde bei <rs type="place" ref="#tillich_place_id__545">Ravenstein i. P.</rs> Jetzt ist die ganze Familie
-               in <rs type="place" ref="#tillich_place_id__424">Swinemünde</rs>. Ich muß natürlich, da ich im ersten Jahr keinen
+<p>Mein <rs ref="#tillich_person_id__2728" type="person">Vater</rs> war 6 Wochen von Amts wegen in <rs ref="#tillich_place_id__260" type="place">Leipzig</rs> um Vorträge
+               über seine Schule mit anzuhören. Da fuhr <rs ref="#tillich_person_id__2729" type="person">Mutter</rs> mit den drei Bubis nach einem Gut
+               Falkenwalde bei <rs ref="#tillich_place_id__545" type="place">Ravenstein i. P.</rs> Jetzt ist die ganze Familie
+               in <rs ref="#tillich_place_id__424" type="place">Swinemünde</rs>. Ich muß natürlich, da ich im ersten Jahr keinen
                Urlaub bekomme, hierbleiben. Ich esse jetzt mittags immer<pb n="4"/> mit Tante R.
-               <rs type="person" ref="#tillich_person_id__2736">Wiechel</rs> zusammen. Ich sagte ihr Deine Adr. Sie wird Dir auch schreiben.<note type="ea">Es ist keine Korrespondenz überliefert.</note> Die Kinder
+               <rs ref="#tillich_person_id__2736" type="person">Wiechel</rs> zusammen. Ich sagte ihr Deine Adr. Sie wird Dir auch schreiben.<note type="ea">Es ist keine Korrespondenz überliefert.</note> Die Kinder
                sind nun schon bald 5 Wochen fort. Der Abschied ist mir sehr schwer geworden. Es ist
                doch drollig, daß wir Männchen beide zum Liebling haben. -</p>
-            <p>Nun bekommst Du ja sehr bald Ferien nicht? Ich freue mich schon auf das Wiedersehen.
+<p>Nun bekommst Du ja sehr bald Ferien nicht? Ich freue mich schon auf das Wiedersehen.
                Hoffentlich hat Deine Würde als Tübinger Student Dich so gebessert, daß Du mich nicht
                wie sonst braun u. blau zwickst, sondern, daß man in Vernunft mal reden kann? - Lege
-               doch, bitte, bei <rs type="person" ref="#tillich_person_id__644">Hanna</rs> ein gutes Wort für mich ein. Sie ist mir Recht böse, weil ich
+               doch, bitte, bei <rs ref="#tillich_person_id__644" type="person">Hanna</rs> ein gutes Wort für mich ein. Sie ist mir Recht böse, weil ich
                vor ihrer Abreise nicht kam, obgleich ich es vorher versprochen hatte. Entschuldige,
                bitte, die Schmiererei, aber ich habe nicht viel Zeit u. sonst wirds wieder nichts
                mit ein paar Zeilen für Dich. </p>
-            <closer>
-               <salute>Mit herzlichem Gruß bin ich in alter Freundschaft u. Treue </salute>
-               <signed>Deine <rs ref="#tillich_person_id__1017" type="person">M. Kandeler</rs></signed>
-            </closer>
-            <postscript>
-               <p>Es ist recht drollig, daß ich einem Studenten ein Stückchen Schokolade schicke.
+<closer>
+<salute>Mit herzlichem Gruß bin ich in alter Freundschaft u. Treue </salute>
+<signed>Deine <rs ref="#tillich_person_id__1017" type="person">M. Kandeler</rs></signed>
+</closer>
+<postscript>
+<p>Es ist recht drollig, daß ich einem Studenten ein Stückchen Schokolade schicke.
                   Aber ich weiß Du isst sie gern u. deshalb hoffe ich, daß du mich nicht zu sehr
                   auslachst. - </p>
-            </postscript>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1928"><reference>Freund</reference><persName>Tillich, Paul</persName>
+</postscript>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__2728">
+                  <persName>Kandeler, Friedrich</persName>
+                  <occupation>Bildhauer; Zeichenlehrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2736">
+                  <persName>Wiechel, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1017">
+                  <persName>Kandeler, Marlen</persName>
+               </person>
+               <person xml:id="tillich_person_id__2729">
+                  <persName>Kandeler, Martha</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -137,38 +155,40 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__2728"><reference>Vater</reference><persName>Kandeler, Friedrich</persName>
-                  <occupation>Bildhauer; Zeichenlehrer;</occupation>
-               </person><person ref="#tillich_person_id__2729"><reference>Mutter</reference><persName>Kandeler, Martha</persName>
-               </person><person ref="#tillich_person_id__2736"><reference>Wiechel</reference><persName>Wiechel, ???</persName>
-               </person><person ref="#tillich_person_id__644"><reference>Hanna</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__1017"><reference>M. Kandeler</reference><persName>Kandeler, Marlen</persName>
-               </person></listPerson><listBibl><bibl ref="#tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl><bibl ref="#tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl></listBibl><listPlace><place ref="#tillich_place_id__37"><reference>B.</reference><placeName>Berlin</placeName>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               <bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place><place ref="#tillich_place_id__260"><reference>Leipzig</reference><placeName>Leipzig</placeName>
-                  <location type="coords">
-                     <geo>51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
-               </place><place ref="#tillich_place_id__545"><reference>Ravenstein i. P.</reference><placeName>Ravenstein i. P.</placeName>
+               </place>
+               <place xml:id="tillich_place_id__545">
+                  <placeName>Ravenstein i. P.</placeName>
                   <location type="coords">
                      <geo>53.27466 15.46257</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3082637/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q7968275</idno>
-               </place><place ref="#tillich_place_id__424"><reference>Swinemünde</reference><placeName>Swinemünde</placeName>
+               </place>
+               <place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               <place xml:id="tillich_place_id__424">
+                  <placeName>Swinemünde</placeName>
                   <location type="coords">
                      <geo>53.91053 14.24712</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3083955/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q41599</idno>
-               </place></listPlace><listLetter><letter ref="L00056"><reference>Brief von Toni Winkler an Paul Tillich vom 19. Mai 1905</reference></letter><letter ref="L00065"><reference>Brief von Johannes Tillich an Paul Tillich vom 23. Juni 1905</reference><title>Brief von Johannes Tillich an Paul Tillich <lb/>vom 23. Juni 1905</title>
-            </letter><letter ref="L00067"><reference>Brief von Gerich an Paul Tillich vom 26. Juni 1905</reference><title>Brief von Gerich an Paul Tillich <lb/>vom 26. Juni 1905 </title>
-            </letter></listLetter></back></text>
+               </place>
+               </listPlace></back></text>
 </TEI>

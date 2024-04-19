@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01284.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01272.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01285.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Undatierte Postkarte von Paul Tillich an Nahum Norbert Glatzer vor 1932</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <collection>Privatarchiv Erdmann Sturm, Familienbesitz Judith Wechsler</collection>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date notBefore="1920" notAfter="1932">ohne Datum</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2872">Nahum Norbert Glatzer</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01272">Postkarte von Paul und Hannah Tillich an Rudolf Otto vom 7. oder 17. April 1930 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01285">Brief von Paul Tillich an Hannah Tillich vom 1. Januar 1922</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="FS" when="2024-02-19">Initiale Auszeichnung des Transkripts, Endabnahme</change>
+
+
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><salute>Sehr geehrter Herr <rs ref="#tillich_person_id__2872" type="person">Glatzer</rs>!<note type="ea">Es ist wahrscheinlich, doch nicht gesichert, dass diese Karte aus den Jahren 1929-1931 stammt. Tillich war in Frankfurt einer der Betreuer von Glatzers <rs ref="#tillich_work_id__232" type="work">Dissertation</rs>.</note></salute>
+            </opener>
+            <p>Leider ist es mir nicht gelungen, die Worte von <rs ref="#tillich_person_id__1648" type="person">Franz Rosenzweig</rs> bei <rs ref="#tillich_person_id__1705" type="person">Schelling</rs> wiederzufinden.<note type="ea">Nicht ermittelt.</note> Ich kann Ihnen auch sonst keinen Anhalt geben, wo die herstammen.</p>
+            <closer>
+               <salute>Ihr sehr ergebener</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+            </closer>
+
+            <postscript>
+               <p/>
+            </postscript>
+
+         </div>
+
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__2872">
+                  <persName>Glatzer, Nahum Norbert</persName>
+                  <birth>
+                     <date>1903</date>
+                     <settlement>
+                        <placeName>Lemberg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1990</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119011085</idno>
+               </person>
+               <person xml:id="tillich_person_id__1648">
+                  <persName>Rosenzweig, Franz</persName>
+               </person>
+               <person xml:id="tillich_person_id__1705">
+                  <persName>Schelling, Friedrich Wilhelm Joseph</persName>
+                  <birth>
+                     <date>1775-01-27</date>
+                     <settlement>
+                        <placeName>Leonberg (Landkreis Böblingen)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1854-08-20</date>
+                     <settlement>
+                        <placeName>Bad Ragaz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__232">Glatzer, Nahum Norbert, Untersuchung zur Geschichtslehre der Tannaiten, 1932.</bibl>
+               </listBibl></back></text>
+</TEI>

@@ -1,114 +1,149 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01031">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich <lb/>vom 19. Oktober 1929</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01031.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01030.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01032.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich und anderen an Hannah Tillich vom 19. Oktober 1929 [PS]</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+   <author ref="#tillich_person_id__2358">Natascha Stepun</author>
+   <author ref="#tillich_person_id__218">Erwin Bienert</author>
+   <author ref="#tillich_person_id__2361">Elis</author>
+   <author ref="#tillich_person_id__1699">Reinhold Schairer</author>
+   <author ref="#tillich_person_id__1829">Friedrich Spiegelberg</author>
+   <author ref="#tillich_person_id__2443">Christian Janentzky</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="Wien">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="Wien">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(26)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(26)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte (Motiv: Dresden, Salzgasse und Kuppel der Frauenkirche), von mehrerlei Hand</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1929-10-19">19.10.1929</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01030">Postkarte von Paul Tillich an Hannah Tillich
-               </ref><ref subtype="next_letter" type="withinCollection" target="L01042">Postkarte von Paul Tillich an Hannah Tillich </ref><ref subtype="previous_letter" type="withinCorrespondence" target="L01030">Postkarte von Paul Tillich an Hannah Tillich
-               </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-12-09">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-12-09">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="postcard">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <salute>Liebste süße <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
-            </opener>
-            <p>Kurz vor <rs type="place" ref="#tillich_place_id__37">Berlin</rs>! – Gestern 11-3
-               Ausfahrt mit <rs type="person" ref="#tillich_person_id__217">Frau Bienert</rs> nach
-                  <rs type="place" ref="#tillich_place_id__498">Schmilka bei Schandau</rs>. Der Weg
-               wo ich <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> auf dem Rücken
-               zurückgetragen habe. Herrliche Fahrt. Sachsen <hi rend="u">doch</hi> sehr schön.
-               Gespräche über <rs type="person" ref="#tillich_person_id__688">Heinrich</rs> u. s. w.
-                  <unclear cert="medium">Forellen</unclear> Dann Elisenstr. 11. Ich gehe mit Zittern
-               rein. Es war schrecklich aufregend. Wenige aber gute Veränderungen der Farbe: Flur
-               und rosa Zimmer. Flur gelblich, Decke blau. Rosa Zimmer Goldbraun. Allmählich
-               beruhige ich mich: Es ist <rs type="person" ref="#tillich_person_id__1829">Spiegelbergs</rs> Wohnung. Die Vergangenheit ist weg. Kaffee und lange
-               Unterhaltungen. Sie sind durch die Wohnung viel tiefer verbunden. – Einsamer Gang
-               durch die Straßen von <rs type="place" ref="#tillich_place_id__126">Dresden</rs>.
-               Umziehen zur Abend-Gesellschaft: <rs type="person" ref="#tillich_person_id__1829">Spiegelbergs</rs>, <rs type="person" ref="#tillich_person_id__1699"><rs type="person" ref="#tillich_person_id__2403">Schairers</rs></rs>, Natascha mit
-               Bruder, junge Fürst, <rs type="person" ref="#tillich_person_id__2596">Margrit</rs>,
-                  <rs type="person" ref="#tillich_person_id__2597">Jenenski</rs> . <hi rend="u">Sehr</hi> nett. Heut um 6 auf. <rs type="person" ref="#tillich_place_id__42">Lichterfelde</rs>-Ost</p>
-            <closer>
-               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__126">Dresden</placeName>
+<date when="1929-10-19">19.10.1929</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L01030">Postkarte von Paul Tillich an Hannah Tillich vom 19. Oktober 1929 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01032">Postkarte von Paul Tillich an Hannah Tillich vom 21. Oktober 1929 [PS]</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2024-04-17" who="FS">Initiale Auszeichnung des Transkripts, Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+   
+   <div n="1" type="hand">
+      <pb n="1"/>
+      <p>Ottipus.<note type="ea">Handschrift 1</note></p>
+   </div>
+   
+   <div n="2" type="hand">
+      <p>Liebste <rs ref="tillich_person_id__1923" type="person">Hannah</rs>, Sie fehlen, tausend Grüße <unclear>Ihr</unclear> <unclear>¿¿¿</unclear><note type="ea">Handschrift 2</note></p>
+   </div>
+   
+   <div n="3" type="hand">
+      <p>Ich kusse Sie vom ganzen Herzen <rs ref="tillich_person_id__1923" type="person">Hannah</rs><lb/>
+         <rs ref="#tillich_person_id__2358" type="person">Natascha</rs><note type="ea">Handschrift 3 (<rs ref="#tillich_person_id__2358" type="person">Natascha Stepun</rs>)</note></p>
+   </div>
+   
+   <div n="4" type="hand">
+      <p><rs ref="tillich_person_id__218" type="person">Erwin Bienert</rs><note type="ea">Handschrift 4 (<rs ref="tillich_person_id__218" type="person">Erwin Bienert</rs>)</note></p>
+   </div>
+   
+   <div n="5" type="hand">
+      <p>Herzliche Grüße<lb/>
+         Ihre <unclear>Margret ¿¿¿ ¿¿¿</unclear><note type="ea">Handschrift 5</note></p>
+   </div>
+   
+   <div n="6" type="hand">
+      <p>Es ist schön hier Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs><note type="ea">Handschrift 6 (<rs ref="#tillich_person_id__1928" type="person">Paul Tillich</rs>)</note></p>
+   </div>
+   
+   <div n="7" type="hand">
+      <p>Warum sind Sie nicht hier<lb/>
+         Ohne Sie erzählt er immer das Gleiche! Herzliche Grüße <unclear>¿¿¿</unclear><note type="ea">Handschrift 7</note></p>
+   </div>
+   
+   <div n="8" type="hand">
+      <p>Dein <rs ref="#tillich_person_id__1928" type="person">Paulus</rs> ist hier sehr geliebt worden, <rs ref="#tillich_person_id__2361" type="person">Elis</rs>.<note type="ea">Handschrift 8 (<rs ref="#tillich_person_id__2361" type="person">Elis</rs>)</note></p>
+   </div>
+   
+   <div n="9" type="hand">
+      <p>Herzlichste Grüße Ihr <rs ref="#tillich_person_id__1699" type="person">Reinhold Schairer</rs><note type="ea">Handschrift 9 (<rs ref="#tillich_person_id__1699" type="person">Reinhold Schairer</rs>)</note></p>
+   </div>
+   
+   <div n="10" type="hand">
+      <p>D. Obolensky<note type="ea">Handschrift 10</note></p>
+   </div>
+   
+   <div n="11" type="hand">
+      <p><rs ref="#tillich_person_id__1829" type="person">Spiegelberg</rs><note type="ea">Handschrift 11 (<rs ref="#tillich_person_id__1829" type="person">Friedrich Spiegelberg</rs>)</note></p>
+   </div>
+   
+   <div n="12" type="hand">
+      <p><rs ref="#tillich_person_id__2443" type="person">Janentzky</rs><note type="ea">Handschrift 12 (<rs ref="#tillich_person_id__2443" type="person">Christian Janentzky</rs>)</note></p>
+   </div>
+   
+   
+   
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -123,78 +158,61 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__217"><reference>Frau Bienert</reference><persName>Bienert, Ida</persName>
+               </person>
+               <person xml:id="tillich_person_id__218">
+                  <persName>Bienert, Erwin</persName>
+               </person>
+               <person xml:id="tillich_person_id__1699">
+                  <persName>Schairer, Reinhold</persName>
+                  <occupation>Bildungsexperte und Verbandsfunktionär</occupation>
+                  <note type="bio"><p>Studium der Rechtswissenschaften, Pädagogik und Philosophie in Tübingen, Berlin und Genf, 1914 Promotion. 1920 heiratete er Gerda von Mendelssohn (1888-1971), geb. Schack-Schou, die Witwe des Schriftstellers Erich von Mendelssohn. 1921 war er ein Mitbegründer des Deutschen Studentenwerks sowie der Studienstiftung des Deutschen Volkes, seit 1928 gemeinsam mit Hans  Simons Geschäftsführer der Abraham-Lincoln-Stiftung, zudem Förderer des Kreises um die von Tillich herausgegebenen Neuen Blätter für den Sozialismus. 1934 Emigration via Kopenhagen nach London, ab 1940 in den USA. 1943-1947 Gastprofessor an der New York University. Mitte der 1950er Jahre kehrte er nach Deutschland zurück, nachdem er zuvor unter anderem als Mitarbeiter der Marshallplan-Verwaltung beschäftigt gewesen war (1950-1954). Zuletzt lebte er in Dänemark.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1829">
+                  <persName>Spiegelberg, Friedrich</persName>
                   <birth>
-                     <date>1870-11-29</date>
+                     <date>1897-05-24</date>
                      <settlement>
-                        <placeName>Bielawa</placeName>
+                        <placeName>Hamburg</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1965-08-18</date>
-                     <settlement>
-                        <placeName>München</placeName>
-                     </settlement>
+                     <date>1994</date>
                   </death>
-                  <occupation>Dresdner Kunstsammlerin und Mäzenatin</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/133509060</idno>
-               </person><person ref="#tillich_person_id__570"><reference>Erdmuthe</reference><persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-               </person><person ref="#tillich_person_id__688"><reference>Heinrich</reference><persName>Goesch, Heinrich</persName>
+                  <occupation>Religionswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
+                  <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2443">
+                  <persName>Janentzky, Christian</persName>
                   <birth>
-                     <date>1880-07-02</date>
+                     <date>1886-01-29</date>
                      <settlement>
                         <placeName>Rostock</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1931-02-16</date>
+                     <date>1968-08-27</date>
                      <settlement>
-                        <placeName>Konstanz</placeName>
+                        <placeName>Dresden</placeName>
                      </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
-               </person><person ref="#tillich_person_id__1829"><reference>Spiegelbergs</reference><persName>Spiegelberg, Friedrich</persName>
-                  <birth>
-                     <date>1897-05-24</date>
-                     <settlement>
-                        <placeName>Hamburg</placeName>
-                     </settlement>
-                  </birth>
+                  <occupation>Literaturwissenschaftler; Bibliotheksdirektor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117078190</idno>
+                  <note type="bio"><p>Er wirkte als Direktor der Bibliothek der TH Dresden.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2361">
+                  <persName>???, Elis</persName>
+               </person>
+               <person xml:id="tillich_person_id__2358">
+                  <persName>Stepun, Natalja Nikolaevna</persName>
                   <death>
-                     <date>1994</date>
+                     <date>1961</date>
                   </death>
-                  <occupation>Religionswissenschaftler</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
-                  <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
-               </person><person ref="#tillich_person_id__1829"><reference>Spiegelbergs</reference><persName>Spiegelberg, Friedrich</persName>
-                  <birth>
-                     <date>1897-05-24</date>
-                     <settlement>
-                        <placeName>Hamburg</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1994</date>
-                  </death>
-                  <occupation>Religionswissenschaftler</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
-                  <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
-               </person><person ref="#tillich_person_id__2403"><reference>Schairers</reference><persName>Schairer, Gerda</persName>
-                  <birth>
-                     <date>1888-09-28</date>
-                     <settlement>
-                        <placeName>Aarhus</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1971</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/1044769491</idno>
-                  <note type="bio"><p>Sie war die Frau von Reinhold Schairer.</p></note>
-               </person><person ref="#tillich_person_id__2596"><reference>Margrit</reference><persName>???, Margrit</persName>
-               </person><person ref="#tillich_person_id__2597"><reference>Jenenski</reference><persName>Jenenski, ???</persName>
-               </person><person ref="#tillich_place_id__42"><reference>Lichterfelde</reference></person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1107814014</idno>
+                  <note type="bio"><p>Sie war die Frau von Fedor Stepun und war bekannt als Natascha.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -207,23 +225,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place><place ref="#tillich_place_id__498"><reference>Schmilka bei Schandau</reference><placeName>Schmilka bei Bad Schandau</placeName>
-                  <location type="coords">
-                     <geo>50.89190 14.23261</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2837731/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2246488</idno>
-               </place><place ref="#tillich_place_id__126"><reference>Dresden</reference><placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place></listPlace><listLetter/></back></text>
+               </person>
+               </listPerson></back></text>
 </TEI>

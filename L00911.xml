@@ -1,93 +1,92 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00911">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Hannah Tillich <lb/>vom 26. September 1926</title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00911.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00909.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00912.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich vom 26. September 1926</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
-                  <idno>bMS 721/2(23)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+<idno>bMS 721/2(23)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__343">Paris</placeName>
-               <date when="1926-09-26">26.09.1926</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00909">Brief von Paul Tillich an Hannah Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00912">Postkarte von Paul Tillich an Hannah Tillich
-                    </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-10-31">Intitale Auszeichnung des Transkripts</change>
-         <change who="PS" when="2023-10-31">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener><dateline>
-                  <date when="1926-09-26">D. 26</date></dateline>
-               <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-            </opener>
-            <p>Gestern und vorgestern habe ich an die andern im Haus Karten<note type="ea">Nicht
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__343">Paris</placeName>
+<date when="1926-09-26">26.09.1926</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00909">Brief von Paul Tillich an Hannah Tillich vom 24. September 1926</ref><ref subtype="next_letter" type="withinCollection" target="L00912">Postkarte von Paul Tillich an Hannah Tillich vom 26. September 1926</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-10-31" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-31" who="PS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline>
+<date when="1926-09-26">D. 26</date></dateline>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Gestern und vorgestern habe ich an die andern im Haus Karten<note type="ea">Nicht
                   überliefert.</note> geschickt, die natürlich immer für Dich mitbestimmt sind.
                Heute sollst Du wieder etwas mehr hören. Du schreibst, daß ich zu wenig Persönliches
                schreibe. Inzwischen hast Du ja einen Brief von mir (aus <rs ref="#tillich_place_id__435" type="place">Trouville</rs>) in dem ich einer ziemlich tief
@@ -124,7 +123,7 @@
                genau so von der Unterhaltung mit den Männern über die Kunst oder sonst etwas. Im
                Grunde kann man Sprachen nicht lernen, sondern nur in ihnen leben. Der Rest ist
                Technik der Verständigung. – – –</p>
-            <p>Dagegen ist es bis zu einem gewissen Grade möglich, in den <sic>Rythmus</sic> dieser
+<p>Dagegen ist es bis zu einem gewissen Grade möglich, in den <sic>Rythmus</sic> dieser
                Stadt hereinzukommen. Ich bemühe mich darum<pb n="6"/> durch möglichste Anpassung.
                Z.B. dadurch, daß ich es vermeide, den Sehenswürdigkeiten nachzurennen. 1-2 St.
                Louvre als tägliche ernsthafte Arbeit. Besuch immer neuer Stadtteile im Bummeltempo
@@ -137,69 +136,40 @@
                Ich sitze auf dem Champs-Elyseés, wo ununterbrochen 5 Reihen von Autos nach beiden
                Seiten vorbeisausen und vieles Elegante vorbeigeht. Mir gegenüber jenseits der Seine
                die Kuppel des Invalidendomes, auf dem die untergehende Sonne glänzt.)</p>
-            <p><rs ref="#tillich_person_id__2357" type="person">Frau Fondaminski</rs> ist leider verreist. Er kommt früh
+<p><rs ref="#tillich_person_id__2357" type="person">Frau Fondaminski</rs> ist leider verreist. Er kommt früh
                zurück und will mich dann einladen. <rs ref="#tillich_person_id__2513" type="person">Nora</rs> wohnt
                gegenüber dem Louvre in einem Luxushotel, Ich will mich mal morgen früh nach ihr
                erkundigen. <rs ref="#tillich_person_id__2436" type="person">Hamburgers</rs> seit 2 Tagen<pb n="8"/>
                nicht gesehen: In Summa: Mit Bekannten ist nicht viel und ich bedaure es kaum. Um so
                stärker sind die Sachen.</p>
-            <p>Ich denke jetzt – meiner Situation entsprechend viel über das Problem der
+<p>Ich denke jetzt – meiner Situation entsprechend viel über das Problem der
                "Verdrängung" nach, und glaube, daß wir es viel positiver lösen müssen als üblich.
                Die Durch-Erotisierung des sinnhaften Lebens gibt diesem Blut und Sinn zugleich und
                nimmt der "schöpferischen Lust" nichts an Kraft. Von hier aus erhält alles Askese ein
                starkes Plus – – – Süße liebe <rs ref="#tillich_person_id__1923" type="person">Hannah</rs> Ich möchte
                immerzu mit Dir reden und Dich lieben in höchster "schöpferischer Lust."</p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person><person ref="#tillich_person_id__2008"><reference>Eckart</reference><persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person><person ref="#tillich_person_id__2357"><reference>Frau Fondaminski</reference><persName>Ossipowna, Amalija</persName>
-                  <note type="bio"><p>Sie war die Frau von Ilja Issidorowitsch Fondaminski.</p></note>
-               </person><person ref="#tillich_person_id__2513"><reference>Nora</reference><persName>???, Nora</persName>
-               </person><person ref="#tillich_person_id__2436"><reference>Hamburgers</reference><persName>Hamburger, Hans</persName>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+<back><listPlace><place xml:id="tillich_place_id__435">
+                  <placeName>Tergnier</placeName>
+                  <location type="coords">
+                     <geo>49.65607 3.30107</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2973146/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q378973</idno>
+               </place>
+               <place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2436">
+                  <persName>Hamburger, Hans</persName>
                   <birth>
                      <date>1889-08-05</date>
                      <settlement>
@@ -215,7 +185,27 @@
                   <occupation>Mathematiker;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116422521</idno>
                   <note type="bio"><p>Er lebte Mitte der 1920er in Köln. Zu dieser Zeit war er mit Paul Tillich bekannt. Sie trafen sich auch 1926 in Paris.</p></note>
-               </person><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+               </person>
+               <person xml:id="tillich_person_id__2513">
+                  <persName>???, Nora</persName>
+               </person>
+               <person xml:id="tillich_person_id__2008">
+                  <persName>von Sydow, Eckart</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+               </person>
+               <person xml:id="tillich_person_id__2357">
+                  <persName>Ossipowna, Amalija</persName>
+                  <note type="bio"><p>Sie war die Frau von Ilja Issidorowitsch Fondaminski.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -230,7 +220,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -243,16 +235,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__435"><reference>Trouville</reference><placeName>Tergnier</placeName>
-                  <location type="coords">
-                     <geo>49.65607 3.30107</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2973146/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q378973</idno>
-               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place></listPlace><listLetter/></back></text>
+               </person>
+               </listPerson></back></text>
 </TEI>

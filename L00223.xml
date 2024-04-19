@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00223.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00222.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00224.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hans Scheiber an Paul Tillich vom 13. Oktober 1907</title>
+            <author ref="#tillich_person_id__1738">Hans Schreiber</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/183</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1738">Hans Schreiber</persName>
+               <placeName ref="#tillich_place_id__485">Bremen</placeName>
+               <date when="1907-10-13">13.10.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00222">Brief von Friedrich Büchsel an Paul Tillich vom 12. Oktober 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00224">Postkarte von Hans Balke an Paul Tillich vom 15. Oktober 1907</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-04-18">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-09">Vorbereitende Endabnahme</change>
+         <change who="EL" when="2024-02-29">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__74" type="place">Bremen</rs>, den <date when="1907-10-13">13. Okt. 07.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+            </opener>
+            <p><hi rend="aq"><foreign xml:lang="lat">Pater peccavi</foreign></hi> ... ist mein erstes Wort. Leider ist gestern erst
+               das Protokollbuch an Dich abgegangen! Denke Dir, ich habe es überhaupt nicht in den
+               letzten <del rend="s">Wochen</del>
+               <hi rend="sup">Tagen</hi> fertiggestellt! Ich habe die letzte Zeit im wahrsten Sinne
+               des Wortes nur noch vegetiert, nicht gelebt. Man konnte am Fehlen jeglicher
+               Willensregung deutlich sehen, mit welchem Recht <rs ref="#tillich_person_id__589" type="person">Fichte</rs> dem Willen eine so bedeutsame Rolle im menschlilichen
+               Ich zuerkennt. Ohne Wille ist das Ich tot. Aber da ich gestern Abend nach <rs ref="#tillich_place_id__74" type="place"><hi rend="aq">Bremen</hi></rs> wollte,
+               und vorher das Protokollbuch doch noch mir "aus dem Herzen, mir aus dem Sinne" mußte,
+               geriet nun zwar nicht der Wille, wohl aber die Maschine, die man Körper und Geist
+               nennt, energisch in<pb n="2"/> Bewegung, der Not gehorchend, nicht dem eigenen
+               Triebe. Ich war also keineswegs in diesem Falle im Sinne <rs ref="#tillich_person_id__1709" type="person">Schillers</rs> ein Künstler der die
+               Notwendigkeit mit Freiheit, umgestaltet, sondern eben eine Maschine... Der Bien' muß.
+               Und diese Maschine schrieb und schrieb; Donnerstag bis 2 Uhr Nachts, dann Freitag,
+               Sonnabend früh war ich fertig. Ich bin ja nun sehr geknickt, daß ich Dir das
+               Protokollbuch nicht so sauber abliefern kann, wie <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>, aber... Übrigens möchte ich zu den Protokollen noch
+               Folgendes bemerken. Bei den Kl. Chargen ist, glaube ich, doch noch ein Irrtum
+               untergelaufen. Ist nicht <rs ref="#tillich_person_id__2331" type="person">Giese</rs>
+               Lesezimmerdachs und nicht <rs ref="#tillich_person_id__2332" type="person">Böke</rs>?
+               Außerdem wußte ich die Namen der Kassenrevisions<hi rend="sup">kommission</hi> nicht,
+               und hat nicht <rs ref="#tillich_person_id__1295" type="person">Meinhof</rs> eine
+               Charge? Dann, <del rend="s">ist</del> hat <rs ref="#tillich_person_id__2168" type="person">Schuster</rs> nicht den Antrag gestellt, ihm das Band zu geben, oder
+               hat er es unterlassen, weil sein Fortgehen noch nicht sicher war? In meinen<pb n="3"/> Protokollen finde ich nichts darüber. (<rs ref="#tillich_person_id__2333" type="person">O</rs>. und <rs ref="#tillich_person_id__1707" type="person">W.
+                  Schetelig</rs> sind doch nicht ums Band eingekommen?)</p>
+            <p>Endlich habe ich die Statistik noch nicht eingetragen<supplied>,</supplied> weil ich nicht recht wußte, ob
+               ich den Stand zu Anfang oder Ende des Semesters nehmen sollte. Ich würde es fürs
+               beste halten den zu Ende des Semesters aber mit Angabe <del rend="s">bei</del>
+               <hi rend="sub">von</hi> Veränderungen der Semesterrechte etc. in Klammern (z. B. bei
+                  <rs ref="#tillich_person_id__2334" type="person">Mensching</rs>) und dann am Rande
+               Verweis auf den betreffenden Konvent. Alles dies werde ich noch in <rs type="place" ref="#tillich_place_id__189"><hi rend="aq">Halle</hi></rs> verbessern und
+               nachtragen. Für die Statistik mußt Du übrigens <hi rend="u">3 volle Seiten frei
+                  lassen</hi>, wenn Du Deine Sprüche am Schluß schreiben willst. Du weißt doch, daß
+               Du nach Deinen eigenen Statuten jeden einzelnen A.C. B.C. P.C. unterschreiben, da
+               wird Dein Namenszug ja famos ausgeschrieben werden Tillich<note type="ea">Imitation der Unterschrift von Paul Tillich.</note> (Leider nicht gelungen),
+               vielleicht wird diese unfreiwillige Schreibübung (ich denke ca. 120 mal Tillich.)
+               auch noch weitere<pb n="4"/> segensreiche Folgen für Deine Schrift überhaupt haben;
+               in Deinen Briefen sind manche <del rend="s">Briefe</del> Worte recht schwer
+               entzifferbar.</p>
+            <p>Also seit gestern Abend bin ich hier und bleibe hier bis ich nächsten Freitag gen <rs type="place" ref="#tillich_place_id__189"><hi rend="aq">Halle</hi></rs> dampfe.
+               Kerl, nach <rs type="place" ref="#tillich_place_id__189"><hi rend="aq">Halle</hi></rs>! Beneidenswerter Gedanke. Wie ich die letzten Worte im
+               Protokollbuch schrieb, wurde mir etwas wehmütig zu Mute, denn ich dachte, mancher
+               kommt nach <rs type="place" ref="#tillich_place_id__189"><hi rend="aq">Halle</hi></rs> nicht zurück. Zu diesen Unglücklichen gehörst leider auch Du.</p>
+            <p>Ob Du nicht vielleicht doch zur Antrittskneipe kommst und zugleich das Anfangskolleg,
+               des berühmtesten, in Europa gelesenen Kollegs hörst?</p>
+            <p>Nach <rs type="place" ref="#tillich_place_id__37"><hi rend="aq">Berlin</hi></rs>
+               komme ich natürlich im Februar mit 1000 Freuden! Jetzt schon besten Dank für die
+               freundliche Einladung und die 10 M. Also dies ist <hi rend="aq">epistola</hi> I. Ich
+               bitte genau zu zählen! Von <rs ref="#tillich_person_id__310" type="person">Büchsel</rs> hatte<pb n="5"/> ich kurz vor seinem Examen eine Karte. Er schrieb
+               unter anderm, daß wir auf dem Tiefinnerlichen bei <rs ref="#tillich_person_id__2215" type="person">Ritter</rs> nächstes mal <rs ref="#tillich_person_id__845" type="person">Heims</rs> Kuhzunft<note type="ea">Verballhornung von <rs type="work" ref="#tillich_work_id__242">Karl Heim (1904): Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Naturwissenschaft und Theologie</rs>.</note> erörtern wollten. Famose Aussichten! Das ist ja
+               schlemmerhaft, daß Du ihn in <rs type="place" ref="#tillich_place_id__416"><hi rend="aq">Stettin</hi></rs> heimgesucht hast. Daß du noch einmal in <rs type="place" ref="#tillich_place_id__293"><hi rend="aq">Misdroy</hi></rs> warst,
+               finde ich genial.</p>
+            <p>Heute Morgen war ich hier in einer großen Haupt- und Staatsaktion, die für die
+               Kirchenpolitik nicht ohne Bedeutung sein dürfte. Der Nachfolger <rs ref="#tillich_person_id__1016" type="person">Kalthoffs</rs>
+               <rs ref="#tillich_person_id__2335" type="person"><hi rend="aq">Pastor
+                  Felden</hi></rs> wurde eingeführt. Du hast gewiß schon von diesem, neuen
+               komplicierten "Fall" gehört. <rs ref="#tillich_person_id__2335" type="person"><hi rend="aq">Felden</hi></rs> hat ein angenehmes, fließendes Organ, auch der
+               Inhalt seiner Rede war nicht so übel. Aber, wie ich durch <rs ref="#tillich_person_id__2336" type="person"><hi rend="aq">Pastor
+                  Büttner</hi></rs> hörte, ist er ein Mann, der sich schnell totpredigt. Schon in
+               dieser einen Predigt wiederholte er sich etwas. Neben dem bedeutenden <rs ref="#tillich_person_id__1016" type="person"><hi rend="aq">Kalthoff</hi></rs> ist
+               er jedenfalls nur ein<pb n="6"/> kleines Licht. Der ganze "Gottesdienst" hatte für
+               mich etwas eigenartiges. Die Kirche war recht voll. Der interessante "Fall" <del rend="s">ha</del> war natürlich durch alle Zeitungen gegangen und hatte eine Menge
+               Neugieriger herbeigeführt, eine Menge, die nicht den Eindruck einer Gottesdienst
+               feiernden Gemeinde machte. Die Einführung fand in der alten ehrwürdigen <hi rend="aq">Martini</hi>-Kirche statt. Der Gottesdienst begann mit dem Wort: "Die Liebe
+               Gottes und der Geist sei mit uns allen" eine geschickte Auswahl! Nur was war es für
+               ein Geist, der dort wehte. Ich glaubte immer, die alten Kirchenmauern könnten ihn
+               nicht ertragen und könnten jeden Augenblick über dieser frivolen Menge
+               zusammenbrechen. Aber sie blieben ruhig und fest stehen, und ich dachte, sie haben
+               schon mal einem niederreißenden, brausenden Strome standgehalten, als es mit <rs ref="#tillich_person_id__1228" type="person">Luther</rs> hieß: die Kirche ist
+               nichts, der Pabst<pb n="7"/> ist nichts. Und ich fragte mich, ist die Berandung von
+               heute, die durch den Gegensatz zwischen alt und neu hervorgerufen wird, stärker als
+               damals?</p>
+            <p>Und was war das Neue? Religion ist der <del rend="s">l</del> Gegenwart leben, <del rend="s">d</del> an die Zukunft glauben. Die größte Sache ist, nicht seiner
+               eigenen Individualität zu folgen, sondern irgendeinem äußeren Zwange. Keine Autorität
+               mehr. Alle Wahrheit bleibt für uns nur relativ. Das Streben nach Wahrheit (<rs ref="#tillich_person_id__1169" type="person">Lessing</rs>) ist das höchste. Immer
+               sich wieder dem Neuen bedingungslos in die Arme werfen.</p>
+            <p>War das religiös? Was nach alter Anschauung von religiösen Momenten in dem ganzen
+               "Gottesdienst" vorkam, das war das ganz unvermutet nach der "Predigt" gesprochene
+               Vater Unser, und der Segen nach dem letzten Lied, der einem auch ganz<pb n="8"/>
+               überraschend kam. Bei beiden hat man den peinlichen Eindruck, ein alter Zapf, der
+               wirklich nicht mehr hierhergehört, eine Form, die man um der Behörde und des Friedens
+               willen beibehalten hat.</p>
+            <p>Ich habe jetzt ein Buch von <rs ref="#tillich_person_id__1016" type="person">Kalthoff</rs>. Das muß aber doch ein hervorragender Mann gewesen sein! Wirklich
+               begabt!</p>
+            <p>Nach der Kirche sah ich auch <rs ref="#tillich_person_id__2212" type="person"><hi rend="aq">Graeber</hi></rs> und <rs type="person" ref="#tillich_person_id__2338">Bronisch</rs> und <rs ref="#tillich_person_id__1868" type="person">Pabst <hi rend="aq">Stoevesandt</hi></rs>. Laß’ den <rs ref="#tillich_person_id__2212" type="person"><hi rend="aq">Graeber</hi></rs> am nächsten Samstag aber nicht zu viel auf dem
+               Konvent reden!</p>
+            <p><rs ref="#tillich_person_id__2338" type="person"><hi rend="aq">Bronisch</hi></rs>
+               soll nächstens auch mal zu uns kommen und von der Versammlung der Freunde der
+               christl. Welt erzählen, der er in <rs type="place" ref="#tillich_place_id__279">Marburg</rs> beigewohnt hat. <rs ref="#tillich_person_id__2336" type="person"><hi rend="aq">Pastor
+                  Büttner</hi></rs> erzählte schon von den interessanten Verhandlungen. Hast Du auch
+               schon von der Schwenkung <rs ref="#tillich_person_id__1954" type="person"><hi rend="aq">Troeltschs</hi></rs> gehört zur Metaphysik hin, veranlasst durch <rs ref="#tillich_person_id__2339" type="person"><hi rend="aq">Portigs</hi></rs>
+               <rs type="work" ref="#tillich_work_id__269">Buch</rs>!!– Falls Du mir ein Lebenszeichen geben willst, meine Adresse: bei
+               Missionsinspektor <hi rend="aq">Schreiber, <rs type="place" ref="#tillich_place_id__74">Bremen</rs>, <address>
+                     <street>Ellhornstr. 12</street>
+                  </address></hi>.</p>
+            <closer>
+               <signed>Herzlichst Dein <rs ref="#tillich_person_id__1738" type="person"><hi rend="aq">Hans</hi></rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listBibl><bibl xml:id="tillich_work_id__269">Portig, Gustav, Die Grundzüge der monistischen und dualistischen Weltanschauung unter Berücksichtigung des neuesten Standes der Naturwissenschaft. Deutschland: M. Kielman, 1904.</bibl>
+               <bibl xml:id="tillich_work_id__242">Heim, Karl, Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Naturwissenschaft und Theologie, 1904</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1954">
+                  <persName>Troeltsch, Ernst</persName>
+                  <birth>
+                     <date>1865-02-17</date>
+                     <settlement>
+                        <placeName>Haunstetten</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1923-02-01</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
+               </person>
+               <person xml:id="tillich_person_id__1868">
+                  <persName>Stoevesandt, Karl</persName>
+                  <birth>
+                     <date>1882-08-09</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1977-07-04</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>deutscher Mediziner und Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117266736</idno>
+               </person>
+               <person xml:id="tillich_person_id__2215">
+                  <persName>Ritter, Rudi</persName>
+               </person>
+               <person xml:id="tillich_person_id__1707">
+                  <persName>Schetelig, Wilhelm</persName>
+               </person>
+               <person xml:id="tillich_person_id__589">
+                  <persName>Fichte, Johann Gottlieb</persName>
+                  <birth>
+                     <date>1762-05-19</date>
+                     <settlement>
+                        <placeName>Rammenau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1814-01-29</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
+               </person>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1738">
+                  <persName>Schreiber, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__1169">
+                  <persName>Lessing, Gotthold Ephraim</persName>
+               </person>
+               <person xml:id="tillich_person_id__2331">
+                  <persName>Giese, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2334">
+                  <persName>Mensching, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2339">
+                  <persName>Portig, ???</persName>
+                  <occupation>Theologe; Autor;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2335">
+                  <persName>Felden, ???</persName>
+                  <birth>
+                     <date>1874-05-07</date>
+                  </birth>
+                  <death>
+                     <date>1959-12-04</date>
+                  </death>
+                  <occupation>Pastor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118844814</idno>
+                  <note type="bio"><p>Er lebte und wirkte in Bremen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2336">
+                  <persName>Büttner, ???</persName>
+                  <occupation>Pastor;</occupation>
+                  <note type="bio"><p>Er lebte und wirkte in Bremen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2332">
+                  <persName>Böke, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1016">
+                  <persName>Kalthoff, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2338">
+                  <persName>Bronisch, Gotthelf Matthias</persName>
+                  <birth>
+                     <date>1868-06-03</date>
+                     <settlement>
+                        <placeName>Leuthen (Drebkau)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1937-01-12</date>
+                     <settlement>
+                        <placeName>Wilmersdorf</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117632279</idno>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2168">
+                  <persName>Schuster, Daniel</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1709">
+                  <persName>Schiller, Friedrich von</persName>
+               </person>
+               <person xml:id="tillich_person_id__2212">
+                  <persName>Gräber, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1228">
+                  <persName>Luther, Martin</persName>
+                  <birth>
+                     <date>1483-11-10</date>
+                     <settlement>
+                        <placeName>Eisleben</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1546-02-18</date>
+                     <settlement>
+                        <placeName>Eisleben</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118575449</idno>
+               </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
+               <person xml:id="tillich_person_id__2333">
+                  <persName>Schetelig, O.</persName>
+               </person>
+               <person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               <place xml:id="tillich_place_id__416">
+                  <placeName>Stettin</placeName>
+                  <location type="coords">
+                     <geo>53.42894 14.55302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
+               </place>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

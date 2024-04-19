@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00238.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00237.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00239.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Ernst Lotz an Paul Tillich vom 6. November 1907</title>
+            <author ref="#tillich_person_id__1205">Ernst Lotz</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/162</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1205">Ernst Lotz</persName>
+               <placeName ref="#tillich_place_id__485">Halle</placeName>
+               <date when="1907-11-06">06.11.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00237">Brief von Hans Balke an Paul Tillich vom 6. November 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00239">Brief von Amos Hensmann an Paul Tillich vom 8. November 1907</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-04-18">Intitale Auszeichnung des Transkripts</change>
+         <change who="EL" when="2024-03-18">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>
+                  <rs ref="#tillich_place_id__189" type="place">Halle a. S.</rs>
+                  <date when="1907-06-11">6. XI. 1907.</date>
+                  <address>
+                     <street>Goebenstr. 23<hi rend="sup">II</hi></street>
+                  </address></dateline>
+               <salute>Lieber <rs type="person" ref="#tillich_person_id__1928"/>Bundesbruder!</salute>
+            </opener>
+            <p>Eben teilte mir <rs ref="#tillich_person_id__128" type="person">Balke</rs> Deinen Brief<note type="ea">Nicht überliefert.</note> vom <date when="1907-11-05">5. N</date> mit u.
+               ich beeile mich ihn sofort zu beantworten u. Dir die gewünschten Aufschlüsse an die
+               Hand zu geben.</p>
+            <p>Ad 1) <rs ref="#tillich_person_id__2343" type="person">Joh. Brachmann</rs> hat kurz vor dem Austritt auf
+               einer Besprechung erklärt, nachdem nun die Bundessache bereinigt sei, sei es wohl an
+               der Zeit, daß die Verbindung an ihre eigene Reinigung gehe. Er wurde <hi rend="u">ausgelacht</hi>.</p>
+            <p>Auf einem von Philister <rs ref="#tillich_person_id__2343" type="person">Brachmann</rs> u. <rs ref="#tillich_person_id__2344" type="person">Schornbaum</rs> einberufenen Konvent, erklärte ich (<rs ref="#tillich_person_id__1205" type="person">Lotz</rs>) in der Verbindung bestehe ebenfalls der Kampf
+               zwischen Rechts u. Links. Der x<pb n="2"/> wies diese Behauptung achselzuckend
+               zurück.</p>
+            <p>ad 2) Es kann wohl sein, daß einer von uns eine Kouleur sich kurz vorher gekauft (daß
+               er sie zurückgegeben glaube ich nicht) das beweist aber nur, daß dann betr. die
+               Plötzlichkeit des Austritts überraschend kam, nicht aber dieser selbst.</p>
+            <p>ad 3) Der Erlanger Ton ist gekennzeichnet durch <unclear>Zollfelders</unclear> Wort:
+                  <hi rend="u">Ein Erlange spuckt auf einen Hallenser</hi>. Daß <rs ref="#tillich_person_id__2345" type="person">Grieshamner</rs> sich betrunken ist nicht widerlegt u. kann
+               nicht widerlegt werden. Der xx hat selber sich mit seinen Exkneipen gerühmt.</p>
+            <p>ad 4)Eine Unverschämtheit. Nur mein Vater hatte einen Sohn in der V. daß
+                  <unclear>Zahn</unclear> u. <unclear>Zucker</unclear> ihre Namen unter eine
+               Erklärung setzten, für die sie nicht einstehen konnten, ist<pb n="3"/> eine schwere
+               Beleidigung. Die Marburger Philister sind nicht durch die Erlanger Philister
+               bearbeitet worden. Zu Wort gekommen ist auf ihrem Konvent hauptsächlich <rs ref="#tillich_person_id__2346" type="person">Rupprecht</rs>, nicht Philister <rs ref="#tillich_person_id__2347" type="person">Weber</rs>.</p>
+            <p>ad 5) Über <rs type="person" ref="#tillich_person_id__2343">Johannes Brachmann</rs> steht seinem Leibfux kein Urteil zu.</p>
+            <p>Gegen <rs ref="#tillich_person_id__2348" type="person">Hopfmüller</rs> hat <rs ref="#tillich_person_id__2349" type="person">Behrens</rs> wegen Beleidigung beim Erlanger Disziplinarausschuß Klage
+               erhoben.</p>
+            <p>ad 6) D. Blamage für die Verbindung beruht darin, daß wir durch den traurigen Ton in
+               der Verbindung gezwungen wurden auszutreten.</p>
+            <p>ad III von einem Ehrengerichtsverfahren gegen meinen Vater ist mir nichts bekannt,
+               das könnte nur zu einer Suspendierung v. <unclear>E.W</unclear>. wegen Beleidigung
+               eines Professors führen. </p>
+            <pb n="4"/>
+            <closer>
+               <salute>Mit herzlichem Gruß</salute>
+               <signed>Dein <rs ref="#tillich_person_id__1205" type="person"><hi rend="aq">E. Lotz</hi></rs></signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__2346">
+                  <persName>Rupprecht, ???</persName>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1205">
+                  <persName>Lotz, Ernst</persName>
+                  <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2347">
+                  <persName>Weber, Hans Emil</persName>
+                  <birth>
+                     <date>1882-03-08</date>
+                     <settlement>
+                        <placeName>Mönchengladbach</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1950-06-13</date>
+                     <settlement>
+                        <placeName>Bonn</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117163228</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2348">
+                  <persName>Hopfmüller, ???</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1951</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118909991</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2345">
+                  <persName>Grießhammer, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2349">
+                  <persName>Behrens, Johann</persName>
+                  <birth>
+                     <date>1889-09-05</date>
+                  </birth>
+                  <death>
+                     <date>1979-03-23</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1034730894</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2344">
+                  <persName>Schornbaum, ???</persName>
+                  <birth>
+                     <date>1875-03-07</date>
+                     <settlement>
+                        <placeName>Thundorf i. UFr.</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1953-01-18</date>
+                     <settlement>
+                        <placeName>Nürnberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/116922923</idno>
+               </person>
+               <person xml:id="tillich_person_id__2343">
+                  <persName>Brachmann, Johannes</persName>
+                  <birth>
+                     <date>1571</date>
+                     <settlement>
+                        <placeName>Liegnitz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1631</date>
+                     <settlement>
+                        <placeName>Fraustadt</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121447316</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

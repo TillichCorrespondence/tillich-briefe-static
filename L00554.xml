@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00554.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00553.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00556.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Johannes Tillich vom 18. Dezember 1917</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/193(15)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-12-18">18.12.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00553">Brief von Paul Tillich an Margarete Tillich vom 17. Dezember 1917</ref><ref subtype="next_letter" type="withinCollection" target="L00556">Brief von Paul Tillich an Johannes Tillich vom 27. Dezember 1917</ref><ref subtype="next_letter" type="withinCorrespondence" target="L00557">Brief von Paul Tillich an Johanna Tillich vom 28. Dezember 1917</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-05-24">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-01-30">Endabnahmae</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1917-12-18">18. Dez. 1917.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1924" type="person">Papa</rs>!</salute>
+            </opener>
+            <p>Das wird ein Weihnachten für Dich werden wie noch keins zuvor: Allein mit <rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs>, ohne <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> und <rs ref="#tillich_person_id__2085" type="person">Toni</rs>, ohne uns und alle die
+               andern, die sonst das Weihnachtszimmer füllten. Und zugleich das letzte
+               Weihnachtsfest im Amt! Wieviel Erinnerungen, wieviel Wehmut, Dank, Freude und Schmerz
+               mögen Dich da umspielen! Gut, daß die Arbeit dem Denken noch keine Zeit läßt! –
+               Hoffentlich wird es Dir nicht zu viel! – Eins ist jedenfalls sicher, daß im Norden,
+               Osten und Westen von Deinen drei Kindern die Gedanken Tag für Tag bei Dir sein
+               werden. Das gehört doch zum Schönsten, was wir von Dir bekommen haben, daß wir solche
+               Erinnerungen an Weihnachten haben können, und daß wir sie weitergeben können an
+               andere. – – Ich feiere nun schon das 4<hi rend="sup">te</hi> Weihnachten im Felde.
+               Jedesmal wenn ich fertig war mit der letzten Predigt, sagte ich zu meinem Burschen
+               <rs ref="#tillich_person_id__1742" type="person">Schröder</rs>: Nun will ich anfangen, für die
+               nächste Weihnachtspredigt zu arbeiten! Er war<pb n="2"/> jedesmal entrüstet und ich
+               habe immer recht behalten! Und dieses Mal? Ich bin nicht mehr so sicher; aber sicher
+               ist auch das Gegenteil noch keineswegs! --- Für <rs type="letter">Deinen Brief</rs><note type="ea">Brief liegt nicht vor.</note> herzlichen Dank! Er entspricht in vielen Punkten meinen
+               Gedanken. Eins weiß ich genau: Ich würde nie in die philosophische Fakultät
+               übertreten, wenn ich nicht etwas mitbrächte, um dessentwillen man mich willkommen
+               hieße, d.h. eine Arbeit, die wirklich eine Produktive wäre. Ob ich dazu im Stande
+               bin, wird die Arbeit entscheiden. Jedenfalls drängen mich alle Erwägungen immer mehr
+               dazu, in Ruhe nach <rs ref="#tillich_place_id__189" type="place">Halle</rs> zu gehen
+               und zu arbeiten. Dann stehen immer noch alle Wege offen – und <rs ref="#tillich_place_id__37" type="place">Berlin</rs> verdirbt jede Wissenschaft!
+               --- Ich habe 6 Gottesdienste in den drei Festtagen, dazu etwa 8 Stunden Fahrt. Ganz
+               leicht ist es auch nicht, eine vierte Feld-Kriegs-Predigt zu machen; und doch ist es
+               schön und ich freue mich auf die Feiern!</p>
+            <closer>
+               <salute>Meine Gedanken sind unter Eurem Weihnachtsbaum</salute>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1742">
+                  <persName>Schröder</persName>
+                  <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

@@ -1,103 +1,112 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00987">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Hannah Tillich
-               <lb/>vom 6. September 1928 [PS]
-            </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement>Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                  <idno>bMS 721/2(25)</idno>
-               </msIdentifier> 
-               <physDesc>
-                  <p>Postkarte, eigenhändig</p>
-                  </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__306">München [PS]</placeName>
-              <date when="1928-09-06">06.09.1928</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-              <placeName ref="#tillich_place_id__532">Kloster (Hiddensee)</placeName>
-              
-           </correspAction>
-        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00986">Postkarte von Paul Tillich an Hannah Tillich
-               </ref><ref subtype="next_letter" type="withinCollection" target="L00988">Postkarte von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2023-08-28">Initiale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-12-19">Endabnahme</change>
-        
-       
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-        </opener>
-        <p>Heut früh erhielt ich Deinen Brief!<note type="ea">Dieser Brief liegt nicht vor.</note> Vielen herzlichen Dank! <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> habe ich schon viel herumgereicht. Die Wirkung des Vortrages<note type="ea">Nicht ermittelt, vgl. auch die <rs xml:id="L00986" type="letter">Karte von Paul Tillich an Hannah Tillich vom 5. September 1928</rs>.</note> hat sich als bedeutender herausgestellt als ich dachte. Heut Mittag habe ich <rs ref="#tillich_place_id__23" type="place">Reichenhall</rs> verlassen und bin mit <rs ref="#tillich_person_id__1760" type="person"><rs ref="#tillich_person_id__1761" type="person">Seebergs</rs></rs> im Auto zum <rs ref="#tillich_place_id__533" type="place">Königssee</rs> gefahren, der wirklich herrlich ist. Der Watzmann (3000M) war den ganzen Tag frei. Aber sein kann man hier nur, wenn man täglich Touren macht. Die Orte (<rs ref="#tillich_place_id__534" type="place">Berchtesgaden</rs>) sind dumpf, voller Autos und Menschen. Die Luft überhaupt etwas drückend. Nichts auf die Dauer. Wenn, dann sehr viel höher-rauf! Die Unterhaltungen mit <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> waren <pb n="2"/> sehr lebendig. Ich denke, er wird tun, was er kann! Jetzt sitze ich in der Bahn nach <rs ref="#tillich_place_id__327" type="place">Nürnberg</rs>, treffe heut Nacht um 1 Uhr ein. Kann wegen <rs ref="#tillich_place_id__126" type="place">Dresden</rs> erst Montag kommen!
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00987.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00986.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00988.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich vom 6. September 1928 [PS]</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(25)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__306">München [PS]</placeName>
+<date when="1928-09-06">06.09.1928</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__532">Kloster (Hiddensee)</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00986">Postkarte von Paul Tillich an Hannah Tillich vom 5. September 1928 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L00988">Postkarte von Paul Tillich an Hannah Tillich vom 7. September 1928</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-08-28" who="NH">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-12-19" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Heut früh erhielt ich Deinen Brief!<note type="ea">Dieser Brief liegt nicht vor.</note> Vielen herzlichen Dank! <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs> habe ich schon viel herumgereicht. Die Wirkung des Vortrages<note type="ea">Nicht ermittelt, vgl. auch die <rs ref="L00986" type="letter">Karte von Paul Tillich an Hannah Tillich vom 5. September 1928</rs>.</note> hat sich als bedeutender herausgestellt als ich dachte. Heut Mittag habe ich <rs ref="#tillich_place_id__23" type="place">Reichenhall</rs> verlassen und bin mit <rs ref="#tillich_person_id__1760" type="person"><rs ref="#tillich_person_id__1761" type="person">Seebergs</rs></rs> im Auto zum <rs ref="#tillich_place_id__533" type="place">Königssee</rs> gefahren, der wirklich herrlich ist. Der Watzmann (3000M) war den ganzen Tag frei. Aber sein kann man hier nur, wenn man täglich Touren macht. Die Orte (<rs ref="#tillich_place_id__534" type="place">Berchtesgaden</rs>) sind dumpf, voller Autos und Menschen. Die Luft überhaupt etwas drückend. Nichts auf die Dauer. Wenn, dann sehr viel höher-rauf! Die Unterhaltungen mit <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs> waren <pb n="2"/> sehr lebendig. Ich denke, er wird tun, was er kann! Jetzt sitze ich in der Bahn nach <rs ref="#tillich_place_id__327" type="place">Nürnberg</rs>, treffe heut Nacht um 1 Uhr ein. Kann wegen <rs ref="#tillich_place_id__126" type="place">Dresden</rs> erst Montag kommen!
         </p>
-        <closer>
-           <salute>Gruß und Kuß! Dir und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>!</salute>
-           <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-        </closer>
-     </div>
-    </body>
-  <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
+<closer>
+<salute>Gruß und Kuß! Dir und <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>!</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1760">
+                  <persName>Seeberg, Erich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__1761">
+                  <persName>Seeberg, Reinhold</persName>
+                  <occupation>Systematischer Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -112,16 +121,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__570"><reference>Erdmuthe</reference><persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-               </person><person ref="#tillich_person_id__1761"><reference>Seebergs</reference><persName>Seeberg, Reinhold</persName>
-                  <occupation>Systematischer Theologe</occupation>
-               </person><person ref="#tillich_person_id__1760"><reference>Seeberg</reference><persName>Seeberg, Erich</persName>
-                  <occupation>Kirchenhistoriker</occupation>
-                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
-               </person><person ref="#tillich_person_id__570"><reference>Erdmuthe</reference><persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -134,37 +136,45 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__23"><reference>Reichenhall</reference><placeName>Bad Reichenhall</placeName>
-                  <location type="coords">
-                     <geo>47.72947 12.87819</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2953371/</idno>
-               </place><place ref="#tillich_place_id__533"><reference>Königssee</reference><placeName>Königssee</placeName>
-                  <location type="coords">
-                     <geo>47.55567 12.97802</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2885777/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q156715</idno>
-               </place><place ref="#tillich_place_id__534"><reference>Berchtesgaden</reference><placeName>Berchtesgaden</placeName>
-                  <location type="coords">
-                     <geo>47.63236 13.00187</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950881/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31910292</idno>
-               </place><place ref="#tillich_place_id__327"><reference>Nürnberg</reference><placeName>Nürnberg</placeName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__327">
+                  <placeName>Nürnberg</placeName>
                   <location type="coords">
                      <geo>49.45421 11.07752</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2861650/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q116874675</idno>
-               </place><place ref="#tillich_place_id__126"><reference>Dresden</reference><placeName>Dresden</placeName>
+               </place>
+               <place xml:id="tillich_place_id__534">
+                  <placeName>Berchtesgaden</placeName>
+                  <location type="coords">
+                     <geo>47.63236 13.00187</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950881/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31910292</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place></listPlace><listLetter><letter ref="L00986"><reference>Karte von Paul Tillich an Hannah Tillich vom 5. September 1928</reference><title>Postkarte von Paul Tillich an Hannah Tillich
-               <lb/>vom 5. September 1928 [PS]
-            </title>
-            </letter></listLetter></back></text>
+               </place>
+               <place xml:id="tillich_place_id__533">
+                  <placeName>Königssee</placeName>
+                  <location type="coords">
+                     <geo>47.55567 12.97802</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2885777/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q156715</idno>
+               </place>
+               <place xml:id="tillich_place_id__23">
+                  <placeName>Bad Reichenhall</placeName>
+                  <location type="coords">
+                     <geo>47.72947 12.87819</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953371/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

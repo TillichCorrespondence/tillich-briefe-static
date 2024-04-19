@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00351.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00350.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00352.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Maria Rhine an Paul Tillich vom 30. Juli 1913</title>
+<author ref="#tillich_person_id__1594">Maria Rhine</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Jonas Epple</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS649/178</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1594">Maria Rhine</persName>
+<placeName ref="#tillich_place_id__41">Lichtenrade</placeName>
+<date when="1913-07-30">30.07.1913</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00350">Brief von Eduard Le Seur an Paul Tillich vom 29. Juli 1913</ref><ref subtype="next_letter" type="withinCollection" target="L00352">Brief von Erika Jannensch an Paul Tillich vom 6. August 1913</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-02-07" who="JE">Einarbeitung von Korrekturen</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs>
+<date when="1913-07-30">30.07.1913</date>
+</dateline>
+<salute>Lieber „Tillich",</salute>
+</opener>
+<p>
+   anbei sende ich Ihnen Frau <unclear cert="low">Bibros</unclear> Brief. Es ist schade, daß sie noch nicht für die Vorträge werben will, ehe sie persönlich Fühlung genommen hat. Aber zu verstehen ist es. — Wie geht es Ihnen jetzt? Fühlen Sie die alte Kraft wiederkehren? Ich war in <rs ref="#tillich_place_id__200" type="place">Hannover</rs> bei meiner <rs ref="#tillich_person_id__2791" type="person">Schwester Linda</rs>, der es noch recht jämmerlich geht, <choice><abbr>u.</abbr><expan>und</expan></choice> fahre nächste Woche nach <rs ref="#tillich_place_id__437" type="place">Thüringen</rs>, um <rs ref="#tillich_person_id__1062" type="person">Lisa</rs> abzuholen <choice><abbr>u.</abbr><expan>und</expan></choice> mit ihr die <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> zu besteigen. Hier hausen<unclear>¿¿¿</unclear> und wüten wieder einmal die üblichen Sommer-Handwerker Maria ist vergnügt in <rs ref="#tillich_place_id__579" type="place">Eldena</rs> <choice><abbr>u.</abbr><expan>und</expan></choice> fährt vielleicht noch nach <rs ref="#tillich_place_id__561" type="place">Doberan</rs>, wo <rs ref="#tillich_person_id__2760" type="person">Peter</rs> sich schon seit Anfang der Ferien eingenistet hat. <rs ref="#tillich_person_id__2792" type="person">Mein Mann</rs>, Rudi <choice><abbr>u.</abbr><expan>und</expan></choice> Inge schnüren ihr Ränzel und wandern morgen nach <rs ref="#tillich_place_id__580" type="place">Wilhelmsdorf</rs> <choice><abbr>b.</abbr><expan>bei</expan></choice> <rs ref="#tillich_place_id__581" type="place">Brandenburg</rs> zu <rs ref="#tillich_person_id__2793" type="person">Dr. Jellinghaus</rs>, in dessen großartig florierendem Erholungsheim mein Mann einen Lichtbilder-Vortrag über <rs ref="#tillich_place_id__582" type="place">Palästina</rs> halten will. Der <rs ref="#tillich_person_id__2020" type="person">Vater Wegener</rs> malt augenblicklich <rs ref="#tillich_person_id__2792" type="person">meinen Mann</rs> <choice><abbr>u.</abbr><expan>und</expan></choice> vielleicht danach auch mich. Ihre L. Klein."</p>
+<closer>
+<salute>Herzlich grüßt Sie <choice><abbr>u.</abbr><expan>und</expan></choice> die Ihrigen</salute>
+<signed>Ihre L. Klein.</signed>
+</closer>
+</div>
+</body>
+<back><listPlace><place xml:id="tillich_place_id__561">
+                  <placeName>Bad Doberan</placeName>
+                  <location type="coords">
+                     <geo>54.10712 11.90051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953528/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31896916</idno>
+               </place>
+               <place xml:id="tillich_place_id__580">
+                  <placeName>Wilhelmsdorf</placeName>
+                  <location type="coords">
+                     <geo>52.37217 12.50533</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2808741/</idno>
+               </place>
+               <place xml:id="tillich_place_id__200">
+                  <placeName>Hannover</placeName>
+                  <location type="coords">
+                     <geo>52.37052 9.73322</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2910831/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32052205</idno>
+               </place>
+               <place xml:id="tillich_place_id__579">
+                  <placeName>Eldena</placeName>
+                  <location type="coords">
+                     <geo>53.23191 11.41804</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2931217/</idno>
+               </place>
+               <place xml:id="tillich_place_id__581">
+                  <placeName>Brandenburg</placeName>
+                  <location type="coords">
+                     <geo>52.45905 13.01582</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2945356/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1208</idno>
+               </place>
+               <place xml:id="tillich_place_id__582">
+                  <placeName>Palästina</placeName>
+                  <location type="coords">
+                     <geo>31.92157 35.20329</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6254930/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q219060</idno>
+               </place>
+               <place xml:id="tillich_place_id__41">
+                  <placeName>Berlin-Lichtenrade</placeName>
+                  <location type="coords">
+                     <geo>52.39844 13.40637</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
+               </place>
+               <place xml:id="tillich_place_id__437">
+                  <placeName>Thüringen</placeName>
+                  <location type="coords">
+                     <geo>50.91667 11.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2822542/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1205</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2760">
+                  <persName>Klein, Peter</persName>
+                  <note type="bio"><p>Er war der jüngere Bruder von Maria Klein bzw. Maria Rhine.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2791">
+                  <persName>Klein, Linda</persName>
+                  <note type="bio"><p>Sie war die Schwester von Maria Klein/Rhine.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2792">
+                  <persName>Rhine, ???</persName>
+                  <note type="bio"><p>Er war der Mann von Maria Klein/Rhine.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2793">
+                  <persName>Jellinghaus, Paul</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127733124</idno>
+                  <note type="bio"><p>Die Bibelschule bzw. das Erholungsheim "Dr. Paul Jellinghaus" steht im Zusammenhang mit seiner missionarischen Aktivität.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2020">
+                  <persName>Wegener, Carl Richard</persName>
+                  <birth>
+                     <date>1883-08-03</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1967-07-11</date>
+                     <settlement>
+                        <placeName>Neuruppin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
+               </person>
+               <person xml:id="tillich_person_id__1062">
+                  <persName>Klein, Lisa</persName>
+                  <occupation>Schwester von Maria Klein (Rhine)</occupation>
+               </person>
+               </listPerson></back></text>
+</TEI>

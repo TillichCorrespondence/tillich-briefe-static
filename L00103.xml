@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00103.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00102.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00105.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hermann Schafft an Paul Tillich vom 5. April 1906</title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008 G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<date when="1906-04-05">05.04.1906</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00102">Brief von Hermann Schafft an Paul Tillich vom 29. März 1906</ref><ref subtype="next_letter" type="withinCollection" target="L00105">Brief von Johannes Tillich und Toni Winkler an Paul Tillich vom 26. Mai 1906</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-02-22" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-07" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>H. d. <date when="1906-04-05">V. IV. 06.</date></dateline>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Natürlich keinen faulen Frieden! Aber die Schwierigkeit ist eben die, daß die
+               Differenz nach dem These II angenommen ist, eigentlich in Nominalismus u.
+               geschichtslosem Subjektivismus der M<expan>ar</expan>b<expan>ur</expan>ger liegt u. die Trennung von einer Menge im
+               Bunde partout nicht begriffen werden wird. Ratifiziert ist <hi rend="uu">alles</hi>!!!, außer dem einen Teilantrag: der Aktivitätszwang bleibt<!--<note type="ea">Aktivitätszwang</note>-->.– Was läßt
+               sich machen? Die Leute schnappen sämtlich über, wenn wir noch mal prinzipielle
+               Debatte anfangen.– Marburg u. Göttingen kneifen sobald man sie nagelt... Hinterher
+               ist dann ihr Standpunkt genau derselbe.– <add place="left">Kuhlogik!</add><pb n="2"/> Ob wir nun die Schwierigkeit lösen durch nunmehrige Aufhebung des
+               Aktivitätszwanges, oder durch Austritt? Durch Herauswerfen Marburgs? Alles 3 ist m.
+               E. entweder ohne Zweck oder unmöglich. Daher ist der Weg: Aufnahme der
+               Wartburgresolution 05 in die Statuten ebenso der These I u. II nebst Antrag <rs ref="#tillich_person_id__310" type="person">Büchsel</rs> nun Ziel, für das sich zunächst die Möglichkeit
+               des Gelingens bietet. Natürlich unter der deutlichen Konstatierung, daß Göttingen u.
+               Marburg sich von <rs ref="#tillich_person_id__2538" type="person">Bartels</rs> <!--<note type="ea">Bezieht sich auf einen Artikel von Bartel in den Wingolfs-Blättern</note>-->u. der Tradition lossagen
+               – respektive einsehen, daß sie einseitig gewesen sind. – das hoffe ich, wird eine
+               größere Leichtigkeit sein als ein Herauswerfen u. wir bleiben mächtiger als durch
+               Austritt. Dann laß' sie meinetwegen auch wieder kneifen. Auf den nächsten
+               Wartburgfesten sind wir dabei u. können den Finger <foreign xml:lang="lat"><hi rend="aq">occatione data</hi></foreign>
+               fester darauflegen.</p>
+<p>Also wohlverstanden, <hi rend="u">nur</hi> in dem Sinn will ich Frieden halten. Das
+               habe ich auch m. E. an <rs ref="#tillich_person_id__2091" type="person">Witte</rs> geschrieben.<pb n="3"/> – hier lege ich dir noch einen eben während des IIten Frühstücks (2 Eier, 5/10
+               Milch) produzierten Brief bei. Mich juckt es näm- lich, daß das <foreign xml:lang="lat"><hi rend="aq">vulgus</hi></foreign> denkt, wir wären rechtlich verstummt. Wenn Dein <rs ref="#tillich_person_id__1924" type="person">Vater</rs> ihn
+               nicht zu unverschämt findet u. Du seine sachliche Richtigkeit (habe nämlich den
+               Schrieb nicht da) nicht beanstandest, schick ihn <unclear>¿¿¿ ... ¿¿¿</unclear> pp
+               ... zu. Sonst bitte = Ofenwärts. Das würde mich nicht im geringsten schmerzen. –
+               Schreibe mir dann noch mal in <foreign xml:lang="lat"><hi rend="aq">principiis</hi></foreign>. <rs ref="#tillich_person_id__1227" type="person">Smul</rs>
+               hatte mir eigentlich verboten überhaupt daran zu denken; aber .... na!.. Im übrigen
+               ist die Schrift v. <rs ref="#tillich_person_id__2263" type="person">Jäger</rs> u. <rs ref="#tillich_person_id__2091" type="person">Witte</rs> ganz ohne mein Zutun entstanden. Ich trage an meiner genug! Aber
+               ich müsste die andere von denen haben!<pb n="4"/> Man sieht mal wieder, wie Dogmen
+               die Menschen blind machen ... Im übrigen sitzest Du, was Scheußlichkeit der Klaue
+               betrifft in einem Glashause.... So nun definitv "nur aus der
+               Luft"!</p>
+<p>Ich vergrabe mich auch in <rs ref="#tillich_person_id__2027" type="person">Weiß</rs>, <rs ref="#tillich_person_id__890" type="person">Hermann</rs> obwohl ich eigentlich konstant in Reitstiefeln
+               umherstolziere u. sämtliche Gebirge in Unordnung bringe indem ich vom einem z. andern
+               so viel Dreck an meinen Stiefeln mitbringe u. die Höhenlage verschiebe, jedenfalls
+               wird eine neue Verkoppelung <add place="above">Weißt Du was das is?</add> nötig
+               sein. Nun lebwohl Du Kücken! Laß Dir Ostern nicht d. den Bund stören;- oder mir doch
+               noch eine Karte!! </p>
+<closer>
+<signed>Tr. Gruß d. <rs ref="#tillich_person_id__1696" type="person">H</rs>.</signed>
+</closer>
+<postscript>
+<p>Natürlich der ganzen Familie.</p>
+</postscript>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__2027">
+                  <persName>Weiß, Johannes</persName>
+                  <birth>
+                     <date>1863-12-13</date>
+                     <settlement>
+                        <placeName>Kiel</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1914-08-24</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118891642</idno>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2091">
+                  <persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__2538">
+                  <persName>Bartels, Johann Heinrich Christian Adolf</persName>
+                  <birth>
+                     <date>1857-09-07</date>
+                  </birth>
+                  <death>
+                     <date>1911-03-13</date>
+                     <settlement>
+                        <placeName>Osten (Cuxhaven)</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1215952473</idno>
+               </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__890">
+                  <persName>Herrmann, Wilhelm</persName>
+                  <birth>
+                     <date>1846-12-06</date>
+                     <settlement>
+                        <placeName>Melkow</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1922-01-02</date>
+                     <settlement>
+                        <placeName>Marburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118549995</idno>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2263">
+                  <persName>Jäger, Th.</persName>
+               </person>
+               </listPerson></back></text>
+</TEI>

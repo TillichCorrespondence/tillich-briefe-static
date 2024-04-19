@@ -1,115 +1,114 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00261">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Hans Schreiber an Paul Tillich <lb/>vom 12. Januar 1908</title>
-            <author ref="#tillich_person_id__1738">Hans Schreiber</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00261.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00260.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00262.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hans Schreiber an Paul Tillich vom 12. Januar 1908</title>
+<author ref="#tillich_person_id__1738">Hans Schreiber</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/183(2)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/183(2)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1738">Hans Schreiber</persName>
-               <placeName ref="#tillich_place_id__189">Halle</placeName>
-               <date when="1908-01-12">12.01.1908</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00260">Brief von Otto Heller an Paul Tillich
-               </ref><ref subtype="next_letter" type="withinCollection" target="L00262">Postkarte von Wingolfbrüdern an Paul Tillich </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-05-03">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2023-09-20">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>
-                  <rs ref="#tillich_place_id__189" type="place">Halle a. S.</rs>, den <date when="1908-01-12">12.
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1738">Hans Schreiber</persName>
+<placeName ref="#tillich_place_id__189">Halle</placeName>
+<date when="1908-01-12">12.01.1908</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00260">Brief von Otto Heller an Paul Tillich vom 11. Januar 1908</ref><ref subtype="next_letter" type="withinCollection" target="L00262">Postkarte von Wingolfbrüdern an Paul Tillich vom 13. Januar 1908 [PS]</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-05-03" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-09-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__189" type="place">Halle a. S.</rs>, den <date when="1908-01-12">12.
                      Jan. 08.</date></dateline>
-                  <address>
-                     <street>Blumenthalstr. 23 II</street>
-                  </address>
-               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
-            </opener>
-            <p>Mit Bedauern habe ich gestern durch <rs ref="#tillich_person_id__128" type="person">Balke</rs> in
+<address>
+<street>Blumenthalstr. 23 II</street>
+</address>
+<salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+</opener>
+<p>Mit Bedauern habe ich gestern durch <rs ref="#tillich_person_id__128" type="person">Balke</rs> in
                doppelter Lesung von Deinem Kranksein gehört. Besonders rührten mich die
                Beschreibungen der von Dir im allerhand furchtbaren Zustände durchwachten Nächte, da
                ich Ähnliches vor Weihnachten auch zu Haufe erlebt habe.</p>
-            <p>Hoffentlich befindest Du Dich nun weiter auf dem Wege der Besserung, den Du nach
+<p>Hoffentlich befindest Du Dich nun weiter auf dem Wege der Besserung, den Du nach
                Bulletins über die letzten Tage doch schon angetreten hast.</p>
-            <p>Ich habe hier gestern einen famosen "hallenser Tag" erlebt: Von 8-9<pb n="2"/>
+<p>Ich habe hier gestern einen famosen "hallenser Tag" erlebt: Von 8-9<pb n="2"/>
                versäumte ich zunächst <unclear>totalis</unclear> – einmal, weil ich zu spät aufstand
                und vor allem weil die "Haferflocken", die ich jetzt jeden Morgen statt Kaffee zu mir
                nehme, zu heiß waren.</p>
-            <p>9 c.t. – 10 Uhr 50 Min: Famulus-Dienst bei <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs>:
+<p>9 c.t. – 10 Uhr 50 Min: Famulus-Dienst bei <rs ref="#tillich_person_id__1227" type="person">Schmuhl</rs>:
                Begabtes Diktat über die Freiheit bei <rs ref="#tillich_person_id__1468" type="person">Paulus</rs>.</p>
-            <p>11 c.t. – <formula notation="TeX">\frac{1}{2}</formula> 12: Besuch bei Frau Geheimrat
+<p>11 c.t. – <formula notation="TeX">\frac{1}{2}</formula> 12: Besuch bei Frau Geheimrat
                Wilke.</p>
-            <p><formula notation="TeX">\frac{1}{2}</formula> 12 – 12 Uhr 10 Min: Besuch bei
+<p><formula notation="TeX">\frac{1}{2}</formula> 12 – 12 Uhr 10 Min: Besuch bei
                <rs ref="#tillich_person_id__1291" type="person">Medicus</rs>: keine Probleme, aber sehr nett
                unterhalten, persönlich näher gekommen.</p>
-            <p>12 c.t. – 1 Uhr 5 Min: Schlemmerkolleg beim alten Herren: Beschreibung der Bedeutung
+<p>12 c.t. – 1 Uhr 5 Min: Schlemmerkolleg beim alten Herren: Beschreibung der Bedeutung
                des Jahres 1848, Emporkommen des Judentums, Kapital, Presse, Sozialismus, der 4.
                Stand. Sog. "Regularisierung der Wissenschaft". Bei die<pb n="3"/>sem Elend konnte
                "Theorie und Theologie" nichts helfen, praktische Arbeit tat not. Die evangelische
@@ -118,42 +117,51 @@
                ordentlich mal fürs praktische Amt begeisterst, ich so recht zum ersten Mal. Am
                Schluß fing alles unwillkürlich mit Händen und Füßen zu trampeln an. Ich habe den
                alten Herrn noch nie so begeistert gesehen.</p>
-            <p>1 Uhr 20 Min. Minimal ein Weißbier mit <rs ref="#tillich_person_id__2215" type="person">Ritter</rs>,
+<p>1 Uhr 20 Min. Minimal ein Weißbier mit <rs ref="#tillich_person_id__2215" type="person">Ritter</rs>,
                <unclear>Kuhn</unclear>, <rs ref="#tillich_person_id__2525" type="person">Claus</rs> zusammen. Ich esse meines Magens
                wegen jetzt immer dort. Dann Lesen auf der Bude und Pennen.<pb n="4"/> 5-6 Predigt
                von <rs ref="#tillich_person_id__128" type="person">Balke</rs>. 6-7 <formula notation="TeX">\frac{1}{2}</formula> Lesen zu Hause. 7 <formula notation="TeX">\frac{1}{2}</formula> -9 c.t. Minimal bei einem Fuchs mit <rs ref="#tillich_person_id__128" type="person">Balke</rs> zusammen. Begabtes Gespräch über <rs ref="#tillich_person_id__1013" type="person">Kähler</rs>, <rs ref="#tillich_person_id__890" type="person">Herrmann</rs> und "religiöses
                Erleben".</p>
-            <p>9 c.t. – 10: Musik auf <rs ref="#tillich_person_id__2190" type="person">Spatz'</rs> Bude. Anwesend:
+<p>9 c.t. – 10: Musik auf <rs ref="#tillich_person_id__2190" type="person">Spatz'</rs> Bude. Anwesend:
                   <rs ref="#tillich_person_id__128" type="person">Balke</rs>, <unclear>Arend</unclear>,
                   <unclear>Tarke</unclear>, <rs ref="#tillich_person_id__2155" type="person">Voget</rs> u. verschiedene
                Füchse. 10 – <formula notation="TeX">\frac{1}{2}</formula> 1: Lektüre von <rs ref="#tillich_person_id__460" type="person">Dickens</rs>
-               <bibl type="book" resp="Charles Dickens, David Copperfield, 1850">David
-                  Copperfield</bibl>. Dann Pennen. Heute Morgen predigte <rs ref="#tillich_person_id__1201" type="person">Loofs</rs> über <bibl type="bible" resp="Joh 5, 41-44">Joh 5 <hi rend="sub">41-44</hi></bibl> "<hi rend="uu">Ehre</hi> vor Gott u. Menschen". Heute Abend
+<rs resp="Charles Dickens, David Copperfield, 1850" type="book">David
+                  Copperfield</rs> . Dann Pennen. Heute Morgen predigte <rs ref="#tillich_person_id__1201" type="person">Loofs</rs> über <rs resp="Joh-5,41-44" type="bible">Joh 5 <hi rend="sub">41-44</hi></rs>  "<hi rend="uu">Ehre</hi> vor Gott u. Menschen". Heute Abend
                ist gemeinsamer Familienabend von <hi rend="aq">Zwar</hi>, <hi rend="aq">Aber</hi>,
                   <unclear>Klosterdorf</unclear> im Waldhaus. Jetzt muß ich noch in <rs ref="#tillich_person_id__950" type="person">Ibsens</rs> "Nora" im neuen Theater, drum schließe ich mit den
                herzlichsten Grüßen Dein getr. </p>
-            <closer>
-               <signed><rs ref="#tillich_person_id__1738" type="person">Hans Schreiber</rs></signed>
-            </closer>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__128"><reference>Balke</reference><persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person><person ref="#tillich_person_id__1227"><reference>Schmuhl</reference><persName>Lütgert, Wilhelm</persName>
+<closer>
+<signed><rs ref="#tillich_person_id__1738" type="person">Hans Schreiber</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__950">
+                  <persName>Ibsen, Henrik</persName>
+               </person>
+               <person xml:id="tillich_person_id__2190">
+                  <persName>Spatz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1468">
+                  <persName>Paulus</persName>
+                  <occupation>Apostel</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1738">
+                  <persName>Schreiber, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__2215">
+                  <persName>Ritter, Rudi</persName>
+               </person>
+               <person xml:id="tillich_person_id__1013">
+                  <persName>Kähler, Martin</persName>
+                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2155">
+                  <persName>Voget, Hans</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
                   <birth>
                      <date>1867</date>
                   </birth>
@@ -162,23 +170,9 @@
                   </death>
                   <occupation>Systematischer Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
-               </person><person ref="#tillich_person_id__1468"><reference>Paulus</reference><persName>Paulus</persName>
-                  <occupation>Apostel</occupation>
-               </person><person ref="#tillich_person_id__1291"><reference>Medicus</reference><persName>Medicus, Fritz</persName>
-                  <occupation>Philosoph</occupation>
-                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
-               </person><person ref="#tillich_person_id__2215"><reference>Ritter</reference><persName>Ritter, Rudi</persName>
-               </person><person ref="#tillich_person_id__2525"><reference>Claus</reference><persName>???, Claus</persName>
-                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
-               </person><person ref="#tillich_person_id__128"><reference>Balke</reference><persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person><person ref="#tillich_person_id__128"><reference>Balke</reference><persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person><person ref="#tillich_person_id__1013"><reference>Kähler</reference><persName>Kähler, Martin</persName>
-                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
-               </person><person ref="#tillich_person_id__890"><reference>Herrmann</reference><persName>Herrmann, Wilhelm</persName>
+               </person>
+               <person xml:id="tillich_person_id__890">
+                  <persName>Herrmann, Wilhelm</persName>
                   <birth>
                      <date>1846-12-06</date>
                      <settlement>
@@ -193,22 +187,50 @@
                   </death>
                   <occupation>Deutscher Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118549995</idno>
-               </person><person ref="#tillich_person_id__2190"><reference>Spatz'</reference><persName>Spatz, ???</persName>
-               </person><person ref="#tillich_person_id__128"><reference>Balke</reference><persName>Balke, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__460">
+                  <persName>Dickens, Charles</persName>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person><person ref="#tillich_person_id__2155"><reference>Voget</reference><persName>Voget, Hans</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person><person ref="#tillich_person_id__460"><reference>Dickens</reference><persName>Dickens, Charles</persName>
-               </person><person ref="#tillich_person_id__1201"><reference>Loofs</reference><persName>Loofs, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__2525">
+                  <persName>???, Claus</persName>
+                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1201">
+                  <persName>Loofs, Friedrich</persName>
                   <occupation>Kirchenhistoriker</occupation>
-               </person><person ref="#tillich_person_id__950"><reference>Ibsens</reference><persName>Ibsen, Henrik</persName>
-               </person><person ref="#tillich_person_id__1738"><reference>Hans Schreiber</reference><persName>Schreiber, Hans</persName>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__189"><reference>Halle a. S.</reference><placeName>Halle (Saale)</placeName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
                   <location type="coords">
                      <geo>51.48158 11.97947</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               </listPlace></back></text>
 </TEI>

@@ -1,102 +1,126 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00886">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Postkarte von Paul Tillich an Hannah Tillich
-                    <lb/>vom 2. August 1926 [PS]
-                </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>        
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/2(22)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Postkarte, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc> 
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__343">Paris</placeName>
-                    <date when="1926-08-02">02.08.1926</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                    <placeName ref="#tillich_place_id__126">Dresden</placeName>
-                </correspAction>
-            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00884">Brief von Paul Tillich an Hannah Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00887">Brief von Paul Tillich an Hannah Tillich
-                    </ref></correspContext></correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2023-04-24">Initiale Auszeichnung des Transkripts</change>
-            <change who="FS" when="2023-11-24">Endabnahme</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    <text type="postcard">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <salute>Liebes <rs ref="#tillich_person_id__1923" type="person">Hannahchen</rs>!</salute>
-                </opener>
-                <p>Noch habe ich nicht die richtige Einfühlung in <rs ref="#tillich_place_id__343" type="place">Paris</rs>! Es hat gegen <date when="1911">1911</date> sehr an Mythos für mich verloren. Es gibt unzählige schöne Frauen, aber keine gewinnt Bedeutung. In aller Grazie liegt doch ein Hauch von Langweile über den Kaffees. <rs ref="#tillich_place_id__299" type="place">Montmartre</rs> kam gegen <rs ref="#tillich_place_id__411" type="place">St. Pauli in Hamburg</rs> nicht an. Sehr viel Spießertum. Von den <hi rend="aq">petites cocottes</hi> von 1911 keine Spur mehr. Was da ist, ohne Grazie wie in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. Heut Versuch von Einkäufen, bis jetzt ohne Erfolg. Preise schon recht hoch. – Morgen ans Meer! Ich bin glücklich darüber! <pb n="2"/></p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00886.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00885.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00887.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich vom 2. August 1926 [PS]</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(22)</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__343">Paris</placeName>
+<date when="1926-08-02">02.08.1926</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__126">Dresden</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00885">Postkarte von Paul Tillich an Hannah Tillich zwischen 16. August 1926 und 02. September 1926</ref><ref subtype="next_letter" type="withinCollection" target="L00887">Brief von Paul Tillich an Hannah Tillich vom 7. August 1926 [PS]</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-04-24" who="FS">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-11-24" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebes <rs ref="#tillich_person_id__1923" type="person">Hannahchen</rs>!</salute>
+</opener>
+<p>Noch habe ich nicht die richtige Einfühlung in <rs ref="#tillich_place_id__343" type="place">Paris</rs>! Es hat gegen <date when="1911">1911</date> sehr an Mythos für mich verloren. Es gibt unzählige schöne Frauen, aber keine gewinnt Bedeutung. In aller Grazie liegt doch ein Hauch von Langweile über den Kaffees. <rs ref="#tillich_place_id__299" type="place">Montmartre</rs> kam gegen <rs ref="#tillich_place_id__411" type="place">St. Pauli in Hamburg</rs> nicht an. Sehr viel Spießertum. Von den <hi rend="aq">petites cocottes</hi> von 1911 keine Spur mehr. Was da ist, ohne Grazie wie in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. Heut Versuch von Einkäufen, bis jetzt ohne Erfolg. Preise schon recht hoch. – Morgen ans Meer! Ich bin glücklich darüber! <pb n="2"/></p>
 <p>Was macht <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>? Ich merke hier, wie sehr sie in mir sitzt. Mit den <rs ref="#tillich_person_id__2041" type="person"><rs ref="#tillich_person_id__1887" type="person"><rs ref="#tillich_person_id__2356" type="person">drei anderen</rs></rs></rs> ist es nett aber bedeutungslos. Im <date when="1926-09">Sept.</date> werde ich mich ganz auf die Russen u. a. werfen.
                 </p>
-                <closer>
-                    <salute>In viel Liebe!</salute>
-                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-                </closer>
-            </div>
-        </body>
-    <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannahchen</reference><persName>Tillich, Hannah</persName>
+<closer>
+<salute>In viel Liebe!</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__1887">
+                  <persName>Sydow, Eckart von</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2356">
+                  <persName>Herrmann, Christian</persName>
+                  <occupation>Philosoph; Pädagoge;</occupation>
+                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -111,12 +135,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__570"><reference>Erdmuthe</reference><persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-               </person><person ref="#tillich_person_id__2356"><reference>drei anderen</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -129,28 +150,37 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
                   <location type="coords">
                      <geo>48.85341 2.34880</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place><place ref="#tillich_place_id__299"><reference>Montmartre</reference><placeName>Montmartre (Paris)</placeName>
+               </place>
+               <place xml:id="tillich_place_id__299">
+                  <placeName>Montmartre (Paris)</placeName>
                   <location type="coords">
                      <geo>48.89250 2.34440</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3029374/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q186115</idno>
-               </place><place ref="#tillich_place_id__411"><reference>St. Pauli in Hamburg</reference><placeName>St. Pauli (Hamburg)</placeName>
+               </place>
+               <place xml:id="tillich_place_id__411">
+                  <placeName>St. Pauli (Hamburg)</placeName>
                   <location type="coords">
                      <geo>53.55700 9.96400</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6944296/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1556</idno>
-               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               </listPlace></back></text>
 </TEI>

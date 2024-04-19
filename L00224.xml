@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00224.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00223.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00225.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Hans Balke an Paul Tillich vom 15. Oktober 1907</title>
+            <author ref="#tillich_person_id__128">Hans Balke</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/122(40)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__128">Hans Balke</persName>
+               <date when="1907-10-15">15.10.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00223">Brief von Hans Scheiber an Paul Tillich vom 13. Oktober 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00225">Postkarte von Claus an Paul Tillich vom 17. Oktober 1907</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-08-17">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-09">Vorbereitende Endabnahme</change>
+         <change who="EL" when="2024-02-26">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><date when="1907-10-15">15. Okt. 07.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>Herzlichen Dank für Deinen lb. Brief.<note type="ea">Nicht überliefert.</note></p>
+            <p>Nur noch ein paar Fragen bitte ich Dich, mir nach <hi rend="u"><rs ref="#tillich_place_id__189" type="place">Halle</rs></hi> zu beantworten: <hi rend="u">1.</hi> Darf ich wohl <rs ref="#tillich_person_id__2151" type="person">Kachler</rs> nochmal zum Erbauungskränzchen bitten oder wen sonst? <hi rend="u">2.</hi> Wieviel Exemplare u. zu welchem Preis hast Du von Dgmtk.<expan>Dogmatik</expan> u. Statuten<!-- <note type="ea">Statutenrevision</note>-->
+               drucken lassen bei <rs type="person" ref="#tillich_person_id__2912">Pritschow</rs>? <hi rend="u">3.</hi> Hast Du die stilistischen
+               Vorschläge Sr <rs type="person" ref="#tillich_person_id__2913">Magnif</rs>. berücksichtigt? <rs ref="#tillich_person_id__1050" type="person">A. Kilger</rs> will inaktiviert werden, ebenso <rs ref="#tillich_person_id__2142" type="person">Tielking</rs> in <rs ref="#tillich_place_id__186" type="place">Göttingen</rs>; <rs ref="#tillich_person_id__788" type="person">v. H.</rs> höchst wahrscheinlich auch;
+               Du bist dann der, der die Ehre rettet. Guten Erfolg in Verbindg. u. Arbeit. Willst Du
+               dort x werden??! </p>
+            <closer>
+               <salute>Bald mehr</salute>
+               <signed>Dein <rs ref="#tillich_person_id__128" type="person">Hans</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2151">
+                  <persName>Kachler, ???</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2913">
+                  <persName>Magnif, Sr.</persName>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2142">
+                  <persName>Tielking, ???</persName>
+                  <note type="bio"><p>Er war Mitglied der Wingolfsverbindung in Göttingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2912">
+                  <persName>Pritschow, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
+                  <location type="coords">
+                     <geo>51.53443 9.93228</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

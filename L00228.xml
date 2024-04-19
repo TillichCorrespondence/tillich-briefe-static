@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00228.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00227.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00229.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hans Balke an Paul Tillich vom 23. Oktober 1907</title>
+            <author ref="#tillich_person_id__128">Hans Balke</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/122(40)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__128">Hans Balke</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
+               <date when="1907-10-23">23.10.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00227">Brief von Hans Schreiber an Paul Tillich vom 21. Oktober 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00229">Brief von Gottfried von Hanffstengel an Paul Tillich vom 23. Oktober 1907</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-09-30">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-09">Vorbereitende Endabnahme</change>
+         <change who="EL" when="2024-02-27">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__189" type="place">Halle</rs>, den <date when="1907-10-23">23. Okt. 07.</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>Verzeih zunächst den Bogen, ich liess mein Briefpapier zuhause. Hab Dank für Deine
+               Aktivmeldung u. Deinen Brief an den Konvent<note type="ea">Nicht überliefert.</note>. Die ersten Tage sind nun glücklich
+               vorüber u. der erste Berg erstiegen. Meine Pauken waren beide nicht gut, mir fehlt
+               Logik u. auch die Wärme des Worts. Hoffentlich wird's noch. Bisher sind 7 Krasse
+               aktiv, 3 folgen hoffentlich noch für <rs type="place" ref="#tillich_place_id__189">Halle</rs> wieder eine ganz erfreuliche Zahl, zum Teil sehr nette Leute,
+                     <unclear><rs ref="#tillich_person_id__2207" type="person">Herr
+                  Auel</rs></unclear> med aus <rs type="place" ref="#tillich_place_id__208">Hersfeld</rs>, – Du hörtest gewiss von <rs ref="#tillich_person_id__1696" type="person">Herrmann</rs> schon von ihm – wird Kneipengast u. kommt nach
+                  <unclear>ZA</unclear>, sonst einige biedere Westfalen, vermutliche Gaulianer
+               scheinen mir bisher nicht drunter zu sein. <rs ref="#tillich_person_id__2208" type="person">Kremer</rs> arbeitet tadellos, wir verstehen uns sehr gut, ich bin
+               ziemlich guter Hoffnung. – Die erste Unruhe bringt die Erlanger Sache, morgen ist der
+               erste Konvent, vor dem mir etwas graut. Einer der 7, <rs ref="#tillich_person_id__1205" type="person">Lotz</rs>, ist seit Montag bei uns u.
+               will gern aktiv werden. Fragen wir <rs type="place" ref="#tillich_place_id__136">Erlangen</rs> vorher an, so wird es ziemlich sicher
+               "nein" sagen, dann wäre die Lage sehr zugespitzt. <rs type="place" ref="#tillich_place_id__136">Erl</rs>. will vielleicht nachträglich Exklusion
+               erklären, obwohl das formell nicht möglich ist oder sonst Krach schlagen. <rs type="place" ref="#tillich_place_id__260">Leipzig</rs> ist
+               schlapp und will einen Philisterbescheid abwarten, der aber wahrscheinlich noch
+               Monate ausbleibt. Ich will trotz <rs type="person" ref="#tillich_person_id__2342">Sepps</rs><pb n="2"/>
+               <rs ref="#tillich_person_id__1205" type="person">"Herrn" Lotz</rs> ohne Weiteres
+               aufnehmen u. <rs type="place" ref="#tillich_place_id__136">Erlangen</rs> in liebenswürdiger Form davon Mitteilung machen. Hoffentlich
+               verbrenne ich mir nicht die Finger, aber ich meine, nur das moralische Recht kann
+               hier entscheiden. Müssen wir uns, wenn die Sache vor den Bund kommt, seinem Bescheide
+               fügen? Seit der <rs type="place" ref="#tillich_place_id__467">Wartburg</rs> hat es sich m. E. das Recht genommen, hier Entscheidungen zu
+               treffen. Ich sende Dir eine Aufklärung von <rs ref="#tillich_person_id__1206" type="person">Prof. Lotz</rs> mit, da sie Dich interessieren wird. Bei Bedarf
+               kannst Du sie dann in <rs type="place" ref="#tillich_place_id__37">Berlin</rs>
+               gebrauchen. Schicke bitte <hi rend="u">umgehend</hi> Protokollbuch u. Bundesbriefe
+               eingeschrieben hierher. Noch eine Bemerkung wegen der Philistrierung: es scheint mir
+               praktisch unausführbar zu sein, den dauernden Besitz des Hall. Bandes von einem
+               Gesuch nach der Philisitrierung abhängig zu machen. Das wird in x Fällen einfach
+               vergessen, die Verbindung kann nicht jeden <add><hi rend="sub">nach</hi></add>
+               <del rend="s">bei</del> seinem Examen daran erinnern u. einen Philister deswegen zu
+               streichen ist unmöglich. Deshalb glaube ich, müssen wir die Forderung eines
+               besonderen Philistrationsgesuches fallen lassen. Die nötige Kontrolle<pb n="3"/>
+               erhalten wir dadurch, dass wir bei Banderteilung immer für 1 Semester inaktivieren,
+               bis mit dem 6. oder 7. Semester das Band dauernd erworben ist. Was meinst Du zu
+               dieser Änderung; ich warte mit ihr, bis ich Deine Meinung gehört habe. Hoffentlich
+               stellst Du <rs ref="#tillich_person_id__1050" type="person">Alb. Kilger</rs> nicht
+               zum x auf; wenn man den Nachteil (Geld!! Gesundheit!! Studium) mit dem so unsicheren
+               Erfolg vergleicht, scheint mir der Versuch besser nicht gemacht zu werden.
+               Hoffentlich hältst Du Arbeit u. Verbindungsleben aus! Früh zu Bett!!! Ich hätte
+               grosse Lust schon vor Weihnachten mal herüberzukommen, doch geht's nicht. Kommst Du
+               zur Weihnachtskneipe?? <rs ref="#tillich_person_id__2209" type="person">Stelz</rs> kommt wieder mit dem Antrag der Banderteilung an <rs ref="#tillich_person_id__2210" type="person">Wittekindt</rs> fällt aber sicher ab.
+                  <rs ref="#tillich_person_id__2194" type="person">Buss</rs> wird aktiv, um gegen
+               <rs type="place" ref="#tillich_place_id__136">Erl</rs>. eventuell mitvorgehen zu können. Mit <rs type="person" ref="#tillich_person_id__2340">Fritsch</rs> habe ich mich persönlich gutgestellt.
+               Er bleibt inaktiv. Deine Frau<note type="ea">Bezeichnet im Wingolf einen Mitbewohner.</note> lässt grüssen. Sende gelegentlich
+               Frau <rs ref="#tillich_person_id__2211" type="person">Wendelmuth</rs> einen Gruss,
+               sie war traurig, bei einer Sendung keinen erhalten zu haben. </p>
+            <closer>
+               <salute>Herzl. Grüsse an Deine lb. Angehörigen u. an <rs ref="#tillich_person_id__1050" type="person">Albert</rs>; wo steckt der
+                  Rundbrief</salute>
+               <signed>In rasender Eile u. Liebe Dein dankbarer <rs ref="#tillich_person_id__128" type="person">Hans</rs>. X.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__2208">
+                  <persName>Kremer, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2194">
+                  <persName>Buss, ???</persName>
+                  <note type="bio"><p>Er war ein Mitstudent von Paul Tillich, der in irgendeine Austrittsangelegenheit verwickelt war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__1206">
+                  <persName>Lotze, Hermann</persName>
+               </person>
+               <person xml:id="tillich_person_id__2340">
+                  <persName>Fritsch, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2209">
+                  <persName>Stelz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2207">
+                  <persName>Auel, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2210">
+                  <persName>Wittekindt, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1205">
+                  <persName>Lotz, Ernst</persName>
+                  <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2342">
+                  <persName>Schafft, Sepp</persName>
+               </person>
+               <person xml:id="tillich_person_id__2211">
+                  <persName>Wendelmuth, (Frau)</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
+               </place>
+               <place xml:id="tillich_place_id__208">
+                  <placeName>Hersfeld</placeName>
+                  <location type="coords">
+                     <geo>50.87197 9.70891</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__136">
+                  <placeName>Erlangen</placeName>
+                  <location type="coords">
+                     <geo>49.59099 11.00783</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

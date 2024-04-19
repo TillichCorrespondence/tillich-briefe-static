@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01081.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01080.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01082.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich vom 6. Oktober 1930 [PS]</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="Cambridge, MA">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Hannah. Papers, 1896-1976.</collection>
+                  <idno>bMS 721/2(27)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__275">Magdeburg</placeName>
+               <date when="1930-10-06">006.10.1930</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+               <placeName ref="#tillich_place_id__529">Bad Freienwalde</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01080">Postkarte von Paul Tillich an Hannah Tillich vom 4. Oktober 1930 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01082">Postkarte von Paul Tillich an Hannah Tillich vom 9. Oktober 1930 [PS]</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-12-14">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2023-12-14">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Liebste <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>!</salute>
+            </opener>
+            <p>Ich sitze im Zug nach <rs type="place" ref="#tillich_place_id__530">Dortmund</rs> und
+               denke an Dich. Gestern Abend im Kino; interessant aber nicht ganz überzeugend.
+               Nachher noch etwas im Kafe: Langweilig. Auto gut bis zuletzt. Heute Vormittag Briefe
+               und Karten (12!!!!) Dann kam M.L. mit <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs>. Sie blieben zum Essen. Ich war selig. <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> sah sehr gut aus. Sie ißt viel. M.L.
+               ist ruhig in Bezug auf <unclear cert="medium">E</unclear>, und auf jede Überraschung
+               gefaßt. Vor der Abfahrt 1/2 St. <unclear cert="medium">Manasse</unclear>-<rs type="place" ref="#tillich_place_id__126">Dresden</rs>. Er meinte, <rs type="person" ref="#tillich_person_id__2411">Herr Bienert</rs> wäre operiert. Über
+                  <rs type="person" ref="#tillich_person_id__1856">Stepun</rs> schimpfte er sehr.
+               Politisch nichts Neues. Ich glaube <hi rend="u">nicht</hi> an Putsch. Jetzt <rs type="place" ref="#tillich_place_id__275">Magdeburg</rs>! Rufe Sonnabend an!</p>
+            <closer>
+               <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__2411">
+                  <persName>Bienert, Friedrich</persName>
+                  <occupation>Großindustrieller; Sammler; Mäzen;</occupation>
+                  <note type="bio"><p>Er war der Sohn von Ida und Erwin Bienert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1856">
+                  <persName>Stepun, Fedor</persName>
+                  <birth>
+                     <date>1884-02-19</date>
+                     <settlement>
+                        <placeName>Moskau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1965-02-23</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>russisch-deutscher Literat, Soziologe, Philosoph und Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11875355X</idno>
+                  <note type="bio"><p>Fedor S. wurde in Moskau geboren, wo er auch zur Schule ging. Seine Familie hatte deutsch-litauische Herkunft. 1910 wurde er in Heidelberg im Fach Philosophie promoviert. Nach dem Studium Rückkehr nach Russland, 1922 infolge der Oktoberrevolution zunächst verhaftet, dann ausgewiesen. Seit 1926 lehrte er an der Technischen Hochschule Dresden. 1937 wurde er entlassen und erhielt Schreibverbot. Die Kriegsjahre verbrachte er in Deutschland, ab 1946 lehrte er als Professor für russische Geistesgeschichte an der Universität München. Nachdem frühen Tod seiner ersten Frau hatte Fedor S. im Jahr 1911 Natascha geheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__530">
+                  <placeName>Dortmund</placeName>
+                  <location type="coords">
+                     <geo>51.51494 7.46600</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935517/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31971850</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__275">
+                  <placeName>Magdeburg</placeName>
+                  <location type="coords">
+                     <geo>52.12773 11.62916</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

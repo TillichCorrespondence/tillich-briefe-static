@@ -1,93 +1,89 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00888">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Hannah Tillich
-                    <lb/>vom 8. August 1926
-                </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>        
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/2(23)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc> 
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__384">Saint Malo</placeName>
-                    <date when="1926-08-08">08.08.1926</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                </correspAction>
-            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00887">Brief von Paul Tillich an Hannah Tillich
-                    </ref><ref subtype="next_letter" type="withinCollection" target="L00889">Brief von Paul Tillich an Hannah Tillich </ref></correspContext></correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2023-04-24">Intitale Auszeichnung des Transkripts</change>
-            <change who="FS" when="2023-11-27">Endabnahme</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener><dateline><date when="1926-08-08">8.8.26</date><note type="ea">Von fremder (verm. <rs ref="#tillich_person_id__1923" type="person">Hannah Tillichs</rs>) Hand.</note></dateline>
-                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-                </opener>
-                <p>Nun sind wir hier in <rs ref="#tillich_place_id__384" type="place"><hi rend="aq">St. Malo</hi></rs>. Es ist nicht Atlantischer Ozean, sondern Kanalküste. Aber so schön, daß wir auf alle Fälle es sehen wollten, ehe wir in den nächsten Tagen weiter fahren. Die Adresse, an die ich dich bitte, gleich zu schreiben, heißt: <address><rs ref="#tillich_place_id__384" type="place"><hi rend="aq">St. Malo, Bretagne, Frankreich, Hotel  de la Digue</hi></rs></address>.</p>
-                <p>Der Abschied von <rs ref="#tillich_place_id__343" type="place">Paris</rs> war sehr leicht. Außer <rs ref="#tillich_person_id__2356" type="person">Christian</rs> hatten wir es alle über. Ich war am letzten Tag Vormittags bei <rs ref="#tillich_person_id__2357" type="person"><hi rend="aq">Madame Fondaminski</hi></rs>, etwas älter als Frau <rs ref="#tillich_person_id__2358" type="person"><hi rend="aq">Stepun</hi></rs>, sehr fein und geistig. <rs ref="#tillich_person_id__2359" type="person">Ihr Mann</rs> Schriftsteller, der aber verreist war. Sie unterrichtet die Russen in modernen Tänzen <pb n="2"/> Ich habe mich für <date when="1926-09">September</date> angemeldet. Ich werde durch sie an die russisch-Pariser Gesellschaft herankommen, was sehr wichtig ist. Denn das Straßen-Dasein in <rs ref="#tillich_place_id__343" type="place">Paris</rs> ist sehr bald unerträglich. Einen Abend war ich mit <rs ref="#tillich_person_id__2356" type="person">Christian</rs> in einem Witz und Melodien strömenden Boulevard-Theater, wo das Tempo alles, das Nackte nichts war (es kam auch kaum wer). Das war ein sehr starker Eindruck. Nachher noch ein nächtlicher Boulevardbummel mit Unterhaltungen mit Geld-hungrigen aber sehr süßen Kokottchen. Es war gar nicht so leicht, den <rs ref="#tillich_person_id__2356" type="person">Christian</rs> unversehrt nach Haus zu bringen. Am nächsten Morgen eine lange müde Fahrt durch den Garten Frankreich.<pb n="3"/> Vorher betrübter Abschied von <rs ref="#tillich_person_id__2041" type="person">M. L.</rs> – – Wir wohnen hier in einem der besten Hotels. <rs ref="#tillich_person_id__2356" type="person">Christian</rs> und <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> in einer Dachkammer zusammen für ca 5M den Tag mit voller Pension, Essen direkt am Meer mit viel eleganten Engländerinnen. Ich mußte das teurere Zimmer nehmen, schlafe dafür allein und ganz ruhig. Ca 7M alles.  Fabelhafte Verpflegung.</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00888.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00887.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00889.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich vom 8. August 1926</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/2(23)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__384">Saint Malo</placeName>
+<date when="1926-08-08">08.08.1926</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00887">Brief von Paul Tillich an Hannah Tillich vom 7. August 1926 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L00889">Brief von Paul Tillich an Hannah Tillich vom 12. August 1926</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-04-24" who="FS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-27" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener><dateline><date when="1926-08-08">8.8.26</date><note type="ea">Von fremder (verm. <rs ref="#tillich_person_id__1923" type="person">Hannah Tillichs</rs>) Hand.</note></dateline>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Nun sind wir hier in <rs ref="#tillich_place_id__384" type="place"><hi rend="aq">St. Malo.</hi></rs> Es ist nicht Atlantischer Ozean, sondern Kanalküste. Aber so schön, daß wir auf alle Fälle es sehen wollten, ehe wir in den nächsten Tagen weiter fahren. Die Adresse, an die ich dich bitte, gleich zu schreiben, heißt: <address><rs ref="#tillich_place_id__384" type="place"><hi rend="aq">St. Malo, Bretagne, Frankreich, Hotel  de la Digue.</hi></rs></address></p>
+<p>Der Abschied von <rs ref="#tillich_place_id__343" type="place">Paris</rs> war sehr leicht. Außer <rs ref="#tillich_person_id__2356" type="person">Christian</rs> hatten wir es alle über. Ich war am letzten Tag Vormittags bei <rs ref="#tillich_person_id__2357" type="person"><hi rend="aq">Madame Fondaminski</hi></rs>, etwas älter als Frau <rs ref="#tillich_person_id__2358" type="person"><hi rend="aq">Stepun</hi></rs>, sehr fein und geistig. <rs ref="#tillich_person_id__2359" type="person">Ihr Mann</rs> Schriftsteller, der aber verreist war. Sie unterrichtet die Russen in modernen Tänzen <pb n="2"/> Ich habe mich für <date when="1926-09">September</date> angemeldet. Ich werde durch sie an die russisch-Pariser Gesellschaft herankommen, was sehr wichtig ist. Denn das Straßen-Dasein in <rs ref="#tillich_place_id__343" type="place">Paris</rs> ist sehr bald unerträglich. Einen Abend war ich mit <rs ref="#tillich_person_id__2356" type="person">Christian</rs> in einem Witz und Melodien strömenden Boulevard-Theater, wo das Tempo alles, das Nackte nichts war (es kam auch kaum wer). Das war ein sehr starker Eindruck. Nachher noch ein nächtlicher Boulevardbummel mit Unterhaltungen mit Geld-hungrigen aber sehr süßen Kokottchen. Es war gar nicht so leicht, den <rs ref="#tillich_person_id__2356" type="person">Christian</rs> unversehrt nach Haus zu bringen. Am nächsten Morgen eine lange müde Fahrt durch den Garten Frankreich.<pb n="3"/> Vorher betrübter Abschied von <rs ref="#tillich_person_id__2041" type="person">M. L.</rs> – – Wir wohnen hier in einem der besten Hotels. <rs ref="#tillich_person_id__2356" type="person">Christian</rs> und <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> in einer Dachkammer zusammen für ca 5M den Tag mit voller Pension, Essen direkt am Meer mit viel eleganten Engländerinnen. Ich mußte das teurere Zimmer nehmen, schlafe dafür allein und ganz ruhig. Ca 7M alles.  Fabelhafte Verpflegung.</p>
 <p>Der Ort ist ein altes Felsen-Nest, ringsherum hohe Befestigungsmauer, innen alte Straßen. Erinnert etwas an <rs ref="#tillich_place_id__426" type="place">Syrakus</rs>. Ringsherum Wasser, Häfen Buchten. Im Meer weithin große und kleine Klippen mit Befestigungen, ein fabelhaftes Bild. Ich sitze hier auf einer<pb n="4"/> solchen Klippe, die vom Land her weit hereingeht. Schwierige Kletterei oben ein Kastell. Es ist kühles Sonnenwetter mit Ostwind, also wenig Wellen, aber prachtvolle Farben.</p>
 <p>Durcheinander Eingeborene und Fremde. Von Badeleben noch nicht viel zu merken.<lb/>
 – – – – – – – – – – – –</p>
@@ -99,46 +95,85 @@
 – – – – – – – – – – – –</p>
 <p>Inzwischen ist das Wetter herrlich warm geworden. Wir erwarten den Sonnenuntergang. Der Strand ist ganz voll von Menschen, die vor der Kälte geflüchtet waren. – Ich habe Sonnenbrand im Gesicht.
                 </p>
-                <closer>
-                    <salute>Leb wohl liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Ich küsse Dich tausendmal!!!!</salute>
-                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
-                </closer>
-            </div>
-        </body>
-    <back><listPerson><person ref="#tillich_person_id__1923"><reference>Hannah Tillichs</reference><persName>Tillich, Hannah</persName>
+<closer>
+<salute>Leb wohl liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Ich küsse Dich tausendmal!!!!</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__1887">
+                  <persName>Sydow, Eckart von</persName>
                   <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
+                     <date>1885</date>
                   </birth>
                   <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
+                     <date>1942</date>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2356">
+                  <persName>Herrmann, Christian</persName>
                   <occupation>Philosoph; Pädagoge;</occupation>
                   <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__2359"><reference>Ihr Mann</reference><persName>Fondaminski, Ilja Issidorowitsch</persName>
+               </person>
+               <person xml:id="tillich_person_id__2357">
+                  <persName>Ossipowna, Amalija</persName>
+                  <note type="bio"><p>Sie war die Frau von Ilja Issidorowitsch Fondaminski.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2358">
+                  <persName>Stepun, Natalja Nikolaevna</persName>
+                  <death>
+                     <date>1961</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1107814014</idno>
+                  <note type="bio"><p>Sie war die Frau von Fedor Stepun und war bekannt als Natascha.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2359">
+                  <persName>Fondaminski, Ilja Issidorowitsch</persName>
                   <birth>
                      <date>1880</date>
                      <settlement>
@@ -152,91 +187,28 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1236435281</idno>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__2041"><reference>M. L.</reference><persName>Werner, Marie Luise</persName>
-                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
-                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__1887"><reference>Eckart</reference><persName>Sydow, Eckart von</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
-               </person><person ref="#tillich_person_id__570"><reference>Erdmuthe</reference><persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-               </person><person ref="#tillich_person_id__1887"><reference>Die beiden</reference><persName>Sydow, Eckart von</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
-               </person><person ref="#tillich_person_id__2356"><reference>Christian</reference><persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person><person ref="#tillich_person_id__1923"><reference>Hannah</reference><persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__384"><reference/><placeName>Saint Malo, Ille-et-Vilaine</placeName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place>
+               <place xml:id="tillich_place_id__384">
+                  <placeName>Saint Malo, Ille-et-Vilaine</placeName>
                   <location type="coords">
                      <geo>48.64738 -2.00877</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2978640/</idno>
-               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place><place ref="#tillich_place_id__426"><reference>Syrakus</reference><placeName>Syrakus</placeName>
+               </place>
+               <place xml:id="tillich_place_id__426">
+                  <placeName>Syrakus</placeName>
                   <location type="coords">
                      <geo>37.08805 15.27924</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2523082/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q16277</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               </listPlace></back></text>
 </TEI>

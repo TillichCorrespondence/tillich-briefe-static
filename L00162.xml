@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00162.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00161.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00163.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Daniel Schubert an Paul Tillich vom 21. April 1907</title>
+<author ref="#tillich_person_id__1743">Daniel Schubert</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/183</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1743">Daniel Schubert</persName>
+<placeName ref="#tillich_place_id__420">Stuttgart</placeName>
+<date when="1907-04-21">21.04.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00161">Postkarte von Hermann Witte an Paul Tillich vom 18. April 1907 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L00163">Postkarte von Alfred Fritz an Paul Tillich vom 27. April 1907</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-09-22 " who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-06" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-14" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__420" type="place">Stuttgart</rs>, den <date when="1907-04-21">21. April. 1907.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p><unclear>Chs</unclear> u. ich haben mehr als einmal an Euch und bes. an Dich gedacht
+               am Freitag. Wie jetzt alte u. neue l.l. B.B. in der Göben etc Straße herumstehen sich
+               vorstellen, Buden suchen; wie die alten die neuen über die Person der neuen
+               Chargierten bes. des x informieren, – soweit das noch nötig ist – etc pp.</p>
+<p>Und bei alledem wären wir nun gern dabei gewesen. Die nackte Wirklichkeit ist aber
+               anders: Gestern hat mich <unclear>Chs</unclear> verlassen. <rs ref="#tillich_person_id__641" type="person">Fritz</rs>, der mich fast täglich
+               besuchte, ist mit ihm nach <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> gereist. Und so liege ich allein im Bett; die andern sind eben zur
+               Kirche gegangen.</p>
+<p>Nun kommen aber heute Morgen 2 Karten von der<pb n="2"/> Hallenser Antrittskneipe. Da
+               habe ich mich beinahe unmäßig gefreut, wie ich alle die lieben Namen wieder las u.
+               auf der andern Seite Haus u. Kneipsaal! <hi rend="aq"><foreign xml:lang="lat">O tempora o mores</foreign></hi>.</p>
+<p>So lange ich noch auf war in diesen Ferien habe ich Römerbrief etwas gelesen. Und als
+               ich zu <rs ref="Röm-3,8" type="bible">Kap. 3 V 8</rs> kam, da dachte ich, das müßte ich <del rend="s">Dich</del> Dir
+               schreiben, daß ich da in meines Herzens Bösartigkeit an Dich gedacht habe; ich habe
+               auch gleich folgende Moralpredigt daraus gemacht: <foreign xml:lang="grc">βλασφημούμεθα</foreign> durch den Bund <foreign xml:lang="grc">ὅτι Ποιήσωμεν τὰ
+                  κακὰ ἵνα ἔλθῃ τὰ ἀγαθά</foreign>; was
+               doch der Hallenser Wingolf nicht will sond. nur das <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>, von welchem der
+               Apostel schreibt <foreign xml:lang="grc">ὧν τὸ κρίμα ἔνδικόν
+               ἐστιν</foreign>. Da sieht man's:
+               man braucht den Satz dieser jesuitischen Moral gar nicht schlau widerlegen; man
+                  braucht<pb n="3"/> bloß sehen, daß zur Zeit über den Hallenser W. ein <foreign xml:lang="grc">κρίμα</foreign>
+               ergeht, u. dann zu vernehmen, daß dies <foreign xml:lang="grc">κρίμα ἔνδικόν</foreign> ist, weil man doppelte Moral
+               pflegte. Ich hoffe daß Du die Bundespolitik also deixelst, daß nicht die Philister
+               auf der <rs ref="#tillich_place_id__467" type="place">Wartburg</rs> unisono rufen: <foreign xml:lang="grc">ὧν τὸ κρίμα ἔνδικόν ἐστιν</foreign>.-</p>
+<p>Das wollte ich Dir schreiben; <del rend="s">damit</del> darum habe ich aus der großen
+               Namenliste auf der Postkarte gerade den Deinen ausgewählt. – Es ist nicht
+               ausgeschlossen, daß ich Euch um vollständige Inaktivierung bitte. Ich werde genötigt
+               sein, jeden Abend um 18 Uhr in die Falle zu kriechen u. auch sonst sehr vorsichtig zu
+               leben. Es ist doch ein wahres Glück, daß ich die Krankheit nicht schon vor einem
+               Semester kriegte. Man hat wirklich zu danken.<pb n="4"/></p>
+<p>Mein <unclear>Chs</unclear> hat mir viel vorgelesen; wir haben ihn sehr gerne hier
+               gehabt. Die geplanten vielen Ausflüge konnte ich natürlich nicht mit ihm machen.
+               Dafür ist er oft in's Schwimmbad gegangen, hat schwimmen gelernt u. <rs ref="#tillich_person_id__641" type="person">Fritz</rs> hat ihm das Wichtigste von
+                  <rs ref="#tillich_place_id__420" type="place">Stuttgart</rs> gezeigt. Wann ich
+               nach <rs ref="#tillich_place_id__448" type="place">Tübingen</rs> darf weiß ich noch
+               nicht. Ich darf jetzt täglich ein bisschen aufstehen, fühle mich dabei aber ziemlich
+               schwach.</p>
+<p>Mein Bild für die Kneipe schicke ich mit. Gib es bitte dem Bilderdax, damit ich nicht
+               verdonnert werde.</p>
+<p>Nun grüße mir die ganze Gesellschaft. <add><hi rend="sup">Die Examenskandidaten
+                     viel.</hi></add>Ich kann ja nicht alle Namen nennen. Deine Conchargierten, <rs ref="#tillich_person_id__2168" type="person">Schuster</rs>
+<rs ref="#tillich_person_id__2195" type="person">Häfele</rs>
+<rs ref="#tillich_person_id__203" type="person">Lorenz</rs>
+<rs ref="#tillich_person_id__2155" type="person">Voget</rs>
+<unclear><rs type="person">Cramer</rs></unclear>
+<rs type="person">Jonas</rs>
+<rs type="person">Claus</rs>
+<rs ref="#tillich_person_id__1738" type="person">Schreiber</rs>
+<rs ref="#tillich_person_id__2190" type="person">Spatz</rs> einfach die alten
+               Burschen alle.</p>
+<closer>
+<salute>Herzl. grüßt Dich mit einer stillen Wehmuts-Neides-Mitleids etc
+                  Thräne</salute>
+<signed>Dein <rs ref="#tillich_person_id__1743" type="person">Daniel</rs>.</signed>
+<figure>
+<figDesc>Zirkel des Hallenser Wingolf</figDesc>
+</figure>
+</closer>
+<postscript>
+<p>Kommt ein <rs ref="#tillich_person_id__1295" type="person">Meinhof</rs> nach <rs ref="#tillich_place_id__448" type="place">Tübingen</rs>??</p>
+</postscript>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1743">
+                  <persName>Schubert, Daniel</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2190">
+                  <persName>Spatz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2155">
+                  <persName>Voget, Hans</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2168">
+                  <persName>Schuster, Daniel</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2195">
+                  <persName>Häfele, ???</persName>
+                  <note type="bio"><p>Er war ein Mitstudent von Paul Tillich in Halle.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1738">
+                  <persName>Schreiber, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__420">
+                  <placeName>Stuttgart</placeName>
+                  <location type="coords">
+                     <geo>48.78232 9.17702</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2825297/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32749678</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

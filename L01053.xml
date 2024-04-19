@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01053.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01050.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01055.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Margarete Riedel an Paul Tillich vom 5. Februar 1930</title>
+            <author ref="#tillich_person_id__2482">Margarete Riedel</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/178(31)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__2482">Margarete Riedel</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1930-02-05">05.02.1930</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01050">Brief von Greti Wever an Paul Tillich vom 15. Januar 1930</ref><ref subtype="next_letter" type="withinCollection" target="L01055">Brief von Carl Heinrich Becker an Paul Tillich vom 11. Februar 1930</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2023-08-05">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-01-05">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener><dateline>
+                  <rs ref="#tillich_place_id__465" type="place">Wannsee Berlin</rs> d. <date when="1930-02-05">5. 2. 30</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul
+                  Tillich</rs>,</salute>
+            </opener>
+            <p>es ist sehr schön, dass wir noch Freunde sind. Es interessiert mich alles, was Sie
+               schreiben, weil es ausspricht, was ich selbst fühle.</p>
+            <p>Ich möchte noch etwas Wichtiges sagen: ich habe mir einen Kreis feiner Menschen u.
+               Musiker geschaffen, wir machen alte Musik auf alten Instrumenten.</p>
+            <p>Und haben ausser Musik noch viele Ideen, denen wir Ausdruck geben wollen. Wir nennen
+               uns Spieleinung. Unser Raum ist nicht Podium, sondern Halle, Haus.</p>
+            <pb n="2"/>
+            <p>Wir haben gute Kritiken und sind schon bekannt, trotzdem wir erst ½ Jahre
+               arbeiten.</p>
+            <p>Es gibt viele herrliche Aufgaben u. in Viel hineinzuwachsen.</p>
+            <p>Wenn Sie uns helfen können, auch über den Rahmen von <rs ref="#tillich_place_id__37" type="place">Berlin</rs> heraus zukommen, so wäre es herrlich.</p>
+            <p>Übrigens ist <rs ref="#tillich_person_id__2483" type="person">Professor Georg
+                  Küntzel</rs>
+               <rs type="place" ref="#tillich_place_id__143">Frankfurt a. M.</rs> mein Vetter
+               (Geschichte) Unsere <del rend="s">Brüder</del> Väter waren Brüder.</p>
+            <p>Ich wünsche Ihnen von Herzen alles Gute u. grüsse Sie, beglückt über den Zusammenhang
+               trotz Stille u. Entfernung.</p>
+            <closer>
+               <signed>Ihre <rs ref="#tillich_person_id__2482" type="person">Margarete
+                  Riedel</rs></signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__2482">
+                  <persName>Riedel, Margarete</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1279754710</idno>
+               </person>
+               <person xml:id="tillich_person_id__2483">
+                  <persName>Küntzel, Georg</persName>
+                  <birth>
+                     <date>1870</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/116591730</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__465">
+                  <placeName>Wannsee Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.41915 13.15531</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2814196/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1949</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

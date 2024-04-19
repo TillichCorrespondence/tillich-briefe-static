@@ -1,151 +1,140 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00456">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Ferdinand Kattenbusch an Paul Tillich <lb/>vom 29. November 1915 </title>
-            <author ref="#tillich_person_id__1033">Ferdinand Kattenbusch</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Leopold Potyka</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00456.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00455.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00457.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Ferdinand Kattenbusch an Paul Tillich vom 29. November 1915</title>
+<author ref="#tillich_person_id__1033">Ferdinand Kattenbusch</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Leopold Potyka</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>Deutschland</country>
-                  <settlement ref="#tillich_place_id__189">Halle a. S.</settlement>
-                  <institution>Martin-Luther-Universität Halle-Wittenberg</institution>
-                  <repository>Universitätsarchiv Halle-Wittenberg</repository>
-                  <collection>Rep. 27 (Theologische Fakultät)</collection>
-                  <idno>Nr. 876 (20/21).</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-               <additional>
-                  <listBibl>
-                     <biblStruct type="journal" n="firstPrint">
-                        <monogr>
-                           <author>Erdmann Sturm</author>
-                           <title>An der engen Pforte der historischen Methode vorbeit. Paul
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__189">Halle a. S.</settlement>
+<institution>Martin-Luther-Universität Halle-Wittenberg</institution>
+<repository>Universitätsarchiv Halle-Wittenberg</repository>
+<collection>Rep. 27 (Theologische Fakultät)</collection>
+<idno>Nr. 876 (20/21).</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="firstPrint" type="journal">
+<monogr>
+<author>Erdmann Sturm</author>
+<title>An der engen Pforte der historischen Methode vorbeit. Paul
                               Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach
                               Berlin (1919) und Marburg (1924).</title>
-                           <imprint>
-                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
-                              <pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
-                              <date when="2015">2015</date>
-                              <biblScope>305</biblScope>
-                           </imprint>
-                        </monogr>
-                        <series>
-                           <title>International Yearbook for Tillich Research</title>
-                           <biblScope>Bd. 10/1</biblScope>
-                        </series>
-                     </biblStruct>
-                  </listBibl>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+<imprint>
+<pubPlace ref="#tillich_place_id__37">Berlin</pubPlace>
+<pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+<date when="2015">2015</date>
+<biblScope>305</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>International Yearbook for Tillich Research</title>
+<biblScope>Bd. 10/1</biblScope>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1033">Ferdinand Kattenbusch</persName>
-               <placeName ref="#tillich_place_id__189">Halle a.S.</placeName>
-               <date when="1915-11-29">29.11.1915</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00455">Brief von Paul Tillich an Ferdinand Kattenbusch </ref><ref subtype="next_letter" type="withinCollection" target="L00457">Brief von Paul Tillich an Ferdinand Kattenbusch </ref><ref subtype="next_letter" type="withinCorrespondence" target="L00459">Brief von Paul Tillich an Johannes Tillich </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="LP" when="2022-04-06">Intitale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2023-11-28">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__189" type="place">Halle a.S.</rs>, den <date when="1915-11-29">29. Nov. 1915.</date></dateline>
-               <salute>Herrn Divisionspfarrer Lic. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs><lb/> 7. Res. Div. 14. Res. Inf.a Brig.<lb/> Brig. Stab. </salute>
-            </opener>
-            <p>Auf Ihre Eingabe vom 9. November teile ich Ihnen mit, daß die Fakultät auf ein <hi rend="u">Kolloquium</hi> zum Zwecke Ihrer Habilitation verzichtet. Von den drei
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1033">Ferdinand Kattenbusch</persName>
+<placeName ref="#tillich_place_id__189">Halle a.S.</placeName>
+<date when="1915-11-29">29.11.1915</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00455">Brief von Paul Tillich an Ferdinand Kattenbusch vom 9. November 1915</ref><ref subtype="next_letter" type="withinCollection" target="L00457">Brief von Paul Tillich an Ferdinand Kattenbusch vom 14. Dezember 1915</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-04-06" who="LP">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-11-28" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__189" type="place">Halle a.S.</rs>, den <date when="1915-11-29">29. Nov. 1915.</date></dateline>
+<salute>Herrn Divisionspfarrer Lic. <rs ref="#tillich_person_id__1928" type="person">Tillich</rs><lb/> 7. Res. Div. 14. Res. Inf.a Brig.<lb/> Brig. Stab. </salute>
+</opener>
+<p>Auf Ihre Eingabe vom 9. November teile ich Ihnen mit, daß die Fakultät auf ein <hi rend="u">Kolloquium</hi> zum Zwecke Ihrer Habilitation verzichtet. Von den drei
                Thematen, <add place="superlinear">die Sie</add> für die <unclear><del rend="s">¿¿¿</del></unclear>
-               <hi rend="u">Probe</hi>vorlesung vor der Fakultät in geschlossenem Kreise <add place="superlinear">in Vorschlag gebracht haben</add>, ist das dritte: <rs type="work" ref="tillich_work_id__47">„<hi rend="u">Der Begriff des christlichen
+<hi rend="u">Probe</hi>vorlesung vor der Fakultät in geschlossenem Kreise <add place="superlinear">in Vorschlag gebracht haben</add>, ist das dritte: <rs ref="#tillich_work_id__47" type="work">„<hi rend="u">Der Begriff des christlichen
                      Volkes</hi>“</rs>,bestimmt worden. Die Fakultät stellt es Ihnen anheim, ob Sie
                diese Vorlesung noch vor Weihnachten oder erst im neuen Jahre halten wollen. Es wird
                des weiteren eine <hi rend="u">öffentliche Habilitationsvorlesung</hi> von Ihnen zu
                halten sein, deren Thema Sie sich selbst wählen dürfen, unter Vorbehalt der
                Bestätigung durch die Fakultät. Zweckmäßigerweise werden Sie diese Vorlesung bei
-               Beginn Ihrer Lehrtätigkeit selbst erst halten. Der <rs ref="#tillich_person_id__2626" type="person">Dekan</rs><note type="ea">Zur Zeit von <rs type="person" ref="#tillich_person_id__1928">Tillichs</rs> Habilitationsvorlesung war bereits
-                     <rs type="person" ref="#tillich_person_id__2626">Ernst von Dobschütz</rs> Dekan
+               Beginn Ihrer Lehrtätigkeit selbst erst halten. Der <rs ref="#tillich_person_id__2626" type="person">Dekan</rs><note type="ea">Zur Zeit von <rs ref="#tillich_person_id__1928" type="person">Tillichs</rs> Habilitationsvorlesung war bereits
+                     <rs ref="#tillich_person_id__2626" type="person">Ernst von Dobschütz</rs> Dekan
                   der Fakultät in Halle.</note> wird seiner Zeit das Nötige dafür mit Ihnen
                verabreden, bzw. anordnen. Noch mache ich Sie darauf aufmerksam <del rend="s">Kattenbusch</del>
-               <pb n="2"/> daß Ihre der Fakultät unter dem 31. Mai 1914 übersandten Papiere nicht
+<pb n="2"/> daß Ihre der Fakultät unter dem 31. Mai 1914 übersandten Papiere nicht
                ganz vollständig sind. Nach § 41 der Statuten hätten Sie vorab sich an den <rs ref="#tillich_person_id__2708" type="person">Kurator</rs> der Universität wenden
                und bei ihm die <hi rend="u">Genehmigung</hi> der Habilitation nachsuchen müssen.
                   <add place="left" resp="#tillich_person_id__1928">bereits erledigt</add> Ich
                ersuche Sie, diese Genehmigung jetzt noch zu erwirken, da sie die Vorbedingung für
                alles Weitere ist. Da, soviel ich sehe, Anstände nicht vorliegen, hat das Gesuch nur
                formale Bedeutung, ist aber unerläßlich.</p>
-            <closer>
-               <signed><rs ref="#tillich_person_id__1033" type="person">Kattenbusch</rs></signed>
-            </closer>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1928"><reference>Tillich</reference><persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__2626"><reference>Dekan</reference><persName>Dobschütz, Ernst von</persName>
+<closer>
+<signed><rs ref="#tillich_person_id__1033" type="person">Kattenbusch</rs></signed>
+</closer>
+</div>
+</body>
+<back><listBibl><bibl xml:id="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2626">
+                  <persName>Dobschütz, Ernst von</persName>
                   <birth>
                      <date>1870-10-09</date>
                      <settlement>
@@ -161,36 +150,13 @@
                   <occupation>Dekan;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116151420</idno>
                   <note type="bio"><p>Er war Dekan der Theologischen Fakultät während Paul Tillichs Habilitationsvorlesung in Halle.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Tillichs</reference><persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__2626"><reference>Ernst von Dobschütz</reference><persName>Dobschütz, Ernst von</persName>
-                  <birth>
-                     <date>1870-10-09</date>
-                     <settlement>
-                        <placeName>Halle (Saale)</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1934-05-20</date>
-                     <settlement>
-                        <placeName>Halle (Saale)</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Dekan;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116151420</idno>
-                  <note type="bio"><p>Er war Dekan der Theologischen Fakultät während Paul Tillichs Habilitationsvorlesung in Halle.</p></note>
-               </person><person ref="#tillich_person_id__2708"><reference>Kurator</reference><persName>Meyer, Gottfried</persName>
+               </person>
+               <person xml:id="tillich_person_id__1033">
+                  <persName>Kattenbusch, Ferdinand</persName>
+                  <occupation>Evangelischer Theologe, Wingolf</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2708">
+                  <persName>Meyer, Gottfried</persName>
                   <birth>
                      <date>1855-12-23</date>
                      <settlement>
@@ -205,13 +171,29 @@
                   </death>
                   <occupation>Rechtswissenschaftler; Kurator der Universität Halle;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1104756838</idno>
-               </person><person ref="#tillich_person_id__1033"><reference>Kattenbusch</reference><persName>Kattenbusch, Ferdinand</persName>
-                  <occupation>Evangelischer Theologe, Wingolf</occupation>
-               </person></listPerson><listBibl><bibl ref="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl></listBibl><listPlace><place ref="#tillich_place_id__189"><reference>Halle a.S.</reference><placeName>Halle (Saale)</placeName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
                   <location type="coords">
                      <geo>51.48158 11.97947</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               </listPlace></back></text>
 </TEI>

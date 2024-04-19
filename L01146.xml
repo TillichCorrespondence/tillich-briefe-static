@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01146.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01144.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01150.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Verlag Mohr Siebeck vom 22. Mai 1932 [PS]</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="copy">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, an den Verlag Mohr <placeName ref="#tillich_place_id__448">Tübingen</placeName>, maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+            <biblStruct type="journal">
+               <monogr>
+                  <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
+                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <imprint>
+                     <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                     <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                     <date when="2011">2011</date>
+                     <biblScope>237-403, hier: S. 334</biblScope>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>International Yearbook for Tillich Research</title>
+                  <biblScope>Bd. 6, H. 1</biblScope>
+               </series>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__143">Frankfurt am Main</placeName>
+               <date when="1932-05-22">22.05.1932</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__2440">Verlag Mohr Siebeck</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01144">Postkarte von Paul Tillich an Verlag Mohr Siebeck vom 8. Mai 1932</ref><ref subtype="next_letter" type="withinCollection" target="L01150">Brief von Paul Tillich an Fritz Medicus vom 07. Juli 1932</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-07-25">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-20">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <p>Hierdurch bitte ich Sie, auf meine Kosten und zum Autorenpreis zu versenden meine
+               Schrift "<rs type="work" ref="#tillich_work_id__240">Hegel und Goethe</rs>"</p>
+            <p> 1. an <rs ref="#tillich_place_id__143" type="place">Frankfurter</rs> Goethemuseum
+                  <rs ref="#tillich_place_id__143" type="place"><hi rend="u">Frankfurt</hi>/M</rs>
+               Goethehaus,<lb/> 2. an <rs ref="#tillich_person_id__1856" type="person">Herrn Prof.
+                  Dr. Fedor Stepun</rs>
+               <rs ref="#tillich_place_id__126" type="place"><hi rend="u">Dresden</hi></rs>
+               Löbtauerstr. 13<lb/> 3. <rs ref="#tillich_person_id__2470" type="person">Frau Bankier
+                  Sulzbach</rs> Rembrandtstr. 21 <rs ref="#tillich_place_id__143" type="place"><hi rend="u">Frankfurt/Main</hi></rs></p>
+            <p>Ferner bitte ich, <rs ref="#tillich_person_id__1928" type="person">mir selbst</rs>
+               fünf Exemplare an meine Adresse, 11 Vogelstr.<lb/>
+               <rs ref="#tillich_place_id__143" type="place"><hi rend="u">Frankfurt/Main-Niederrad</hi></rs> zu senden. </p>
+            <closer>
+               <salute>Hochachtungsvoll<lb/><rs ref="#tillich_person_id__1928" type="person">Prof.
+                     D. Dr. Paul Tillich</rs>
+               </salute>
+               <signed><ptr/><rs ref="#tillich_person_id__1928" type="person"><hi rend="hand">Tillich</hi></rs></signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1856">
+                  <persName>Stepun, Fedor</persName>
+                  <birth>
+                     <date>1884-02-19</date>
+                     <settlement>
+                        <placeName>Moskau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1965-02-23</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>russisch-deutscher Literat, Soziologe, Philosoph und Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11875355X</idno>
+                  <note type="bio"><p>Fedor S. wurde in Moskau geboren, wo er auch zur Schule ging. Seine Familie hatte deutsch-litauische Herkunft. 1910 wurde er in Heidelberg im Fach Philosophie promoviert. Nach dem Studium Rückkehr nach Russland, 1922 infolge der Oktoberrevolution zunächst verhaftet, dann ausgewiesen. Seit 1926 lehrte er an der Technischen Hochschule Dresden. 1937 wurde er entlassen und erhielt Schreibverbot. Die Kriegsjahre verbrachte er in Deutschland, ab 1946 lehrte er als Professor für russische Geistesgeschichte an der Universität München. Nachdem frühen Tod seiner ersten Frau hatte Fedor S. im Jahr 1911 Natascha geheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2470">
+                  <persName>Sulzbach, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__240">Tillich, Paul: Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
+               </listBibl></back></text>
+</TEI>

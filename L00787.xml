@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00787.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00786.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00788.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Hannah Tillich vom 22. April 1923</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS721/2.19</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1923-04-22">22.04.1923</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__38">Berlin-Friedenau Taunusstr. 1</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00786">Postkarte von Paul Tillich an Wilhelm Ruprecht vom 12. April 1923</ref><ref subtype="next_letter" type="withinCollection" target="L00788">Brief von Paul Tillich an Wilhelm Ruprecht vom 14. Mai 1923</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-02-02" who="AA">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+   den <date when="1923-04-22">22.04.1923</date>
+</dateline>
+<salute>Liebes Hanken!</salute>
+</opener>
+<p>
+   So sitze ich denn in der Bahn nach <rs ref="#tillich_place_id__186" type="place">Göttingen</rs> und denke an Dich und danke Dir für Deinen Brief;
+   der mir eine sehr große Freude war. Nach <rs ref="#tillich_place_id__279" type="place">Marburg</rs> sage ich natürlich zu; obgleich mir die viele Fahrerei schon
+   über ist. Ich will infolgedessen nur nach <rs ref="#tillich_place_id__200" type="place">Hannover</rs>, wenn der Zug sowie so darüber fährt; sonst komme ich
+   Montag Abend über <rs ref="#tillich_place_id__565" type="place">Kreiensen</rs>, <rs ref="#tillich_place_id__180" type="place">Goslar</rs>, <rs ref="#tillich_place_id__275" type="place">Magdeburg</rs>.
+   Die Zeit weiß ich nicht; es kann ziemlich früh und ziemlich
+   spät sein. (Es ist 11<sup>06</sup> Abend Potsdamer Bahnhof. Falls ich über <rs ref="#tillich_place_id__200" type="place">Hannover</rs> oder sonst wie anders fahre,
+   schreibe ich noch. Also <del>Sonst</del> auf Wiedersehen am Montag!)
+   Ich freue mich!
+  </p>
+<closer>
+<signed>Dein P<del>eter</del>aul</signed>
+</closer>
+</div>
+</body>
+<back><listPlace><place xml:id="tillich_place_id__565">
+                  <placeName>Kreiensen</placeName>
+                  <location type="coords">
+                     <geo>51.85363 9.96481</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2884482/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q503423</idno>
+               </place>
+               <place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
+                  <location type="coords">
+                     <geo>51.53443 9.93228</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+               </place>
+               <place xml:id="tillich_place_id__180">
+                  <placeName>Goslar</placeName>
+                  <location type="coords">
+                     <geo>51.90425 10.42766</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
+               </place>
+               <place xml:id="tillich_place_id__200">
+                  <placeName>Hannover</placeName>
+                  <location type="coords">
+                     <geo>52.37052 9.73322</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2910831/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32052205</idno>
+               </place>
+               <place xml:id="tillich_place_id__275">
+                  <placeName>Magdeburg</placeName>
+                  <location type="coords">
+                     <geo>52.12773 11.62916</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

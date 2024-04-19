@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00689.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00688.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00692.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Wilhelm Ruprecht an Paul Tillich vom 26. Oktober 1920</title>
+<author ref="#tillich_person_id__2569">Wilhelm Ruprecht</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Anna Rüther</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__37">Berlin</settlement>
+<institution>Stiftung Preußischer Kulturbesitz</institution>
+<repository>Staatsbibliothek zu Berlin</repository>
+<collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+<idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
+</msIdentifier>
+<physDesc>
+<p>Maschinenschriftlich</p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="1" type="journal">
+<monogr>
+<author>GRAF, FRIEDRICH WILHELM</author>
+<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+<imprint>
+<date when="2020">2020</date>
+<biblScope>26-170</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
+<biblScope>Vol. 27 (Issue 1)</biblScope>
+<publisher>De Gruyter</publisher>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+<date when="1920-10-26">26.10.1920</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__38">Berlin-Friedenau</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00688">Brief von Paul Tillich an Verlag Vandenhoeck und Ruprecht vom 17. Oktober 1920</ref><ref subtype="next_letter" type="withinCollection" target="L00692">Brief von Paul Tillich an Verlag Vandenhoeck und Ruprecht vom 3. November 1920</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-01-18" who="AR">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+      den <date when="1920-10-26">26.10.1920</date>
+</dateline>
+<salute>Sehr geehrter Herr Doktor!</salute>
+</opener>
+<p>Ihr Brief vom 7. Oktober war uns eine Freude, da Sie die an dem Plan geübte
+freimütige Kritik gut aufgenommen und unbefangen verwertet haben. Wir können das Gerüst nunmehr wohl annehmen, allerdings unter dem Vorbehalt, daß
+zunächst einmal die wichtigeren Themata in Angriff genommen werden und Streichungen, Langform:
+<choice><abbr>bezw.</abbr><expan>beziehungsweise</expan></choice> Ergänzungen vorbehalten bleiben.</p>
+<p>Anbei übersenden wir Ihnen zunächst die gewünschten zwei Abzüge des neuen Planes. Wie Sie sich denken können, haben wir zunächst diesen noch einmal an Herrn Lic. <rs ref="#tillich_person_id__904" type="person">Hirsch</rs> geschickt und ihm auch im Uebrigen Ihren Brief mitgeteilt. Er scheint nun im wesentlichen einverstanden zu sein und hat uns nur noch verhältnismäßig wenig zur Sache geschrieben.</p>
+<p>Zu den Themen bemerkt er: 24 würde er für eine erschöpfende Behandlung der Geschichts-Philosophie nicht halten können. Vielleicht müsse man 32 ins Geschichts-Philosophische erweitern. Wenn Thema 35 als Behandlung der formalethischen Fragen (was ist das Sittliche?, im Gegensatz zu: Was ist sittlich? Thema 36) gedacht sei, so vermisse er in den Stichworten „Pflicht, Tugend und Güter-Ethik“: Natur und Sittlichkeit (als formales Problem des Thema 37). Sodann äußert er sich über die heranzuziehenden Mitarbeiter, wobei er Ihnen aber von vornherein die größere Personenkenntnis zuschreibt.</p>
+<p>Unbedingt billigt er die Wahl von <rs ref="#tillich_person_id__1826" type="person">Spengler</rs>, aber lieber zum Thema Zeit als
+Raum. Ob er freilich zu gewinnen sein wird? Vielleicht, meint<rs ref="#tillich_person_id__904" type="person">H.<expan>irsch</expan></rs>, wenn man ihm die Themata 2 und 3 in einem (oder einem Doppel-)Hefte behandeln ließe. Ferner 16: <rs ref="#tillich_person_id__946" type="person">Husserl</rs>; 17: <rs ref="#tillich_person_id__2135" type="person">Rickert</rs> (<choice><abbr>bezw.</abbr><expan>beziehungsweise</expan></choice> Schüler); 19: <rs ref="#tillich_person_id__1178" type="person">Liebert</rs>; 24: <rs ref="#tillich_person_id__2315" type="person">Mehlis</rs>; 26: <rs ref="#tillich_person_id__946" type="person">Husserl</rs>; 28: <rs ref="#tillich_person_id__1403" type="person">Nohl</rs>; 31: <rs ref="#tillich_person_id__1954" type="person">Troeltsch</rs>; 38: <rs ref="#tillich_person_id__1833" type="person">Spranger</rs>; 39: <rs ref="#tillich_person_id__1928" type="person">Tillich</rs>; 40: <rs ref="#tillich_person_id__844" type="person">Heiler</rs>; 41: <rs ref="#tillich_person_id__845" type="person">Heim</rs>;
+43: <rs ref="#tillich_person_id__1954" type="person">Troeltsch</rs>; 44: <rs ref="#tillich_person_id__2748" type="person">Foerster</rs>.</p>
+<p><rs ref="#tillich_person_id__1548" type="person">Radbruch</rs> halte er nur geeignet für die Rechtsphilosophie, aber keinenfalls
+für Staat und Kirche, da er Bedenken trage, einem Sozialisten und jenseits des Christentums Stehenden letzteres anzuvertrauen, möge er auch sonst wissenschaftlich
+noch so bedeutend und angesehen sein.</p>
+<p><rs ref="#tillich_person_id__2747" type="person">Plenge</rs> würde er für 33 vorziehen; 32 möchte er selber nicht übernehmen,
+da das Thema vielen Ausführungen in seinem soeben erscheinenden Buche „<rs ref="#tillich_work_id__145" type="work">Deutschlands Schicksal</rs>“ parallel laufe und er sich dort wiederholen würde. <rs ref="#tillich_person_id__42" type="person">Althaus</rs> sei aber gut für 32 und ist, da mit uns befreundet, auch wohl zu gewinnen. Sonst käme dafür noch <rs ref="#tillich_person_id__2105" type="person">Max Wundt</rs> in Betracht, der vielleicht aber noch für
+ein anderes Thema besser passe.</p>
+<p><rs ref="#tillich_person_id__1291" type="person">Medicus</rs> für 36 sei trotz mancher Bedenken gut, und dieses Thema sollte, wenn irgend möglich, sehr bald herausgebracht werden.</p>
+<p><rs ref="#tillich_person_id__1954" type="person">Troeltsch</rs> würde für die Themata 31 und 43 sehr gut passen, namentlich
+wenn er für 43 einen populären Auszug aus der Systematik der Sozial-Lehren gäbe. Aber wird er bei seiner Art, schwer zu schreiben, ein Heft liefern, zu dem nicht etwa wieder „ein Weg“ geschrieben werden müßte? Deshalb ist es uns lieb, daß <rs ref="#tillich_person_id__904" type="person">Hirsch</rs> für 31 noch den Direktor der Volkshochschule in Königsberg, <rs ref="#tillich_person_id__2091" type="person">Dr. Witte</rs>, nennt, der sicher einen wirklichen Weg in diese Probleme zustande brächte. Vielleicht muß man übrigens, wenn man derartige Größen (<rs ref="#tillich_person_id__1954" type="person">Troeltsch</rs>, <rs ref="#tillich_person_id__946" type="person">Husserl</rs> usw.) auffordert, auch mit in den Kauf nehmen, daß sie im Anschluß an den Plan vielleicht irgend etwas Anderes bearbeiten wollen. Berühmte Namen sind natürlich eine erwünschte Zierde einer Sammlung. Aber der Hauptzweck, für Anfänger etwas zu liefern, darf doch nie aus den Augen verloren werden.</p>
+<p>Daß Sie Wert darauf legen, Ihr System aufrecht zu erhalten, ist sicherlich gut und berechtigt, und wir sind damit einverstanden, daß es ohne die Angabe
+des Inhaltes, <choice><abbr>bezw.</abbr><expan>beziehungsweise</expan></choice> der Problemgebiete mindestens in den nächsten Heften zum
+Abdruck kommt. Für die Mitarbeiterwerbung würden wir Ihnen 100 Abzüge des Systems mit dem Inhalt oder Problem-Gebiet herstellen, den Inhalt am besten
+wohl fortlaufend gesetzt mit Gedankenstrichen dazwischen. Nummerierung also nach unserm Vorschlag.</p>
+<p>Nun zu den geschäftlichen Fragen. Die Aufgabe des Herausgebers hatte ja
+zunächst Herr Lic. <rs ref="#tillich_person_id__2746" type="person">Steinmann</rs>, und es ist das Einfachste, daß wir Ihnen anbei
+Abschrift des mit ihm seinerzeit abgeschlossenen Vertrages schicken. Wenn wir jetzt mit einem ganzen System hervortreten, wird es doch wohl das Beste sein, daß wir Ihren Namen als Herausgeber in der Ueberschrift jeden Hefttitels nennen.</p>
+<p>Das Honorar <rs ref="#tillich_person_id__2746" type="person">Steinmanns</rs> war seiner Mitwirkung und Einwirkung entsprechend
+nur gering und muß wesentlich erhöht werden, wie auch das Honorar
+der Mitarbeiter. Allerdings stehen dem gerade gegenwärtig auch wieder erhebliche
+Schwierigkeiten entgegen, da die Hefte infolge der unvernünftig gesteigerten
+Druck-, Papier und Buchbinderkosten schon sehr teuer werden müssen.
+Vielleicht müssen wir daher, obwohl es auch wieder seine Bedenken hat, die
+Auflagen von 2000 auf 2500 erhöhen.</p>
+<p>Wir würden ein Redaktions-Honorar von 150 M. für die erste Auflage, von
+100 M. für jede folgende jedes Heftes vorschlagen, und wären selbstverständlich,
+wenn Ihnen sehr daran gelegen ist, bald eine Einnahme zu erzielen, auch bereit,
+einige Vorschüsse auf die naturgemäß erst allmählich kommenden Beiträge zu
+zahlen, sobald über eine Anzahl von Beiträgen mit nicht zu langen Fristen
+abgeschlossen ist.</p>
+<p>Das Verfasser-Honorar für die einzelnen Hefte würden wir von 320 M. auf
+600 M. zu erhöhen vorschlagen, den Umfang der Hefte aber gern auf sechs
+bis sieben Bogen normieren, dafür aber den Satz wie bei der <rs ref="#tillich_work_id__141" type="work">2. Auflage</rs> von
+<rs ref="#tillich_person_id__2745" type="person">Kinkel</rs> etwas kompresser nehmen, sodaß die Umfangsgrenze tatsächlich nicht
+herabgedrückt würde. Der kompressere Satz liest sich in diesem kleinen Format
+sehr gut.</p>
+<p>Den bisher üblichen Mitarbeiter-Vertrag finden Sie anbei. Die Konkurrenzklausel
+des §6 müßte aber wohl anders gefaßt werden, da sie nach Aufstellung
+Ihres Systems in dieser Fassung wohl kaum nötig wäre.</p>
+<p>Haben Sie die Freundlichkeit, sich zu diesen Vorschlägen zu äußern. Sehr
+schön wäre es, wenn Sie dann recht bald das 22. Heft als ein Spezimen herausgeben
+könnten.</p>
+<closer>
+<salute>In der Hoffnung, daß wir nun bald zu einem förderlichen Abschluß kommen,
+begrüßen wir Sie hochachtungsvoll und ergebenst</salute>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1954">
+                  <persName>Troeltsch, Ernst</persName>
+                  <birth>
+                     <date>1865-02-17</date>
+                     <settlement>
+                        <placeName>Haunstetten</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1923-02-01</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
+               </person>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
+                  <birth>
+                     <date>1888-06-14</date>
+                     <settlement>
+                        <placeName>Bentwisch</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-07-17</date>
+                     <settlement>
+                        <placeName>Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+               </person>
+               <person xml:id="tillich_person_id__2745">
+                  <persName>Kinkel, Walter</persName>
+               </person>
+               <person xml:id="tillich_person_id__2091">
+                  <persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__844">
+                  <persName>Heiler, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1826">
+                  <persName>Spengler, Oswald</persName>
+               </person>
+               <person xml:id="tillich_person_id__946">
+                  <persName>Husserl, Edmund</persName>
+               </person>
+               <person xml:id="tillich_person_id__1548">
+                  <persName>Radbruch, Gustav</persName>
+               </person>
+               <person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2315">
+                  <persName>Mehlis, Georg (Prof.)</persName>
+                  <occupation>Freiburg</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1403">
+                  <persName>Nohl, Herman</persName>
+               </person>
+               <person xml:id="tillich_person_id__2746">
+                  <persName>Steinmann, ???</persName>
+                  <occupation>Herausgeber;</occupation>
+                  <note type="bio"><p>Er war Herausgeber der sogenannten "Wege".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1833">
+                  <persName>Spranger, Eduard</persName>
+               </person>
+               <person xml:id="tillich_person_id__2748">
+                  <persName>Foerster, Erich</persName>
+                  <occupation>Pfarrer; Jurist;</occupation>
+                  <note type="bio"><p>Er war nach einem Studium der Evangelischen Theologie und der Rechtswissenschaft Vikar bei Martin Rade gewesen, bevor er 1893 bis 1895 als Pfarrer in Hirschberg wirkte. 1895 übernahm er das Pfarramt der Reformierten Gemeinde in Frankfurt am Main. An der Frankfurter Akademie für Sozial- und Handelswissenschaften habilitierte er sich 1907.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2105">
+                  <persName>Wundt, Max</persName>
+                  <birth>
+                     <date>1832-08-16</date>
+                     <settlement>
+                        <placeName>Neckarau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1920-08-31</date>
+                     <settlement>
+                        <placeName>Großbothen</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/11863562X</idno>
+               </person>
+               <person xml:id="tillich_person_id__1178">
+                  <persName>Liebert, Arthur</persName>
+               </person>
+               <person xml:id="tillich_person_id__2747">
+                  <persName>Plenge, Johannes</persName>
+                  <occupation>Nationalökonom; Soziologe;</occupation>
+                  <note type="bio"><p>Er war ein Schüler Karl Büchers und lehrte an der WWU Münster.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2135">
+                  <persName>Rickert, Heinrich</persName>
+                  <birth>
+                     <date>1853-05-25</date>
+                     <settlement>
+                        <placeName>Danzig</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1936-07-25</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philosoph;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
+                  <note type="bio"><p>Er spezialisierte sich auf den Neukantianismus.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__42">
+                  <persName>Althaus, Paul</persName>
+                  <birth>
+                     <date>1888-02-04</date>
+                     <settlement>
+                        <placeName>Uetze-Obershagen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1966-05-18</date>
+                     <settlement>
+                        <placeName>Erlangen</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
+               </person>
+               <person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__141">Walter Kinkel, Idealismus und Realismus. Eine Einführung in ihr Wesen und in ihre kulturgeschichtliche Entwicklung, Wege zur Einführung in die Philosophie. Schriften zur Einführung in das philosophische Denken, Heft 3. Göttingen: Vandenhoeck &amp; Ruprecht, 1911, 2., verbesserte Auflage 1920.</bibl>
+               <bibl xml:id="tillich_work_id__145">Hirsch, Emanuel, Deutschlands Schicksal. Staat, Volk und Menschheit im Lichte einer ethischen Geschichtsansicht. Göttingen: Vandenhoeck &amp; Ruprecht, 1920.</bibl>
+               </listBibl></back></text>
+</TEI>

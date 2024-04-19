@@ -1,100 +1,99 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00062">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Toni Winkler, Elisabeth, Johanna und Johannes Tillich an Paul Tillich
-               <lb/>vom 13. Juni 1905 </title>
-            <author ref="#tillich_person_id__2085">Toni Winkler</author>
-            <author ref="#tillich_person_id__1762">Elisabeth Tillich</author>
-            <author ref="#tillich_person_id__644">Johanna Tillich</author>
-            <author ref="#tillich_person_id__1924">Johannes Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00062.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00061.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00063.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Toni Winkler, Elisabeth, Johanna und Johannes Tillich an Paul Tillich vom 13. Juni 1905</title>
+<author ref="#tillich_person_id__2085">Toni Winkler</author>
+<author ref="#tillich_person_id__1762">Elisabeth Tillich</author>
+<author ref="#tillich_person_id__644">Johanna Tillich</author>
+<author ref="#tillich_person_id__1924">Johannes Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/205(15)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/205(15)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
-               <persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
-               <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
-               <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
-               <placeName ref="#tillich_place_id__37">Berlin</placeName>
-               <date when="1905-06-13">13.06.1905</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00061">Brief von Toni Winkler, Johannes und Elisabeth Tillich an Paul Tillich </ref><ref subtype="next_letter" type="withinCollection" target="L00063">Brief von Toni Winkler, Elisabeth und Johannes Tillich an Paul Tillich </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2023-01-14">Intitale Auszeichnung des Transkripts</change>
-         <change who="EL" when="2023-10-16">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>
-                  <date when="1905-06-13">13/6. 05.</date></dateline>
-               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Sohn</rs>!</salute>
-            </opener>
-            <p>Dein Brief vom <date when="1905-06-09">9.</date>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+<persName ref="#tillich_person_id__1762">Elisabeth Tillich</persName>
+<persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+<persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date when="1905-06-13">13.06.1905</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00061">Brief von Toni Winkler, Johannes und Elisabeth Tillich an Paul Tillich vom 5. Juni 1905</ref><ref subtype="next_letter" type="withinCollection" target="L00063">Brief von Toni Winkler, Elisabeth und Johannes Tillich an Paul Tillich vom 10. Juni 1905</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-01-14" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-10-16" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+<date when="1905-06-13">13/6. 05.</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Sohn</rs>!</salute>
+</opener>
+<p>Dein Brief vom <date when="1905-06-09">9.</date>
                veranlaßt mich, schon heute an Dich zu schreiben um des
                teilweise melancholischen Inhalts willen. Oder klingt es nur so? - Ich hoffe, daß Du
                in diesen Tagen gute Ruhe gepflegt und Dich erholt hast. Es scheint mir, daß es mit
@@ -104,12 +103,12 @@
                in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> erwartet wurde? 3). Eventuell aus welchen Ursachen?
                4). Wie lange wird vermutlich der Heilungsprozeß noch dauern? 5). Wie steht es mit
                Deinem Gesammtbefinden, fühlst Du Dich noch nicht frisch?</p>
-            <p>Beantworte mir das alles <hi rend="u">offen</hi> und <hi rend="u">klar</hi>!! Ich
+<p>Beantworte mir das alles <hi rend="u">offen</hi> und <hi rend="u">klar</hi>!! Ich
                habe d. Festarbeit gut überstanden, bin allerdings heute abgespannt. Morgen will ich
                mit <rs ref="#tillich_person_id__2085" type="person">Frl. T.</rs> nach
                <rs ref="#tillich_place_id__34" type="place">Belzig</rs> <hi rend="sup">x)</hi>. Wenn möglich gedenke ich zu <rs ref="#tillich_person_id__800" type="person">Harders</rs> Hochzeit zu fahren. Schreibe ihm ein paar Zeilen,
-               die <note place="foot">Eben kommt Absage von dort, darum alle nach
-                     <rs ref="#tillich_place_id__213" type="place">Hohen-Neuendorf</rs></note><pb n="3"/> Du mir zum Mitnehmen
+               die <add place="foot">Eben kommt Absage von dort, darum alle nach
+                     <rs ref="#tillich_place_id__213" type="place">Hohen-Neuendorf</rs></add><pb n="3"/> Du mir zum Mitnehmen
                schicken kannst (Hochzeit ist am <date when="1905-06-21">21.</date>). - Daß <rs ref="#tillich_person_id__2224" type="person">Onkel
                   Paul</rs> d. Lizentiaten cum laude gemacht hat, wird Dich sehr gefreut haben. Nun findet noch die öffentliche Disputation in <rs ref="#tillich_place_id__181" type="place">Greifswald</rs> am
                <date when="1905-06-27">27.</date> statt, bei der ich als Opponent fungieren soll. So liegt noch viel vor bis zur
@@ -121,27 +120,27 @@
                es ungewiß ist, ob wir den Schluß der Reisezeit in <rs ref="#tillich_place_id__164" type="place">Freiburg</rs>
                verbringen können. Also überlege einmal u. überschlage die Kosten der dortigen
                Aufenthalte!-</p>
-            <p>Mit Deinen wissenschaftlichen Ausführungen bin ich <del rend="s">mit</del> im großen
+<p>Mit Deinen wissenschaftlichen Ausführungen bin ich <del rend="s">mit</del> im großen
                und ganzen einverstanden. Auch ich will keine Theologie, die in der Luft schwebt. Der
                wissenschaftliche Platz muß als berechtigt nachgewiesen werden. Aber die Theologie
                ist doch mehr "gegeben" als das<pb n="5"/> natürliche "Ich", nämlich das christliche
                oder wiedergeborene Ich mit seinem eigentümlichen Bewußtseinsinhalt. Gegen diesen
                Inhalt kann <rs ref="#tillich_person_id__586" type="person">Feuerbach</rs> nicht an, weil diesem
                christlichen Bewußtsein <hi rend="u">unmittelbare</hi> Gewißheit eignet, die eben so
-               reale Tatsache ist wie die unsres Daseins und Lebens überhaupt. Vergl. <rs type="bible" resp="1.Cor-2,9-14">1 Cor 2, 9-14.</rs>- Gerade das Pfingstfest
+               reale Tatsache ist wie die unsres Daseins und Lebens überhaupt. Vergl. <rs resp="1.Cor-2,9-14" type="bible">1 Cor 2, 9-14.</rs>- Gerade das Pfingstfest
                hat uns wieder an die <hi rend="u">Tatsache</hi> einer <hi rend="u">göttlichen</hi>
                Geistesmitteilung erinnert, der dann auch der Theologe ihren Inhalt gibt. Ohne dies
                bliebe die Theologie mir Vernunftspekulation, Geschichte<pb n="6"/> und Philologie,
                wie sie das ja zum Teil bei den Modernen geworden ist.- Doch genug davon: Eben ist
                   <rs ref="#tillich_person_id__644" type="person">Johanna</rs> aus <rs ref="#tillich_place_id__375" type="place">Ruppin</rs>
                zurückgekehrt. Gott behüte Dich. Schreibe zum Sonnabend! </p>
-            <closer>
-               <signed>Dein tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs></signed>
-            </closer>
-         </div>
-         <div>
-            <opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute></opener>
-            <p>besten Dank für Deinen Brief, von dem <hi rend="u">ich</hi> ja allerdings nur die
+<closer>
+<signed>Dein tr. <rs ref="#tillich_person_id__1924" type="person">Vater</rs></signed>
+</closer>
+</div>
+<div>
+<opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute></opener>
+<p>besten Dank für Deinen Brief, von dem <hi rend="u">ich</hi> ja allerdings nur die
                Hälfte verstanden. Denkst Du auch an <rs ref="#tillich_person_id__1762" type="person">Elisabeth's</rs>
                Geburtstag am Sonnabend? Warum bist Du denn so niedergeschlagen. Wir alle sind
                besorgt. Schreib nur recht <hi rend="u">ausführlich</hi>.<pb n="7"/> Bist du nicht
@@ -151,57 +150,43 @@
                   <rs ref="#tillich_place_id__375" type="place">Ruppin</rs> war es sehr nett, Onkel u. Tante sind sehr
                freundlich, der See, den Du ja auch kennst, ist ja wunderhübsch. <del rend="s">Du
                   weißt doch</del></p>
-            <p>In der Hoffnung, daß Du recht vergnügt und fröhlich bist und recht genau alles
+<p>In der Hoffnung, daß Du recht vergnügt und fröhlich bist und recht genau alles
                schreibst bin ich Deine</p>
-            <signed>Schwester <rs ref="#tillich_person_id__644" type="person">Johanna</rs></signed>
-            <postscript>
-               <p>Schreib an <rs ref="#tillich_person_id__2192" type="person">Schwester Therese</rs></p>
-               <p>Ich lerne fleißig Italienisch, habe Geigenstunden, Klavier u.s. w. u. muß mich
+<signed>Schwester <rs ref="#tillich_person_id__644" type="person">Johanna</rs></signed>
+<postscript>
+<p>Schreib an <rs ref="#tillich_person_id__2192" type="person">Schwester Therese</rs></p>
+<p>Ich lerne fleißig Italienisch, habe Geigenstunden, Klavier u.s. w. u. muß mich
                   noch immer recht erholen!!</p>
-               <p>Einen Pfingstmaiengruß!</p>
-               <p>Morgen kommen auch <rs ref="#tillich_person_id__2224" type="person"><rs ref="#tillich_person_id__2225" type="person">Dürselens</rs></rs> wieder. Schreib an sie!</p>
-            </postscript>
-         </div>
-         <div>
-            <opener><salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute></opener>
-            <p>Soeben habe ich Dir Alles besorgt was ich denke, was Dir Freude macht,
+<p>Einen Pfingstmaiengruß!</p>
+<p>Morgen kommen auch <rs ref="#tillich_person_id__2224" type="person"><rs ref="#tillich_person_id__2225" type="person">Dürselens</rs></rs> wieder. Schreib an sie!</p>
+</postscript>
+</div>
+<div>
+<opener><salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute></opener>
+<p>Soeben habe ich Dir Alles besorgt was ich denke, was Dir Freude macht,
                   <unclear>Carar</unclear> war neulich wohl etwas wenig, Wurst ist nur klein, dafür
                sende ich Dir einen ganzen lütten Schinken mit, schreibe nur, ob er gut ist.-
                Außerdem noch was an Wäsche hier ist, 1 Unterhose, u. 1 paar Manschetten dazu
                natürlich die Schokolade, die Du sonst sehr vermissen würdest. Nun ist
                Missionsnähverein </p>
-            <closer><salute>Herzl gruß</salute>
-               <signed>Deine <rs ref="#tillich_person_id__2085" type="person">Tante Toni</rs></signed></closer>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1928"><reference>Sohn</reference><persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__2085"><reference>Frl. T.</reference><persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person><person ref="#tillich_person_id__800"><reference>Harders</reference><persName>Harder, Erich</persName>
+<closer><salute>Herzl gruß</salute>
+<signed>Deine <rs ref="#tillich_person_id__2085" type="person">Tante Toni</rs></signed></closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__800">
+                  <persName>Harder, Erich</persName>
                   <occupation>Pfarrer;</occupation>
-               </person><person ref="#tillich_person_id__2224"><reference>Onkel
-                  Paul</reference><persName>Dürselen , Paul Rudolf</persName>
+               </person>
+               <person xml:id="tillich_person_id__2224">
+                  <persName>Dürselen , Paul Rudolf</persName>
                   <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
-               </person><person ref="#tillich_person_id__644"><reference>Johanna</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__644"><reference>Johanna</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__586"><reference>Feuerbach</reference><persName>Feuerbach, Ludwig</persName>
-               </person><person ref="#tillich_person_id__644"><reference>Johanna</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__1924"><reference>Vater</reference><persName>Tillich, Johannes Oskar</persName>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
                   </birth>
@@ -211,30 +196,30 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__1762"><reference>Elisabeth's</reference><persName>Seeberger, Elisabeth</persName>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person><person ref="#tillich_person_id__644"><reference>Johanna</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__2192"><reference>Schwester Therese</reference><persName>???, Therese</persName>
+               </person>
+               <person xml:id="tillich_person_id__2192">
+                  <persName>???, Therese</persName>
                   <occupation>Gemeindeschwester;</occupation>
                   <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
-               </person><person ref="#tillich_person_id__2225"><reference>Dürselens</reference><persName>Dürselen, Johanna Amalia Eugenia</persName>
+               </person>
+               <person xml:id="tillich_person_id__586">
+                  <persName>Feuerbach, Ludwig</persName>
+               </person>
+               <person xml:id="tillich_person_id__2225">
+                  <persName>Dürselen, Johanna Amalia Eugenia</persName>
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -247,55 +232,54 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__2085"><reference>Tante Toni</reference><persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place><place ref="#tillich_place_id__34"><reference>Belzig</reference><placeName>Belzig</placeName>
-                  <location type="coords">
-                     <geo>52.14184 12.59272</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2951134/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31909574</idno>
-               </place><place ref="#tillich_place_id__213"><reference>Hohen-Neuendorf</reference><placeName>Hohen Neuendorf</placeName>
-                  <location type="coords">
-                     <geo>52.67631 13.27775</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
-               </place><place ref="#tillich_place_id__181"><reference>Greifswald</reference><placeName>Greifswald</placeName>
-                  <location type="coords">
-                     <geo>54.09311 13.38786</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2917788/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041909</idno>
-               </place><place ref="#tillich_place_id__164"><reference>Freiburg</reference><placeName>Freiburg</placeName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__164">
+                  <placeName>Freiburg</placeName>
                   <location type="coords">
                      <geo>47.99590 7.85222</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2925177/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
-               </place><place ref="#tillich_place_id__375"><reference>Ruppin</reference><placeName>Ruppin</placeName>
+               </place>
+               <place xml:id="tillich_place_id__213">
+                  <placeName>Hohen Neuendorf</placeName>
+                  <location type="coords">
+                     <geo>52.67631 13.27775</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
+               </place>
+               <place xml:id="tillich_place_id__181">
+                  <placeName>Greifswald</placeName>
+                  <location type="coords">
+                     <geo>54.09311 13.38786</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2917788/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041909</idno>
+               </place>
+               <place xml:id="tillich_place_id__34">
+                  <placeName>Belzig</placeName>
+                  <location type="coords">
+                     <geo>52.14184 12.59272</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2951134/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31909574</idno>
+               </place>
+               <place xml:id="tillich_place_id__375">
+                  <placeName>Ruppin</placeName>
                   <location type="coords">
                      <geo>52.94833 12.84800</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2956883/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q433253</idno>
-               </place><place ref="#tillich_place_id__375"><reference>Ruppin</reference><placeName>Ruppin</placeName>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
-                     <geo>52.94833 12.84800</geo>
+                     <geo>52.52437 13.41053</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2956883/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q433253</idno>
-               </place></listPlace><listLetter/></back></text>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

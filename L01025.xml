@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01025.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01024.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01027.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Erich Seeberg vom 29. Juli 1929</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Friedrich Schumann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Koblenz</settlement>
+                  <institution>Bundesarchiv Koblenz</institution>
+                  <collection>Nachlass Reinhold und Erich Seeberg</collection>
+                  <idno>N 1248</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, maschinenschriftlich</p>
+                  </physDesc>
+               <additional> 
+                  <listBibl>
+                     <biblStruct type="journal" n="firstPrint">
+                        <monogr>
+                           <author>Erdmann Sturm</author>
+                           <title>"Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924–1935)</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace><pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                              <date when="2012">2012</date>
+                              <biblScope>211–253, hier: 237f.</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>International Yearbook for Tillich Research</title>
+                           <biblScope>Bd. 7, H. 1</biblScope>
+                        </series>
+                     </biblStruct>  
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+              <date when="1929-07-29">29.07.1929</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1760">Erich Seeberg</persName>
+           </correspAction>
+        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01024">Postkarte von Paul Tillich an Fritz Medicus vom 22. Mai 1929 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01027">Brief von Paul Tillich an Verlag Mohr Siebeck vom 20. August 1929</ref></correspContext></correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="FS" when="2023-09-04">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2024-01-10">Endabnahme</change>
+        
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline>Feldbergstr. 7, den <date when="1929-07-29">29. 7. 29</date><note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf. geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note></dateline>
+           <salute>Lieber Herr <rs ref="#tillich_person_id__1760" type="person">Seeberg</rs>!</salute>
+        </opener>
+        <p>Herzlichen Dank für Ihre Anfrage<note type="ea">Gemeint ist der Auftrag, ein Lehrbuch der Ethik für eine von E. Seeberg herausgegebene Reihe zu schreiben. Das dazugehörige Schreiben liegt nicht vor.</note>. Mich lockt Ihr Auftrag nach wie vor sehr. Ich würde Sie nur bitten, den Termin um ein Jahr herauszuschieben. Mit den Bedingungen bin ich einverstanden.</p>
+        <p>Ihr <rs ref="#tillich_work_id__105" type="work">Buch</rs> lege ich eben in meinen Koffer, um es in <rs ref="#tillich_place_id__230" type="place">Kampen auf Sylt</rs> durchzustudieren. Ich freue mich darauf und gebe Ihnen Nachricht, sobald ich es gelesen habe. Im übrigen bewaffne ich mich mit <rs ref="#tillich_work_id__87" type="work">Heideggers Kantbuch</rs> und einigem Material für mein <rs ref="#tillich_work_id__106" type="work">geschichtsphilosophisches Kolleg</rs> im nächsten Winter. Sollte der Druck Ihrer <rs ref="#tillich_work_id__107" type="work">Vorträge</rs> bis zum <date when="1929-11">November</date> nicht möglich sein, so wäre ich Ihnen für einen Schreibmaschinendurchschlag dankbar.</p>
+        <p>Ich komme Ende <date when="1929-10">Oktober</date> nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs> zu einem Vortrag über <rs ref="#tillich_work_id__108" type="work">Philosophie der Macht</rs> in der sozialen Frauenakademie, werde mehrere Tage bleiben und Sie selbstverständlich aufsuchen, vielleicht mit <rs ref="#tillich_person_id__1923" type="person">meiner Frau</rs>. Wo fahren Sie im Sommer hin? Hoffentlich befolgen Sie meine Ratschläge, die ich Ihnen in <rs ref="#tillich_place_id__23" type="place">Reichenhall</rs> vor einem Jahr gab, und ruhen sich gründlich an einem Ort aus.
+</p>
+        <closer>
+           <salute>Herzlichen Gruß Ihnen Beiden und auf Wiedersehen im <date when="1929-10">Oktober</date> Ihr</salute>
+           <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs></signed>
+        </closer>  
+     </div>
+    </body>
+  <back><listBibl><bibl xml:id="tillich_work_id__105">Seeberg, Erich, Luthers Theologie. Motive und Ideen I. Die Gottesanschauung, Göttingen 1929</bibl>
+               <bibl xml:id="tillich_work_id__107">Seeberg, Erich, Wirklichkeit und Geist im Deutschland von heute, Leipzig 1919</bibl>
+               <bibl xml:id="tillich_work_id__87">Heidegger, Martin, Kant und das Problem der Metaphysik, Bonn 1929.</bibl>
+               <bibl xml:id="tillich_work_id__106">Tillich, Paul, Vorlesung zur Geschichtsphilosophie, Frankfurt Wintersemester 1929/1930, in: EW XV, S. 1-118.</bibl>
+               <bibl xml:id="tillich_work_id__108">Tillich, Paul, Philosophie der Macht (zwei Manuskripte), in: EW XI/2, S. 226-232 und S. 233-247</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1760">
+                  <persName>Seeberg, Erich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__230">
+                  <placeName>Kampen</placeName>
+                  <location type="coords">
+                     <geo>54.95411 8.34171</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__23">
+                  <placeName>Bad Reichenhall</placeName>
+                  <location type="coords">
+                     <geo>47.72947 12.87819</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953371/</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

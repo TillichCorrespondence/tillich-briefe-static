@@ -1,107 +1,244 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01244">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Brief von Paul Tillich an Hannah Tillich
-                    <lb/>vom 1. oder 2. August 1933<note type="ea">Dieser Brief ist mit keinem Datum versehen. Die hier vorgenommene Datierung ergibt sich aus seinem engen Bezug zum <rs xml:id="L01242" type="letter">Telegramm Tillichs an seine Frau vom 1. August 1933</rs> bzw. dem dazugehörigen <rs xml:id="L01243" type="letter">Brief</rs>.</note>
-                </title>
-                <author ref="#tillich_person_id__1928">Paul Tillich</author>
-                <respStmt>
-                    <resp>Editor</resp>
-                    <name>Friedrich Schumann</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>
-                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-                    <address>
-                        <street>Schenkenstraße 8-10</street>
-                        <postCode>1010</postCode>
-                        <placeName ref="#tillich_place_id__470">
-                            <settlement>Wien</settlement>
-                            <country>Österreich</country>
-                        </placeName>
-                    </address>
-                </publisher>
-                <availability>
-                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-                </availability>        
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc type="manuscript">
-                    <msIdentifier>
-                        <country>USA</country>
-                        <settlement>Cambridge, MA</settlement>
-                        <institution>Harvard University</institution>
-                        <repository>Harvard Divinity School Library</repository>
-                        <collection>Tillich, Hannah. Papers, 1896-1976</collection>
-                        <idno>bMS 721/3(3)</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <p>Brief, eigenhändig</p>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-            </projectDesc>
-            <editorialDecl>
-                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-            </editorialDecl>
-        </encodingDesc> 
-        <profileDesc>
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-                    <placeName ref="#tillich_place_id__37">Berlin</placeName>
-                    <date from="1933-08-01" to ="1933-08-02">01.-02.08.1933</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
-                    <placeName ref="#tillich_place_id__389">Sassnitz (Rügen)</placeName>
-                </correspAction>
-            </correspDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-            </langUsage>
-        </profileDesc>
-        <revisionDesc status="approved">
-            <change who="FS" when="2023-05-31">Initiale Auszeichnung des Transkripts</change>
-            <change who="FS" when="2023-12-07">Endabnahme</change>
-            
-        </revisionDesc>
-    </teiHeader>
-    <text type="letter">
-        <body>
-            <div type="writingSession">
-                <pb n="1"/>
-                <opener>
-                    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
-                </opener>
-                <p>Nun hast Du <rs xml:id="L01243" type="letter">Brief</rs> und <rs xml:id="L01242" type="letter">Telegramm</rs>; hoffentlich ist alles ganz klar geworden. Beeinflußt bin ich von niemand, da es sich zunächst gar nicht um Entscheidungen, sondern um Feststellungen handelt. Von einer Entscheidung kann höchstens insofern die Rede sein, als ich, wenn ich hinausgehe, den Rückweg nicht abschneiden will, aber das ist ja nur die Fortsetzung meiner Grundhaltung. Entscheidungen kann es nur in drei Fällen geben:</p>
-                <p>1) Wenn wider Erwarten trotz Pensionierung der Urlaub abgelehnt wird. Dann ist klar: Abfahrt!</p>
-                <p>2) Wenn die Rehabilitierung mit unmöglichen Forderungen verknüpft ist oder schon die Verhandlungen unmögliche Formen annehmen. Dann ist ebenfalls klar: Abfahrt.</p>
-                <p>3) Wenn die Termine doch in einer solchen Weise zusammenstoßen, daß Columbia rechtlich gefährdet ist. Dann könnte es noch einmal einen wirklichen Konflikt geben. Und dann müßten wir ganz von uns aus entscheiden. Und ich glaube fast: Auch dann: Abfahrt.</p>
-                                <p>Ich hoffe, Du siehst damit, daß meine innere Stimmung mehr als <pb n="2"/> je in die Weite geht. Aber ich muß mein gutes Gewissen retten.</p>
-                <p>Gestern mit <rs ref="#tillich_person_id__2408" type="person"><rs ref="#tillich_person_id__718" type="person">Grim<expan>me</expan>'s</rs></rs> bei Frau <rs ref="#tillich_person_id__2422" type="person">Meier-Kuhlenkamp</rs>, der sich selbst beurlaubt habenden Chefin der staatlichen Augustaschule. Auch sie könnte mit dabei sein, wenn <rs ref="#tillich_person_id__1307" type="person">Carolus</rs> und <rs ref="#tillich_person_id__718" type="person">Grim<expan>me</expan></rs> ein <hi rend="u">Land</hi>schulheim (ich hatte mich verschrieben<note type="ea">Tillich hatte in einem vorangehenden <rs xml:id="L01240">Brief</rs> die Gründung eines "Volksschulheims" vorgeschlagen.</note>) gründen würden. <rs ref="#tillich_person_id__718" type="person">Grim<expan>me</expan></rs> denkt sehr über den Plan nach, hält ihn fast für die einzige Möglichkeit für sich; draußen, aber für die drinnen. <rs ref="#tillich_person_id__1307" type="person">Carolus</rs> soll sofort, wenn er hier ist, bei <rs ref="#tillich_person_id__718" type="person">Grim<expan>me</expan></rs> anrufen, da er die Sache mit ihm und jener (die schon 4 Wochen draußen gereist ist)<note type="ea">Nicht ermittelt.</note> besprechen kann. – In der Sache <rs ref="#tillich_person_id__2316" type="person">Emils</rs> sind zunächst nur <hi rend="u">drei</hi> Abteilungen vorgesehen: Ökonomie, Recht, Soziologie und als Band Philosophie.<note type="ea">Gemeint ist die im Aufbau befindliche "University in Exile" im Rahmen der New Yorker School for Social Research.</note> Die Sache soll aber erweitert werden; und ich halte eine pädagogische Erweiterung für <hi rend="u">durchaus möglich</hi>. – Dieses alles für <rs ref="#tillich_person_id__1307" type="person">Carolus</rs>.</p>
-                <p>Heut Nachmittag bei Hans<note type="ea">Identität nicht gesichert, vermutlich ist jedoch <rs ref="#tillich_person_id__1845" type="person">Hans Staudinger</rs> gemeint (siehe auch die Briefe vom <rs xml:id="L01239" type="letter">29. Juli 1933</rs> und vom <rs xml:id="L01240" type="letter">30. Juli 1933</rs>). Staudinger war etwa einen Monat lang in Schutzhaft gesessen.</note>. Es geht ihm ein wenig besser; immerhin hat er damals auch eine Rippe gebrochen, was erst jetzt <pb n="3"/> vom Arzt festgestellt ist(!!) Hans ist völlig überzeugt von der Richtigkeit meines Verhaltens: Nicht von seinen Verfahren weglaufen! Ebenso alle mit denen ich sonst telephoniert habe. Wir (Hans und ich) haben beschlossen, daß ich einen <rs xml:id="L01245" type="letter">Brief</rs> an <rs ref="#tillich_person_id__2316" type="person">Emil</rs> schreibe mit der dringenden Bitte, sich die Chancen nicht durch Terminstellung zu verderben. Der Brief soll so sein, daß ihn auch <rs ref="#tillich_person_id__2423" type="person">Johnson</rs> versteht; dann haben wir Freiheit, bis über uns entschieden ist. Denn das gilt ja nicht nur für mich. Hoffentlich hat es Erfolg.</p>
-                <p><rs ref="#tillich_person_id__2041" type="person">M.L.'chen</rs> herzlichen Dank für ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note>. Anbei eine Karte<note type="ea">Dieser Karte liegt nicht vor.</note> an sie; sonst nur Drucksachen. Zum Englisch reicht die Kraft leider nicht mehr. <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> wollte heut oder morgen fahren. Jedenfalls wartet er nicht bis Sonnabend. – Über <rs ref="#tillich_person_id__570" type="person">Erdmuthes</rs> Ankunftszeit noch keine Nachricht. Ich freue mich so auf sie und auf die Reise mit ihr. <pb n="4"/></p>
-                <p>Wir müssen also noch den Ort wechseln. Es ist vielerlei dabei zu bedenken. Wir entscheiden uns alle zusammen, wenn ich da bin.</p>
-                <p>Heut Nachmittag Einkauf mit <rs ref="#tillich_person_id__1211" type="person">Cläre</rs>. Deine energischen Briefe haben ihr viel Spaß gemacht. Sie wird die Sache schon gut machen. – Später kam Eure komische Karte<note type="ea">Diese Karte liegt nicht vor.</note>. Die Namen finde ich ausgezeichnet; doch verstehe ich die gelehrte Anspielung nicht ganz.</p>
-                <p>Deine Fragen, die eben gekommen sind, sind ja durch meinen <rs ref="L01243">Brief</rs> beantwortet. Über Columbia weiß ich noch nichts Genaues. Da muß ich erst Brief mit offizieller Anfrage und Bedingungen abwarten. In <rs ref="#tillich_person_id__2316" type="person">Emils</rs> Sache werden Reise und Umzug <hi rend="u">nicht</hi> bezahlt. Ob in der anderen Sache ist unklar. Bald mehr!
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01244.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01243.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01245.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich vom 1. oder 2. August 1933Dieser Brief ist mit keinem Datum versehen. Die hier vorgenommene Datierung ergibt sich aus seinem engen Bezug zum Telegramm Tillichs an seine Frau vom 1. August 1933 bzw. dem dazugehörigen Brief.<note type="ea">Dieser Brief ist mit keinem Datum versehen. Die hier vorgenommene Datierung ergibt sich aus seinem engen Bezug zum <rs ref="L01242" type="letter">Telegramm Tillichs an seine Frau vom 1. August 1933</rs> bzw. dem dazugehörigen <rs ref="L01243" type="letter">Brief</rs>.</note>
+</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/3(3)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin</placeName>
+<date notAfter="1933-08-02" notBefore="1933-08-01">01.08.1933-02.08.1933</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+<placeName ref="#tillich_place_id__389">Sassnitz (Rügen)</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L01243">Brief von Paul Tillich an Hannah Tillich vom 1. oder 2. August 1933Der Brief ist mit keinem Datum versehen. Die hier vorgenommene Datierung ergibt sich aus seinem unmittelbaren Bezug auf das Telegramm Paul Tillichs an Hannah Tillich vom 1. August 1933.</ref><ref subtype="next_letter" type="withinCollection" target="L01245">Brief von Paul Tillich an Emil Lederer vermutlich vom 2. oder 3. August 1933Der Brief trägt kein Datum. Die hier vorgenommene Datierung ergibt sich aus dem Kontext: Die Abfassung des vorliegenden Briefes hat Tillich kurz zuvor in einem Brief an Hannah Tillich angekündigt. Am 4. August 1933 schreibt er an seine Frau, dass "der Brief an Emil anbeiliegt". Es handelt sich bei diesem Schreiben zudem offenbar nicht um das Endprodukt, sondern um den handschriftlichen Briefentwurf, der vermutlich von Hannah Tillich maschinell abgetippt und von Sassnitz aus offiziell versendet werden sollte, während Tillich sich noch in Berlin befand.</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-05-31" who="FS">Initiale Auszeichnung des Transkripts</change>
+<change when="2023-12-07" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+<p>Nun hast Du <rs ref="L01243" type="letter">Brief</rs> und <rs ref="L01242" type="letter">Telegramm</rs>; hoffentlich ist alles ganz klar geworden. Beeinflußt bin ich von niemand, da es sich zunächst gar nicht um Entscheidungen, sondern um Feststellungen handelt. Von einer Entscheidung kann höchstens insofern die Rede sein, als ich, wenn ich hinausgehe, den Rückweg nicht abschneiden will, aber das ist ja nur die Fortsetzung meiner Grundhaltung. Entscheidungen kann es nur in drei Fällen geben:</p>
+<p>1) Wenn wider Erwarten trotz Pensionierung der Urlaub abgelehnt wird. Dann ist klar: Abfahrt!</p>
+<p>2) Wenn die Rehabilitierung mit unmöglichen Forderungen verknüpft ist oder schon die Verhandlungen unmögliche Formen annehmen. Dann ist ebenfalls klar: Abfahrt.</p>
+<p>3) Wenn die Termine doch in einer solchen Weise zusammenstoßen, daß Columbia rechtlich gefährdet ist. Dann könnte es noch einmal einen wirklichen Konflikt geben. Und dann müßten wir ganz von uns aus entscheiden. Und ich glaube fast: Auch dann: Abfahrt.</p>
+<p>Ich hoffe, Du siehst damit, daß meine innere Stimmung mehr als <pb n="2"/> je in die Weite geht. Aber ich muß mein gutes Gewissen retten.</p>
+<p>Gestern mit <rs ref="#tillich_person_id__2408" type="person"><rs ref="#tillich_person_id__718" type="person">Grim<expan>me</expan>'s</rs></rs> bei Frau <rs ref="#tillich_person_id__2422" type="person">Meier-Kuhlenkamp</rs>, der sich selbst beurlaubt habenden Chefin der staatlichen Augustaschule. Auch sie könnte mit dabei sein, wenn <rs ref="#tillich_person_id__1307" type="person">Carolus</rs> und <rs ref="#tillich_person_id__718" type="person">Grim<expan>me</expan></rs> ein <hi rend="u">Land</hi>schulheim (ich hatte mich verschrieben<note type="ea">Tillich hatte in einem vorangehenden <rs ref="L01240">Brief</rs> die Gründung eines "Volksschulheims" vorgeschlagen.</note>) gründen würden. <rs ref="#tillich_person_id__718" type="person">Grim<expan>me</expan></rs> denkt sehr über den Plan nach, hält ihn fast für die einzige Möglichkeit für sich; draußen, aber für die drinnen. <rs ref="#tillich_person_id__1307" type="person">Carolus</rs> soll sofort, wenn er hier ist, bei <rs ref="#tillich_person_id__718" type="person">Grim<expan>me</expan></rs> anrufen, da er die Sache mit ihm und jener (die schon 4 Wochen draußen gereist ist)<note type="ea">Nicht ermittelt.</note> besprechen kann. – In der Sache <rs ref="#tillich_person_id__2316" type="person">Emils</rs> sind zunächst nur <hi rend="u">drei</hi> Abteilungen vorgesehen: Ökonomie, Recht, Soziologie und als Band Philosophie.<note type="ea">Gemeint ist die im Aufbau befindliche "University in Exile" im Rahmen der New Yorker School for Social Research.</note> Die Sache soll aber erweitert werden; und ich halte eine pädagogische Erweiterung für <hi rend="u">durchaus möglich</hi>. – Dieses alles für <rs ref="#tillich_person_id__1307" type="person">Carolus</rs>.</p>
+<p>Heut Nachmittag bei Hans<note type="ea">Identität nicht gesichert, vermutlich ist jedoch <rs ref="#tillich_person_id__1845" type="person">Hans Staudinger</rs> gemeint (siehe auch die Briefe vom <rs ref="L01239" type="letter">29. Juli 1933</rs> und vom <rs ref="L01240" type="letter">30. Juli 1933</rs>). Staudinger war etwa einen Monat lang in Schutzhaft gesessen.</note>. Es geht ihm ein wenig besser; immerhin hat er damals auch eine Rippe gebrochen, was erst jetzt <pb n="3"/> vom Arzt festgestellt ist(!!) Hans ist völlig überzeugt von der Richtigkeit meines Verhaltens: Nicht von seinen Verfahren weglaufen! Ebenso alle mit denen ich sonst telephoniert habe. Wir (Hans und ich) haben beschlossen, daß ich einen <rs ref="L01245" type="letter">Brief</rs> an <rs ref="#tillich_person_id__2316" type="person">Emil</rs> schreibe mit der dringenden Bitte, sich die Chancen nicht durch Terminstellung zu verderben. Der Brief soll so sein, daß ihn auch <rs ref="#tillich_person_id__2423" type="person">Johnson</rs> versteht; dann haben wir Freiheit, bis über uns entschieden ist. Denn das gilt ja nicht nur für mich. Hoffentlich hat es Erfolg.</p>
+<p><rs ref="#tillich_person_id__2041" type="person">M.L.'chen</rs> herzlichen Dank für ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note>. Anbei eine Karte<note type="ea">Dieser Karte liegt nicht vor.</note> an sie; sonst nur Drucksachen. Zum Englisch reicht die Kraft leider nicht mehr. <rs ref="#tillich_person_id__1887" type="person">Eckart</rs> wollte heut oder morgen fahren. Jedenfalls wartet er nicht bis Sonnabend. – Über <rs ref="#tillich_person_id__570" type="person">Erdmuthes</rs> Ankunftszeit noch keine Nachricht. Ich freue mich so auf sie und auf die Reise mit ihr. <pb n="4"/></p>
+<p>Wir müssen also noch den Ort wechseln. Es ist vielerlei dabei zu bedenken. Wir entscheiden uns alle zusammen, wenn ich da bin.</p>
+<p>Heut Nachmittag Einkauf mit <rs ref="#tillich_person_id__1211" type="person">Cläre</rs>. Deine energischen Briefe haben ihr viel Spaß gemacht. Sie wird die Sache schon gut machen. – Später kam Eure komische Karte<note type="ea">Diese Karte liegt nicht vor.</note>. Die Namen finde ich ausgezeichnet; doch verstehe ich die gelehrte Anspielung nicht ganz.</p>
+<p>Deine Fragen, die eben gekommen sind, sind ja durch meinen <rs ref="L01243">Brief</rs> beantwortet. Über Columbia weiß ich noch nichts Genaues. Da muß ich erst Brief mit offizieller Anfrage und Bedingungen abwarten. In <rs ref="#tillich_person_id__2316" type="person">Emils</rs> Sache werden Reise und Umzug <hi rend="u">nicht</hi> bezahlt. Ob in der anderen Sache ist unklar. Bald mehr!
                 </p>
-                <closer>
+<closer>
 <salute><unclear>Grüß</unclear> herzlich!</salute>
-                    <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-                </closer>
-            </div>
-        </body>
-    </text>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1845">
+                  <persName>Staudinger, Hans</persName>
+                  <birth>
+                     <date>1889-08-16</date>
+                     <settlement>
+                        <placeName>Worms</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1980-02-25</date>
+                     <settlement>
+                        <placeName>New York, NY</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker der Sozialdemokratischen Partei Deutschlands (SPD) und Wirtschaftswissenschaftler sowie von 1929 bis 1932 Staatssekretär im preußischen Handelsministerium.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118616919</idno>
+                  <note type="bio"><p>Studium der Nationalökonomie sowie Soziologie in Heidelberg, wo er 1913 bei Alfred Weber promoviert wurde. Bereits als Student in die SPD eingetreten, bekleidete S. nach dem Ersten Weltkrieg diverse Verwaltungsämter, unter anderem im Reichswirtschaftsministerium (1919-1927) sowie im preußischen Handelsministerium (1927-1932). Daneben mehrere Aufsichtsratposten sowie Lehrtätigkeit an der Deutschen Hochschule für Politik. Nach kurzer Inhaftierung 1933 zunächst Flucht nach Belgien, später Emigration in die USA, wo er ab dem Frühjahr 1934 an der New School for Social Research in New York lehrte. Gemeinsam mit seiner Frau Else sowie mit Paul Tillich und anderen engagierte er sich in diversen Hilfsorganisationen für Emigrierte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__718">
+                  <persName>Grimme, Adolf</persName>
+                  <occupation>Deutscher Kulturpolitiker SPD in der Spätphase der Weimarer Republik und der frühen Bundesrepublik, erster niedersächsischer Kultusminister und Generaldirektor des Nordwestdeutschen Rundfunks (NWDR)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1211">
+                  <persName>Löwenfeld, Claire</persName>
+                  <occupation>Diätetikerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2423">
+                  <persName>Johnson, Alvin</persName>
+                  <birth>
+                     <date>1874-12-18</date>
+                  </birth>
+                  <death>
+                     <date>1971-07-07</date>
+                     <settlement>
+                        <placeName>New York, NY</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Wirtschaftswissenschaftler;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117164550</idno>
+                  <note type="bio"><p>Er war Initiator der University of Exile an der New School for Social Research.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1887">
+                  <persName>Sydow, Eckart von</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2422">
+                  <persName>Mayer-Kulenkampff, Lina</persName>
+                  <birth>
+                     <date>1886-04-30</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1971-03-10</date>
+                     <settlement>
+                        <placeName>Kassel</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Historikerin; Pädagogin; Schulleiterin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116963522</idno>
+               </person>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2316">
+                  <persName>Lederer, Emil</persName>
+                  <birth>
+                     <date>1882-07-22</date>
+                     <settlement>
+                        <placeName>Pilsen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1939-05-29</date>
+                     <settlement>
+                        <placeName>New York, NY</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Ökonom; Soziologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119311143</idno>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2408">
+                  <persName>Grimme, Mascha</persName>
+                  <note type="bio"><p>Sie war die Frau von Adolf Grimme.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1307">
+                  <persName>Mennicke, Carl August</persName>
+                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
+                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

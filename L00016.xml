@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00016.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00015.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00018.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Wilhelmina Mathilde und Johannes Oskar Tillich vom 22. September 1900</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Jonas Epple</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008 A</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__515">Königsberg</placeName>
+<date when="1900-09-22">22.09.1900</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1924">Johannes Oskar Tillich</persName>
+<persName ref="#tillich_person_id__1929">Wilhelmina Mathilde Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00015">Brief von Paul Tillich an Johannes Oskar und Wilhelmina Mathilde Tillich vom 22. Februar 1900</ref><ref subtype="next_letter" type="withinCollection" target="L00018">Postkarte von Paul Tillich an Johannes Oskar und Wilhelmina Mathilde Tillich vom 9. Oktober 1900</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-08-04" who="JE">Intitale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__515" type="place">Königsberg</rs>
+   , den 
+   <date when="1900-09-22">22.September 1900</date>
+</dateline>
+<salute>Liebe Eltern</salute>
+</opener>
+<p>Es geht mir sehr gut, besonders, da wir heute wegen der Abiturientenentlassung frei hatten und Montag Einjährigenprüfung
+   ist. Hoffentlich seid ihr glücklich angekommen. Ich wünsche Euch auch ferner glückliche Reise.
+  </p>
+<closer>
+<salute>
+   . Herzliche Grüße an die 
+   <rs ref="#tillich_person_id__1929" type="person">Großeltern</rs>
+   , 
+   <rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs>
+    und Euch von Eurem treuen 
+   </salute>
+<signed>Paul</signed>
+</closer>
+</div>
+</body>
+<back><listPlace><place xml:id="tillich_place_id__515">
+                  <placeName>Kaliningrad (Königsberg)</placeName>
+                  <location type="coords">
+                     <geo>54.70649 20.51095</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/554234/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1829</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1929">
+                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <occupation>Mutter</occupation>
+               </person>
+               </listPerson></back></text>
+</TEI>

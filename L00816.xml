@@ -1,105 +1,104 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00816">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Postkarte von Paul Tillich an Gottfried Salomon
-               <lb/>vom 28. März 1924
-            </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Niklas von Hülsen</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="typescript">
-               <msIdentifier>
-                  <country>Niederlande</country>
-                  <settlement>Amsterdam</settlement>
-                  <institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
-                  <repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
-                  <collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
-                  <idno>Inv.nr. 1172/1</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Postkarte, maschinenschriftlich. Korrekturen eigenhändig</p>
-                  </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__37">Berlin-Friedenau</placeName>
-              <date when="1924-03-24">24.03.1924</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
-              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
-           </correspAction>
-        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00814">Postkarte von Paul Tillich an Wilhelm Ruprecht
-               </ref><ref subtype="next_letter" type="withinCollection" target="L00817">Brief von Paul Tillich an die Theologische Fakultät der Universität Berlin
-               </ref><ref subtype="next_letter" type="withinCorrespondence" target="L00818">Brief von Gottfried Salomon an Paul Tillich
-               </ref></correspContext></correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="NH" when="2022-10-12">Intitale Auszeichnung des Transkripts</change>
-        <change who="FS" when="2023-03-13">Überarbeitung; Ergänzung von Personen-IDs, Bibl-Titeln, Archivangabe</change>
-       <change who="FS" when="2023-04-17">Weitere Überarbeitungen</change>
-        <change who="FS" when="2023-10-25">Endabnahme</change>
-        
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <salute><del rend="ow">Lieber Salomon!</del><add>Lieber Salomon!</add><note type="ea">Der maschinenschriftliche Gruß wurde nachträglich von Tillich durch einen handschriftlichen ersetzt.</note></salute>
-        </opener>
-        <p>Herzlichen Dank für Ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note>! Ich beantworte ihn erst heute, da ich am <date when="1924-03-24">Montag</date> geheiratet habe. Sie kennen ja meine <rs ref="#tillich_person_id__1923" type="person">Frau</rs> schon vom romanischen Kaffee<note type="ea">Das Romanische Café war ein beliebter Berliner Künstler- und Intellektuellentreff.</note> her. Sie lässt herzlich grüssen. Ich freue mich auf Ihren Beitrag. Meine Mitarbeit an dem <rs ref="#tillich_work_id__7" type="work">Jahrbuch</rs> kann ich nur grundsätzlich, aber nicht empirisch in Aussicht stellen. Bis zum nächsten Winter bin ich vollkommen besetzt und kann nichts mehr versprechen. Für die erste Nummer würde ich also wohl ausfallen. Sehr gern will ich mich dagegen für die Zukunft verpflichten. Ich freue mich, dass Sie etwas derartiges in die Hand bekommen haben. Es ist nun fast sicher, dass ich im Sommer in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> lese<note type="ea">Tillich lehrte ab dem Sommersemester 1924 drei Semester lang als außerordentlicher Professor in Marburg.</note> und da ich <rs ref="#tillich_place_id__279" type="place">Marburg</rs> als Vorort von <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> betrachte, so hoffe ich, dass wir uns oft sehen werden.
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00816.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00815.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00817.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Postkarte von Paul Tillich an Gottfried Salomon vom 28. März 1924</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Niklas von Hülsen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="typescript">
+<msIdentifier>
+<country>Niederlande</country>
+<settlement>Amsterdam</settlement>
+<institution>Koninklijke Nederlandse Akademie van Wetenschappen</institution>
+<repository>Internationaal Instituut voor Sociale Geschiedenis</repository>
+<collection>Gottfried Salomon-Delatour Papers, ARCH[01231]</collection>
+<idno>Inv.nr. 1172/1</idno>
+</msIdentifier>
+<physDesc>
+<p>Postkarte, maschinenschriftlich. Korrekturen eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__37">Berlin-Friedenau</placeName>
+<date when="1924-03-24">24.03.1924</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1678">Gottfried Salomon</persName>
+<placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00815">Brief von Wilhelm Ruprecht an Paul Tillich vom 26. Februar 1924</ref><ref subtype="next_letter" type="withinCollection" target="L00817">Brief von Paul Tillich an die Theologische Fakultät der Universität Berlin vom 2. April 1924</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-10-12" who="NH">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-03-13" who="FS">Überarbeitung; Ergänzung von Personen-IDs, Bibl-Titeln, Archivangabe</change>
+<change when="2023-04-17" who="FS">Weitere Überarbeitungen</change>
+<change when="2023-10-25" who="FS">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+        <salute><del rend="ow">Lieber Salomon!</del><add>Lieber <rs ref="#tillich_person_id__1678" type="person">Salomon</rs>!</add><note type="ea">Der maschinenschriftliche Gruß wurde nachträglich von Tillich durch einen handschriftlichen ersetzt.</note></salute>
+</opener>
+<p>Herzlichen Dank für Ihren Brief<note type="ea">Dieser Brief liegt nicht vor.</note>! Ich beantworte ihn erst heute, da ich am <date when="1924-03-24">Montag</date> geheiratet habe. Sie kennen ja meine <rs ref="#tillich_person_id__1923" type="person">Frau</rs> schon vom romanischen Kaffee<note type="ea">Das Romanische Café war ein beliebter Berliner Künstler- und Intellektuellentreff.</note> her. Sie lässt herzlich grüssen. Ich freue mich auf Ihren Beitrag. Meine Mitarbeit an dem <rs ref="#tillich_work_id__7" type="work">Jahrbuch</rs> kann ich nur grundsätzlich, aber nicht empirisch in Aussicht stellen. Bis zum nächsten Winter bin ich vollkommen besetzt und kann nichts mehr versprechen. Für die erste Nummer würde ich also wohl ausfallen. Sehr gern will ich mich dagegen für die Zukunft verpflichten. Ich freue mich, dass Sie etwas derartiges in die Hand bekommen haben. Es ist nun fast sicher, dass ich im Sommer in <rs ref="#tillich_place_id__279" type="place">Marburg</rs> lese<note type="ea">Tillich lehrte ab dem Sommersemester 1924 drei Semester lang als außerordentlicher Professor in Marburg.</note> und da ich <rs ref="#tillich_place_id__279" type="place">Marburg</rs> als Vorort von <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> betrachte, so hoffe ich, dass wir uns oft sehen werden.
         </p>
-        <closer>
-           <salute>Viele herzliche Grüsse</salute>
-           <signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
-        </closer>
-     </div>
-    </body>
-  <back><listPerson><person ref="#tillich_person_id__1923"><reference>Frau</reference><persName>Tillich, Hannah</persName>
+<closer>
+<salute>Viele herzliche Grüsse</salute>
+<signed>Ihr <rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1678">
+                  <persName>Salomon, Gottfried</persName>
+                  <occupation>Ein deutsch-amerikanischer Soziologe und Nationalökonom</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
                      <settlement>
@@ -114,7 +113,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>P. Tillich</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -127,23 +128,23 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl><bibl ref="#tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl></listBibl><listPlace><place ref="#tillich_place_id__279"><reference>Marburg</reference><placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place><place ref="#tillich_place_id__279"><reference>Marburg</reference><placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place><place ref="#tillich_place_id__143"><reference>Frankfurt</reference><placeName>Frankfurt am Main</placeName>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

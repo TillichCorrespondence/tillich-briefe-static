@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00006.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00004.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00007.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Johannes Oskar und Paul Tillich an Marie, Oskar und Margarete Tillich vom 23. August 1898</title>
+<author ref="#tillich_person_id__1924">Johannes Oskar Tillich</author>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Anna Rüther</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS649/193(10)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1924">Johannes Oskar Tillich</persName>
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__293">Misdroy</placeName>
+<date when="1898-08-23">23.08.1898</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1930">Marie Tillich</persName>
+<persName ref="#tillich_person_id__1926">Oskar Tillich</persName>
+<persName ref="#tillich_person_id__1925">Margarete Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00004">Brief von Marie Tillich an Paul Tillich vom 19. August 1898</ref><ref subtype="next_letter" type="withinCollection" target="L00007">Brief von Paul Tillich an Wilhelmina Mathilde Tillich vom 22. Oktober 1898</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AR">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__293" type="place">Misdroy</rs>
+   , den 
+   <date when="1898-08-23">23.08.1898</date>
+</dateline>
+<salute>Ihr Lieben!</salute>
+</opener>
+<p>Aus der Sommerfrische u. Ruhe will ich endlich einmal schreiben zunächst um für Eure Segenswünsche zu unseres <rs ref="#tillich_person_id__1928" type="person">Pauls</rs> Geburtstag nebst den Gaben Dank zu sagen. Unser lieber Junge steht ja vor einem leider schweren Abschnitt in seinem jungen Leben; es wird ihm nicht leicht werden, das Elternhaus zu entbehren, und vielleicht schwerer noch uns es wird, ihn fortzugeben, aber es ist Gottes Führung und im Vertrauen zu Ihm lassen wir ihn ziehen in Hoffnung auf eine weitere gesunde Leibes- und Geistesentwicklung.</p>
+<p>Wir freuen uns sehr, Gutes von Euch zu hören. Das heiße Wetter, das sich nach einigen Tagen der Abkühlung wieder eingestellt hat, wird auch Euch wie uns etwas bedrücken. Es bringt uns <sic>diesem</sic> Jahr hier die Mückenplage, sobald Landwind weht; keine Rose ohne Dornen: die stolzen Herren am Ende des 19. Jahrhunderts bekunden ihre edle Männlichkeit durch Mückenschleier und Fächer! – Es geht uns allen recht gut hier. Sonnenstrahl und Meeresluft kräftigen uns alle. Unser Verkehr ist der alte mit Sydows. Auch ist Fr. P. <unclear>¿¿¿</unclear> <unclear cert="high">hier</unclear> mit ihrem Mann <unclear cert="high">Mann</unclear>. Es waren Herr und Fr. <unclear>¿¿¿</unclear> hier. –</p>
+<p>Denkt Euch, daß meine Orchester-Kompositionen von der hiesigen Kurkapelle morgen gespielt werden soll, ich hatte sie zu diesem Zweck für volles Orchester gesetzt. Große Spannung bei allen Bekannten und bei mir.</p>
+<closer>
+<salute><p>Nun behüt Euch Gott.</p>
+<p>Mit Gruß und Kuß</p></salute>
+<signed>Euer <rs ref="#tillich_person_id__1924" type="person"><unclear cert="high">Hannes</unclear></rs></signed>
+</closer>
+<postscript>
+<p/>
+</postscript>
+</div>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__293" type="place">Misdroy</rs>
+   , den 
+   <date when="1898-08-23">23.08.1898</date>
+</dateline>
+<salute>Liebe <rs ref="#tillich_person_id__1926 #tillich_person_id__1931" type="person">Großeltern</rs>, und liebe <rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs>!</salute>
+</opener>
+<p>Ich danke Euch für Euer schönes Geschenk, welches ich mit einem Federkasten von <rs ref="#tillich_person_id__1929" type="person">Mama</rs> mit nach Königsberg nehmen werde. Außerdem hat mir <rs ref="#tillich_person_id__1924" type="person">Papa</rs> noch ein Buch von den deutschen Heldensagen geschenkt, welches sehr hübsch ist. Hier ist sehr schönes Wetter. Uns allen geht es gut, hoffentlich auch Euch. Wir baden fast alle Tage und spielen schön am Strande. Hier giebt es in diesem Jahr sehr viel Mücken.</p>
+<closer>
+<salute>Mit herzlichen Grüßen von <rs ref="#tillich_person_id__1928" type="person">Paul</rs>, und <rs ref="#tillich_person_id__644" type="person">Johanna</rs>, und <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> Tillich
+ 	 <p>Und einem schönen Kuß.</p></salute>
+<signed/><signed/>
+</closer>
+<postscript>
+<p/>
+</postscript>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1926">
+                  <persName>Tillich, Oskar</persName>
+                  <birth>
+                     <date>1828</date>
+                  </birth>
+                  <death>
+                     <date>1914</date>
+                  </death>
+                  <occupation>Großvater</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
+               </person>
+               <person xml:id="tillich_person_id__1929">
+                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <occupation>Mutter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               </listPlace></back></text>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<placeName ref="Misdroy">Misdroy</placeName>
+   , den
+   <date when="1898-08-23">23.08.1898</date>
+</dateline>
+<salute>
+   Liebe Großeltern, und liebe 
+   <persName ref="P01927">Tante Grete</persName>
+   !
+   </salute>
+</opener>
+<p/>
+  Ich danke Euch für Euer schönes Geschenk, welches ich mit einem Federkasten von 
+  <persName ref="P01931">Mama</persName>
+   mit nach Königsberg nehmen werde. Außerdem hat mir 
+  <persName ref="P01926">Papa</persName>
+   noch ein Buch von den deutschen Heldensagen geschenkt, welches sehr hübsch ist. Hier ist sehr schönes Wetter. Uns allen geht es gut, hoffentlich auch Euch. Wir baden fast alle Tage und spielen schön am Strande. Hier giebt es in diesem Jahr sehr viel Mücken.
+  <p/>
+<closer>
+<salute>
+   Mit herzlichen Grüßen von 
+   <persName ref="P01930">Paul</persName>
+   , und 
+   <persName ref="P00644">Johanna</persName>
+   , und 
+   <persName ref="P01764">Elisabeth</persName>
+    Tillich
+   <p>Und einem schönen Kuß.</p>
+</salute>
+</closer>
+<postscript>
+<p/>
+</postscript>
+</div>
+</body>
+</text>
+</TEI>

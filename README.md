@@ -1,1 +1,0 @@
-# tillich-briefe-static

@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00549.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00548.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00550.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Maria Klein vom 15. November 1917</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/178(9)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-11-15">15.11.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1594">Maria Klein</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00548">Brief von Paul Tillich an Johannes Tillich vom 12. November 1917</ref><ref subtype="next_letter" type="withinCollection" target="L00550">Brief von Paul Tillich an Johanna Tillich vom Dezember 1917</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-05-16">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-01-18">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1917-08-25">25. Aug. 1917.</date></dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
+            </opener>
+            <p>Dein Wohnungswechsel hat mich sehr überrascht. Wie kommst Du nur mit <rs ref="#Familie Kühn" type="person">Kühns</rs> aus? Für Dich ist es ja sicher viel
+               netter, als die vielen Nöte in <rs ref="#tillich_place_id__41" type="place">Lichtenrade</rs> weiter durchzuleben, und wohl auch für die ruhige Konzentration
+               notwendig; immerhin würde es mich einigermaßen interessieren, wie die beiden sind,
+               über die ich nun auf indirektem Wege schon so vieles gehört habe. --- Über Deine
+               Arbeitsleistung staune ich; ich weiß nicht, ob ich das noch schaffen würde.
+               Überarbeite Dich nur nicht. So Eile hat es doch wohl nicht --- In den 4 Tagen Urlaub
+               war es wirklich nicht möglich, uns zu sehen; ich kam ganz erschöpft hierher zurück.
+               Übrigens hatte ich auf der Hochzeit den allgemei<pb n="2"/>nen Eindruck einer <hi rend="u">gänzlichen Abwendung von Theologie und Kirche unter der jüngeren
+                  Generation, die aus religiösen Kreisen kommt.</hi><note type="eb">Diese
+                  Unterstreichung ist – wie alle folgenden – wahrscheinlich eher von <rs ref="#tillich_person_id__1594" type="person">Maria Klein</rs> gemacht
+                  worden.</note> Dieses war mir recht erschütternd. Zumal ein <hi rend="u">Radikalismus dahinter stand, der mich erschreckte, so ähnlich wie er auch aus
+                  Deinem Brief hervorgeht!</hi> – Hast Du Gelegenheit, unter Deinen Mitstudenten,
+               resp. – –innen, zu beobachten wie die Dinge liegen, vor allem, was den Ersatz für die
+               Religion übernommen hat. Ich vermute, es ist <hi rend="u">vielfach die Kunst</hi>;
+               aber <hi rend="u">wie ist die psychologische Vermittlung?</hi> Denn irgendwie muss
+               der leere Raum ja gefüllt werden. Wie steht es bei Euch Beiden z. B. damit?<pb n="3"/> Wie stellst Du Dir übrigens Deine Existenz als Pfarrfrau vor mit Deinen <hi rend="u">großstädtischen Allüren und <rs ref="#tillich_person_id__1394" type="person">Nietzsche</rs>-haften Gedanken?</hi> Ist das nicht <hi rend="u">beinahe so schwierig, wie wenn <rs ref="#tillich_person_id__2020" type="person">Dox</rs> Dozent der Theologie werden soll?</hi> Ich kann mich natürlich
+               vorläufig noch lange nicht entscheiden. Um Philosoph zu werden, muss man etwas
+               leisten in der Philosophie. Und das habe ich noch kaum getan... Und dann fehlen mir
+               alle Konnexionen. Aber Berlin lockt. ----</p>
+            <p>Ich habe das Gefühl daß <hi rend="u"><rs ref="#tillich_person_id__1063" type="person">Mutti</rs> über die Freundschaft zwischen <rs ref="#tillich_person_id__2020" type="person">Dox</rs> und <rs ref="#tillich_person_id__1931" type="person">Greti</rs>
+               traurig</hi> ist, ja daß sie <rs ref="#tillich_person_id__1931" type="person">Greti</rs>
+               <rs ref="#tillich_person_id__2020" type="person">Doxens</rs> jetzt stark ne<pb n="4"/>gatives
+               Denken <sic><rs ref="#tillich_person_id__1931" type="person">Greti</rs></sic> zuschreibt. Das
+               ist aber nicht richtig. Solchen Einfluss hat <rs ref="#tillich_person_id__1931" type="person">Greti</rs> nicht im Geringsten. Im Gegenteil, es ist schon mehrfach zwischen
+               beiden zu heftigen Gegensätzen gekommen, weil <del rend="s"><rs ref="#tillich_person_id__2020" type="person">Dox</rs></del>
+               <rs ref="#tillich_person_id__1931" type="person">Greti</rs> dem Radikalismus von <rs ref="#tillich_person_id__2020" type="person">Dox</rs> entgegentrat. <rs ref="#tillich_person_id__1063" type="person">Mutti</rs> würde sich sehr irren, wenn sie
+               meinte, daß <rs ref="#tillich_person_id__1931" type="person">Greti</rs> irgendwie zwischen
+               ihn und sie trat. Da waren schon ganz andere Entwicklungen in <rs ref="#tillich_person_id__2020" type="person">Dox</rs> eingetreten, die das bewirkt hatten,
+               was <rs ref="#tillich_person_id__1063" type="person">Mutti</rs> vielleicht schwer empfindet. –
+                  <hi rend="u">Dieses schreibe ich ganz</hi> von mir und <hi rend="u">nur für
+                     Dich</hi>. Doch kannst Du gelegentlich <rs ref="#tillich_person_id__1063" type="person">Mutti</rs>
+               <hi rend="uu">von Dir aus</hi> in dieser Richtung <hi rend="u">die Wirklichkeit
+                  zeigen</hi>. ----</p>
+            <closer>
+               <salute>Sei herzlich gegrüßt und grüße <rs ref="#tillich_person_id__1063" type="person">Mutti</rs> und <rs ref="#tillich_person_id__1062" type="person">Lisa</rs>!</salute>
+               <signed>Dein tr. <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1063">
+                  <persName>Klein, Elisabeth</persName>
+                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1594">
+                  <persName>Rhine, Maria</persName>
+                  <birth>
+                     <date>1895-12-01</date>
+                  </birth>
+                  <death>
+                     <date>1975-09-23</date>
+                  </death>
+                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
+               </person>
+               <person xml:id="tillich_person_id__2020">
+                  <persName>Wegener, Carl Richard</persName>
+                  <birth>
+                     <date>1883-08-03</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1967-07-11</date>
+                     <settlement>
+                        <placeName>Neuruppin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
+               </person>
+               <person xml:id="tillich_person_id__1062">
+                  <persName>Klein, Lisa</persName>
+                  <occupation>Schwester von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__41">
+                  <placeName>Berlin-Lichtenrade</placeName>
+                  <location type="coords">
+                     <geo>52.39844 13.40637</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

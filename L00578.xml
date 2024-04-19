@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00578.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00577.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00579.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Heinrich Meinhof an Paul Tillich vom 8. September 1918</title>
+            <author ref="#tillich_person_id__1295">Heinrich Meinhof</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Gerrit Mauritz</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement>Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 649/Box 165(41)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, handschriftlich</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1295">Heinrich Meinhof</persName>
+               <placeName ref="#tillich_place_id__291">Mesopotamien</placeName>
+               <date when="1918-09-18">18.09.1918</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00577">Postkarte von Johannes Tillich an Paul Tillich vom 20. August 1918</ref><ref subtype="next_letter" type="withinCollection" target="L00579">Postkarte von Karl Koch an Paul Tillich vom 14. September 1918</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="GM" when="2023-03-06">Intitale Auszeichnung des Transkripts</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__291" type="place">Mesopotamien</rs><lb/><date when="1918-09-18">8.9.18</date></dateline>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Lbb</rs><note type="ea">Leibbursch</note>!</salute>
+            </opener>
+            <p>Deinen Geburtstag am <date when="1918-08-20">20/8.</date> hab ich nicht vergessen,
+               wenn auch nicht "beschrieben".</p>
+            <p>In diesen Tagen war <rs ref="#tillich_person_id__2286" type="person">Lic.
+                  Schubarth</rs> in meinem Lazarett krank (Sohn des † <rs ref="#tillich_person_id__2287" type="person">Gen. Sup. von Anhalt</rs>). Wir
+               sprachen sehr viel von <rs ref="#tillich_place_id__189" type="place">Halle</rs>. Er
+               hat bei <rs ref="#tillich_person_id__1201" type="person">Loofs</rs> promoviert,
+               scheint aber auch zu <rs ref="#tillich_person_id__1227" type="person">Lütgert</rs>
+               Beziehungen zu haben und will sich noch in <rs ref="#tillich_place_id__189" type="place">Halle</rs> habilitieren. Kennst Du ihn durch Zufall?</p>
+            <p>Ich glaube, das Letzte, was ich von Dir hörte, war deine P.K.I. Stimmt’s? – Meiner
+               Frau jüngster Bruder hat damals (R. I. R. 36<note type="ea">Reserve-Infantarie
+                  Regiment Nr. 36</note>) den <rs ref="#tillich_place_id__427" type="place">Taillette</rs>-Wald mitgestürmt, schwerverwundet.</p>
+            <p>Ob Du noch bei der alten Division bist? Ich kann mir denken, daß mein <rs ref="#tillich_person_id__1928" type="person">Lbb.</rs> sich von Gas und Feuer
+               nicht anfechten läßt. – Damals schriebst Du "2 Jahre ohne Ehe verheiratet". Uns allen
+               geht’s so (ich war jetzt im Juli 3 Jahre). Mein Junge ist 14 Monate und ich kenne ihn
+               noch nicht. Aber nun hoffe ich. Ich bin auf der Heimreise.</p>
+            <p>Meine 15 ½ Monate Türkei waren außerordentlich – lehr- und arbeitsreich. Ich bin in
+               meinem Fahrwasser. Wie anders auch liest man jetzt ein Buch wie <rs ref="#tillich_person_id__2843" type="person">Hartmanns</rs>
+               <rs ref="#tillich_work_id__205" type="work">"Islam"!</rs> - - Meine ehrlichen
+               Wünsche für Dich</p>
+
+            <closer>
+               <salute>Dein getr. <ptr/><rs ref="#tillich_person_id__1295" type="person">Lbfx</rs><note type="ea">Leibfuchs</note>.</salute>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__2287">
+                  <persName>Schubart, Friedrich Winfried</persName>
+                  <birth>
+                     <date>1847-06-05</date>
+                  </birth>
+                  <death>
+                     <date>1918-03-05</date>
+                     <settlement>
+                        <placeName>Zerbst/Anhalt</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/132462974</idno>
+                  <note type="bio"><p>Er war Generalsuperintendent von Anhalt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2843">
+                  <persName>Hartmann, Martin</persName>
+                  <birth>
+                     <date>1851-12-09</date>
+                     <settlement>
+                        <placeName>Breslau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1918-12-05</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Orientalist;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119120828</idno>
+               </person>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__2286">
+                  <persName>Schubart, Christoph</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117724742</idno>
+                  <note type="bio"><p>Er war ein Schüler von Professor Loofs und der Sohn von Generalsuperintendent Friedrich Winfried Schubart.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1201">
+                  <persName>Loofs, Friedrich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__205">Hartmann, Martin, Der Islam. Geschichte - Glaube - Recht: Ein Handbuch, Leipzig 1909.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__427">
+                  <placeName>Taillette</placeName>
+                  <location type="coords">
+                     <geo>49.93056 4.48639</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6426130/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1419211</idno>
+               </place>
+               <place xml:id="tillich_place_id__291">
+                  <placeName>Mesopotamien</placeName>
+                  <location type="coords">
+                     <geo>33.00000 44.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/99237/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q796</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00538.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00537.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00539.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Maria Klein vom 19. Mai 1917</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/178(9)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-05-19">19.05.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1594">Maria Klein</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00537">Brief von Hermann Schafft an Paul Tillich vom 8. Mai 1917</ref><ref subtype="next_letter" type="withinCollection" target="L00539">Brief von Paul Tillich an Johannes Tillich vom 30. Mai 1917</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-05-10">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-01-11">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1917-05-19">19. Mai 1917</date></dateline>
+               <salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
+            </opener>
+            <p>Herzlichen Dank für Deine beiden Briefe! Daß ich <rs ref="#tillich_person_id__1062" type="person">Lisa</rs> gleich antwortete und Dir nicht, liegt einfach daran, daß
+               dies eine Specialsache war, die schnell beantwortet werden mußte, während wir
+               regelmäßig korrespondieren, wobei es ohne längere Pause nicht abgeht; welches mir
+               klar scheint! ‒ Ich bin augenblicklich weit hinten, im Begriff jeden Tag irgendwo an
+               der großen Kampffront eingesetzt zu werden. Ich habe allerlei Ärger und
+               Schwierigkeiten gehabt und habe nur noch die Hälfte der Kräfte, die ich im Anfang
+               hatte. Ich habe darum einen dritten Pfarrer beantragt, der auch schon da ist. So
+               werde ich etwas friedlicher arbeiten können; und das ist besser als jetzt nach Hause
+               gehen, wo ich irgendein großes Pfarramt übernehmen müßte mit einer Arbeitslast, der
+               ich nicht gewachsen wäre. Es ist besser man bleibt hier draußen und sieht wie man
+               sich mit <unclear cert="high">Namen, Menschen</unclear> und Granaten durchschlägt.
+               Wenn dann wie heut z.B. ein schöner Maiglöckchenstrauß auf dem Tisch steht, dann
+               tröstet man sich über vieles und ist dankbar, wie gut man es immer noch hat!</p>
+            <pb n="2"/>
+            <p>Auch ich habe jetzt eine ganze Menge <rs ref="#tillich_person_id__1394" type="person">Nietzsche</rs> gelesen, vor allem den <rs ref="tillich_work_id__114" type="work">Willen zur Macht!</rs> Es ist nicht ganz leicht, aber dringend notwendig, seine
+               Kritik ihm gegenüber zu behalten. Eine Dialektik fehlt ihm ganz und seine
+               Erkenntnistheorie grenzt oft ans Naivste. Die Ethik hat mit der urchristlichen
+               gemeinsam, daß sie als solche unanwendbar ist und völlig transformiert werden muß.
+               Abgesehen davon aber ist seine Erscheinung von ganz unberechenbarem Wert. Der Gedanke
+               des schöpferischen Gestaltens ist fundamental für alle künftige Systematik und die
+               einzige Form, in der das wissenschaftliche und kulturelle Specialistentum zu einer
+               synthetischen Kultur überwunden werden kann; und der Gedanke des "höheren Menschen"
+               ist, solange er erst propagiert, exoterisch gemacht wird, die Grundlage für eine
+               Neugestaltung des kirchlichen Lebens u.s.f. – Dir wünsche ich viel Studienerfolge und
+               Nervenberuhigung! Und gute Briefe aus Frankreich! Grüße <rs ref="#tillich_person_id__1063" type="person">Mutter</rs> und die anderen alle, an
+               die ich so oft denke. Wie gehts Deinem <rs ref="#tillich_person_id__1061" type="person">Vater</rs>?</p>
+            <p>Zum 1. Juni ist <rs ref="#tillich_place_id__80" type="place">Butterfelde</rs>
+               abgegeben, ein offener Schlag für mich! Mein <rs ref="#tillich_person_id__2048" type="person">Schwiegervater</rs> war mit seinen Nerven fertig!</p>
+            <closer>
+               <salute>Sei herzlich gegrüßt von Deinem <rs ref="#tillich_person_id__1928" type="person">Paul</rs>!</salute>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1061">
+                  <persName>Klein, Ernst August Ferdinand</persName>
+                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1063">
+                  <persName>Klein, Elisabeth</persName>
+                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2048">
+                  <persName>Wever, Wilhelm</persName>
+                  <occupation>Vater von Greti, Domänenpächter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1594">
+                  <persName>Rhine, Maria</persName>
+                  <birth>
+                     <date>1895-12-01</date>
+                  </birth>
+                  <death>
+                     <date>1975-09-23</date>
+                  </death>
+                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
+               </person>
+               <person xml:id="tillich_person_id__1062">
+                  <persName>Klein, Lisa</persName>
+                  <occupation>Schwester von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__114">Nietzsche, Friedrich, Der Wille zur Macht. Versuch einer Umwerthung aller Werthe, hg. von Peter Gast/Elisabeth Förster-Nietzsche, Leipzig 1906.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__80">
+                  <placeName>Butterfelde</placeName>
+                  <location type="coords">
+                     <geo>52.87141 14.38608</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01032.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01031.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01033.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Hannah Tillich vom 21. Oktober 1929 [PS]</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="Wien">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                  <idno>bMS 721/2(26)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, eigenhändig</p>
+                  </physDesc>
+            </msDesc>     
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__37">Berlin</placeName>
+              <date when="1929-10-21">21.10.1929</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+              <placeName ref="#tillich_place_id__143">Frankfurt a. M.</placeName>
+           </correspAction>
+        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01031">Postkarte von Paul Tillich und anderen an Hannah Tillich vom 19. Oktober 1929 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L01033">Postkarte von Paul Tillich an Hannah TillichAuf der Adresszeile der Postkarte wurde von fremder Hand unter dem Namen "Hannah Tillich" der Name "Paul Kornfeld" hinzugefügt. vom 21. Oktober 1929 [PS]</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01033">Postkarte von Paul Tillich an Hannah TillichAuf der Adresszeile der Postkarte wurde von fremder Hand unter dem Namen "Hannah Tillich" der Name "Paul Kornfeld" hinzugefügt. vom 21. Oktober 1929 [PS]</ref></correspContext></correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="SK" when="2023-11-21">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2023-12-20">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="postcard">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>   
+           <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+        </opener>
+        <p>2 Tage Sitzung hinter mir.<note type="ea">Hintergrund ist die Gründung der "<rs ref="#tillich_work_id__66" type="work">Neuen Blätter für den Sozialismus</rs>".</note> <date when="1929-10-19">Sonnabend</date> von <formula notation="TeX">\frac{1}{2}</formula> 10 bis Abends um 12. Zum Abendbrot und nachher mit <rs ref="#tillich_person_id__1209" type="person">Löwe</rs> und <rs ref="#tillich_person_id__846" type="person">Heimann</rs> allein bei <unclear><rs ref="#tillich_person_id__2613" type="person">Stöcklers</rs></unclear>. Dort <persName ref="#tillich_person_id__2560">Ullichen</persName> mit Freund. Ich gleich totmüde nach Haus. <date when="1929-10-20">Sonntag</date> von 10-4. Dann mit <rs ref="#tillich_person_id__1209" type="person">Löwe</rs> und <rs ref="#tillich_person_id__846" type="person">Heimann</rs> bei <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> bis 8. Dann bei <hi rend="aq"><rs ref="#tillich_person_id__1307" type="person">Carolus</rs></hi> und <rs ref="#tillich_person_id__1308" type="person">Trude</rs> im <unclear>Norden</unclear>. Jetzt in der Untergrund nach Haus. Mit <rs ref="#tillich_person_id__2094" type="person">Arnold</rs> glänzende Unterhaltung. Es war so gut wie nie. <hi rend="aq"><rs ref="#tillich_person_id__1307" type="person">Carolus</rs></hi> etwas müde und resigniert. Aber fein wie immer. Die Sitzung z. Teil<pb n="2"/> sehr schwierig. Titel immer noch fraglich. Sonst niemand gesehen und telephoniert: Die Strapaze geht weiter. Jetzt und steigend.
+ 
+        </p>
+        <closer>
+           <salute>Ach <persName ref="#tillich_person_id__1923">Hannahchen</persName>!</salute>
+           <signed>Dein <rs type="person" ref="#tillich_person_id__1928">Paul</rs></signed>
+        </closer>
+      
+     </div>
+    </body>
+  <back><listPerson><person xml:id="tillich_person_id__846">
+                  <persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2613">
+                  <persName>Stöckler, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1308">
+                  <persName>Mennicke, Trude</persName>
+                  <note type="bio"><p>Nach ihrer Lehrerinnenausbildung studierte sie evangelische Theologie, Soziologie und Psychologie in Jena und Berlin, zudem war sie eine zentrale Gestalt der Wandervogel-Bewegung. 1919 heiratete sie Carl  Mennicke, 1922 wurde ihr gemeinsamer Sohn Wolfgang, genannt Wölle, geboren (gest. 1944 an der Front). 1930 ließ sich das Paar scheiden. Trude B.-M. war in der SPD-Absplitterung Sozialdemokratische Arbeitsgemeinschaft (SAG) aktiv und veröffentlichte (unter anderem in den von Tillich herausgegebenen Neuen Blättern für den Sozialismus) Aufsätze über Sozialismus und Frauenbewegung. Gemeinsam mit ihrem Sohn zog sie nach 1933 in die Schweiz (wo sie u. a. zum Katholizismus konvertierte), 1942 ging sie zurück nach Deutschland und arbeitete als Gefängnisfürsorgerin in Berlin, nach dem Zweiten Weltkrieg als Dozentin für Psychologie in der Lehrerausbildung der DDR und schließlich als Sozialarbeiterin.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2094">
+                  <persName>Wolfers, Arnold</persName>
+                  <birth>
+                     <date>1892-06-14</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-07-16</date>
+                  </death>
+                  <occupation>Politikwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
+                  <note type="bio"><p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1209">
+                  <persName>Löwe, Adolf</persName>
+                  <occupation>deutscher Soziologe und Nationalökonom</occupation>
+                  <note type="bio"><p>1911-1915 Studium der Wirtschafts- wie auch Rechtswissenschaften in München, Berlin und Tübingen. In Tübingen wurde er 1918 zum Dr. iur. promoviert. 1919 heiratete er Beatrice Löwenstein (genannt Bea, *1893). 1919-1924 Tätigkeit im Reichswirtschaftsministerium, 1924-1926 Leiter der internationalen Abteilung des Statistischen Reichsamtes, in dieser Zeit auch mitverantwortlich für die Gründung des Deutschen Instituts für Konjunkturforschung (DIW). 1926 Habilitation in Kiel, damit einhergehend Leitung und Ausbau des Kieler Instituts für Weltwirtschaft (IfW) und Lehrtätigkeit an der Universität. 1931 folgte L. einem Ruf an die Universität Frankfurt/Main, wo er unter anderem seine alten Freunde Max  Horkheimer (aus Schulzeiten) und Tillich (aus Berliner Zeiten und dem Kreis religiöser Sozialisten) wiedertraf. Nachdem er 1933 zunächst beurlaubt und sodann entlassen wurde, emigrierte er im selben Jahr nach England, wo er 1933-1940 an der Universität Manchester tätig war und nebenher an der London School of Economics lehrte. 1940 zweite Emigration in die USA, wo er bis zu seiner Emeritierung 1963 an der New School for Social Research in New York lehrte. Adolf und Beatrice L. hatten zwei Töchter, Rahel Dorothea (tw. auch Dora, 1921-2011), später Rachel Aubrey bzw. in erster Ehe Rüstow, sowie Hanna Ruth (1924-2010), später Hanna Lustig.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1307">
+                  <persName>Mennicke, Carl August</persName>
+                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
+                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__66">Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, hg. von Eduard Heimann, Fritz Klatt und Paul Tillich, 1930ff.</bibl>
+               </listBibl></back></text>
+</TEI>

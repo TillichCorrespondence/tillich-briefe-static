@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00557.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00556.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00558.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Johanna Tillich vom 28. Dezember 1917</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/143(23)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <date when="1917-12-28">28.12.1917</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00556">Brief von Paul Tillich an Johannes Tillich vom 27. Dezember 1917</ref><ref subtype="next_letter" type="withinCollection" target="L00558">Brief von Paul Tillich an Johannes Tillich vom 31. Dezember 1917</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-05-23">Intitale Auszeichnung des Transkripts</change>
+         <change who="GM" when="2024-01-30">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline>D. <date when="1917-12-28">28. Dez. 1917</date></dateline>
+               <salute>Mein liebes <rs ref="#tillich_person_id__644" type="person">Wumming</rs>!</salute>
+            </opener>
+            <p>Vielen herzlichen Dank für das entzückende Weihnachtsgeschenk! Das ist ein Bild, bei
+               dem einem das Herz aufgeht! Wieviel Glück mögen Euch diese beiden kleinen Ungetüme
+               bringen! Zuweilen beneide ich Euch darum; aber vielleicht soll es für mich nicht
+               sein, damit ich ganz der anderen Aufgabe leben kann! – Weihnachten war schön trotz
+               Krieg und Arbeit. Ich habe meinen Baum im Zimmer, darunter stehen außer Deinem Bild
+               ein paar Scherzgeschenke von den Herren, etwas zu knabbern von der <rs ref="#tillich_person_id__2049" type="person">Schwiegermutter</rs> und <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs>, ein prachtvolles Bild
+               von <rs ref="#tillich_person_id__539" type="person">Gerda Witkowsky</rs>, mit der ich
+               interessant korrespondiere, ein <rs ref="#tillich_work_id__192" type="work">Dürerbuch
+                  (Inselverlag)</rs> und – gestern kam es an – eine Krippe mit Figuren von <rs ref="#tillich_person_id__2085" type="person">Tonichen</rs>! Von <rs ref="#tillich_person_id__1924" type="person">Papa</rs> kommt noch eine
+               Künstlermonographie. – Es ist nicht unmöglich, daß ich gerade um die Zeit Deines
+               Geburtstages in <rs ref="#tillich_place_id__74" type="place">Bremen</rs> bin; doch
+               kann es auch etwas früher sein! Denn vom Februar erwarten wir große Dinge und dann
+               muß ich hier sein. Vielleicht scheitert aber der ganze Urlaub<pb n="2"/> daran, daß
+                  <rs ref="#tillich_person_id__1931" type="person">Greti</rs> keine Kohlen hat! --
+               Ich dachte, <rs type="letter"><rs ref="#tillich_person_id__641" type="person">Fredes</rs> Brief</rs><note type="ea">Brief liegt nicht vor.</note> wäre im Wesentlichen durch den <rs type="letter" xml:id="L00551">Brief an <rs ref="#tillich_person_id__904" type="person">Emmanuel</rs></rs> und <rs type="letter" xml:id="L00554">den an Euch</rs> beantwortet.
+               Vieles läßt sich eben nur mündlich machen! Als ich gestern unter dem Baum saß, kam
+               mir plötzlich mit überwältigender Deutlichkeit der Gedanke, der ja auch keineswegs
+               neu ist, daß alles Lebendige, Ringende, Fortschreitende, Geistvolle, Tiefe,
+               Anziehende, außerhalb dessen liegt, was man "Gemeinde" und Kirche nennt: Wo sind die
+               großen fortstrebenden Motive der Ethik? Bei der russischen Revolution und der
+               deutschen Sozialdemokratie einerseits, bei <rs ref="#tillich_person_id__1394" type="person">Nietzsche</rs> und den tieferen Künstlern andererseits. Freilich,
+               sie sind alle auf christlichem Boden gewachsen, <rs ref="#tillich_person_id__2796" type="person">Trotzky</rs> und <rs ref="#tillich_person_id__1394" type="person">Nietzsche</rs>, <rs ref="#tillich_person_id__950" type="person">Ibsen</rs> und <rs ref="#tillich_person_id__2797" type="person">Verhaeren</rs>, aber wie fern stehen sie dem, was wir Gemeinde
+               nennen! Wir leben eben seit 1700 in einer Epoche der Kirchengeschichte, die sich
+               schlechterdings von den vorigen unterscheidet; man muß sie nur erfassen und ganz
+               bejahen!</p>
+            <closer>
+               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__950">
+                  <persName>Ibsen, Henrik</persName>
+               </person>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
+                  <birth>
+                     <date>1888-06-14</date>
+                     <settlement>
+                        <placeName>Bentwisch</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-07-17</date>
+                     <settlement>
+                        <placeName>Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2796">
+                  <persName>Trotzki, Leo</persName>
+                  <birth>
+                     <date>1879-11-07</date>
+                  </birth>
+                  <death>
+                     <date>1940-08-21</date>
+                     <settlement>
+                        <placeName>Coyoacán</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker; Kommunist;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118642979</idno>
+               </person>
+               <person xml:id="tillich_person_id__2049">
+                  <persName>Wever, Mathilde</persName>
+                  <occupation>Mutter von Greti</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2797">
+                  <persName>Verhaeren, Emile</persName>
+                  <birth>
+                     <date>1855-05-21</date>
+                     <settlement>
+                        <placeName>Sint-Amands</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1916-11-27</date>
+                     <settlement>
+                        <placeName>Rouen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schriftsteller; Dramatiker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118768085</idno>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__539">
+                  <persName>Erdmann, Gerda</persName>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__192">Waldmann, Emil, Albrecht Dürer, Leipzig 1916.</bibl>
+               </listBibl></back></text>
+</TEI>

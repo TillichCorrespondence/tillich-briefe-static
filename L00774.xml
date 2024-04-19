@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00774.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00766.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00775.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Wilhelm Ruprecht vom 13. Januar 1923</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Anna Rüther</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__37">Berlin</settlement>
+<institution>Stiftung Preußischer Kulturbesitz</institution>
+<repository>Staatsbibliothek zu Berlin</repository>
+<collection>Archiv des Verlages Vandenhoeck und Ruprecht</collection>
+<idno><!--Identifikationsnummer des Dokuments in dem Archiv--></idno>
+</msIdentifier>
+<physDesc>
+<p><!--Schriftart (Maschine oder Hand)--></p>
+</physDesc>
+<additional>
+<listBibl>
+<biblStruct n="1" type="journal">
+<monogr>
+<author>GRAF, FRIEDRICH WILHELM</author>
+<title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+<imprint>
+<date when="2020">2020</date>
+<biblScope>26-170</biblScope>
+</imprint>
+</monogr>
+<series>
+<title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
+<biblScope>Vol. 27 (Issue 1)</biblScope>
+<publisher>De Gruyter</publisher>
+</series>
+</biblStruct>
+</listBibl>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1923-01-13">13.01.1923</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__2569">Wilhelm Ruprecht</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00766">Brief von Paul Tillich an Toni Winkler bei Tillich vom 2. August 1922</ref><ref subtype="next_letter" type="withinCollection" target="L00775">Brief von Wilhelm Ruprecht an Paul Tillich vom 19. Januar 1923</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2024-01-17" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-01-09" who="AR">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+   den <date when="1923-01-13">13.01.1923</date>
+</dateline>
+<salute>Sehr verehrter Herr Ruprecht!</salute>
+</opener>
+<p>In dieser Woche habe ich das „System der Wissenschaften“ abgeschlossen, nachdem
+ich seit dem Sommer ununterbrochen daran gearbeitet habe. Wenn ich die
+Zeit des ersten Nachdenkens über diese Dinge dazu rechne, so sind es fast 7 Jahre,
+daß ich mich um die Probleme der Systematik bemühe, allerdings mit langen
+Unterbrechungen. Das Buch, das so entstanden ist, hat naturgemäß eine Reihe
+von Veränderungen erfahren, und ist etwas ganz anderes geworden, als es im
+Anfang geplant war. Ich kann wohl sagen, daß von den üblichen Auffassungen
+der Systematik kein Stein auf dem andern geblieben ist. Es ist eine vollkommene
+Neuschöpfung in allen Gebieten, und ist das erste derartige Werk seit <rs ref="#tillich_person_id__1705" type="person">Schellings</rs> <rs ref="#ttillich_work_id__148" type="work">Methode des akademischen Studiums</rs>“ und <rs ref="#tillich_person_id__839" type="person">Hegels</rs> „<rs ref="#tillich_work_id__149" type="work">Encyklopädie</rs>“. Es ist ein durchgeführtes System, das aus der Grundrichtung der neuen kritisch-intuitiven Richtung der Philosophie geboren ist und sämtliche Gebiete der Wissenschaft in Betracht zieht.</p>
+<p>Infolge der Knappheit meiner Ausdrucksweise ist die Länge nicht sehr erheblich
+geworden: Ich schätze auf <choice><abbr>ca</abbr><expan>circa</expan>
+</choice> 200 S.<expan>eiten</expan> im Druck des Natorpschen Heftes
+2. Aufl.<expan>age</expan> Unmöglich war es dagegen, einer solchen Arbeit, die etwas völlig Neues
+zu schaffen suchte, den Stil einer Einführung in bekannte und gewohnte Sachen
+zu geben. Ich habe mich trotzdem bemüht, nicht zu schwer zu werden,
+und der Gedanke, daß es eigentlich als Einführung gemeint war, hat in dieser
+Beziehung günstig auf mich eingewirkt. Immerhin kommt es nach meinem Urteil
+als Einführungsheft nicht in Betracht. Ich würde das auch um der großen
+Arbeit willen, die darin steckt, nicht wünschen. – Ich möchte Sie nun fragen,
+ob Sie und in welcher Form Sie das Buch herausbringen wollen. Sehr viel wäre
+mir an schnellem Erscheinen gelegen, da es mein erstes größeres Buch ist und
+für eventuelle Berufung in eine Professur sehr viel davon abhängt. Ich habe es
+bisher nur handschriftlich und würde, sobald ich Nachricht von Ihnen habe, es
+tippen lassen, wozu gegenwärtig eine günstige Gelegenheit sich bietet. Ich füge
+die Einteilung bei, aus der Sie die Anlage des Ganzen ersehen können. Alles
+Übrige, auch die Durchprüfung des Ganzen lasse ich von Ihrer grundsätzlichen
+Antwort abhängen.</p>
+<closer>
+<salute>Ihr sehr ergebener</salute>
+<signed>P. Tillich.</signed>
+</closer>
+</div>
+</body>
+<back><listBibl><bibl xml:id="tillich_work_id__149">Hegel, Enzyklopädie der philosophischen Wissenschaften</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1705">
+                  <persName>Schelling, Friedrich Wilhelm Joseph</persName>
+                  <birth>
+                     <date>1775-01-27</date>
+                     <settlement>
+                        <placeName>Leonberg (Landkreis Böblingen)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1854-08-20</date>
+                     <settlement>
+                        <placeName>Bad Ragaz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
+               </person>
+               <person xml:id="tillich_person_id__839">
+                  <persName>Hegel, Georg Wilhelm Friedrich</persName>
+                  <birth>
+                     <date>1770-08-27</date>
+                     <settlement>
+                        <placeName>Stuttgart</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1831-11-14</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
+               </person>
+               </listPerson></back></text>
+</TEI>

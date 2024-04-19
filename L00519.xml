@@ -1,91 +1,91 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00519">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Marie Tillich <lb/>vom 16. November 1916 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00519.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00518.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00520.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Marie Tillich vom 16. November 1916</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/193(21)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/193(21)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <date when="1916-11-16">16.11.1916</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__1930">Marie Tillich</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00514">Brief von Paul Tillich an Erich Pfeiffer </ref><ref subtype="next_letter" type="withinCollection" target="L00520">Brief von Paul Tillich an Toni Winkler </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-05-31">Intitale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2023-12-19">Endabnahme</change>
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline>D. <date when="1916-11-16">16. November 1916</date></dateline>
-               <salute>Mein liebes <rs ref="#tillich_person_id__1930" type="person">Großmütterlein</rs>!</salute>
-            </opener>
-            <p>Nachdem ich nun mehr seit August keine Nachricht mehr von der Neuenburgerstr.<note type="ea">In der Neuenburger Straße 3 in <rs ref="tillich_place_id__37" type="place">Berlin</rs> war das Pfarrhaus von <rs ref="tillich_person_id__1924" type="person">Johannes Tillich</rs>.</note>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1916-11-16">16.11.1916</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1930">Marie Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00518">Brief von Paul Tillich an Erich Pfeiffer vom 6. November 1916</ref><ref subtype="next_letter" type="withinCollection" target="L00520">Brief von Paul Tillich an Toni Winkler vom 17. November 1916 [PS]</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-31" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-12-19" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>D. <date when="1916-11-16">16. November 1916</date></dateline>
+<salute>Mein liebes <rs ref="#tillich_person_id__1930" type="person">Großmütterlein</rs>!</salute>
+</opener>
+<p>Nachdem ich nun mehr seit August keine Nachricht mehr von der Neuenburgerstr.<note type="ea">In der Neuenburger Straße 3 in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> war das Pfarrhaus von <rs ref="#tillich_person_id__1924" type="person">Johannes Tillich</rs>.</note>
                bekommen habe, wohl aber einen Brief von <rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs> aus <rs ref="#tillich_place_id__416" type="place">Stettin</rs>Stettin, will ich meine Zuflucht zu Dir nehmen. Denn ich weiß, daß
                wenn auch <rs ref="#tillich_person_id__1924" type="person">Vater</rs> und <rs ref="#tillich_person_id__2085" type="person">Pflegemutter</rs>, <rs ref="#tillich_person_id__644" type="person">Schwester</rs> und <rs ref="#tillich_person_id__641" type="person">Schwager</rs> einen vergessen, die <rs ref="#tillich_person_id__1930" type="person">Großmutter</rs> doch immer des <rs ref="#Paul Tillich" type="person">Enkels</rs> gedenkt, der <hi rend="u">sie</hi>
                und <hi rend="u">den</hi> sie auf den Armen getragen hat! Ich freue mich, daß Du in
@@ -100,11 +100,11 @@
                dunklen Begriff. Ob <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, <rs ref="#tillich_place_id__80" type="place">Butterfelde</rs><pb n="3"/> oder <rs ref="#tillich_place_id__74" type="place">Bremen</rs> ist mir völlig unbekannt. Ob
                <rs ref="#tillich_person_id__641" type="person">Frede</rs> zurück ist und sonstige
                neugierige Fragen darf man wohl gar nicht mehr stellen.</p>
-            <p>Ich wohne in einem netten Blockhäuschen im <rs ref="#tillich_place_id__9" type="place">Aisnetal</rs>, nicht weit von den <rs ref="#tillich_place_id__13" type="place">Argonnen</rs>. Es ist ruhig und friedlich hier, infolgedessen viel
+<p>Ich wohne in einem netten Blockhäuschen im <rs ref="#tillich_place_id__9" type="place">Aisnetal</rs>, nicht weit von den <rs ref="#tillich_place_id__13" type="place">Argonnen</rs>. Es ist ruhig und friedlich hier, infolgedessen viel
                Predigtarbeit, aber auch viel Zeit; so daß ich sogar noch etwas zu wissenschaftlichen
                Sachen komme, was dem Geist wie der erste Tropfen Milch dem Heißhungrigen ist. Aber
                man muß langsam essen, so entwöhnt ist man der reinen Vernunft.</p>
-            <p>Daß wir die <rs ref="#tillich_place_id__406" type="place">Somme</rs> hinter uns
+<p>Daß wir die <rs ref="#tillich_place_id__406" type="place">Somme</rs> hinter uns
                   haben,<pb n="4"/> hast Du wohl gehört; es waren schwere Tage für die Truppen und
                ernste Tage für uns. Hoffentlich bleiben wir noch lange hier in der ruhigen Stellung.
                   <rs ref="#tillich_place_id__459" type="place">Verdun</rs> war ein schwerer Schlag
@@ -115,26 +115,83 @@
                gern würde ich mit Dir über all das reden, oder vielmehr Deine temperamentvollen
                Fragen hören, wenn <rs ref="#tillich_person_id__1924h" type="person">Papa</rs> und ich reden
                --- Es war einmal, alles war einmal.</p>
-            <closer>
-               <signed>Dein <rs ref="#tillich_person_id__1928" type="person">treuer Paul</rs>.</signed>
-            </closer>
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__1930"><reference>Großmütterlein</reference><persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
-               </person><person ref="tillich_person_id__1924"><reference>Johannes Tillich</reference><persName>Tillich, Johannes Oskar</persName>
-                  <birth>
-                     <date>1857</date>
-                  </birth>
-                  <death>
-                     <date>1937</date>
-                  </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person><person ref="#tillich_person_id__1925"><reference>Tante Grete</reference><persName>Tillich, Margarete</persName>
+<closer>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">treuer Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+<back><listPlace><place xml:id="tillich_place_id__13">
+                  <placeName>Argonnen</placeName>
+                  <location type="coords">
+                     <geo>49.50000 5.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3036990/</idno>
+               </place>
+               <place xml:id="tillich_place_id__80">
+                  <placeName>Butterfelde</placeName>
+                  <location type="coords">
+                     <geo>52.87141 14.38608</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
+               </place>
+               <place xml:id="tillich_place_id__9">
+                  <placeName>Aisnetal</placeName>
+                  <location type="coords">
+                     <geo>49.50000 3.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3038375/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3093</idno>
+               </place>
+               <place xml:id="tillich_place_id__459">
+                  <placeName>Verdun</placeName>
+                  <location type="coords">
+                     <geo>49.15964 5.38290</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2969958/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q154748</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               <place xml:id="tillich_place_id__406">
+                  <placeName>Somme</placeName>
+                  <location type="coords">
+                     <geo>49.93141 2.27639</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2974304/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q12770</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__416">
+                  <placeName>Stettin</placeName>
+                  <location type="coords">
+                     <geo>53.42894 14.55302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
-               </person><person ref="#tillich_person_id__1924"><reference>Vater</reference><persName>Tillich, Johannes Oskar</persName>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
                   </birth>
@@ -144,27 +201,17 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person><person ref="#tillich_person_id__2085"><reference>Pflegemutter</reference><persName>Winkler, Toni</persName>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
                   <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person><person ref="#tillich_person_id__644"><reference>Schwester</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__641"><reference>Schwager</reference><persName>Fritz, Alfred</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                  </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person><person ref="#tillich_person_id__1930"><reference>Großmutter</reference><persName>Tillich, Marie</persName>
+               </person>
+               <person xml:id="tillich_person_id__1930">
+                  <persName>Tillich, Marie</persName>
                   <occupation>Großmutter</occupation>
-               </person><person ref="#Paul Tillich"><reference>Enkels</reference></person><person ref="#tillich_person_id__1930"><reference>Großmama</reference><persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
-               </person><person ref="#tillich_person_id__1925"><reference>Tante Grete</reference><persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
-               </person><person ref="#tillich_person_id__641"><reference>Alfred</reference><persName>Fritz, Alfred</persName>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
                   <birth>
                      <date>1886</date>
                   </birth>
@@ -174,19 +221,9 @@
                   <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person><person ref="#tillich_person_id__644"><reference>Johanna</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__641"><reference>Frede</reference><persName>Fritz, Alfred</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                  </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person><person ref="#tillich_person_id__1924h"><reference>Papa</reference></person><person ref="#tillich_person_id__1928"><reference>treuer Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -199,63 +236,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place><place ref="#tillich_place_id__416"><reference>Stettin</reference><placeName>Stettin</placeName>
-                  <location type="coords">
-                     <geo>53.42894 14.55302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
-               </place><place ref="#tillich_place_id__416"><reference>Stettin</reference><placeName>Stettin</placeName>
-                  <location type="coords">
-                     <geo>53.42894 14.55302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
-               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place><place ref="#tillich_place_id__80"><reference>Butterfelde</reference><placeName>Butterfelde</placeName>
-                  <location type="coords">
-                     <geo>52.87141 14.38608</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
-               </place><place ref="#tillich_place_id__74"><reference>Bremen</reference><placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place><place ref="#tillich_place_id__9"><reference>Aisnetal</reference><placeName>Aisnetal</placeName>
-                  <location type="coords">
-                     <geo>49.50000 3.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3038375/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3093</idno>
-               </place><place ref="#tillich_place_id__13"><reference>Argonnen</reference><placeName>Argonnen</placeName>
-                  <location type="coords">
-                     <geo>49.50000 5.00000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3036990/</idno>
-               </place><place ref="#tillich_place_id__406"><reference>Somme</reference><placeName>Somme</placeName>
-                  <location type="coords">
-                     <geo>49.93141 2.27639</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2974304/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q12770</idno>
-               </place><place ref="#tillich_place_id__459"><reference>Verdun</reference><placeName>Verdun</placeName>
-                  <location type="coords">
-                     <geo>49.15964 5.38290</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2969958/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q154748</idno>
-               </place></listPlace><listLetter/></back></text>
+               </person>
+               </listPerson></back></text>
 </TEI>

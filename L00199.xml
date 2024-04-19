@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00199.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00198.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00200.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Gilbert van Smissen an Paul Tillich vom 25. August 1907</title>
+<author ref="#tillich_person_id__1982"/>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/186(49)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1982">Gilbert van der Smissen</persName>
+<placeName ref="#tillich_place_id__485">Manebach</placeName>
+<date when="1907-08-25">25.08.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00198">Postkarte von Unbekannt an Paul Tillich vom 24. August 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00200">Brief von Hermann Schafft an Paul Tillich vom 26. August 1907</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-04-07" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-07" who="PS">Vorbereitende Endabnahme</change>
+<change when="2024-02-20" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__276" type="place">Manebach</rs>. Kletts Hotel d. <date when="1907-08-25">25.VIII.07.</date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__1928" type="person">Paulchen</rs>!</salute>
+</opener>
+<p>Für Deinen Brief<note type="ea">Nicht überliefert.</note> vielen Dank. Ungefähr hast Du gemerkt, wie's gedacht war. Die
+               Genesis der Sache war furchtbar einfach, indem der gute <unclear>Terbner</unclear> i.
+                  <rs ref="#tillich_place_id__260" type="place">Leipzig</rs> allen Studikern in <rs ref="#tillich_place_id__189" type="place">Halle</rs> u. a. auch Dir u. mir seinen
+               Katalog zuschickte, indem mir das Bild vom Teufel auffiel; darauf suchte ich weiter
+               u. fand alle Bilder sehr passend für eine <hi rend="aq">Vita Pauli</hi>, was nicht
+               weiter viel Mühe machte, nur warf ich dabei einen Topf mit Tischleim um, was aber
+               keinen großen Schaden anrichtete. Eine Reise des großen Werkes hat aber meinen Segen
+               nicht. Übrigens habe ich Dich bei jedem Bild u. Vers furchtbar ausgelacht, wovon die
+               Verse nur ein schwacher Abglanz sind. – Daß Du dich endlich mit dem Alkohol einlassen
+               willst, finde ich höchst richtig u. heilsam. Hier in der Tannenwüste bin ich
+               natürlich mit nichts<pb n="2"/> ausgerüstet. Wenn Dir am baldigem Haben liegt, so
+               nimmst Du das Berliner Adreßbuch, suchst Dir ein Guttemplerlagerhaus od. ein
+               Blaukreuzheim, gehst hin u. kaufst Dir für 10 Pf. <rs ref="#tillich_work_id__193" type="bibl">"Die <hi rend="u">Alkoholfrage</hi>"</rs> von <rs ref="#tillich_person_id__2302" type="person">Bunge</rs>, dann wissen die Leute
+               schon Bescheid. Darin steht sehr viel drin, schön kurz zusammengefaßt und enthält
+               noch eine Literaturangabe über speziellere Fragen. Aber das erste wird Dir genügen.
+               Wenn Du Zeit hast, will ich dir was schicken, wenn ich in 4-5 Wochen nach Hause
+               komme. Also hier in <rs ref="#tillich_place_id__276" type="place">Manebach</rs> sitze
+               ich seit dem Anfang der Ferien u. erziehe Kinder. D.h. ich bin hier mit meinem Sohn,
+               einem Manne von 43 Jahren, die Sache hat sehr <del rend="s">seine</del> ihre zwei
+               Seiten. Denn der Mann ist epileptisch und meine Aufgabe besteht darin, auf ihn zu
+               passen, daß ihm kein Anfall noch Gefahr zustoße. Das hat am Tage selten Not nur ist
+               er auch etwas gelähmt und daher unbehülflich. In der Nacht lasse Ich ihn schreien, so
+               viel er will. Übrigens<pb n="3"/> ist er sonst ein ganz manierlicher Herr, nicht
+               "unästhetisch", wie wahrscheinlich <rs ref="#tillich_person_id__203" type="person">Lorenz Bertheaus</rs> Kinder, aufgewachsen in einer schlemmerhaften
+               Professorenfamilie, ehemals auch selbst einigermaßen gebildet, doch wird er mit der
+               Zeit immer stumpfer. Peinlich ists, wenn er einem sein Leid klagt und helfen kann man
+               dem armen Mann auch nicht, weil er einfach vergißt, was man ihm sagt, und die innere
+               Unzufriedenheit sich tief in ihn eingefressen hat. Im allgemeinen, ist er aber gegen
+               mich furchtbar liebenswürdig und nett, man geht auch ganz gern mit ihm durch die
+               Gegend. aber <foreign xml:lang="grc">κατα πνεύμα</foreign> ist man hier ganz allein. Dabei genießt man <rs ref="#tillich_place_id__437" type="place">Thyringen</rs> schlemmerhaft. In 6 Wochen sieht man schon allerlei; und während
+               man sonst auf Touren so durch die Gegend braust, gewöhnt man sich hier an die
+               Schönheit u. sieht vieles, was man sonst nicht sieht, oder als typisch übersieht.
+               Also wunderschön<pb n="4"/> ists hier, mitten im schönsten Teil von <rs ref="#tillich_place_id__437" type="place">Thyringen</rs> am Fuße
+               des Kickelhahn. Überall Wald u. schöne Täler, Aussichten usw. Nur hätte ich gern
+               einen l. Br. oder 2 hier, aber nur <hi rend="aq">à la carte</hi> zum Aussuchen. Dann
+               wärs noch schöner. Ich bleibe also noch 3 Wochen hier, arbeite auch ein wenig d.h.
+               ich ärgere u. freue mich abwechselnd am Hebräerbrief, lese <rs ref="#tillich_person_id__2303" type="person">Damaschkes</rs>
+<rs ref="#tillich_work_id__194" type="bibl">Bodenreform</rs>, W. <rs ref="#tillich_person_id__2248" type="person">Raabe</rs>, <rs ref="#tillich_person_id__833" type="person">Hebbel</rs>. u. <rs ref="#tillich_person_id__2082" type="person">Windelbands</rs> Geschichten. Alle
+               die in <rs ref="#tillich_place_id__189" type="place">Halle</rs> x werden wollen,
+               müßten die ja gelesen haben, hast Du mal gesagt. Auf der Rückreise werde ich Deinen
+               Neid erregen: via <rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, <rs ref="#tillich_place_id__236" type="place"><unclear>Kassel</unclear></rs> (<rs ref="#tillich_person_id__2215" type="person">Ritter</rs>) <rs ref="#tillich_place_id__318" type="place">Neviges</rs>, <rs ref="#tillich_place_id__473" type="place">Wittlage</rs>, <rs ref="#tillich_place_id__451" type="place">Ubbedissen</rs>
+<rs ref="#tillich_place_id__587" type="place">Minden</rs> (<unclear>Dorf</unclear>)
+                  <rs ref="#tillich_place_id__74" type="place">Bremen</rs>
+                  (<unclear>Branisch</unclear>, <unclear>Gruber</unclear>) <rs ref="#tillich_place_id__75" type="place">Bremervörde</rs> (<rs ref="#tillich_person_id__788" type="person">v.H.</rs>) <unclear><hi rend="u">Etsch</hi></unclear>!!</p>
+<p>Eigentlich wollte ich noch auf Deine Schrift schimpfen, aber ich muss selbst sagen:
+                  <hi rend="aq"><foreign xml:lang="lat">pater peccavi</foreign></hi>! Mein Typ kriegst Du, wenn ich welche habe, das
+               dauert noch etwas. Soll Dich aber nicht hindern, mir Deine 2. Auflage zu schicken. </p>
+<closer>
+<salute>Mit herzlichem Gruß!</salute>
+<signed>Dein treuer <rs ref="#tillich_person_id__1982" type="person">Gysbert</rs></signed>
+</closer>
+<postscript>
+<p><rs ref="#tillich_person_id__2178" type="person">Wilm</rs> züchtet irgendwo in
+                  Mäcklenburg die dicksten Kartoffeln, wenn Du an ihn schreiben willst, schreibe
+                  über <rs ref="#tillich_place_id__414" type="place">Stellingen</rs>, <address>
+<street><unclear>Schmiedestr</unclear> 1.</street>
+</address>
+</p>
+</postscript>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1982">
+                  <persName>Van der Smissen, Gilbert</persName>
+                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2215">
+                  <persName>Ritter, Rudi</persName>
+               </person>
+               <person xml:id="tillich_person_id__2178">
+                  <persName>Van der Smissen, Wilm</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__833">
+                  <persName>Hebbel, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2248">
+                  <persName>Raabe, Wilhelm Karl</persName>
+                  <birth>
+                     <date>1831-10-08</date>
+                     <settlement>
+                        <placeName>Eschershausen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1910-11-15</date>
+                     <settlement>
+                        <placeName>Braunschweig</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schriftsteller;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118597442</idno>
+               </person>
+               <person xml:id="tillich_person_id__2303">
+                  <persName>Damaschke, Adolf</persName>
+                  <birth>
+                     <date>1865-11-24</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1935-07-30</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/11906121X</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2302">
+                  <persName>Bunge, Gustav von</persName>
+                  <birth>
+                     <date>1844-01-19</date>
+                     <settlement>
+                        <placeName>Dorpat</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1920-11-05</date>
+                     <settlement>
+                        <placeName>Basel</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117156078</idno>
+               </person>
+               <person xml:id="tillich_person_id__2082">
+                  <persName>Windelband, Wilhelm</persName>
+                  <birth>
+                     <date>1848-05-11</date>
+                     <settlement>
+                        <placeName>Potsdam</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1915-10-24</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__75">
+                  <placeName>Bremervörde</placeName>
+                  <location type="coords">
+                     <geo>53.48458 9.14306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
+               </place>
+               <place xml:id="tillich_place_id__451">
+                  <placeName>Ubbedissen</placeName>
+                  <location type="coords">
+                     <geo>51.98638 8.62984</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820620/</idno>
+               </place>
+               <place xml:id="tillich_place_id__587">
+                  <placeName>Minden</placeName>
+                  <location type="coords">
+                     <geo>52.28953 8.91455</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2871039/</idno>
+               </place>
+               <place xml:id="tillich_place_id__318">
+                  <placeName>Neviges</placeName>
+                  <location type="coords">
+                     <geo>51.30929 7.09051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2863758/</idno>
+               </place>
+               <place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               <place xml:id="tillich_place_id__208">
+                  <placeName>Hersfeld</placeName>
+                  <location type="coords">
+                     <geo>50.87197 9.70891</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
+               </place>
+               <place xml:id="tillich_place_id__236">
+                  <placeName>Kassel</placeName>
+                  <location type="coords">
+                     <geo>51.31667 9.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2892518/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
+               </place>
+               <place xml:id="tillich_place_id__437">
+                  <placeName>Thüringen</placeName>
+                  <location type="coords">
+                     <geo>50.91667 11.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2822542/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1205</idno>
+               </place>
+               <place xml:id="tillich_place_id__414">
+                  <placeName>Stellingen</placeName>
+                  <location type="coords">
+                     <geo>53.59220 9.92870</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2827552/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1621</idno>
+               </place>
+               <place xml:id="tillich_place_id__473">
+                  <placeName>Wittlage</placeName>
+                  <location type="coords">
+                     <geo>52.32127 8.36978</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2807244/</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               <place xml:id="tillich_place_id__276">
+                  <placeName>Manebach</placeName>
+                  <location type="coords">
+                     <geo>50.67828 10.85779</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873960/</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__193">Bunge, Gustav von, Die Alkoholfrage. Ein Vortrag. F.C.W. Vogel, Leipzig 1887</bibl>
+               <bibl xml:id="tillich_work_id__194">Damaschke, Adolf, Die Bodenreform. Grundsätzliches und Geschichtliches. Vorträge, Fischer, Jena, 1902.</bibl>
+               </listBibl></back></text>
+</TEI>

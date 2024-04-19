@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00233.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00232.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00234.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hans Balke an Paul Tillich vom 2. November 1907</title>
+            <author ref="#tillich_person_id__128">Hans Balke</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/122(40)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__128">Hans Balke</persName>
+               <placeName ref="#tillich_place_id__189">Halle</placeName>
+               <date when="1907-11-02">02.11.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00232">Brief von Alfred Fritz an Paul Tillich vom 29. Oktober 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00234">Postkarte von Friedrich Büchsel an Paul Tillich vom 3. November 1907</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-06-28">Intitale Auszeichnung des Transkripts</change>
+         <change who="NH" when="2024-02-19">Vorbereitung/Korrektur für die Endabnahme</change>
+         <change who="EL" when="2024-02-17">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="erstehandschrift">
+            <pb n="1"/>
+            <opener>
+               <dateline>Verbindung Wingolf, <rs ref="#tillich_place_id__189" type="place">Halle a. S.</rs>
+                  Den <date when="1907-11-02">2. November 1907.</date></dateline>
+            </opener>
+            <p>Auf Euren Brief<note type="ea">Nicht überliefert.</note> vom <date when="1907-10-30">30.X.</date> teilen wir Euch ff. mit:</p>
+            <p>Wir haben einen der 7 Ausgetretenen, <rs ref="#tillich_person_id__1205" type="person">Stud. phil.
+                  Lotz</rs>, bei uns aufgenommen aus folgenden Erwägungen:</p>
+            <p>1.) <rs ref="#tillich_place_id__136" type="place">Erlangen</rs> verlangt von uns, von den 7 Ausgetretenen eine sachliche Entschuldigung
+               zu fordern, d.h. nichts anderes, als bedingungslos uns auf Seiten der Erlanger
+               Verbindung zu stellen.</p>
+            <p>2.) Nach reiflicher Überlegung sind wir zu dem Ergebnis gekommen: Wir wollen uns auf
+               keine Seite stellen.</p>
+            <p>3.) Deshalb haben wir <rs ref="#tillich_place_id__136" type="place">Erlangens</rs> Forderung nicht erfüllt.<pb n="2"/> Begründung zu 2:
+               Wir können uns auf keine Seite stellen, denn gegenüber dem Urteil der Erlanger
+               Verbindung müssen wir 2 Punkte berücksichtigen:</p>
+            <p>a.) Ein Teil der Erlanger Ortsphilister, die überwältigende Majorität der Nürnberger
+               Philister, und ein Münchener Philisterkonvent haben dafür ausgesprochen, daß die 7
+               Ausgetretenen in den Bruderverbindungen aktiv werden können.</p>
+            <p>b.) Die gewohnheitsmäßige Anfrage, betreffend die Aufnahme von Ausgetretenen stellt
+               einen Selbstschutz der Verbindungen dar, durch den<pb n="3"/> schlechte Elemente fern
+               gehalten werden. Dieser Grund fällt hier weg, da wir in <rs ref="#tillich_person_id__1205" type="person">Lotz</rs> einen Menschen kennen gelernt haben, der sehr wohl in den Wingolf
+               paßt.<note type="ea">Unterhalb der Zeile befindet sich eine auf dem Brief Papier gedruckte Trennlinie.</note></p>
+            <p>Da wir <rs ref="#tillich_place_id__136" type="place">Erlangens</rs> Forderung, uns auf seine Seite zu
+               stellen, nicht erfüllen konnten, (S.1-3) bleiben uns 2 Wege offen:</p>
+            <p>Entweder wir fragten <rs ref="#tillich_place_id__136" type="place">Erlangen</rs>, ob es unter Verzicht auf die "sachliche
+               Entschuldigung" doch <rs ref="#tillich_person_id__1205" type="person">Lotz</rs>'s Aufnahme gestatten wollte, oder wir nahmen <rs ref="#tillich_person_id__1205" type="person">Lotz</rs> sofort
+               auf. Wir wählten den zweiten Weg, weil <rs ref="#tillich_place_id__136" type="place">Erlangens</rs> Forderung so scharf gestellt war,
+               daß jener Verzicht ganz ausgeschlossen war, weil also eine solche Anfrage nicht nur
+               nichts genützt, sondern im Gegenteil den Gegensatz aufs höchste gesteigert hätte.
+               Hätten wir auch nur die leiseste Hoffnung gehabt, daß <rs ref="#tillich_place_id__136" type="place">Erlangen</rs> auch ohne eine
+               "sachliche Entschuldigung" <rs ref="#tillich_person_id__1205" type="person">Lotz</rs>'s Aufnahme gestattet hätte, so hätten wir den
+               Versuch<pb n="4"/> gemacht. "Formelle Fehler" hat <rs ref="#tillich_person_id__1205" type="person">Lotz</rs> uns offiziell zugegeben, doch war <rs ref="#tillich_place_id__136" type="place">Erlangen</rs> damit ja nicht im
+               geringsten gedient.<note type="ea">Unterhalb der Zeile befindet sich eine auf dem Brief Papier gedruckte Trennlinie.</note></p>
+            <p>Das Ergebnis der obigen Aufstellung
+               lautet also zusammengefaßt folgendermaßen: Darin, daß wir <rs ref="#tillich_person_id__1205" type="person">Lotz</rs> aufgenommen haben, liegt allerdings ein Urteil gegen <rs ref="#tillich_place_id__136" type="place">Erlangen</rs>,
+               jedoch, – und darauf legen wir <hi rend="u">allen Nachdruck</hi> – nicht ein Urteil
+               über die betreffenden inneren Verbindungsangelegenheiten – so wird <rs ref="#tillich_place_id__136" type="place">Erlangen</rs> die Sache
+               darstellen – sondern nur ein Urteil gegen <rs ref="#tillich_place_id__136" type="place">Erlangens</rs> Verfahren, den Bruderverbindungen
+               gewissermaßen die Pistole auf die Brust zu setzen mit den Worten: Sei mein Freund,
+               oder ich schieße Dich nieder (Abbruch des Verkehrs!) Ein solches Verfahren greift in
+               die Freiheit der Bruderverbindungen in nicht erlaubter Weise ein, wenn es sich auch
+                  <hi rend="u">rein formal</hi> auf den bisherigen Usus berufen kann.<pb n="5"/>
+               Aber eben auch nur rein formal, denn sachlich bedeutet jene Forderung einen Mißbrauch
+               des bestehenden Usus, der zum Selbstschutz der Verbindung da ist (Siehe oben b);
+               sachlich heißt es mit den Begriffen "Anstandspflicht gegenüber den
+               Bruderverbindungen" Mißbrauch treiben, wenn man ihn dazu benutzt, von den
+               Bruderverbindungen zu verlangen, daß sie, trotz entgegenstehender Momente,
+               bedingungslos eine ganz einseitige und auf die Spitze getriebene Parteistellung
+               einnehmen und damit ein <hi rend="aq"><foreign xml:lang="lat">Sacrificium intellectus</foreign></hi> begehen.<note type="ea">Unterhalb der Zeile befindet sich eine auf dem Brief Papier gedruckte Trennlinie.</note></p> <p>Außerdem teilen wir Euch noch mit, daß <rs ref="#tillich_place_id__136" type="place">Erlangen</rs> ganz
+               gegen den sonst gehand<pb n="6"/>habten Brauch an die Erlanger und Hallenser
+               Inaktiven nicht nur in <rs ref="#tillich_place_id__189" type="place">Halle</rs> und <rs ref="#tillich_place_id__136" type="place">Erlangen</rs>, sondern sogar in Bruderverbindungen
+                     <add><rs ref="#tillich_person_id__2142" type="person">Tielking</rs> in <rs ref="#tillich_place_id__186" type="place">Göttingen</rs> vielleicht auch <rs ref="#tillich_person_id__2143" type="person">Schüssler</rs> in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>??</add> die
+               Zumutung stellte, sich entweder für das Erlangener oder das Hallenser Band zu
+               entscheiden. Wir protestieren energisch gegen dieses Verfahren, das <del rend="s">officiell</del> offensichtlich dem Sinne der Bundesverfassung widerspricht.</p><pb n="7"/>
+         </div>
+         <div type="zweitehandschrift">
+            <opener><salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute></opener>
+            <p> Auf <rs type="place" ref="#tillich_place_id__448">Tüb.</rs>s Anfrage um Motivierung der Aufnahme teilten wir ihm nach langem Konvent
+               obigen Brief mit. Wir gehen vorerst nicht vor den Bund, doch wird <rs type="place" ref="#tillich_place_id__448">Tüb.</rs>. das
+               wahrscheinlich tun. Wir haben auch nicht mit dem gleichen Schritt geantwortet.</p>
+            <p>Was meinst Du zu unserem Vorgehn?</p>
+            <p>Vielleicht kannst Du mir <rs ref="#tillich_place_id__136" type="place">Erl.</rs>s Brief an den Bund mitteilen, da wir v. seinem Inhalt
+               keine Ahnung haben.</p>
+            <closer>
+               <salute>Sonst alles wohl. Herzl. Grüsse an Deinen lb. <rs ref="#tillich_person_id__1924" type="person">Vater</rs> u. Deine<rs ref="#tillich_person_id__644" type="person"> Schwester</rs>, sowie an
+                  die Hallenser</salute>
+               <signed>In Treue u. Eile Dein <rs ref="#tillich_person_id__128" type="person">Hans</rs>.</signed></closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__2143">
+                  <persName>Schüssler, ???</persName>
+                  <note type="bio"><p>Er war Mitglied der Wingolfsverbindung in Berlin.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1205">
+                  <persName>Lotz, Ernst</persName>
+                  <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2142">
+                  <persName>Tielking, ???</persName>
+                  <note type="bio"><p>Er war Mitglied der Wingolfsverbindung in Göttingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__136">
+                  <placeName>Erlangen</placeName>
+                  <location type="coords">
+                     <geo>49.59099 11.00783</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
+               </place>
+               <place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
+                  <location type="coords">
+                     <geo>51.53443 9.93228</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

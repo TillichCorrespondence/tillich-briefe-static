@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00002.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00001.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00003.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Marie und Oskar Tillich an Paul Tillich vom 19. August 1892</title>
+<author ref="#tillich_person_id__1930">Marie Tillich</author>
+<author ref="#tillich_person_id__1926">Oskar Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Jonas Epple</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/193</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1930">Marie Tillich</persName>
+<persName ref="#tillich_person_id__1926">Oskar Tillich</persName>
+<date when="1892-08-19">19.08.1892</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00001">Brief von Marie Tillich an Paul Tillich vom 20. August 1887</ref><ref subtype="next_letter" type="withinCollection" target="L00003">Brief von Hanna Wedell an Paul Tillich vom 18. August 1896</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-08-07" who="JE">Intitale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<date when="1892-08-19">19.8.92.</date>
+</dateline>
+<salute>Mein liebes Paulchen!</salute>
+</opener>
+<p>
+   Nun kommt auch der Großpapa und die Großmama aus Berlin, um Dir zu Deinem Geburtstage zu gratulieren. 
+   Möge der liebe Gott im Himmel Dich behüten mein liebes, liebes Paulchen, daß Du, da Du nun auch ein Schüler 
+   meist recht fromm und fleißig werden kannst, damit 
+   <unclear>¿¿¿...¿¿¿</unclear>
+   Deine lieben Eltern und uns alle 
+   <unclear cert="high">noch</unclear>
+   wohl erfreuest.
+   Wie schön wird es sein wenn Du gelernt haben wirst selbst einen Brief zu schreiben. Denke mal, an Großmama einen Brief, 
+   von Paul Tillich, wird das schön sein, nicht wahr? 
+   <rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs>
+   hat mir geschrieben, daß Du 
+   krank warst, wie leid thut es mir. Aber siehst Du, da Du so lieb und artig dabei warst, hat Dich auch der liebe Gott bald 
+   wieder gesund gemacht, und damit Du nun künftig wieder umher toben kannst, schicke ich Dir ein großes Schurzfell daß 
+   die schönen Höschen und Strümpfe von dem Toben nicht so leicht zerreißen; und da Du nun ein Schüler bist kannst Du auch 
+   eine Cigarette rauchen, Mama wird es gewiß erlauben, die ich Dir mitsende zu gebrauchen. Die Papiersoldaten 
+   <unclear cert="high">schmücke</unclear>
+   Dir und uns, bis die lebendigen kommen, da wirst Du und 
+   <rs ref="#tillich_person_id__644" type="person">Johanna</rs>
+   wieder Schönes zu sehen bekommen. Nicht wahr: Einquartierung ist schön!! – 
+   Nun wünsche ich noch, daß Du Deinen Geburtstag recht gesund und fröhlich erleben möchtest. Grüße 
+   <rs ref="#tillich_person_id__1924" type="person">Papa</rs>
+   und 
+   <rs ref="#tillich_person_id__1929" type="person">Mama</rs>
+   , 
+   <rs ref="#tillich_person_id__2237" type="person">Großpapa</rs>
+   , 
+   <rs ref="#tillich_person_id__644" type="person">Johanna</rs>
+   und 
+   <rs ref="#tillich_person_id__1925" type="person">Tante Grete</rs>
+   und laßt Euch Alle den Kuchen zum Kaffe [!] schmecken. 
+  </p>
+<closer>
+<salute>Adieu nun mein Paulchen. Tausendmal umarmt Dich Deine treue Großmama</salute>
+<signed>
+   Marie Tillich 
+   <lb/>
+    Gott segne dich! 
+   </signed>
+</closer>
+</div>
+<div type="writingSession">
+<pb n="1"/>
+<p>
+   Auch der Großpapa, mein liebes Paulchen, sendet Dir seine herzlichen Segenswünsche zu Deinem Geburtstage und, 
+   wie er alle Tage für Dich betet, wird er Deinerwegen besonders innig 
+   <unclear cert="high">heuernd</unclear>
+   den lieben Gott bitten, daß Er Dich tüchtig heranwachsen lasse zu 
+   <unclear>¿¿¿...¿¿¿</unclear>
+   , Deiner Eltern 
+   und unserer Allen Freude! Vielleicht kann der Großpapa Dich doch noch bald als fleißigen Schüler selber sehen! 
+  </p>
+<closer>
+<salute>Gott behüte Dich, mein Herzens-Liebling! Grüße Alle, Alle!</salute>
+<signed>
+   Dein treuer Großpapa 
+   <lb/>
+   O. Tillich 
+   </signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2237">
+                  <persName>Dürselen, Gustav</persName>
+                  <note type="bio"><p>Er war ein Großvater von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1929">
+                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <occupation>Mutter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               </listPerson></back></text>
+</TEI>

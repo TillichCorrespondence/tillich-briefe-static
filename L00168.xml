@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00168.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00167.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00169.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Johanna Tillich an Paul Tillich vom Juni 1907</title>
+<author ref="#tillich_person_id__644">Johanna Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers 1894-1974.</collection>
+<idno>bMS 649/193</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+<placeName ref="#tillich_place_id__208">Hersfeld</placeName>
+<date notAfter="1907-06-30" notBefore="1907-06-01">06.1907</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00167">Postkarte von Elisabeth Tillich an Paul Tillich vom 20. Mai 1907 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L00169">Brief von Alfred Fritz an Paul Tillich vom 2. Juni 1907</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-09" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2024-02-13" who="NH">Vorbereitung/Korrektur für die Endabnahme</change>
+<change when="2024-02-19" who="EL">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__208" type="place">Hersfeld</rs>, im <date when="1907-06">Juni 07.</date></dateline>
+<salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Junge</rs>,</salute>
+</opener>
+<p>herzlichen Dank für Deine leider allzu kurze Karte<note type="ea">Nicht überliefert.</note>. Durch Deinen <rs ref="#tillich_person_id__1295" type="person">Leibfux</rs> haben wir ja zum Glück mehr von Dir
+               erfahren, auch Deine Rezeptionspauke las ich. Ich bedaure Dich herzlich um aller
+               deiner Reden willen. Doch – wenn es Dich nicht allzu sehr anstrengt und Du sonst
+               einigermaßen vernünftig mit Deiner Gesundheit umgehst (was ich nicht glaube) – dann
+               werden sie Dir gewiß mehr Sicherheit geben. Also tu mir doch nur den einzigen
+               Gefallen und gehe früh ins Bett! Es ist einfach Deine Pflicht, es zu tun!!!!! Ja?</p>
+<p>Mir geht es immer besser, und ich weiß noch nicht, wie ich mich einmal von hier
+               losreißen soll und Abschied nehmen, so heimatlich ist mir alles hier. <add place="left">Nimm Dich beim Rudern auf der Saale in acht!!!!!</add><pb n="2"/>
+               Ich habe gestern heimgeschrieben und gefragt, ob ich bis zum <date when="1907-07-12">12. Juli</date> bleiben könne,
+               dann will ich bei Dir in <rs ref="#tillich_place_id__189" type="place">Halle</rs> eine Nacht bleiben
+               u. am nächsten Tag durch nach <rs ref="#tillich_place_id__293" type="place"><hi rend="aq">Misdroy</hi></rs>. Dann hast Du auch Dein Stiftungsfest hinter Dir u. hast
+               Zeit für mich! – Seit gestern ist es hier so heiß, das freut mich allerdings nur für
+               Dich, Am Donnerstag feierten wir <rs ref="#tillich_person_id__2722" type="person">Herrn Sup.'s</rs> Geburtstag und heute <rs ref="#tillich_person_id__641" type="person">Alfred's</rs>. Ich freue mich daß, <rs ref="#tillich_person_id__2722" type="person">Herr S.</rs> jetzt auch
+               hier ist, er ist zu reizend. <rs ref="#tillich_person_id__1696" type="person"><hi rend="aq">Hermann</hi></rs> hat sein <hi rend="aq"><foreign xml:lang="lat">Tentamen</foreign></hi> (auch Katechese
+               u. schriftl. Prüfung) gut bestanden und geht nicht nach <rs ref="#tillich_place_id__31" type="place">Basel</rs>, entweder dient er oder kommt als Vicar in eine
+               Universitätsstadt (zum Herbst.) (<rs ref="#tillich_place_id__279" type="place">Marburg</rs>?) <add place="left">Viele Grüße! Einen frohen Sonntag! Deine <rs ref="#tillich_person_id__644">J</rs>.</add><pb n="3"/>
+</p>
+</div>
+<div resp="#tillich_person_id__1696">
+<p> Deine <rs ref="#tillich_person_id__644" type="person">Schwester</rs> behauptet gerade von mir
+               zu erzählen – wahrscheinlich ists nicht wahr – Kommen kann ich ja nun – vom <date when="1907-07-01">1 Juli</date> ab
+                  <hi rend="u">angestellt</hi> – leider unmöglich!!
+            </p>
+</div>
+<div resp="#tillich_person_id__644">
+<p><rs ref="#tillich_person_id__1696" type="person">Hermann</rs> meinte, ich klagte über ihn; darum
+               schreibt er, was ich schrieb, wäre nicht wahr! Von <date when="1907-07-01">1. Juli</date> an ist er Vicar bei seinem
+               <rs ref="#tillich_person_id__1698" type="person">Vater</rs>. Er geht eben um sich vom Militärarzt untersuchen zu lassen. – Heute erhielt
+               ich v. <rs ref="#tillich_person_id__2227" type="person">Tante Emma</rs> einen lieben Brief. Wenn es
+               Dir irgend möglich ist, dann schreibe Du ihr einmal; sie ist so traurig.</p>
+<p> Denke Dir, <rs ref="#tillich_person_id__2872" type="person">Emiliy</rs> kommt nun sehr wahrscheinlich im
+               Winter zu uns nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, um mit mir zusammen
+               den Missionskursus durchzunehmen. <add place="left">Bitte schreibe wenigstens <hi rend="uu">eine</hi>
+<hi rend="uu">Karte</hi></add><pb n="4"/>
+<rs ref="#tillich_person_id__1050" type="person"><hi rend="aq">Alb. Kilger</hi></rs>
+<hi rend="u">wohnt</hi> doch <hi rend="u">bestimmt</hi> wo anders!!!!!!!! Kommt er
+               überhaupt nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>? – Denke, im "Reich" u. im
+               "Reichsboten" stand die Notiz, daß <rs ref="#tillich_person_id__1924" type="person"><hi rend="aq">Papa</hi></rs> zum Konsistorialrat in <rs ref="#tillich_place_id__46" type="place">Schöneberg</rs> bestimmt sei.<note type="ea">Nicht ermittelt.</note> Als <rs ref="#tillich_person_id__2722" type="person">Herr Sup</rs>. mir plötzlich die Zeitung
+               brachte, war ich natürlich recht erschrocken. Ich glaube, es ist nicht wahr. Wir
+               lesen jetzt abends (<rs ref="#tillich_person_id__2722" type="person">Herr Sup.</rs>) <hi rend="aq"><rs ref="tillich_work_id__241" type="work">Hanne Nüte</rs></hi> vor. Das wäre riesig
+               nett, wenn ich nicht zu früh ins Bett müßte! Ich wünsche für Dich, daß Du
+               hierherkämst u. Dich erholtest. Nun erst werde ich Dich einmal in <rs ref="#tillich_place_id__293" type="place"><hi rend="aq">Misdroy</hi></rs> u. in <rs ref="#tillich_place_id__37" type="place">Berlin</rs> pflegen, ich hab's ja jetzt gelernt, freust Du Dich auf die
+               See? <rs ref="#tillich_person_id__2227" type="person">Tante Emma</rs> hat mich leider zu <unclear cert="medium">Herbe</unclear> eingeladen – Ich gehe aber kaum.</p>
+<note place="left">Nun Schluß, mein Junge, ich weiß nichts mehr zu schreiben. </note>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__2872">
+                  <persName>Glatzer, Nahum Norbert</persName>
+                  <birth>
+                     <date>1903</date>
+                     <settlement>
+                        <placeName>Lemberg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1990</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119011085</idno>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2227">
+                  <persName>???, Emma</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1698">
+                  <persName>Schafft, Julius</persName>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2722">
+                  <persName>???, (Unbekannt)</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__46">
+                  <placeName>Berlin-Schöneberg</placeName>
+                  <location type="coords">
+                     <geo>52.46667 13.35000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2836788/</idno>
+               </place>
+               <place xml:id="tillich_place_id__208">
+                  <placeName>Hersfeld</placeName>
+                  <location type="coords">
+                     <geo>50.87197 9.70891</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__31">
+                  <placeName>Basel</placeName>
+                  <location type="coords">
+                     <geo>47.55839 7.57327</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661604/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q56447734</idno>
+               </place>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__241">Reuter, Fritz, Hanne Nüte un de lütte Pudel, in: Sämmtliche Werke, Bd. 4, hg. v. dems. Wismar, Rostock und Ludwigslust, 1878, S. 1–199.</bibl>
+               </listBibl></back></text>
+</TEI>

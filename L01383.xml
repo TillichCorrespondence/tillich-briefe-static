@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01383.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01382.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01384.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich vom 18. Februar 1922</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Anna Rüther</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS721/2.18</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<date when="1922-02-18">18.02.1922</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L01382">Brief von Paul Tillich an Hannah Tillich vom 1. September 1921</ref><ref subtype="next_letter" type="withinCollection" target="L01384">Brief von Leo Frobenius an Paul Tillich vom 22. Oktober 1931</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2024-02-08" who="AR">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline> den 
+   <date when="1922-02-18">18.02.1922</date>
+</dateline>
+<salute>Geliebtes, sehr geliebtes Hannah-Kind!</salute>
+</opener>
+<p>„Habe Geduld mit mir, ich will es Dir alles bezahlen!“ Noch 14 Tage tobt die große Schlacht; dann ist das Kolleg zu Ende. Freitag. d. 3. März hoffe ich mit „Meister <rs ref="#tillich_person_id__1887" type="person">Eckhardt</rs>“ das Semester zu beschließen; und dann klappere ich einige Volks- und andere Hochschulen bis Mitte März nach, und dann ist Friede, und ich kann so oft an Dich schreiben, wie meine Seele mich treibt – – denn ich liebe Dich, unendlich, vollkommen, furchtlos – sehnsüchtig. Ich danke Dir für Deinen Brief und all das tiefe Sehen, was Du hast und mir offenbarst. Wie herrlich, wenn ich mit Dir leben könnte, und Du siehst und ich denke.</p>
+<p>Die äußere Lage wird immer günstiger. Meinen Brief mit der Nachricht, daß ich von <rs ref="#tillich_person_id__1792" type="person">Simon</rs> etc. monatlich 1500 M erhalte, hast Du doch hoffentlich bekommen. Heut benachrichtigt mich das Ministerium, daß ich 20000 M jährlich mit Rückwirkung vom 1. Okt.<expan>ober</expan> 1921 bekomme; ich habe dann <hi rend="u">ohne</hi> alle Tätigkeit außer der Universität jährlich 48000 also monatlich 4000 M; natürlich wird nun alles andere abgeschafft und nur noch <pb n="2"/> gearbeitet. Mit den 10000 M, die ich auf diese Weise rückwirkend kriege, will ich sehen, daß wir im August nach <rs ref="#tillich_place_id__425" type="place">Sylt</rs> gehen, Du und ich. Ach Hannah, ich weiß ja, daß es Deinem Denken schwer werden muß, über das große Ereignis Deines Leibes hinauszudenken. Aber es ist nötig, daß die Willensrichtung nachher so feststeht, daß sie nicht wieder umgeworfen werden kann; ich meine nicht die allgemeine, sondern die besondere Richtung, daß vom Sommer ab eine Trennung nicht mehr möglich ist. – Es ist nötig daß Du bald kommst, nicht um die zerreißende Vielheit zu überwinden; das hast Du schon getan durch Dein Dasein, sondern um mich, ehe ich zu entwöhnt bin, an das Leben in der Einheit zu gewöhnen. – Komm bald, das ist mein tägliches Gebet! –</p>
+<p>Was sonst geschieht, ist alles nicht wichtig, außer meiner Arbeit. Beiliegende Anzeige ist von <rs ref="#tillich_person_id__1928" type="person">M.<expan>arie</expan> L.<expan>uise</expan></rs> mit Deiner Adresse gekommen. Sie hat sehr unter Streik und Kälte gelitten. – Und Du liegst im Bett! Wenn dieses Zeug nicht so weh täte, würde ich Dich um das Bett beneiden! Hoffentlich dauert es nicht sehr lange! Sag Frede, daß ich <rs ref="#tillich_person_id__1886" type="person">Gertrud</rs> eine weiße Hyazinthe gebracht habe. – Ist <rs ref="#tillich_person_id__1886" type="person">Trudchen</rs> wieder bei Euch!</p>
+<closer>
+<salute>Ach Hannah, liebe, liebe Hannah, ich umarme und küsse Dich, mein Leben, mein geliebtes Leben! </salute>
+<signed>D.<expan>ein</expan> P.</signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1792">
+                  <persName>Simon, Hugo</persName>
+                  <occupation>Bankier und Mäzen</occupation>
+                  <note type="bio"><p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1887">
+                  <persName>Sydow, Eckart von</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1886">
+                  <persName>Sydow, Gertrud von</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__425">
+                  <placeName>Sylt</placeName>
+                  <location type="coords">
+                     <geo>54.91823 8.33113</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2824454/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3107</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

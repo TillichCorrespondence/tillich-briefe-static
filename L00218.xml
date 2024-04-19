@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00218.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00216.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00219.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Hans Balke an Paul Tillich vom 2. Oktober 1907</title>
+            <author ref="#tillich_person_id__128">Hans Balke</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Paul Schömann</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/122(40)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__128">Hans Balke</persName>
+               <placeName ref="#tillich_place_id__318">Neviges</placeName>
+               <date when="1907-10-02">02.10.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00216">Postkarte von Hermann Witte an Paul Tillich vom 28. September 1907</ref><ref subtype="next_letter" type="withinCollection" target="L00219">Postkarte von Hans Balke an Paul Tillich vom 2. Oktober 1907</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="PS" when="2022-09-13">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-09">Vorbereitende Endabnahme</change>
+         <change who="EL" when="2024-02-26">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <dateline><rs ref="#tillich_place_id__318" type="place">Neviges</rs>, den <date when="1907-10-02">2. Oktober 07.</date></dateline>
+               <salute>Mein lieber <rs ref="#tillich_person_id__1928" type="person">Paul</rs>,</salute>
+            </opener>
+            <p>Da Du mir in Deinem ersten Briefe<note type="ea">Nicht überliefert.</note> schriebst,
+               Du wolltest mir bald auch etwas von Dir erzählen, habe ich auf diese Ankündigung bis
+               heute mit Schmerzen gewartet. Da ich aber gestern durch den Rundbrief wenigstens ein
+               Lebenszeichen von Dir erhielt, will ich nun das Schweigen brechen u. Dir noch einen
+               kurzen Gruss senden, ehe wir uns, wie ich wohl bestimmt hoffen darf, in <rs type="place" ref="#tillich_place_id__189">Halle</rs> zu Beginn des Semesters
+               wiedersehen. Über den Druck der Statuten<!-- <note type="ea">Statutenrevision</note>--> usw., über den Vorschlag zum
+               Erbauungskränzchen kannst Du mir dann ja mündlich raten. Hoffentlich darf ich trotz
+               mangelnder Nachricht annehmen, dass es Dir recht gut geht u. Du trotz<pb n="2"/>
+               Deines gewaltigen Arbeitseifers Deine anfängliche Frische nicht verloren hast. Den
+               Ertrag der <rs ref="#tillich_person_id__310" type="person">Fr. Büchselschen</rs>
+               "Einrenkung" u. den ersten Erfolg Deiner Kletterarbeit auf den Examensberg lässt Du
+               gewiss gerne auch mir zugute kommen; denn ich bin darin wie ein neugebornes Kind.</p>
+            <p>Ich habe noch nie so unruhige Ferien gehabt wie diesmal, die erledigte Arbeit ist
+               leider ganz furchtbar minimal. Mir ist ganz rätselhaft, wo all die vielen Wochen
+               geblieben sind. Nun naht schon der Semesteranfang und die Semesterarbeit. Meine T<del rend="s">h</del>rothapauke macht mir viel Kopfweh u. gelingt doch nicht
+               ordentlich, ich merke sehr, dass mir da sehr viel fehlt gegenüber Deiner Gabe zu
+               reden. Es wird mir auch schwer, mich hier in den Ferien in einer ganz andern Umgebung
+               in die rechte Lage zu<pb n="3"/> versetzen. Aber was man muss, das kann man auch, es
+               fragt sich nur wie.</p>
+            <p>Von <rs ref="#tillich_person_id__2149" type="person">Dr. Fink</rs> erhielt ich auf
+               mein Schreiben hin einen im höchsten Grade unverschämten Brief, so dass ich schwanke,
+               ob ich ihn nicht dem Bonner Philisterverband einsenden soll. Von <rs ref="#tillich_person_id__2185" type="person">Meyersieck</rs> hörte ich, dass er
+               überhaupt nur ein Semester in <rs type="place" ref="#tillich_place_id__189">Halle</rs> gewesen sei u. aber voraussichtlich garnicht das Hallenser Band
+               besitzt.</p>
+            <p>Der Rundbrief hat ja einen höchst befriedigenden Anfang genommen u. wenn er sich
+               vielleicht auch nicht ganz auf dieser Höhe halten kann, so wird er jedenfalls seinen
+               Zweck ganz erfüllen. Es freut mich besonders, dass <rs ref="#tillich_person_id__2191" type="person">Jonas</rs> dabei ist, er bleibt dadurch mit der ganzen Verbindung
+               viel besser in Zusammenhang.<pb n="4"/> Es wäre mir recht lieb, wenn Du mir von
+               Deinem lb. <rs ref="#tillich_person_id__1295" type="person">Leibfux</rs> noch etwas
+               erzählen könntest; Du wirst ihm in <rs type="place" ref="#tillich_place_id__293">Misdroy</rs> gewiss noch näher gekommen sein; wie sprach er sich über das
+                  S.S. u. seine Stellung zur Verbindung aus?
+                  Hoffentlich macht ihm im Winter sein <rs type="person" ref="#tillich_person_id__2908">Bruder</rs> nicht das Leben schwer. Ich schrieb ihm
+               vor etwa 14 Tagen nach <rs type="place" ref="#tillich_place_id__189">Halle</rs>; war
+               er wohl damals noch unterwegs? Vielleicht fahre ich schon 2 oder 3 Tage eher ins
+               gelobte Land; teile mir bitte mit, wann Du kommst; <rs ref="#tillich_person_id__1050" type="person">Alb. Kilger</rs> wird doch gewiss auch in <rs type="place" ref="#tillich_place_id__189">Halle</rs> sein. <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> kommt nicht, weil er das nicht ertragen könne.</p>
+            <closer>
+               <salute>In treuen gedenkt Dein</salute>
+               <signed>Dein dankbarer <rs ref="#tillich_person_id__128" type="person"><hi rend="u">Hans</hi></rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__2908">
+                  <persName>Meinhof, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2149">
+                  <persName>Fink, ???</persName>
+                  <note type="bio"><p>Er war ein Philister im Bonner Wingolf.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
+               <person xml:id="tillich_person_id__2185">
+                  <persName>Meyersieck, Joh.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
+                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2191">
+                  <persName>???, Jonas</persName>
+                  <note type="bio"><p>Er scheint ein Studienkollege von Paul Tillich gewesen zu sein.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__318">
+                  <placeName>Neviges</placeName>
+                  <location type="coords">
+                     <geo>51.30929 7.09051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2863758/</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

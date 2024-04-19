@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00534.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00533.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00535.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Paul Tillich an Johannes Tillich vom 5. April 1917</title>
+                <author ref="#tillich_person_id__1928">Paul Tillich</author>
+                <respStmt>
+                    <resp>Editor</resp>
+                    <name>Friedrich Schumann</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                        1887-1933</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+                    <address>
+                        <street>Schenkenstraße 8-10</street>
+                        <postCode>1010</postCode>
+                        <placeName ref="#tillich_place_id__470">
+                            <settlement>Wien</settlement>
+                            <country>Österreich</country>
+                        </placeName>
+                    </address>
+                </publisher>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                        Commons Attribution 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="manuscript">
+                    <msIdentifier>
+                        <country>USA</country>
+                        <settlement>Cambridge, MA</settlement>
+                        <institution>Harvard University</institution>
+                        <repository>Harvard Divinity School Library</repository>
+                        <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+                        <idno>bMS 649/193(15)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Brief, eigenhändig</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+                    https://www.deutschestextarchiv.de/doku/basisformat/</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+                    <date when="1917-04-05">05.04.1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#tillich_person_id__1924">Johannes Tillich</persName>
+                </correspAction>
+            <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00533">Postkarte von Paul Tillich an Johannes Tillich vom 31. März 1917</ref><ref subtype="next_letter" type="withinCollection" target="L00535">Brief von Paul Tillich an Johannes Tillich vom 12. April 1917</ref></correspContext></correspDesc>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="approved">
+            <change who="FS" when="2022-05-24">Initiale Auszeichnung des Transkripts</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <pb n="1"/>
+
+                <opener>
+                    <dateline>D. <date when="1917-04-05">5. Apr. 1917</date>.</dateline>
+                    <salute>Lieber <rs ref="#Jtillich_person_id__1924" type="person">Papa</rs>!</salute>
+                </opener>
+
+                <p>Nun ist schon mehr als ein halber Monat<note type="ea"><rs ref="#tillich_person_id__1928" type="person">Tillich</rs> war vom 23.
+                        Februar bis Mitte März auf Heimaturlaub. Vgl. <rs ref="#tillich_work_id__96" type="work">Paul Tillich, Ergänzungs- und Nachlassbände, Bd. 5,
+                            S.76</rs></note> vergangen, daß ich zum letzten Mal in der <rs ref="#tillich_place_id__37" type="place">Neuenburgers.</rs> war, und ich
+                    habe noch nicht geschrieben! Ich habe viel zu tun gehabt. Denn wir sind immer
+                    noch an derselben <rs ref="#tillich_place_id__97" type="place">Stelle</rs> wie
+                    vorher; nur daß wir infolge Beschießung zweimal das Quartier gewechselt haben,
+                    was immer mit viel Aufregung und Zeitverlust verbunden ist. So verlor ich jetzt
+                    den Montag und Dienstag und mußte Mittwoch und Donnerstag die Karfreitags- und
+                    Osterpredigt machen. Es geht, da es muß! Auch Dir wird es nicht gut gehen in
+                    dieser Zeit; aber Du hast etwas vor Dir, das Du wie Erlösung empfinden wirst,
+                    den Urlaub und dann das Ende Deines Arbeitszwanges.... ich freue mich mit Dir
+                    und für Dich!</p>
+                <p>Am <date when="1917-04-01">1. Apr.</date> kam ein <rs type="letter">Brief</rs><note type="ea">Brief liegt nicht vor.</note> von <rs ref="#tillich_person_id__2192" type="person">Schwester Therese</rs>, worin sie mir mitteilt, daß <rs ref="#tillich_person_id__2707" type="person">Ekkehardt</rs> ein <rs ref="#tillich_person_id__2355" type="person">Schwesterchen</rs> bekommen
+                    hat, mein Patenkind! Und bis heute habe ich noch keine Nachricht aus <rs ref="#tillich_place_id__74" type="place">Bremen</rs>, so daß ich in großer
+                    Sorge bin um <rs ref="#tillich_person_id__644" type="person">Johanna</rs>! Was
+                    ist los? Und <pb n="2"/> dabei habe ich <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> das Versprechen abgenommen, mir gleich zu
+                    schreiben! – – – Heute ist <rs ref="#tillich_person_id__1929" type="person">Mamas</rs> Geburtstag! Es ist ein Menschenleben her, daß ich sie nicht mehr
+                    habe; so fern, so undeutlich ist mir diese Zeit, daß ich nicht mehr denke, daß
+                    ich es bin, der das erlebt hat! Wie fern ist überhaupt alles, was vor dem Kriege
+                    lag! Ich hätte nie gedacht, daß das Älterwerden so wehmütig ist! – – – Neben mir
+                    liegt der Geburtstagsbrief für <rs ref="#tillich_person_id__1931" type="person">Greti</rs>! Am <date when="1917-04-08">ersten Ostertag</date>! Das ist
+                    hoffnungsvoll, und ich bin so hoffnungslos in Bezug auf den Krieg. Nun auch
+                        Amerika!<note type="ea">Am 2. April hatte Präsident Wilson den US-Kongress
+                        zum Kriegseintritt aufgefordert. Am 6. April erfolgte die offizielle
+                        Kriegserklärung an Deutschland.</note> Das ist das Geburtstagsgeschenk! Die
+                    Vermehrung der Aussichtslosigkeit vielleicht um Jahre!! <date when="1917-04-06">Morgen</date> ist Karfreitag! Ich predige immer nüchterner, um nichts zu
+                    sagen, was nicht volle Realität hat. Wie anders muß es sein, zu einer Gemeinde
+                    zu reden! Ich kann <hi rend="u">nichts</hi> voraussetzen.</p>
+                <closer><salute>Ich denke an Ostern in <rs ref="#tillich_place_id__398" type="place">Schönfließ</rs>, die Osterruten, und das Eiersuchen im Garten! Und den
+                        Choral vom Kirchturm, und das ist ja geblieben!</salute> Dein
+                    <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>.</closer>
+            </div>
+        </body>
+    <back><listPerson><person xml:id="tillich_person_id__2707">
+                  <persName>Fritz, Eckehardt</persName>
+                  <note type="bio"><p>Er war der Sohn von Alfred Fritz und Johanna Fritz. Außerdem war er der Bruder von Paul Tillichs Patentochter Gisela Walker, geborene Fritz.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1929">
+                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <occupation>Mutter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2192">
+                  <persName>???, Therese</persName>
+                  <occupation>Gemeindeschwester;</occupation>
+                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2355">
+                  <persName>Walker, Gisela</persName>
+                  <note type="bio"><p>Sie war die Patentochter von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__97">
+                  <placeName>Chaumont</placeName>
+                  <location type="coords">
+                     <geo>48.11121 5.14134</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3025892/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q193880</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               <place xml:id="tillich_place_id__398">
+                  <placeName>Schönfließ</placeName>
+                  <location type="coords">
+                     <geo>52.96487 14.60667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083158/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q558719</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               </listBibl></back></text>
+</TEI>

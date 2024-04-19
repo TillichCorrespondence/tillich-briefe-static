@@ -1,122 +1,117 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00404">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Johanna Tillich
-               <lb/>vom 20. November 1914 </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Paul Schömann</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00404.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00403.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00407.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Johanna Tillich vom 20. November 1914</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Paul Schömann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich
                   1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
                   Attribution 4.0 International (CC BY 4.0)</licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
-                  <idno>bMS 649/143(13)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+<idno>bMS 649/143(13)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
                https://www.deutschestextarchiv.de/doku/basisformat/</p>
-         </editorialDecl>
-      </encodingDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-               <placeName ref="#tillich_place_id__61">Bieuxy</placeName>
-               <date when="1914-11-20">20. November 1914</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#tillich_person_id__644">Johanna Tillich</persName>
-            </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00403">Brief von Paul Tillich an Eilsabeth Tillich (Umschlagsadresse Alfred Fritz)
-               </ref><ref subtype="next_letter" type="withinCollection" target="L00407">Postkarte von Paul Tillich an Johannes Tillich
-               </ref></correspContext></correspDesc>
-         <langUsage>
-            <language ident="deu">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="approved">
-         <change who="PS" when="2022-06-13">Intitale Auszeichnung des Transkripts</change>
-         <change who="GM" when="2023-09-26">Endabnahme</change>
-
-
-      </revisionDesc>
-   </teiHeader>
-   <text type="letter">
-      <body>
-         <div type="writingSession">
-            <pb n="1"/>
-            <opener>
-               <dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1914-11-20">20.Nov. 1914.</date></dateline>
-               <salute>Mein liebes, liebes <rs ref="#tillich_person_id__644" type="person">Wumming</rs>!</salute>
-            </opener>
-            <p>Als Wichtigstes muß ich Dir das Menü mitteilen, das ich gestern Abend nach Ankunft
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__61">Bieuxy</placeName>
+<date when="1914-11-20">20. November 1914</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__644">Johanna Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00403">Brief von Paul Tillich an Eilsabeth Tillich (Umschlagsadresse Alfred Fritz) vom 17. November 1914</ref><ref subtype="next_letter" type="withinCollection" target="L00407">Postkarte von Paul Tillich an Johannes Tillich vom 12. Dezember 1914</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-06-13" who="PS">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-09-26" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><rs ref="#tillich_place_id__61" type="place">Bieuxy</rs>, d. <date when="1914-11-20">20.Nov. 1914.</date></dateline>
+<salute>Mein liebes, liebes <rs ref="#tillich_person_id__644" type="person">Wumming</rs>!</salute>
+</opener>
+<p>Als Wichtigstes muß ich Dir das Menü mitteilen, das ich gestern Abend nach Ankunft
                von <rs ref="#tillich_person_id__643" type="person">Trudchens</rs> Karte mit <rs ref="#tillich_person_id__644" type="person">Wummmings</rs> Unterschrift gegessen und getrunken
                habe nicht zu meinem, sondern zu <hi rend="u">seinem</hi> Wohl, obgleich es auch mir
                recht wohl getan hat. [N.B. Es war eine <rs ref="#Exzellenz von Bonin" type="person">fremde Exzellenz</rs> da].</p>
-            <p>
-               <list rend="numbered">
-                  <item n="1">Königinnen-Suppe.-</item>
-                  <item n="2">Champignons mit Kalbszunge.-</item>
-                  <item n="3">Ente mit Rosenkohl und Apfelmus.-</item>
-                  <item n="4">Süße Speise.-</item>
-                  <item n="5">Butter und [Käse]</item>
-                  <item n="6">Kaffee.-</item>
-               </list></p>
-            <p>Dazu a) Weißwein.<space dim="horizontal"/>b)Sekt.</p>
-            <p>Mit letzterem hat meine Umgebung auf das Wohl von Deutschlands Zukunft getrunken.
+<p>
+<list rend="numbered">
+<item n="1">Königinnen-Suppe.-</item>
+<item n="2">Champignons mit Kalbszunge.-</item>
+<item n="3">Ente mit Rosenkohl und Apfelmus.-</item>
+<item n="4">Süße Speise.-</item>
+<item n="5">Butter und [Käse]</item>
+<item n="6">Kaffee.-</item>
+</list></p>
+<p>Dazu a) Weißwein.<space dim="horizontal"/>b)Sekt.</p>
+<p>Mit letzterem hat meine Umgebung auf das Wohl von Deutschlands Zukunft getrunken.
                Mehr konnte das Entrée des neu gewonnenen Weltbürgers nicht recht gefeiert werden,
-               wenigstens nicht in Frankreich. <bibl type="telegram">Mein Telegramm</bibl>, das
+               wenigstens nicht in Frankreich. <rs type="telegram">Mein Telegramm</rs> , das
                natürlich bezüglich der Taufe ernst gemeint ist, habt Ihr hoffentlich bekommen,
-               ebenso <bibl type="postcard">die reizende Karte</bibl> von <rs ref="#tillich_person_id__109" type="person">Backhaus</rs>.</p>
-            <p>Soweit das Formelle; nunmehr treten wir in die materielle Betrachtung der Sache ein,
+               ebenso <rs type="postcard">die reizende Karte</rs>  von <rs ref="#tillich_person_id__109" type="person">Backhaus</rs>.</p>
+<p>Soweit das Formelle; nunmehr treten wir in die materielle Betrachtung der Sache ein,
                die natürhlich allerhand<pb n="2"/> Seiten hat und wie alles Materielle, dialektisch
                ist.</p>
-            <p>Dies letzte trifft nun freilich nicht zu für <rs ref="#tillich_person_id__641" type="person">Frede</rs>, der von jetzt an einen definitiven Ausdruck für seinen
+<p>Dies letzte trifft nun freilich nicht zu für <rs ref="#tillich_person_id__641" type="person">Frede</rs>, der von jetzt an einen definitiven Ausdruck für seinen
                schlechthinnigen Pessimismus gefunden hat, nämlich den: "Natürlich schon wieder
                voll..."; was "voll" ist und womit, verbietet mir der Wohlanstand zu sagen.</p>
-            <p>Bei <rs ref="#tillich_person_id__644" type="person">Wumming</rs> dagegen ist die Sache
+<p>Bei <rs ref="#tillich_person_id__644" type="person">Wumming</rs> dagegen ist die Sache
                schon recht dialektisch. Denn einerseits muß sie mit <rs ref="#tillich_person_id__589" type="person">Fichte</rs> behaupten, daß die Sphäre des
                Daseins in Bezug auf Hildebrand, Kunibert, Augustin Fritz (oder was für drei Silben
                sonst sein Wesentliches bezeichnen sollen) erst mit dem Tage der ersten Ich-Sagung
@@ -125,7 +120,7 @@
                Daseinssphäre besagten Kuniberts etc. sich schon erheblich geltend gemacht haben,
                resp. in Form von kausalen Affektionen der Nasen- und Ohr-Nerven täglich neu geltend
                machen. Somit stellt sich in obgenanntem Hildebrand od. drgl. ein <del rend="ow">N</del>nicht-seiendes Sein dar oder das Dialektische selbst.</p>
-            <p>Was nun <rs ref="#tillich_person_id__1928" type="person">Onkel Paul</rs> betrifft, so ist er eben
+<p>Was nun <rs ref="#tillich_person_id__1928" type="person">Onkel Paul</rs> betrifft, so ist er eben
                Onkel und das sagt manches. Es sagt einerseits eine Negation aus, nämlich, daß er
                nicht Vater ist, andererseits<pb n="3"/> eine Position, daß er die allgemeine
                Generationsstufe des Vaters erreicht hat, zu den "Vätern" im potentiellen Sinne
@@ -142,44 +137,53 @@
                und ein grimmig blickender <rs ref="#tillich_person_id__641" type="person">Frede</rs> mir den
                Geraubten energisch und für längere Zeit abfordern werden. Aber den Ritt über <hi rend="u"><rs ref="#tillich_place_id__343" type="place">Paris</rs></hi> und zur <hi rend="u">Unendlichkeit</hi> hat er doch mit mir gemacht und wird er nicht so leicht
                vergessen... und wenn er gar meine Ohren hat...!</p>
-            <pb n="4"/>
-            <p>Aus diesen <unclear cert="high">Sprüngen</unclear> meiner Phantasie werdet Ihr
+<pb n="4"/>
+<p>Aus diesen <unclear cert="high">Sprüngen</unclear> meiner Phantasie werdet Ihr
                ermessen, wie vergnügt mich die Nachricht gemacht hat. Nur um <rs ref="#tillich_person_id__644" type="person">Wumming</rs> hab ich noch etwas Sorge und bitte,
                solange es ihr noch minder gut geht, um tägliche Bulletins. Hier ist jetzt das
                schönste Wetter geworden, genau am 14<hi rend="sup">ten</hi> Nachm. 4 Uhr fing es
                natürlich an, da große Ereignisse ihr Licht weithin werfen; es ist so kalt, daß man
                denkt in Rußland zu sein, Reif und Schnee bedecken die Felder und in der Ferne hört
                man die Kanonen des III. Corps donnern.</p>
-            <p>Im übrigen habe ich drei Bitten.</p>
-            <p><list rend="numbered">
-                  <item n="1">Zu Weihnachten eine neue Reithose, genau wie die erste bei Peek und
+<p>Im übrigen habe ich drei Bitten.</p>
+<p><list rend="numbered">
+<item n="1">Zu Weihnachten eine neue Reithose, genau wie die erste bei Peek und
                      Cloppenburg; nur soll das Wildleder die ganzen Kniee bedecken.</item>
-                  <item n="2"><hi rend="u">Sofort</hi> Schuhöl von Salamander Friedrichstr. 2-3 Kapseln, zu fragen im Laden für braune Offiziersstiefel, dazu
+<item n="2"><hi rend="u">Sofort</hi> Schuhöl von Salamander Friedrichstr. 2-3 Kapseln, zu fragen im Laden für braune Offiziersstiefel, dazu
                      mehrere Büchsen gelber Schuhcrème.</item>
-                  <item n="3">Für die Weihnachtsbäume, für die wir sorgen müssen, 100 weiße Kerzen
+<item n="3">Für die Weihnachtsbäume, für die wir sorgen müssen, 100 weiße Kerzen
                      (unsere kleine Sorte), ebenso viel Halter und 12 Schachteln Engelshaar.</item>
-               </list></p>
-            <p>Und nun, liebes <rs ref="#tillich_person_id__644" type="person">Wumming</rs>, laß es Dir gut
+</list></p>
+<p>Und nun, liebes <rs ref="#tillich_person_id__644" type="person">Wumming</rs>, laß es Dir gut
                gehn! Es freut sich mit Dir,</p>
-            <closer>
-               <signed>Dein ältester Junge!</signed>
-            </closer>
-            <postscript>
-               <p><bibl type="letter">Meinen Brief</bibl> an <rs ref="#tillich_person_id__1762" type="person">Elis.</rs> soll auch <rs ref="#tillich_person_id__1931" type="person">Greti</rs>
+<closer>
+<signed>Dein ältester Junge!</signed>
+</closer>
+<postscript>
+<p><rs type="letter">Meinen Brief</rs>  an <rs ref="#tillich_person_id__1762" type="person">Elis.</rs> soll auch <rs ref="#tillich_person_id__1931" type="person">Greti</rs>
                   bekommen.</p>
-            </postscript>
-
-         </div>
-      </body>
-   <back><listPerson><person ref="#tillich_person_id__644"><reference>Wumming</reference><persName>Fritz, Johanna</persName>
+</postscript>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__643"><reference>Trudchens</reference><persName>Fritz (geb. Horn), Gertrude</persName>
-                  <occupation>(auch Trudchen) Zweite Frau von Alfred Fritz, Ausbildung: Soziale Frauenschule</occupation>
-               </person><person ref="#tillich_person_id__644"><reference>Wummmings</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#Exzellenz von Bonin"><reference>fremde Exzellenz</reference></person><person ref="#tillich_person_id__109"><reference>Backhaus</reference><persName>Backhaus, Alwin</persName>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__109">
+                  <persName>Backhaus, Alwin</persName>
                   <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
-               </person><person ref="#tillich_person_id__641"><reference>Frede</reference><persName>Fritz, Alfred</persName>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
                   <birth>
                      <date>1886</date>
                   </birth>
@@ -189,9 +193,9 @@
                   <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person><person ref="#tillich_person_id__644"><reference>Wumming</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__589"><reference>Fichte</reference><persName>Fichte, Johann Gottlieb</persName>
+               </person>
+               <person xml:id="tillich_person_id__589">
+                  <persName>Fichte, Johann Gottlieb</persName>
                   <birth>
                      <date>1762-05-19</date>
                      <settlement>
@@ -205,7 +209,13 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
-               </person><person ref="#tillich_person_id__1928"><reference>Onkel Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__643">
+                  <persName>Fritz (geb. Horn), Gertrude</persName>
+                  <occupation>(auch Trudchen) Zweite Frau von Alfred Fritz, Ausbildung: Soziale Frauenschule</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -218,48 +228,29 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person><person ref="#tillich_person_id__644"><reference>Wumming</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__641"><reference>Frede</reference><persName>Fritz, Alfred</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                  </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person><person ref="#tillich_person_id__644"><reference>Wumming</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__644"><reference>Wumming</reference><persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person><person ref="#tillich_person_id__1762"><reference>Elis.</reference><persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person><person ref="#tillich_person_id__1931"><reference>Greti</reference><persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__61"><reference>Bieuxy</reference><placeName>Bieuxy</placeName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place>
+               <place xml:id="tillich_place_id__61">
+                  <placeName>Bieuxy</placeName>
                   <location type="coords">
                      <geo>49.44667 3.26139</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6446494/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
-               </place><place ref="#tillich_place_id__37"><reference>Berlin</reference><placeName>Berlin</placeName>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place><place ref="#tillich_place_id__343"><reference>Paris</reference><placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               </listPlace></back></text>
 </TEI>

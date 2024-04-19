@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00340.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00338.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00341.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Hermann Schafft an Paul Tillich vom 10. Juni 1913</title>
+<author ref="#tillich_person_id__1696">Hermann Schafft</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Alma Ament</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">Wien</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>Deutschland</country>
+<settlement ref="#tillich_place_id__279">Marburg</settlement>
+<institution>Philipps-Universität Marburg</institution>
+<repository>Deutsches Paul-Tillich-Archiv</repository>
+<idno>008 G</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1696">Hermann Schafft</persName>
+<placeName ref="#tillich_place_id__68">Bonn a. Rh.</placeName>
+<date when="1913-06-10">10.06.1913</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00338">Brief von Maria Rhine an Paul Tillich vom 7. Juni 1913</ref><ref subtype="next_letter" type="withinCollection" target="L00341">Brief von Kurt Leese an Paul Tillich vom 11. Juni 1913</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2023-09-27" who="AA">XML Datei generiert von Metadata</change>
+<change when="2023-12-11" who="AA">Initiale Auszeichnung des Transkripts</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline>
+<rs ref="#tillich_place_id__68" type="place">Bonn a. Rh.</rs>
+   , den 
+   <date when="1913-06-10">10.06.1913</date>
+</dateline>
+<salute>Liebster Paul,</salute>
+</opener>
+<p>
+   Nur dies noch: <rs ref="#tillich_person_id__1763" type="person">Seeberg</rs> hat Weber
+   gegenüber brieflich geäußert: er würde
+   Dir zu <hi ref="u"><rs ref="#tillich_place_id__68" type="place">Bonn</rs></hi> raten. Geld bekommst
+   du, was Du willst aus der
+   Kußerstiffung; es steht hier viel
+   auf dem Spiel. Ich hoffe <choice><abbr>u.</abbr><expan>und</expan></choice> hoffe
+   noch auf Dich. Ich glaube <rs ref="#tillich_place_id__37" type="place">Berlin</rs>
+   lauft nicht weg <choice><abbr>u.</abbr><expan>und</expan></choice> hier bist Du
+   unentbehrlicher <hi rend="u">und</hi> hast noch
+   Jahre des stillen Arbeitens.
+   <pb n="2"/>
+<rs ref="#tillich_person_id__1874" type="person">Strathmann</rs> hat Dir wohl geschrieben.
+   Erant. hält es noch den
+   Winter aus, wenn du noch kommst.
+   Schreib mir bitte auch eine
+   Karte.
+  </p>
+<closer>
+<salute><choice><abbr>Herz.</abbr><expan>Herzlich</expan></choice></salute>
+<signed>D. H.</signed>
+</closer>
+</div>
+</body>
+<back><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__68">
+                  <placeName>Bonn</placeName>
+                  <location type="coords">
+                     <geo>50.73438 7.09549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1763">
+                  <persName>Seeberger, Erhard</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1874">
+                  <persName>Strathmann, Hermann</persName>
+                  <birth>
+                     <date>1882-08-30</date>
+                     <settlement>
+                        <placeName>Opherdicke</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1966-11-19</date>
+                     <settlement>
+                        <placeName>Erlangen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Neutestamentler und Politiker (DNVP, CSVD, CSU)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119239221</idno>
+               </person>
+               </listPerson></back></text>
+</TEI>

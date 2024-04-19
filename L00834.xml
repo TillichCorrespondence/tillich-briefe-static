@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00834.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00833.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00835.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Gustav Ruprecht an Paul Tillich vom 10. November 1924</title>
+            <author ref="#tillich_person_id__2518">Gustav Ruprecht</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Niklas von Hülsen</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+         </availability>        
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="typescript">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages Vandenhoeck &amp; Ruprecht - Autorenkorrespondenz/G 1888-1936</collection>
+                  <idno>Nachl. 494, G 1923. 138</idno>   
+               </msIdentifier>
+               <physDesc>
+                  <p>Briefdurchschlag maschinenschriftlich</p>
+                  </physDesc>
+               <additional>
+                  <listBibl>
+                     <biblStruct type="journal">
+                        <monogr>
+                           <author>Friedrich Wilhelm Graf</author>
+                           <title>Ein unbekannter Systementwurf Paul Tillichs. Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden</title>
+                           <imprint>
+                              <pubPlace ref="#tillich_place_id__37">Berlin</pubPlace><pubPlace ref="#tillich_place_id__70">Boston</pubPlace>
+                              <date when="2020">2020</date>
+                              <biblScope>S. 26–170, hier: 141</biblScope>
+                           </imprint>
+                        </monogr>
+                        <series>
+                           <title>Zeitschrift für Neuere Theologiegeschichte</title>
+                           <biblScope>27/1</biblScope>
+                        </series>
+                     </biblStruct>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+        </editorialDecl>
+     </encodingDesc> 
+     <profileDesc>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ref="#tillich_person_id__2518">Gustav Ruprecht</persName>
+              <date when="1924-11-10">10.11.1924</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+              <placeName ref="#tillich_place_id__279">Marburg/Lahn</placeName>
+           </correspAction>
+        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00833">Brief von Paul Tillich an Reinhold Seeberg vom 5. November 1924</ref><ref subtype="next_letter" type="withinCollection" target="L00835">Brief von Paul Tillich an Ministerialrat Prof. Werner Richter vom 10. November 1924</ref></correspContext></correspDesc>
+        <langUsage>
+           <language ident="deu">Deutsch</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc status="approved">
+        <change who="NH" when="2023-07-17">Initiale Auszeichnung des Transkripts</change>
+        <change who="FS" when="2024-01-24">Endabnahme</change>
+        
+       
+     </revisionDesc>
+  </teiHeader>
+  <text type="letter">
+     <body>
+     <div type="writingSession">
+        <pb n="1"/>
+        <opener>
+           <dateline><rs ref="#tillich_person_id__1928" type="person">Herrn Professor Dr. P. Tillich</rs>, <rs ref="#tillich_place_id__279" type="place">Marburg/Lahn</rs>.</dateline>
+           <salute>Sehr geehrter Herr!</salute>
+        </opener>
+        <p>Von Besprechungen ist nur eine kürzlich noch eingegangen, die wir Ihnen gleichzeitig unter Kreuzband zusenden. Sie brauchen diese nicht zurückzusenden, da wir das Wichtigste ausgeschrieben haben. – Der Gesamt-Absatz Ihrer <rs ref="#tillich_work_id__1" type="work">Schrift</rs> bis zum <date when="1924-07-01">1. Juli d. Js.</date> beträgt 340 Stück. Das ist nicht so viel, wie Sie und wir gehofft hatten, aber der Absatz ist, wenn auch materiell nicht genügend, doch immer ein erfreuliches Zeichen, wie Ihre Schrift geschätzt worden ist, und wir hoffen auch, daß der Absatz noch längere Zeit anhält und schließlich vielleicht sogar die Auflage ausverkauft werden wird. Hoffentlich kommen wir bald einmal in die Lage, etwas Neues von Ihnen zu veröffentlichen. Dann wird sich der Absatz der alten Schrift auch noch wieder heben.
+        </p>
+        <closer>
+           <salute>Mit hochachtungsvollem Gruße</salute>
+           <signed>Ihr</signed>
+        </closer>
+     </div>
+    </body>
+  <back><listPerson><person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__1">Tillich, Paul, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen 1923.</bibl>
+               </listBibl></back></text>
+</TEI>

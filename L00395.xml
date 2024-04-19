@@ -1,118 +1,103 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00395">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Brief von Paul Tillich an Toni Winkler
-               <lb/>vom 8. Oktober 1914
-            </title>
-            <author ref="#tillich_person_id__1928">Paul Tillich</author>
-            <respStmt>
-               <resp>Editor</resp>
-               <name>Leopold Potyka</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition>
-               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>
-               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
-               <address>
-                  <street>Schenkenstraße 8-10</street>
-                  <postCode>1010</postCode>
-                  <placeName ref="#tillich_place_id__470">
-                     <settlement>Wien</settlement>
-                     <country>Österreich</country>
-                  </placeName>
-               </address>
-            </publisher>
-            <availability>
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-         </availability>        
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc type="manuscript">
-               <msIdentifier>
-                  <country>USA</country>
-                  <settlement ref="#tillich_place_id__82">Cambrigde, MA</settlement>
-                  <institution>Harvard University</institution>
-                  <repository>Harvard Divinity School Library</repository>
-                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
-                  <idno>bMS 649/205(15)</idno>
-               </msIdentifier>
-               <physDesc>
-                  <p>Brief, eigenhändig</p>
-                  </physDesc>              
-            </msDesc>                      
-         </sourceDesc>
-      </fileDesc>
-     <encodingDesc>
-        <projectDesc>
-           <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
-        </projectDesc>
-        <editorialDecl>
-           <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
-        </editorialDecl>
-     </encodingDesc> 
-     <profileDesc>
-        <correspDesc>
-           <correspAction type="sent">
-              <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
-              <placeName ref="#tillich_place_id__328">ohne Ort [Westfront]</placeName>
-              <date when="1914-10-08">8. Oktober 1914</date>
-           </correspAction>
-           <correspAction type="received">
-              <persName ref="#tillich_person_id__2085">Toni Winkler</persName>
-           </correspAction>
-        <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00394">Brief von Hermann Schafft an Paul Tillich
-               </ref><ref subtype="next_letter" type="withinCollection" target="L00396">Brief von Paul Tillich an Johannes Tillich
-                    </ref></correspContext></correspDesc>
-        <langUsage>
-           <language ident="deu">Deutsch</language>
-        </langUsage>
-     </profileDesc>
-     <revisionDesc status="approved">
-        <change who="LP" when="2022-05-11">Intitale Auszeichnung des Transkripts</change>
-        <change who="GM" when="2023-09-20">Endabnahme</change>  
-     </revisionDesc>
-  </teiHeader>
-  <text type="postcard">
-     <body>
-     <div type="writingSession">
-        <pb n="1"/>
-        <opener>
-           <dateline><date when="1914-10-08">Donnerstag<note type="ea">Exaktes Datum ergibt sich aus dem <bibl type="letter" xml:id="L00396">Brief</bibl> an Johannes Tillich vom 10. Oktober 1914.</note></date></dateline>
-           <salute>Liebes <rs ref="#tillich_person_id__2085" type="person">Tonichen</rs>!</salute>
-        </opener>
-        <p>Gestern Abend habe ich die Grenze 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00395.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00394.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00396.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Toni Winkler vom 8. Oktober 1914</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Leopold Potyka</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement ref="#tillich_place_id__82">Cambrigde, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Paul, 1886-1965. Papers, 1894-1974</collection>
+<idno>bMS 649/205(15)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+<placeName ref="#tillich_place_id__328">ohne Ort [Westfront]</placeName>
+<date when="1914-10-08">8. Oktober 1914</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__2085">Toni Winkler</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00394">Brief von Hermann Schafft an Paul Tillich vom 5. Oktober 1914</ref><ref subtype="next_letter" type="withinCollection" target="L00396">Brief von Paul Tillich an Johannes Tillich vom 10. Oktober 1914</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2022-05-11" who="LP">Intitale Auszeichnung des Transkripts</change>
+<change when="2023-09-20" who="GM">Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="postcard">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+<dateline><date when="1914-10-08">Donnerstag<note type="ea">Exaktes Datum ergibt sich aus dem <rs ref="L00396" type="letter">Brief</rs>  an Johannes Tillich vom 10. Oktober 1914.</note></date></dateline>
+<salute>Liebes <rs ref="#tillich_person_id__2085" type="person">Tonichen</rs>!</salute>
+</opener>
+<p>Gestern Abend habe ich die Grenze 
            überschritten und heute Nacht im 
            Pferdewagen auf Stroh <rs ref="#tillich_place_id__33" type="place">Belgien</rs> 
            bis vor <rs ref="#tillich_place_id__309" type="place">Namür</rs> durchfahren. 
            Jetzt sitze ich mit 3 Offizieren 
            im Koupé I<hi rend="sup">te</hi> Klasse; wir haben auf jeder Station durchschnittlich 20‒30 Min. Aufenthalt. Der Anblick der zerschossenen Häuser ist gräulich, der gefangenen Franzosen tragisch, unserer Verwundeten erhebend. In <rs ref="#tillich_place_id__4" type="place">Aachen</rs> war ich 3 Stunden mit <rs ref="#tillich_person_id__1696" type="person">Schafft</rs> zusammen. Er hat <rs ref="#tillich_person_id__1924" type="person">Papa</rs> geschrieben.           
         </p>
-        <closer>
-           <salute>Herzl. Gruß </salute>
-           <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
-        </closer>
-     </div>
-    </body>
-  <back><listPerson><person ref="#tillich_person_id__2085"><reference>Tonichen</reference><persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person><person ref="#tillich_person_id__1696"><reference>Schafft</reference><persName>Schafft, Hermann</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1959</date>
-                  </death>
-                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
-                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
-               </person><person ref="#tillich_person_id__1924"><reference>Papa</reference><persName>Tillich, Johannes Oskar</persName>
+<closer>
+<salute>Herzl. Gruß </salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
                   </birth>
@@ -122,7 +107,25 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person><person ref="#tillich_person_id__1928"><reference>Paul</reference><persName>Tillich, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
                   </birth>
@@ -135,22 +138,29 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person></listPerson><listBibl/><listPlace><place ref="#tillich_place_id__33"><reference>Belgien</reference><placeName>Belgien</placeName>
-                  <location type="coords">
-                     <geo>50.75000 4.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2802361/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31</idno>
-               </place><place ref="#tillich_place_id__309"><reference>Namür</reference><placeName>Namur</placeName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__309">
+                  <placeName>Namur</placeName>
                   <location type="coords">
                      <geo>50.46690 4.86746</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2790471/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q51389725</idno>
-               </place><place ref="#tillich_place_id__4"><reference>Aachen</reference><placeName>Aachen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__4">
+                  <placeName>Aachen</placeName>
                   <location type="coords">
                      <geo>50.77664 6.08342</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3247449/</idno>
-               </place></listPlace><listLetter/></back></text>
+               </place>
+               <place xml:id="tillich_place_id__33">
+                  <placeName>Belgien</placeName>
+                  <location type="coords">
+                     <geo>50.75000 4.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2802361/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>
