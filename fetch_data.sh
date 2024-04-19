@@ -22,7 +22,7 @@ rm -rf tillich-entities-main
 
 echo "fetching imprint"
 rm ${IMPRINT_XML}
-echo '<?xml version="1.0" encoding="UTF-8"?>'
+echo '<?xml version="1.0" encoding="UTF-8"?>' >> ${IMPRINT_XML}
 echo "<root>" >> ${IMPRINT_XML}
 echo '<div lang="de">' >> ${IMPRINT_XML}
 curl https://imprint.acdh.oeaw.ac.at/${REDMINE_ID}de >> ${IMPRINT_XML}
