@@ -1,0 +1,72 @@
+@prefix acdh: <https://vocabs.acdh.oeaw.ac.at/schema#> .
+@prefix acdhi: <https://id.acdh.oeaw.ac.at/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+<https://d-nb.info/gnd/130017086> a acdh:Person ;
+    acdh:hasTitle "Christian Danz"@de .
+
+<https://d-nb.info/gnd/1043833846> a acdh:Person ;
+    acdh:hasTitle "Andorfer, Peter"@de .
+
+<https://d-nb.info/gnd/108889819X> a acdh:Organisation ;
+    acdh:hasTitle "FWF Der Wissenschaftsfonds"@de .
+
+<https://d-nb.info/gnd/2101270-2> a acdh:Organisation ;
+    acdh:hasTitle "Evangelisch-Theologische Fakultät der Universität Wien, Institut für Systematische Theologie und Religionswissenschaft"@de .
+
+<https://d-nb.info/gnd/2024497-6> a acdh:Organisation ;
+    acdh:hasTitle "Evangelisch-Theologische Fakultät der Ludwig-Maximilians-Universität München, Abteilung für Systematische Theologie"@de .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe> a acdh:TopCollection ;
+    acdh:hasRelatedProject <https://id.acdh.oeaw.ac.at/tillich-briefe/project> ;
+    acdh:hasDescription """Daten zum digitalen Editionsprojekt: Tillich Briefe — Die Korrespondenz von Paul Tillich"""@de ;
+    acdh:hasCoverageStartDate "1877-01-01"^^xsd:date ;
+    acdh:hasCoverageEndDate "1933-01-31"^^xsd:date ;
+    acdh:hasTitle """Tillich Briefe — Die Korrespondenz von Paul Tillich"""@de ;
+    acdh:hasLifeCycleStatus <https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/active> ;
+    acdh:hasCompleteness "Diese Sammlung wird sukzessive erweitert."@de ;
+    acdh:hasUrl "https://tillich-briefe.acdh.oeaw.ac.at" ;
+    acdh:hasSubject "digital edition"@en ;
+    acdh:hasSubject "Digitale Edition"@de .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe/editions> a acdh:Collection ;
+    acdh:hasTitle """TEI/XML kodierte Editionsdaten"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/tillich-briefe> .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe/meta> a acdh:Collection ;
+    acdh:hasTitle """Paratexte"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/tillich-briefe> .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe/indices> a acdh:Collection ;
+    acdh:hasTitle """Registerdaten"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/tillich-briefe> .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe/title-image.jpg> a acdh:Resource ;
+    acdh:hasTitle """Titelbild zu: Tillich Briefe"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/tillich-briefe> ;
+    acdh:isTitleImageOf <https://id.acdh.oeaw.ac.at/tillich-briefe> ;
+    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0> ;
+    acdh:hasLicensor <https://id.acdh.oeaw.ac.at/none> ;
+    acdh:hasOwner <https://id.acdh.oeaw.ac.at/none> ;
+    acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/image> ;
+    acdh:hasRightsHolder <https://id.acdh.oeaw.ac.at/none> .
+
+<https://id.acdh.oeaw.ac.at/tillich-briefe/project> a acdh:Project ;
+    acdh:hasContact <https://d-nb.info/gnd/130017086> ;
+    acdh:hasPrincipalInvestigator <https://d-nb.info/gnd/130017086> ;
+    acdh:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    acdh:hasRelatedCollection <https://id.acdh.oeaw.ac.at/tillich-briefe> ;
+    acdh:hasFunder <https://d-nb.info/gnd/108889819X> ;
+    acdh:hasTitle "Edition des Briefwechsels von Paul Tillich (1887-1933)"@de ;
+    acdh:hasTitle "Edition Paul Tillich´s Correspondence (1887-1933)"@en ;
+    acdh:hasUrl "https://www.fwf.ac.at/en/research-radar/10.55776/I4857" ;
+    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/603222> ,
+        <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/603> ;
+    acdh:hasSubject "digital edition"@en ;
+    acdh:hasSubject "Digitale Edition"@de ;
+    acdh:hasStartDate "2021-02-01" ;
+    acdh:hasEndDate "2024-04-30" ;
+    acdh:hasDescription """In dem vom FWF und der DFG geförderten Internationalen Joint Project wird an der Evangelisch- Theologischen Fakultät der Universität Wien und an der Evangelisch-Theologischen Fakultät der Uni- versität München Paul Tillichs (1886-1965) umfangreiche Korrespondenz aus seiner deutschen Zeit von 1887 bis 1933 in einer Hybridedition in drei Clustern der Forschung zugänglich gemacht: Cluster I: Korrespondenz des jungen Tillich bis zum Beginn des 1. Weltkriegs, Cluster II: Kriegskorrespondenz, Cluster III: Korrespondenz der deutschen Zeit bis zur Emigration. Paul Tillich, der zu den bedeutendsten und einflussreichsten protestantischen Theologen und Religi- onsphilosophen des 20. Jahrhunderts gehört, lehrte nach Studium, Promotion und Habilitation an den Theologischen Fakultäten Berlin und Marburg, der Technische Hochschule Dresden und der Universi- tät Frankfurt am Main. Während der 1920er Jahre pflegte er enge Kontakte mit Ökonomen und Poli- tikwissenschaftlern, Kultur- und Sozialwissenschaftlern und Philosophen. Tillich war einer der ers ten nichtjüdischen Hochschullehrer, die im April 1933 von den Nationalsozialisten beurlaubt wurden. In den USA, in die er im selben Jahr emigrierte, fand er nach anfänglichen Schwierigkeiten eine neue Wirkungsstätte und machte eine beispielhafte Karriere in seiner neuen Heimat. Das Hybrideditionsprojekt behebt ein gravierendes Desiderat der bisherigen Forschung. Bislang exis- tiert keine kritischen Standards genügende Ausgabe seines umfangreichen Briefwechsels. Während von anderen wichtigen Theologen und Philosophen des 20. Jahrhunderts inzwischen deren Korrespon- denzen in kritischen Editionen vorliegen und zu einer unverzichtbaren Quelle für eine Rekonstruktion von deren Denken wurden, ist das bei Tillich nicht der Fall. Erst eine solche Edition macht es möglich, den Werdegang sowie die verzweigten Netzwerke, in denen sich sein Denken formte, wissenschaftlich zu erschließen. Das betrifft neben der Werkgeschichte auch die Biographie, die bislang nur unzu- reichend erforscht ist. Mit der Edition von Tillichs Korrespondenz aus seiner deutschen Zeit leistet das Projekt nicht nur eine grundlegende Vorarbeit für eine geistes- und ideengeschichtliche Erschließung seines Werkes, es rückt auch Aspekte und Zusammenhänge seines Wirkens in das Blickfeld, die bis - lang völlig unberücksichtigt geblieben sind. Dadurch eröffnet es völlig neue Perspektiven auf die Werkgeschichte seines Denkens in den komplexen theologisch-philosophischen und politischen De- battenlagen des 20. Jahrhunderts. Gerade aufgrund der Heterogenität der Wirksamkeit Tillichs, s einer vielfältigen Kontakte in Sozial-, Kultur- und diversen anderen Wissenschaften ist seine Korrespondenz von herausragender Bedeutung für die Erschließung der geistigen und politischen Geschichte des 20. Jahrhunderts."""@de ;
+    acdh:hasDescription """In the International Joint Project supported by the Austrian Science Fund and the Deutsche For- schungsgemeinschaft (FWF and DFG), Paul Tillichs (1886-1965) extensive correspondence from his German period from 1887 to 1933 will be made accessible to research in a hybrid edition in three clus- ters at the Faculty of Protestant Theology at the University of Vienna and the Faculty of Protestant Theology at the University of Munich: Cluster I: Correspondence of the young Tillich until the beginning of World War I, Cluster II: War Correspondence, Cluster III: Correspondence of the German time until emigration. Paul Tillich, one of the most important and influential Protestant theologians and philosophers of reli- gion of the 20th century, taught at the theological faculties of Berlin and Marburg, the Technic al Uni- versity of Dresden and the University of Frankfurt am Main after his studies, doctorate and habilita- tion. During the 1920s he maintained close contacts with economists and political scientis ts , c ultural and social scientists and philosophers. Tillich was one of the first non-Jewish university lecturers to be granted leave by the National Socialists in April 1933. In the USA, to which he emigrated in the s ame year, he found a new place of work after initial difficulties and made an exemplary career in his new home. The hybrid edition project remedies a serious desideratum of previous research. So far, no critical standards-satisfactory edition of his extensive correspondence has been published. While other im- portant theologians and philosophers of the 20th century have now had their correspondence published in critical editions and become an indispensable source for a reconstruction of their thinking, this is not the case with Tillich. Only such an edition makes it possible to scientifically explore his career and the ramified networks in which his thought was formed. This applies not only to the history of his works, but also to his biography, which has not yet been sufficiently researched. With the edition of Tillichs correspondence from his German period, the project not only does fundamental groundw ork for an intellectual and intellectual history of his work, it also brings into focus aspects and connections of his work that have been completely ignored until now. In this way, it opens up completely new perspectives on the work history of his thought in the complex theological-philosophical and politic al debates of the 20th century. Precisely because of the heterogeneity of Tillichs effectiveness, his many contacts in the social, cultural and various other sciences, his correspondence is of outstanding im- portance for the exploration of the intellectual and political history of the 20th century."""@en .
+

@@ -39,7 +39,7 @@
                                         <xsl:for-each select="//tei:listPerson/tei:person">
                                             <li class="entities">
                                                 <xsl:attribute name="id">
-                                                    <xsl:value-of select="replace(@ref, '#', '')"/>
+                                                    <xsl:value-of select="replace(@xml:id, '#', '')"/>
                                                 </xsl:attribute>
                                                 <xsl:choose>
                                                     <xsl:when test='not(tei:persName)'>
@@ -49,7 +49,7 @@
                                                         <a>
                                                             <xsl:attribute name="href">
                                                                 <xsl:text>./</xsl:text>
-                                                                <xsl:value-of select="replace(@ref, '#', '')"/>
+                                                                <xsl:value-of select="data(@xml:id)"/>
                                                                 <xsl:text>.html</xsl:text>
                                                             </xsl:attribute>
                                                             <xsl:value-of select="tei:persName"/>
@@ -73,7 +73,7 @@
                                         <xsl:for-each select="//tei:listPlace/tei:place">
                                             <li class="entities">
                                                 <xsl:attribute name="id">
-                                                    <xsl:value-of select="replace(@ref, '#', '')"/>
+                                                    <xsl:value-of select="data(@xml:id)"/>
                                                 </xsl:attribute>
                                                 <xsl:choose>
                                                     <xsl:when test='not(tei:placeName)'>
@@ -83,7 +83,7 @@
                                                         <a>
                                                             <xsl:attribute name="href">
                                                                 <xsl:text>./</xsl:text>
-                                                                <xsl:value-of select="replace(@ref, '#', '')"/>
+                                                                <xsl:value-of select="data(@xml:id)"/>
                                                                 <xsl:text>.html</xsl:text>
                                                             </xsl:attribute>
                                                             <xsl:value-of select="tei:placeName"/>
@@ -117,7 +117,7 @@
                                         <xsl:for-each select="//tei:listBibl/tei:bibl">
                                             <li class="entities">
                                                 <xsl:attribute name="id">
-                                                    <xsl:value-of select="replace(@ref, '#', '')"/>
+                                                    <xsl:value-of select="data(@xml:id)"/>
                                                 </xsl:attribute>
                                                 <xsl:apply-templates select="text()"/>
                                             </li>
@@ -132,14 +132,14 @@
                                         <xsl:for-each select="//tei:listLetter/tei:letter">
                                             <li class="entities">
                                                 <xsl:attribute name="id">
-                                                    <xsl:value-of select="replace(@ref, '#', '')"/>
+                                                    <xsl:value-of select="data(@xml:id)"/>
                                                 </xsl:attribute>
                                                 <xsl:choose>
                                                     <xsl:when test="tei:title">
                                                         <xsl:element name="a">
                                                             <xsl:attribute name="href">
                                                                 <xsl:text>./</xsl:text>
-                                                                <xsl:value-of select="@ref"/>
+                                                                <xsl:value-of select="@xml:id"/>
                                                                 <xsl:text>.html</xsl:text>
                                                             </xsl:attribute>
                                                             <xsl:attribute name="target">
@@ -148,7 +148,7 @@
                                                             <xsl:attribute name="rel">
                                                                 <xsl:text>noopener</xsl:text>
                                                             </xsl:attribute>
-                                                            <xsl:value-of select="@ref"/>
+                                                            <xsl:value-of select="data(@xml:id)"/>
                                                         </xsl:element>
                                                         <xsl:text>: </xsl:text>
                                                         <xsl:value-of select="tei:title"/>

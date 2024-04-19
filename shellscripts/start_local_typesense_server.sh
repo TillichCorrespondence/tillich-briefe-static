@@ -1,1 +1,0 @@
-sudo /usr/bin/./typesense-server --config=/etc/typesense/typesense-server.ini
