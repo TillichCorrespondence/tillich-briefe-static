@@ -54,7 +54,7 @@
                     </p>
                 </xsl:if>
             </div>
-            <xsl:if test="tei:note[@type = 'mentions']">
+            <xsl:if test=".//tei:note[@type = 'mentions']">
                 <div id="mentions" class="mt-2">
                     <span class="infodesc mr-2">
                         <ul>
