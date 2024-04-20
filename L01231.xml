@@ -101,47 +101,7 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__846">
-                  <persName>Heimann, Eduard</persName>
-                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2895">
-                  <persName>Steinen, Helmut von den</persName>
-                  <birth>
-                     <date>1890-12-06</date>
-                     <settlement>
-                        <placeName>Marburg</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1957</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117251909</idno>
-               </person>
-               <person xml:id="tillich_person_id__646">
-                  <persName>Frobenius, Leo</persName>
-               </person>
-               <person xml:id="tillich_person_id__2896">
-                  <persName>Wieschhoff, Heinrich</persName>
-                  <birth>
-                     <date>1906-08-01</date>
-                     <settlement>
-                        <placeName>Hagen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1961-09-18</date>
-                     <settlement>
-                        <placeName>Ndola</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/12407216X</idno>
-               </person>
-               <person xml:id="tillich_person_id__1424">
-                  <persName>Oppenheim, Gabrielle</persName>
-                  <note type="bio"><p>Frau von Paul Oppenheimer. Gemeinsam mit seinem Mann emigriete sie 1933 in ihre Heimatland Belgien. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941). </p></note>
-               </person>
-               <person xml:id="tillich_person_id__1923">
+   <back><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -158,10 +118,33 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1424">
+                  <persName>Oppenheim, Gabrielle</persName>
+                  <note type="bio"><p>Frau von Paul Oppenheimer. Gemeinsam mit seinem Mann emigriete sie 1933 in ihre Heimatland Belgien. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941). </p></note>
+               </person>
+               <person xml:id="tillich_person_id__646">
+                  <persName>Frobenius, Leo</persName>
+               </person>
                <person xml:id="tillich_person_id__2897">
                   <persName>Frobenius, Editha</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1064189253</idno>
                   <note type="bio"><p>Sie war eine geborene Brandt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2896">
+                  <persName>Wieschhoff, Heinrich</persName>
+                  <birth>
+                     <date>1906-08-01</date>
+                     <settlement>
+                        <placeName>Hagen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1961-09-18</date>
+                     <settlement>
+                        <placeName>Ndola</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/12407216X</idno>
                </person>
                <person xml:id="tillich_person_id__2894">
                   <persName>Rhotert, Hans</persName>
@@ -194,6 +177,23 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2895">
+                  <persName>Steinen, Helmut von den</persName>
+                  <birth>
+                     <date>1890-12-06</date>
+                     <settlement>
+                        <placeName>Marburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1957</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117251909</idno>
+               </person>
+               <person xml:id="tillich_person_id__846">
+                  <persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__624">
                   <placeName>Lago Maggiore</placeName>

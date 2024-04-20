@@ -97,11 +97,15 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1925">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPlace><place xml:id="tillich_place_id__213">
+                  <placeName>Hohen Neuendorf</placeName>
+                  <location type="coords">
+                     <geo>52.67631 13.27775</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -120,13 +124,9 @@
                   <persName>Dürselen, Gustav</persName>
                   <note type="bio"><p>Er war ein Großvater von Paul Tillich.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__213">
-                  <placeName>Hohen Neuendorf</placeName>
-                  <location type="coords">
-                     <geo>52.67631 13.27775</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

@@ -226,20 +226,13 @@
 </table>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__331">
-                  <placeName>Olizy</placeName>
+<back><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
-                     <geo>49.55670 5.22190</geo>
+                     <geo>52.52437 13.41053</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2989603/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q981623</idno>
-               </place>
-               <place xml:id="tillich_place_id__17">
-                  <placeName>Autry</placeName>
-                  <location type="coords">
-                     <geo>49.26829 4.83435</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3035889/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                <place xml:id="tillich_place_id__456">
                   <placeName>Vaux-lès-Mouron</placeName>
@@ -257,13 +250,20 @@
                   <idno type="geonames">https://sws.geonames.org/6612952/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q473084</idno>
                </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
+               <place xml:id="tillich_place_id__17">
+                  <placeName>Autry</placeName>
                   <location type="coords">
-                     <geo>52.52437 13.41053</geo>
+                     <geo>49.26829 4.83435</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+                  <idno type="geonames">https://sws.geonames.org/3035889/</idno>
+               </place>
+               <place xml:id="tillich_place_id__331">
+                  <placeName>Olizy</placeName>
+                  <location type="coords">
+                     <geo>49.55670 5.22190</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2989603/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q981623</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1700">
                   <persName>Schaumann, Leopold</persName>

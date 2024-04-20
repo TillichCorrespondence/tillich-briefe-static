@@ -159,9 +159,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__218">
-                  <persName>Bienert, Erwin</persName>
-               </person>
                <person xml:id="tillich_person_id__1699">
                   <persName>Schairer, Reinhold</persName>
                   <occupation>Bildungsexperte und Verbandsfunktionär</occupation>
@@ -182,6 +179,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
                   <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2361">
+                  <persName>???, Elis</persName>
+               </person>
                <person xml:id="tillich_person_id__2443">
                   <persName>Janentzky, Christian</persName>
                   <birth>
@@ -200,8 +200,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/117078190</idno>
                   <note type="bio"><p>Er wirkte als Direktor der Bibliothek der TH Dresden.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2361">
-                  <persName>???, Elis</persName>
+               <person xml:id="tillich_person_id__218">
+                  <persName>Bienert, Erwin</persName>
                </person>
                <person xml:id="tillich_person_id__2358">
                   <persName>Stepun, Natalja Nikolaevna</persName>

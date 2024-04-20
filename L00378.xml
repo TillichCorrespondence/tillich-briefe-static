@@ -145,7 +145,10 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1705">
+<back><listPerson><person xml:id="tillich_person_id__1717">
+                  <persName>Schleiermacher, Friedrich Daniel Ernst</persName>
+               </person>
+               <person xml:id="tillich_person_id__1705">
                   <persName>Schelling, Friedrich Wilhelm Joseph</persName>
                   <birth>
                      <date>1775-01-27</date>
@@ -160,9 +163,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
-               </person>
-               <person xml:id="tillich_person_id__1717">
-                  <persName>Schleiermacher, Friedrich Daniel Ernst</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__41">
                   <placeName>Berlin-Lichtenrade</placeName>

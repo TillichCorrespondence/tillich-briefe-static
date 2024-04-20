@@ -134,23 +134,7 @@ Antwort abhängen.</p>
 </div>
 </body>
 <back><listBibl><bibl xml:id="tillich_work_id__149">Hegel, Enzyklopädie der philosophischen Wissenschaften</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1705">
-                  <persName>Schelling, Friedrich Wilhelm Joseph</persName>
-                  <birth>
-                     <date>1775-01-27</date>
-                     <settlement>
-                        <placeName>Leonberg (Landkreis Böblingen)</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1854-08-20</date>
-                     <settlement>
-                        <placeName>Bad Ragaz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
-               </person>
-               <person xml:id="tillich_person_id__839">
+               </listBibl><listPerson><person xml:id="tillich_person_id__839">
                   <persName>Hegel, Georg Wilhelm Friedrich</persName>
                   <birth>
                      <date>1770-08-27</date>
@@ -165,6 +149,22 @@ Antwort abhängen.</p>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
+               </person>
+               <person xml:id="tillich_person_id__1705">
+                  <persName>Schelling, Friedrich Wilhelm Joseph</persName>
+                  <birth>
+                     <date>1775-01-27</date>
+                     <settlement>
+                        <placeName>Leonberg (Landkreis Böblingen)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1854-08-20</date>
+                     <settlement>
+                        <placeName>Bad Ragaz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
                </person>
                </listPerson></back></text>
 </TEI>

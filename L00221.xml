@@ -136,15 +136,7 @@
                mit sich bringt, ich gehe dem Trubel nicht aus dem Wege. Augenblicklich gibt <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> meinem kleinen Bruder <rs ref="#tillich_person_id__2171" type="person">Salem</rs> lateinische Stunde.<note type="ea">Der vorliegende Brief endet an dieser Stelle und wurde erst später versandt. Vgl. <rs type="letter" ref="L00221">Brief von Gottfried von Hanffstengel an Paul Tillich vom 23. Oktober 1907</rs>.</note></p>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__75">
-                  <placeName>Bremervörde</placeName>
-                  <location type="coords">
-                     <geo>53.48458 9.14306</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
-               </place>
-               <place xml:id="tillich_place_id__198">
+   <back><listPlace><place xml:id="tillich_place_id__198">
                   <placeName>Hamburg</placeName>
                   <location type="coords">
                      <geo>53.55073 9.99302</geo>
@@ -160,22 +152,15 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2171">
-                  <persName>Hanffstengel, Karl von</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__203">
-                  <persName>Bertheau, Lorenz</persName>
-                  <occupation>Pfarrer</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1775">
-                  <persName>Shakespeare, William</persName>
-               </person>
-               <person xml:id="tillich_person_id__2154">
-                  <persName>Stosch, Martin</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__641">
+               <place xml:id="tillich_place_id__75">
+                  <placeName>Bremervörde</placeName>
+                  <location type="coords">
+                     <geo>53.48458 9.14306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
                      <date>1886</date>
@@ -190,10 +175,25 @@
                <person xml:id="tillich_person_id__833">
                   <persName>Hebbel, Friedrich</persName>
                </person>
+               <person xml:id="tillich_person_id__2154">
+                  <persName>Stosch, Martin</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1775">
+                  <persName>Shakespeare, William</persName>
+               </person>
+               <person xml:id="tillich_person_id__2171">
+                  <persName>Hanffstengel, Karl von</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
                <person xml:id="tillich_person_id__128">
                   <persName>Balke, Hans</persName>
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

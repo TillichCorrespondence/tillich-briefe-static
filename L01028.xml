@@ -96,129 +96,7 @@
       
      </div>
     </body>
-  <back><listPerson><person xml:id="tillich_person_id__2101">
-                  <persName>Worringer, Wilhelm</persName>
-                  <birth>
-                     <date>1881-01-13</date>
-                     <settlement>
-                        <placeName>Aachen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1965-03-29</date>
-                     <settlement>
-                        <placeName>München</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118807900</idno>
-               </person>
-               <person xml:id="tillich_person_id__2426">
-                  <persName>Frey, Dagobert</persName>
-                  <birth>
-                     <date>1883-04-23</date>
-                     <settlement>
-                        <placeName>Wien</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1962-05-13</date>
-                     <settlement>
-                        <placeName>Stuttgart</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Kunsthistoriker;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118693220</idno>
-                  <note type="bio"><p>Er hat wesentlich an den Bänden der Österreichischen Kunsttopographie mitgearbeitet. Für Dagobert Frey war Kunst vornehmlich Sinnstiftung.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1460">
-                  <persName>Passarge, Walter</persName>
-                  <occupation>deutscher Kunsthistoriker</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2432">
-                  <persName>Coellen, Ludwig</persName>
-                  <birth>
-                     <date>1875</date>
-                  </birth>
-                  <death>
-                     <date>1945</date>
-                  </death>
-                  <occupation>Philosoph; Kunsthistoriker;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116621931</idno>
-                  <note type="bio"><p>Er wirkte vor allem in Frankfurt/Main.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2431">
-                  <persName>Wölfflin, Heinrich</persName>
-                  <birth>
-                     <date>1864-06-21</date>
-                     <settlement>
-                        <placeName>Winterthur</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1945-07-19</date>
-                     <settlement>
-                        <placeName>Zürich</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Kunsthistoriker;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118634496</idno>
-                  <note type="bio"><p>Er stammt ursprünglich aus Winterthur und studierte Philosophie an der Universität Basel und an der Friedrich-Wilhelms-Universität Berlin, später auch Kunstgeschichte in München.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2429">
-                  <persName>Frankl, Paul</persName>
-                  <birth>
-                     <date>1878-04-22</date>
-                     <settlement>
-                        <placeName>Prag</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1962-01-30</date>
-                     <settlement>
-                        <placeName>Princeton, NJ</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Kunsthistoriker;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/115671994</idno>
-                  <note type="bio"><p>Er stammt ursprünglich aus Prag. 1907 studierte er in München Kunstgeschichte. 1938 emigrierte er in die USA.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2433">
-                  <persName>Brinckmann, Albert Erich</persName>
-                  <birth>
-                     <date>1881-09-04</date>
-                     <settlement>
-                        <placeName>Norderney</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1958-08-10</date>
-                     <settlement>
-                        <placeName>Köln</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Kunsthistoriker; Kunstkritiker;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118674129</idno>
-                  <note type="bio"><p>Er stammt ursprünglich aus Norderney und studierte in Berlin, München und an der Technischen Hochschule Charlottenburg Kunstgeschichte. Er promovierte 1905 und lehrte danach in Rostock, Berlin sowie Frankfurt/Main.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2428">
-                  <persName>Riegl, Alois</persName>
-                  <birth>
-                     <date>1858</date>
-                     <settlement>
-                        <placeName>Linz</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1905</date>
-                     <settlement>
-                        <placeName>Wien</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Kunsthistoriker; Professor</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118600818</idno>
-                  <note type="bio"><p>Er stammt ursprünglich aus Linz und wirkte als Professor in Wien. Er war Generalkonservator.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2434">
+  <back><listPerson><person xml:id="tillich_person_id__2434">
                   <persName>Pinder, Wilhelm</persName>
                   <birth>
                      <date>1878-06-25</date>
@@ -235,6 +113,33 @@
                   <occupation>Kunsthistoriker;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118792237</idno>
                   <note type="bio"><p>Er stammt ursprünglich aus Kassel und hat Archäologie und Kunstgeschichte an den Universitäten Göttingen, Berlin, München und Leipzig studiert. Er war ein Mitglied der Burschenschaft Alemannia Göttingen 1896. Er war bekennender Antisemit und Nationalist.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2432">
+                  <persName>Coellen, Ludwig</persName>
+                  <birth>
+                     <date>1875</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Philosoph; Kunsthistoriker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116621931</idno>
+                  <note type="bio"><p>Er wirkte vor allem in Frankfurt/Main.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__2430">
                   <persName>Dvořák, Max</persName>
@@ -254,25 +159,151 @@
                   <idno type="gnd">https://d-nb.info/gnd/118528378</idno>
                   <note type="bio"><p>Er stammt ursprünglich aus Radnitz und studierte an den Universitäten Prag und Wien. Er war der Nachfolger von Alois Riegel.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
+               <person xml:id="tillich_person_id__2429">
+                  <persName>Frankl, Paul</persName>
                   <birth>
-                     <date>1886-08-20</date>
+                     <date>1878-04-22</date>
+                     <settlement>
+                        <placeName>Prag</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1965-10-22</date>
+                     <date>1962-01-30</date>
                      <settlement>
-                        <placeName>Chicago, Ill.</placeName>
+                        <placeName>Princeton, NJ</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+                  <occupation>Kunsthistoriker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115671994</idno>
+                  <note type="bio"><p>Er stammt ursprünglich aus Prag. 1907 studierte er in München Kunstgeschichte. 1938 emigrierte er in die USA.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1460">
+                  <persName>Passarge, Walter</persName>
+                  <occupation>deutscher Kunsthistoriker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2428">
+                  <persName>Riegl, Alois</persName>
+                  <birth>
+                     <date>1858</date>
+                     <settlement>
+                        <placeName>Linz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1905</date>
+                     <settlement>
+                        <placeName>Wien</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker; Professor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118600818</idno>
+                  <note type="bio"><p>Er stammt ursprünglich aus Linz und wirkte als Professor in Wien. Er war Generalkonservator.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2431">
+                  <persName>Wölfflin, Heinrich</persName>
+                  <birth>
+                     <date>1864-06-21</date>
+                     <settlement>
+                        <placeName>Winterthur</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-07-19</date>
+                     <settlement>
+                        <placeName>Zürich</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118634496</idno>
+                  <note type="bio"><p>Er stammt ursprünglich aus Winterthur und studierte Philosophie an der Universität Basel und an der Friedrich-Wilhelms-Universität Berlin, später auch Kunstgeschichte in München.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2426">
+                  <persName>Frey, Dagobert</persName>
+                  <birth>
+                     <date>1883-04-23</date>
+                     <settlement>
+                        <placeName>Wien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1962-05-13</date>
+                     <settlement>
+                        <placeName>Stuttgart</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118693220</idno>
+                  <note type="bio"><p>Er hat wesentlich an den Bänden der Österreichischen Kunsttopographie mitgearbeitet. Für Dagobert Frey war Kunst vornehmlich Sinnstiftung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2101">
+                  <persName>Worringer, Wilhelm</persName>
+                  <birth>
+                     <date>1881-01-13</date>
+                     <settlement>
+                        <placeName>Aachen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1965-03-29</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118807900</idno>
+               </person>
+               <person xml:id="tillich_person_id__2433">
+                  <persName>Brinckmann, Albert Erich</persName>
+                  <birth>
+                     <date>1881-09-04</date>
+                     <settlement>
+                        <placeName>Norderney</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-08-10</date>
+                     <settlement>
+                        <placeName>Köln</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker; Kunstkritiker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118674129</idno>
+                  <note type="bio"><p>Er stammt ursprünglich aus Norderney und studierte in Berlin, München und an der Technischen Hochschule Charlottenburg Kunstgeschichte. Er promovierte 1905 und lehrte danach in Rostock, Berlin sowie Frankfurt/Main.</p></note>
                </person>
                <person xml:id="tillich_person_id__2435">
                   <persName>Passarge, ???</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__128">
+               </listPerson><listPlace><place xml:id="tillich_place_id__238">
+                  <placeName>Kiel</placeName>
+                  <location type="coords">
+                     <geo>54.32133 10.13489</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
+               </place>
+               <place xml:id="tillich_place_id__135">
+                  <placeName>Erfurt</placeName>
+                  <location type="coords">
+                     <geo>50.97870 11.03283</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2929670/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31997476</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__396">
+                  <placeName>Schweden</placeName>
+                  <location type="coords">
+                     <geo>62.00000 15.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661886/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q34</idno>
+               </place>
+               <place xml:id="tillich_place_id__128">
                   <placeName>Dänemark</placeName>
                   <location type="coords">
                      <geo>56.00000 10.00000</geo>
@@ -288,21 +319,6 @@
                   <idno type="geonames">https://sws.geonames.org/3144096/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q20</idno>
                </place>
-               <place xml:id="tillich_place_id__396">
-                  <placeName>Schweden</placeName>
-                  <location type="coords">
-                     <geo>62.00000 15.00000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2661886/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q34</idno>
-               </place>
-               <place xml:id="tillich_place_id__238">
-                  <placeName>Kiel</placeName>
-                  <location type="coords">
-                     <geo>54.32133 10.13489</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
-               </place>
                <place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
@@ -310,22 +326,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__135">
-                  <placeName>Erfurt</placeName>
-                  <location type="coords">
-                     <geo>50.97870 11.03283</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2929670/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31997476</idno>
                </place>
                </listPlace><listBibl><bibl xml:id="tillich_work_id__86">Tillich, Paul, Die religiöse Lage der Gegenwart, Berlin 1926.</bibl>
                <bibl xml:id="tillich_work_id__139">Passarge, Walter, Die Philosophie der Kunstgeschichte, Berlin 1930</bibl>

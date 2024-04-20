@@ -96,28 +96,7 @@
       
      </div>
     </body>
-  <back><listPerson><person xml:id="tillich_person_id__1672">
-                  <persName>Sachs, Emmy</persName>
-                  <occupation>Mathematikerin</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118905430</idno>
-               </person>
-               <person xml:id="tillich_person_id__2871">
-                  <persName>Sachs, Hanns</persName>
-                  <birth>
-                     <date>1881-01-10</date>
-                     <settlement>
-                        <placeName>Wien</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1947-01-10</date>
-                     <settlement>
-                        <placeName>Boston, Mass.</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/100259723</idno>
-               </person>
-               <person xml:id="tillich_person_id__641">
+  <back><listPerson><person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
                      <date>1886</date>
@@ -145,6 +124,27 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2871">
+                  <persName>Sachs, Hanns</persName>
+                  <birth>
+                     <date>1881-01-10</date>
+                     <settlement>
+                        <placeName>Wien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1947-01-10</date>
+                     <settlement>
+                        <placeName>Boston, Mass.</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/100259723</idno>
+               </person>
+               <person xml:id="tillich_person_id__1672">
+                  <persName>Sachs, Emmy</persName>
+                  <occupation>Mathematikerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118905430</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

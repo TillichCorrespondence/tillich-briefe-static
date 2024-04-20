@@ -146,21 +146,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2505">
-                  <persName>Krieck, Ernst</persName>
-                  <birth>
-                     <date>1882-07-06</date>
-                     <settlement>
-                        <placeName>Vögisheim</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1947-03-19</date>
-                     <settlement>
-                        <placeName>Moosburg a.d. Isar</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118566806</idno>
+               <person xml:id="tillich_person_id__2506">
+                  <persName>Siemsen, Gertrud</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/12587913X</idno>
                </person>
                <person xml:id="tillich_person_id__1857">
                   <persName>Sternberger, Dolf</persName>
@@ -179,6 +167,25 @@
                   <occupation>deutscher Politikwissenschaftler und Journalist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118617931</idno>
                </person>
+               <person xml:id="tillich_person_id__841">
+                  <persName>Heidegger, Martin</persName>
+               </person>
+               <person xml:id="tillich_person_id__2505">
+                  <persName>Krieck, Ernst</persName>
+                  <birth>
+                     <date>1882-07-06</date>
+                     <settlement>
+                        <placeName>Vögisheim</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1947-03-19</date>
+                     <settlement>
+                        <placeName>Moosburg a.d. Isar</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118566806</idno>
+               </person>
                <person xml:id="tillich_person_id__2507">
                   <persName>Gehlen, Arnold</persName>
                   <birth>
@@ -194,13 +201,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11853808X</idno>
-               </person>
-               <person xml:id="tillich_person_id__2506">
-                  <persName>Siemsen, Gertrud</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/12587913X</idno>
-               </person>
-               <person xml:id="tillich_person_id__841">
-                  <persName>Heidegger, Martin</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

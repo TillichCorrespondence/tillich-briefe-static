@@ -89,17 +89,7 @@
 <postscript><p><pb n="2"/>Vormittag <rs ref="#tillich_place_id__121" type="place">Haag</rs> mit ganz herrlichem Museum. Heut Abend Vortrag <rs ref="#tillich_place_id__516" type="place">Leiden</rs>, morgen <rs ref="#tillich_place_id__523" type="place">Delft</rs>.</p></postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2662">
-                  <persName>Vermeer, Jan</persName>
-                  <birth>
-                     <date>1632-10-31</date>
-                  </birth>
-                  <death>
-                     <date>1675-12-15</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118626590</idno>
-               </person>
-               <person xml:id="tillich_person_id__1923">
+<back><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -115,6 +105,16 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2662">
+                  <persName>Vermeer, Jan</persName>
+                  <birth>
+                     <date>1632-10-31</date>
+                  </birth>
+                  <death>
+                     <date>1675-12-15</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118626590</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

@@ -107,11 +107,11 @@
                   <idno type="geonames">https://sws.geonames.org/2852458/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1711</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1311">
-                  <persName>Merrem, Paul</persName>
-               </person>
-               <person xml:id="tillich_person_id__1310">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1310">
                   <persName>Merrem, Lucie</persName>
+               </person>
+               <person xml:id="tillich_person_id__1311">
+                  <persName>Merrem, Paul</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

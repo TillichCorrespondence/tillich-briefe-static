@@ -90,21 +90,21 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__180">
-                  <placeName>Goslar</placeName>
-                  <location type="coords">
-                     <geo>51.90425 10.42766</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
-               </place>
-               <place xml:id="tillich_place_id__230">
+<back><listPlace><place xml:id="tillich_place_id__230">
                   <placeName>Kampen</placeName>
                   <location type="coords">
                      <geo>54.95411 8.34171</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2893295/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
+               </place>
+               <place xml:id="tillich_place_id__180">
+                  <placeName>Goslar</placeName>
+                  <location type="coords">
+                     <geo>51.90425 10.42766</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>

@@ -95,6 +95,9 @@
 <back><listPerson><person xml:id="tillich_person_id__808">
                   <persName>Harnack, Adolf von</persName>
                </person>
+               <person xml:id="tillich_person_id__2836">
+                  <persName>Beissmann, ???</persName>
+               </person>
                <person xml:id="tillich_person_id__1600">
                   <persName>Richter, Julius</persName>
                   <birth>
@@ -115,9 +118,6 @@
                </person>
                <person xml:id="tillich_person_id__2835">
                   <persName>Grassmann, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2836">
-                  <persName>Beissmann, ???</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>

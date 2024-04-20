@@ -128,37 +128,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__826">
-                  <persName>Haupt, Erich</persName>
-               </person>
-               <person xml:id="tillich_person_id__2224">
-                  <persName>Dürselen , Paul Rudolf</persName>
-                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2242">
-                  <persName>Schmidt</persName>
-                  <occupation>Pfarrer;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1924">
-                  <persName>Tillich, Johannes Oskar</persName>
-                  <birth>
-                     <date>1857</date>
-                  </birth>
-                  <death>
-                     <date>1937</date>
-                  </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2259">
-                  <persName>???, Adolf</persName>
-                  <note type="bio"><p>Er wird als Onkel von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2786">
-                  <persName>Knak, (Familie)</persName>
-               </person>
-               <person xml:id="tillich_person_id__589">
+<back><listPerson><person xml:id="tillich_person_id__589">
                   <persName>Fichte, Johann Gottlieb</persName>
                   <birth>
                      <date>1762-05-19</date>
@@ -177,16 +147,21 @@
                <person xml:id="tillich_person_id__1036">
                   <persName>Kautzsch, Emil</persName>
                </person>
-               <person xml:id="tillich_person_id__1227">
-                  <persName>Lütgert, Wilhelm</persName>
+               <person xml:id="tillich_person_id__1201">
+                  <persName>Loofs, Friedrich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
                   <birth>
-                     <date>1867</date>
+                     <date>1857</date>
                   </birth>
                   <death>
-                     <date>1938</date>
+                     <date>1937</date>
                   </death>
-                  <occupation>Systematischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
                <person xml:id="tillich_person_id__2738">
                   <persName>Strack, Hermann</persName>
@@ -204,6 +179,21 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119402734</idno>
                </person>
+               <person xml:id="tillich_person_id__2242">
+                  <persName>Schmidt</persName>
+                  <occupation>Pfarrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2786">
+                  <persName>Knak, (Familie)</persName>
+               </person>
+               <person xml:id="tillich_person_id__2259">
+                  <persName>???, Adolf</persName>
+                  <note type="bio"><p>Er wird als Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2224">
+                  <persName>Dürselen , Paul Rudolf</persName>
+                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -219,31 +209,41 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
                <person xml:id="tillich_person_id__1291">
                   <persName>Medicus, Fritz</persName>
                   <occupation>Philosoph</occupation>
                   <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
                </person>
-               <person xml:id="tillich_person_id__1201">
-                  <persName>Loofs, Friedrich</persName>
-                  <occupation>Kirchenhistoriker</occupation>
+               <person xml:id="tillich_person_id__826">
+                  <persName>Haupt, Erich</persName>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__129">Tillich, Paul, Fichtes Religionsphilosophie in ihrem Verhältnis zum Johannesevangelium (1906), in: EN IX, 4–19.</bibl>
-               <bibl xml:id="tillich_work_id__128">Neugebauer, Georg, Tillichs frühe Christologie. Eine Untersuchung zu Offenbarung und Geschichte bei Tillich vor dem Hintergrund seiner Schellingrezeption, Berlin/New York 2007.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__244">
-                  <placeName>Köln</placeName>
-                  <location type="coords">
-                     <geo>50.93333 6.95000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__128">Neugebauer, Georg, Tillichs frühe Christologie. Eine Untersuchung zu Offenbarung und Geschichte bei Tillich vor dem Hintergrund seiner Schellingrezeption, Berlin/New York 2007.</bibl>
+               <bibl xml:id="tillich_work_id__129">Tillich, Paul, Fichtes Religionsphilosophie in ihrem Verhältnis zum Johannesevangelium (1906), in: EN IX, 4–19.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__244">
+                  <placeName>Köln</placeName>
+                  <location type="coords">
+                     <geo>50.93333 6.95000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
                </place>
                </listPlace></back></text>
 </TEI>

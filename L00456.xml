@@ -132,8 +132,11 @@
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__2626">
+<back><listPerson><person xml:id="tillich_person_id__1033">
+                  <persName>Kattenbusch, Ferdinand</persName>
+                  <occupation>Evangelischer Theologe, Wingolf</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2626">
                   <persName>Dobschütz, Ernst von</persName>
                   <birth>
                      <date>1870-10-09</date>
@@ -150,10 +153,6 @@
                   <occupation>Dekan;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116151420</idno>
                   <note type="bio"><p>Er war Dekan der Theologischen Fakultät während Paul Tillichs Habilitationsvorlesung in Halle.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1033">
-                  <persName>Kattenbusch, Ferdinand</persName>
-                  <occupation>Evangelischer Theologe, Wingolf</occupation>
                </person>
                <person xml:id="tillich_person_id__2708">
                   <persName>Meyer, Gottfried</persName>
@@ -195,5 +194,6 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl>
+               </listBibl></back></text>
 </TEI>

@@ -129,13 +129,13 @@
   </p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1122">
-                  <persName>Lahusen, Friedrich</persName>
-                  <occupation>Generalsuperintendent</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1063">
+<back><listPerson><person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
                   <occupation>Mutter von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1122">
+                  <persName>Lahusen, Friedrich</persName>
+                  <occupation>Generalsuperintendent</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__41">
                   <placeName>Berlin-Lichtenrade</placeName>

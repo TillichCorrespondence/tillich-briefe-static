@@ -110,12 +110,12 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__158">
+<back><listPerson><person xml:id="tillich_person_id__2353">
+                  <persName>Medicus, Clara</persName>
+               </person>
+               <person xml:id="tillich_person_id__158">
                   <persName>Bäumler, Alfred</persName>
                   <occupation>Philosoph</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2353">
-                  <persName>Medicus, Clara</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
