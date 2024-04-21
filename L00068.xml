@@ -119,17 +119,44 @@
             <note type="ea">Der Rest des Briefes ist nicht überliefert.</note>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1930">
-                  <persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2528">
-                  <persName>Schmidt, (Frau)</persName>
-                  <note type="bio"><p>Sie stand in Kontakt mit Paul Tillichs Mutter und war eventuell die Frau von Pastor Schmidt (P02246).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2136">
-                  <persName>Kaumann, E.</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
+   <back><listPlace><place xml:id="tillich_place_id__181">
+                  <placeName>Greifswald</placeName>
+                  <location type="coords">
+                     <geo>54.09311 13.38786</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2917788/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041909</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
@@ -146,6 +173,9 @@
                <person xml:id="tillich_person_id__2019">
                   <persName>Wedell, Hanna</persName>
                </person>
+               <person xml:id="tillich_person_id__2944">
+                  <persName>Arndt, ???</persName>
+               </person>
                <person xml:id="tillich_person_id__1926">
                   <persName>Tillich, Oskar</persName>
                   <birth>
@@ -157,67 +187,37 @@
                   <occupation>Großvater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
                </person>
-               <person xml:id="tillich_person_id__2944">
-                  <persName>Arndt, ???</persName>
+               <person xml:id="tillich_person_id__1930">
+                  <persName>Tillich, Marie</persName>
+                  <occupation>Großmutter</occupation>
                </person>
-               <person xml:id="tillich_person_id__2260">
-                  <persName>???, Conrad</persName>
-                  <occupation>Pfarrer;</occupation>
+               <person xml:id="tillich_person_id__2136">
+                  <persName>Kaumann, E.</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2242">
                   <persName>Schmidt</persName>
                   <occupation>Pfarrer;</occupation>
                </person>
+               <person xml:id="tillich_person_id__2259">
+                  <persName>???, Adolf</persName>
+                  <note type="bio"><p>Er wird als Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2528">
+                  <persName>Schmidt, (Frau)</persName>
+                  <note type="bio"><p>Sie stand in Kontakt mit Paul Tillichs Mutter und war eventuell die Frau von Pastor Schmidt (P02246).</p></note>
+               </person>
                <person xml:id="tillich_person_id__2236">
                   <persName>???, Else</persName>
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2259">
-                  <persName>???, Adolf</persName>
-                  <note type="bio"><p>Er wird als Onkel von Paul Tillich bezeichnet.</p></note>
+               <person xml:id="tillich_person_id__2260">
+                  <persName>???, Conrad</persName>
+                  <occupation>Pfarrer;</occupation>
                </person>
                <person xml:id="tillich_person_id__2224">
                   <persName>Dürselen , Paul Rudolf</persName>
                   <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__181">
-                  <placeName>Greifswald</placeName>
-                  <location type="coords">
-                     <geo>54.09311 13.38786</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2917788/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041909</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

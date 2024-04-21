@@ -104,13 +104,13 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2236">
-                  <persName>???, Else</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2224">
+               </listPlace><listPerson><person xml:id="tillich_person_id__2224">
                   <persName>Dürselen , Paul Rudolf</persName>
                   <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2236">
+                  <persName>???, Else</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

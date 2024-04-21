@@ -234,88 +234,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__198">
-                  <placeName>Hamburg</placeName>
-                  <location type="coords">
-                     <geo>53.55073 9.99302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911298/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
-               </place>
-               <place xml:id="tillich_place_id__136">
-                  <placeName>Erlangen</placeName>
-                  <location type="coords">
-                     <geo>49.59099 11.00783</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
-               </place>
-               <place xml:id="tillich_place_id__186">
-                  <placeName>Göttingen</placeName>
-                  <location type="coords">
-                     <geo>51.53443 9.93228</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__467">
-                  <placeName>Wartburg</placeName>
-                  <location type="coords">
-                     <geo>50.96605 10.30646</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               <place xml:id="tillich_place_id__244">
-                  <placeName>Köln</placeName>
-                  <location type="coords">
-                     <geo>50.93333 6.95000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1013">
-                  <persName>Kähler, Martin</persName>
-                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
-               </person>
-               <person xml:id="tillich_person_id__204">
-                  <persName>Bertheau, Johannes</persName>
-                  <occupation>Lehrer im Johanneum in Hamburg, studierte in Halle</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2160">
-                  <persName>Winkler, ???</persName>
-                  <note type="bio"><p>Er war ein Funktionär der Wingolfsverbindung.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2530">
-                  <persName>Kühn, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2531">
-                  <persName>Vogt, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -341,5 +260,86 @@
                   <occupation>Systematischer Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2530">
+                  <persName>Kühn, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__204">
+                  <persName>Bertheau, Johannes</persName>
+                  <occupation>Lehrer im Johanneum in Hamburg, studierte in Halle</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2160">
+                  <persName>Winkler, ???</persName>
+                  <note type="bio"><p>Er war ein Funktionär der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2531">
+                  <persName>Vogt, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1013">
+                  <persName>Kähler, Martin</persName>
+                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__136">
+                  <placeName>Erlangen</placeName>
+                  <location type="coords">
+                     <geo>49.59099 11.00783</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
+               </place>
+               <place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
+                  <location type="coords">
+                     <geo>51.53443 9.93228</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+               </place>
+               <place xml:id="tillich_place_id__198">
+                  <placeName>Hamburg</placeName>
+                  <location type="coords">
+                     <geo>53.55073 9.99302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911298/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__244">
+                  <placeName>Köln</placeName>
+                  <location type="coords">
+                     <geo>50.93333 6.95000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

@@ -142,6 +142,14 @@
                   <idno type="geonames">https://sws.geonames.org/2924577/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q563528</idno>
                </place>
+               <place xml:id="tillich_place_id__609">
+                  <placeName>Alt-Buchhorst</placeName>
+                  <location type="coords">
+                     <geo>52.43151 13.84051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2958049/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q110249085</idno>
+               </place>
                <place xml:id="tillich_place_id__416">
                   <placeName>Stettin</placeName>
                   <location type="coords">
@@ -157,14 +165,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3091961/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
-               </place>
-               <place xml:id="tillich_place_id__609">
-                  <placeName>Alt-Buchhorst</placeName>
-                  <location type="coords">
-                     <geo>52.43151 13.84051</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2958049/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q110249085</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1925">
                   <persName>Tillich, Margarete</persName>

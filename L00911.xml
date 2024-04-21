@@ -170,27 +170,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2513">
-                  <persName>???, Nora</persName>
-               </person>
-               <person xml:id="tillich_person_id__2436">
-                  <persName>Hamburger, Hans</persName>
-                  <birth>
-                     <date>1889-08-05</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1956-08-04</date>
-                     <settlement>
-                        <placeName>Köln</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Mathematiker;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116422521</idno>
-                  <note type="bio"><p>Er lebte Mitte der 1920er in Köln. Zu dieser Zeit war er mit Paul Tillich bekannt. Sie trafen sich auch 1926 in Paris.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -220,6 +199,27 @@
                   </death>
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+               </person>
+               <person xml:id="tillich_person_id__2513">
+                  <persName>???, Nora</persName>
+               </person>
+               <person xml:id="tillich_person_id__2436">
+                  <persName>Hamburger, Hans</persName>
+                  <birth>
+                     <date>1889-08-05</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1956-08-04</date>
+                     <settlement>
+                        <placeName>Köln</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Mathematiker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116422521</idno>
+                  <note type="bio"><p>Er lebte Mitte der 1920er in Köln. Zu dieser Zeit war er mit Paul Tillich bekannt. Sie trafen sich auch 1926 in Paris.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__343">
                   <placeName>Paris</placeName>

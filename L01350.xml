@@ -87,13 +87,13 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__178">
+<back><listPerson><person xml:id="tillich_person_id__178">
                   <persName>Bendix, Ludwig</persName>
                   <occupation>War ein deutscher Jurist, Finanzberater und Nationalökonom, in den USA dann Soziologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

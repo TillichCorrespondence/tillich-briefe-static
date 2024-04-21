@@ -186,41 +186,7 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2338">
-                  <persName>Bronisch, Gotthelf Matthias</persName>
-                  <birth>
-                     <date>1868-06-03</date>
-                     <settlement>
-                        <placeName>Leuthen (Drebkau)</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1937-01-12</date>
-                     <settlement>
-                        <placeName>Wilmersdorf</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117632279</idno>
-               </person>
-               <person xml:id="tillich_person_id__2334">
-                  <persName>Mensching, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1169">
-                  <persName>Lessing, Gotthold Ephraim</persName>
-               </person>
-               <person xml:id="tillich_person_id__2336">
-                  <persName>Büttner, ???</persName>
-                  <occupation>Pastor;</occupation>
-                  <note type="bio"><p>Er lebte und wirkte in Bremen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1707">
-                  <persName>Schetelig, Wilhelm</persName>
-               </person>
-               <person xml:id="tillich_person_id__845">
-                  <persName>Heim, Karl</persName>
-                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -235,46 +201,23 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2339">
-                  <persName>Portig, ???</persName>
-                  <occupation>Theologe; Autor;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2331">
-                  <persName>Giese, ???</persName>
+               <person xml:id="tillich_person_id__2168">
+                  <persName>Schuster, Daniel</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__1295">
                   <persName>Meinhof, Heinrich</persName>
                   <occupation>Leibfux von Paul Tillich</occupation>
                </person>
-               <person xml:id="tillich_person_id__1738">
-                  <persName>Schreiber, Hans</persName>
+               <person xml:id="tillich_person_id__2215">
+                  <persName>Ritter, Rudi</persName>
                </person>
-               <person xml:id="tillich_person_id__1228">
-                  <persName>Luther, Martin</persName>
-                  <birth>
-                     <date>1483-11-10</date>
-                     <settlement>
-                        <placeName>Eisleben</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1546-02-18</date>
-                     <settlement>
-                        <placeName>Eisleben</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118575449</idno>
+               <person xml:id="tillich_person_id__1016">
+                  <persName>Kalthoff, Albert</persName>
                </person>
-               <person xml:id="tillich_person_id__2332">
-                  <persName>Böke, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__203">
-                  <persName>Bertheau, Lorenz</persName>
-                  <occupation>Pfarrer</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2212">
-                  <persName>Gräber, ???</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
+               <person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
                </person>
                <person xml:id="tillich_person_id__1954">
                   <persName>Troeltsch, Ernst</persName>
@@ -292,24 +235,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
                </person>
-               <person xml:id="tillich_person_id__1016">
-                  <persName>Kalthoff, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__310">
-                  <persName>Büchsel, Friedrich Hermann Martin</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1945</date>
-                  </death>
-                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
-               </person>
-               <person xml:id="tillich_person_id__2168">
-                  <persName>Schuster, Daniel</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2335">
                   <persName>Felden, ???</persName>
                   <birth>
@@ -321,25 +246,6 @@
                   <occupation>Pastor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118844814</idno>
                   <note type="bio"><p>Er lebte und wirkte in Bremen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__589">
-                  <persName>Fichte, Johann Gottlieb</persName>
-                  <birth>
-                     <date>1762-05-19</date>
-                     <settlement>
-                        <placeName>Rammenau</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1814-01-29</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
-               </person>
-               <person xml:id="tillich_person_id__2215">
-                  <persName>Ritter, Rudi</persName>
                </person>
                <person xml:id="tillich_person_id__1868">
                   <persName>Stoevesandt, Karl</persName>
@@ -361,12 +267,136 @@
                <person xml:id="tillich_person_id__1709">
                   <persName>Schiller, Friedrich von</persName>
                </person>
+               <person xml:id="tillich_person_id__2338">
+                  <persName>Bronisch, Gotthelf Matthias</persName>
+                  <birth>
+                     <date>1868-06-03</date>
+                     <settlement>
+                        <placeName>Leuthen (Drebkau)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1937-01-12</date>
+                     <settlement>
+                        <placeName>Wilmersdorf</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117632279</idno>
+               </person>
+               <person xml:id="tillich_person_id__2212">
+                  <persName>Gräber, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1228">
+                  <persName>Luther, Martin</persName>
+                  <birth>
+                     <date>1483-11-10</date>
+                     <settlement>
+                        <placeName>Eisleben</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1546-02-18</date>
+                     <settlement>
+                        <placeName>Eisleben</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118575449</idno>
+               </person>
+               <person xml:id="tillich_person_id__1707">
+                  <persName>Schetelig, Wilhelm</persName>
+               </person>
+               <person xml:id="tillich_person_id__2332">
+                  <persName>Böke, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1169">
+                  <persName>Lessing, Gotthold Ephraim</persName>
+               </person>
                <person xml:id="tillich_person_id__2333">
                   <persName>Schetelig, O.</persName>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__269">Portig, Gustav, Die Grundzüge der monistischen und dualistischen Weltanschauung unter Berücksichtigung des neuesten Standes der Naturwissenschaft. Deutschland: M. Kielman, 1904.</bibl>
-               <bibl xml:id="tillich_work_id__242">Heim, Karl, Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Naturwissenschaft und Theologie, 1904</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__37">
+               <person xml:id="tillich_person_id__2336">
+                  <persName>Büttner, ???</persName>
+                  <occupation>Pastor;</occupation>
+                  <note type="bio"><p>Er lebte und wirkte in Bremen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__589">
+                  <persName>Fichte, Johann Gottlieb</persName>
+                  <birth>
+                     <date>1762-05-19</date>
+                     <settlement>
+                        <placeName>Rammenau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1814-01-29</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2339">
+                  <persName>Portig, ???</persName>
+                  <occupation>Theologe; Autor;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
+               <person xml:id="tillich_person_id__2334">
+                  <persName>Mensching, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1738">
+                  <persName>Schreiber, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__2331">
+                  <persName>Giese, ???</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__416">
+                  <placeName>Stettin</placeName>
+                  <location type="coords">
+                     <geo>53.42894 14.55302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
@@ -382,37 +412,7 @@
                   <idno type="geonames">https://sws.geonames.org/3091961/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
                </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               <place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               <place xml:id="tillich_place_id__416">
-                  <placeName>Stettin</placeName>
-                  <location type="coords">
-                     <geo>53.42894 14.55302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
-               </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__269">Portig, Gustav, Die Grundzüge der monistischen und dualistischen Weltanschauung unter Berücksichtigung des neuesten Standes der Naturwissenschaft. Deutschland: M. Kielman, 1904.</bibl>
+               <bibl xml:id="tillich_work_id__242">Heim, Karl, Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Naturwissenschaft und Theologie, 1904</bibl>
+               </listBibl></back></text>
 </TEI>

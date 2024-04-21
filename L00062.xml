@@ -173,13 +173,29 @@
 <signed>Deine <rs ref="#tillich_person_id__2085" type="person">Tante Toni</rs></signed></closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+<back><listPerson><person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__586">
-                  <persName>Feuerbach, Ludwig</persName>
+               <person xml:id="tillich_person_id__2192">
+                  <persName>???, Therese</persName>
+                  <occupation>Gemeindeschwester;</occupation>
+                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
@@ -197,67 +213,27 @@
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
-               <person xml:id="tillich_person_id__800">
-                  <persName>Harder, Erich</persName>
-                  <occupation>Pfarrer;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2192">
-                  <persName>???, Therese</persName>
-                  <occupation>Gemeindeschwester;</occupation>
-                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2224">
-                  <persName>Dürselen , Paul Rudolf</persName>
-                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
                <person xml:id="tillich_person_id__2225">
                   <persName>Dürselen, Johanna Amalia Eugenia</persName>
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               <person xml:id="tillich_person_id__800">
+                  <persName>Harder, Erich</persName>
+                  <occupation>Pfarrer;</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__213">
-                  <placeName>Hohen Neuendorf</placeName>
-                  <location type="coords">
-                     <geo>52.67631 13.27775</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
-               </place>
-               <place xml:id="tillich_place_id__34">
-                  <placeName>Belzig</placeName>
-                  <location type="coords">
-                     <geo>52.14184 12.59272</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2951134/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31909574</idno>
-               </place>
-               <place xml:id="tillich_place_id__181">
+               <person xml:id="tillich_person_id__586">
+                  <persName>Feuerbach, Ludwig</persName>
+               </person>
+               <person xml:id="tillich_person_id__2224">
+                  <persName>Dürselen , Paul Rudolf</persName>
+                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__181">
                   <placeName>Greifswald</placeName>
                   <location type="coords">
                      <geo>54.09311 13.38786</geo>
@@ -280,6 +256,30 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2925177/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
+               </place>
+               <place xml:id="tillich_place_id__213">
+                  <placeName>Hohen Neuendorf</placeName>
+                  <location type="coords">
+                     <geo>52.67631 13.27775</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
+               </place>
+               <place xml:id="tillich_place_id__34">
+                  <placeName>Belzig</placeName>
+                  <location type="coords">
+                     <geo>52.14184 12.59272</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2951134/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31909574</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                </listPlace></back></text>
 </TEI>

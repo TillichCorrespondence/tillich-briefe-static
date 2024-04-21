@@ -97,13 +97,13 @@
                   <persName>Gottschow, Albert</persName>
                   <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
                   <location type="coords">
-                     <geo>53.07582 8.80717</geo>
+                     <geo>50.80904 8.77069</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
                <place xml:id="tillich_place_id__129">
                   <placeName>Dölzig</placeName>
@@ -112,6 +112,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3100226/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q5289683</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
                </place>
                <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
@@ -128,14 +136,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2867714/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
-               </place>
-               <place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
                </listPlace></back></text>
 </TEI>

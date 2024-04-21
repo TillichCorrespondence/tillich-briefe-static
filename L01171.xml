@@ -108,21 +108,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__620">
-                  <persName>Frey, Emil</persName>
-                  <occupation>Schweizer Komponist und Pianist</occupation>
-               </person>
-               <person xml:id="tillich_person_id__621">
-                  <persName>Frey-Sollberger, Georgy</persName>
-                  <note type="bio"><p>Die Schulfreundin von Tillichs 1920 verstorbener Schwester Johanna war seit 1928 mit dem Schweizer Komponisten und Pianisten Emil Frey (1889-1946) verheiratet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2385">
-                  <persName>Mislin, Mutter von Herrn Mislin</persName>
-               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -142,6 +127,10 @@
                   <persName>Boller, Salome</persName>
                   <note type="bio"><p>Tillich hatte B. bei einem früheren Schweizaufenthalt in der Unterkunft der Familie Salis kennengelernt.</p></note>
                </person>
+               <person xml:id="tillich_person_id__621">
+                  <persName>Frey-Sollberger, Georgy</persName>
+                  <note type="bio"><p>Die Schulfreundin von Tillichs 1920 verstorbener Schwester Johanna war seit 1928 mit dem Schweizer Komponisten und Pianisten Emil Frey (1889-1946) verheiratet.</p></note>
+               </person>
                <person xml:id="tillich_person_id__2384">
                   <persName>Mislin, Hans</persName>
                   <birth>
@@ -159,6 +148,17 @@
                   <occupation>Professor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119154714</idno>
                   <note type="bio"><p>Er engagierte sich 1935 gegen den Faschismus und war später Professor der Zoologie.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2385">
+                  <persName>Mislin, Mutter von Herrn Mislin</persName>
+               </person>
+               <person xml:id="tillich_person_id__620">
+                  <persName>Frey, Emil</persName>
+                  <occupation>Schweizer Komponist und Pianist</occupation>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__22">Tillich, Paul, Der deutsche Idealismus und das proletarische Schicksal, in: Ders., Religion, Kultur, Gesellschaft II (EW XI), hg. von Erdmann Sturm, Berlin/New York 1999, S. 453-461.</bibl>
                </listBibl><listPlace><place xml:id="tillich_place_id__401">

@@ -120,15 +120,15 @@
                <person xml:id="tillich_person_id__1810">
                   <persName>Sokrates</persName>
                </person>
-               <person xml:id="tillich_person_id__2823">
-                  <persName>Egli, ???</persName>
-                  <occupation>Maler;</occupation>
+               <person xml:id="tillich_person_id__1510">
+                  <persName>Platon</persName>
                </person>
                <person xml:id="tillich_person_id__474">
                   <persName>Diotima</persName>
                </person>
-               <person xml:id="tillich_person_id__1510">
-                  <persName>Platon</persName>
+               <person xml:id="tillich_person_id__2823">
+                  <persName>Egli, ???</persName>
+                  <occupation>Maler;</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

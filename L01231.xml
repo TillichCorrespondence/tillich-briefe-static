@@ -118,51 +118,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1424">
-                  <persName>Oppenheim, Gabrielle</persName>
-                  <note type="bio"><p>Frau von Paul Oppenheimer. Gemeinsam mit seinem Mann emigriete sie 1933 in ihre Heimatland Belgien. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941). </p></note>
-               </person>
-               <person xml:id="tillich_person_id__646">
-                  <persName>Frobenius, Leo</persName>
-               </person>
-               <person xml:id="tillich_person_id__2897">
-                  <persName>Frobenius, Editha</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/1064189253</idno>
-                  <note type="bio"><p>Sie war eine geborene Brandt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2896">
-                  <persName>Wieschhoff, Heinrich</persName>
-                  <birth>
-                     <date>1906-08-01</date>
-                     <settlement>
-                        <placeName>Hagen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1961-09-18</date>
-                     <settlement>
-                        <placeName>Ndola</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/12407216X</idno>
-               </person>
-               <person xml:id="tillich_person_id__2894">
-                  <persName>Rhotert, Hans</persName>
-                  <birth>
-                     <date>1900-09-20</date>
-                     <settlement>
-                        <placeName>Hannover</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1991-02-13</date>
-                     <settlement>
-                        <placeName>Bad Traunstein</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Ethnologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1020607351</idno>
-               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -190,6 +145,51 @@
                      <date>1957</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117251909</idno>
+               </person>
+               <person xml:id="tillich_person_id__2896">
+                  <persName>Wieschhoff, Heinrich</persName>
+                  <birth>
+                     <date>1906-08-01</date>
+                     <settlement>
+                        <placeName>Hagen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1961-09-18</date>
+                     <settlement>
+                        <placeName>Ndola</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/12407216X</idno>
+               </person>
+               <person xml:id="tillich_person_id__646">
+                  <persName>Frobenius, Leo</persName>
+               </person>
+               <person xml:id="tillich_person_id__2897">
+                  <persName>Frobenius, Editha</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1064189253</idno>
+                  <note type="bio"><p>Sie war eine geborene Brandt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2894">
+                  <persName>Rhotert, Hans</persName>
+                  <birth>
+                     <date>1900-09-20</date>
+                     <settlement>
+                        <placeName>Hannover</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1991-02-13</date>
+                     <settlement>
+                        <placeName>Bad Traunstein</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Ethnologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1020607351</idno>
+               </person>
+               <person xml:id="tillich_person_id__1424">
+                  <persName>Oppenheim, Gabrielle</persName>
+                  <note type="bio"><p>Frau von Paul Oppenheimer. Gemeinsam mit seinem Mann emigriete sie 1933 in ihre Heimatland Belgien. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941). </p></note>
                </person>
                <person xml:id="tillich_person_id__846">
                   <persName>Heimann, Eduard</persName>

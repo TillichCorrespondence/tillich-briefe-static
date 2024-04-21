@@ -105,7 +105,15 @@
 <p>Grüße D. Frau u. Sohn u. <rs ref="#tillich_person_id__1295" type="person">Lbfx</rs>.</p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1295">
+<back><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1295">
                   <persName>Meinhof, Heinrich</persName>
                   <occupation>Leibfux von Paul Tillich</occupation>
                </person>
@@ -127,13 +135,5 @@
                <person xml:id="tillich_person_id__2261">
                   <persName>???, Gerty</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

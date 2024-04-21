@@ -157,29 +157,7 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__247">
-                  <placeName>Kötzschenbroda</placeName>
-                  <location type="coords">
-                     <geo>51.10395 13.62940</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2885071/</idno>
-               </place>
-               <place xml:id="tillich_place_id__119">
-                  <placeName>Davos</placeName>
-                  <location type="coords">
-                     <geo>46.80429 9.83723</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2661039/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q56528928</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__719">
-                  <persName>Grisebach, Eberhard</persName>
-               </person>
-               <person xml:id="tillich_person_id__1055">
-                  <persName>Kirbach, Hellmuth</persName>
-                  <occupation>Dr. phil., Oberschulrat in Bremen</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -197,5 +175,27 @@
                <person xml:id="tillich_person_id__1593">
                   <persName>Rheindorf, Kurt</persName>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__1055">
+                  <persName>Kirbach, Hellmuth</persName>
+                  <occupation>Dr. phil., Oberschulrat in Bremen</occupation>
+               </person>
+               <person xml:id="tillich_person_id__719">
+                  <persName>Grisebach, Eberhard</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__119">
+                  <placeName>Davos</placeName>
+                  <location type="coords">
+                     <geo>46.80429 9.83723</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661039/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q56528928</idno>
+               </place>
+               <place xml:id="tillich_place_id__247">
+                  <placeName>Kötzschenbroda</placeName>
+                  <location type="coords">
+                     <geo>51.10395 13.62940</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2885071/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

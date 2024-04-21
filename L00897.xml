@@ -147,19 +147,7 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2853">
-                  <persName>Utrillo, Maurice</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1955</date>
-                  </death>
-                  <occupation>Maler;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/11862573X</idno>
-                  <note type="bio"><p>Er war ein französischer Maler und der Sohn von Suzanne Valadon.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1923">
+<back><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -176,10 +164,17 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               <person xml:id="tillich_person_id__2853">
+                  <persName>Utrillo, Maurice</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1955</date>
+                  </death>
+                  <occupation>Maler;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11862573X</idno>
+                  <note type="bio"><p>Er war ein französischer Maler und der Sohn von Suzanne Valadon.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -207,21 +202,26 @@
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__257">
-                  <placeName>Le Palais</placeName>
-                  <location type="coords">
-                     <geo>47.34630 -3.15583</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3003045/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q128745</idno>
-               </place>
-               <place xml:id="tillich_place_id__361">
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__361">
                   <placeName>Quiberon</placeName>
                   <location type="coords">
                      <geo>47.48368 -3.11986</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2984741/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q128783</idno>
+               </place>
+               <place xml:id="tillich_place_id__257">
+                  <placeName>Le Palais</placeName>
+                  <location type="coords">
+                     <geo>47.34630 -3.15583</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3003045/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q128745</idno>
                </place>
                </listPlace></back></text>
 </TEI>

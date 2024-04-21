@@ -114,7 +114,15 @@ ungehemmt diktieren kann. Es ist merkwürdig, wie der Entschluß, etwas zu ver�
 </p>
 </p>
 </p>
-</p></div></body><back><listPerson><person xml:id="tillich_person_id__904">
+</p></div></body><back><listPlace><place xml:id="tillich_place_id__38">
+                  <placeName>Berlin-Friedenau</placeName>
+                  <location type="coords">
+                     <geo>52.47133 13.32813</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2924770/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__904">
                   <persName>Hirsch, Emanuel</persName>
                   <birth>
                      <date>1888-06-14</date>
@@ -131,12 +139,4 @@ ungehemmt diktieren kann. Es ist merkwürdig, wie der Entschluß, etwas zu ver�
                   <occupation>Systematischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__38">
-                  <placeName>Berlin-Friedenau</placeName>
-                  <location type="coords">
-                     <geo>52.47133 13.32813</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2924770/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
-               </place>
-               </listPlace></back></text></TEI>
+               </listPerson></back></text></TEI>

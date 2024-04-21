@@ -106,14 +106,7 @@
             </postscript>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__238">
-                  <placeName>Kiel</placeName>
-                  <location type="coords">
-                     <geo>54.32133 10.13489</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -132,5 +125,12 @@
                   <persName>Mulert, Hermann</persName>
                   <occupation>Deutscher evangelischer Theologe</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__238">
+                  <placeName>Kiel</placeName>
+                  <location type="coords">
+                     <geo>54.32133 10.13489</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

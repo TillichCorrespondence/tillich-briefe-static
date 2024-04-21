@@ -168,12 +168,13 @@
                   <idno type="geonames">https://sws.geonames.org/3004513/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q326149</idno>
                </place>
-               <place xml:id="tillich_place_id__343">
-                  <placeName>Paris</placeName>
+               <place xml:id="tillich_place_id__373">
+                  <placeName>Rouen</placeName>
                   <location type="coords">
-                     <geo>48.85341 2.34880</geo>
+                     <geo>49.44313 1.09932</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2982652/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q30974</idno>
                </place>
                <place xml:id="tillich_place_id__445">
                   <placeName>Trouville sur Mer</placeName>
@@ -182,13 +183,12 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2971555/</idno>
                </place>
-               <place xml:id="tillich_place_id__373">
-                  <placeName>Rouen</placeName>
+               <place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
                   <location type="coords">
-                     <geo>49.44313 1.09932</geo>
+                     <geo>48.85341 2.34880</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2982652/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q30974</idno>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
                </place>
                </listPlace></back></text>
 </TEI>

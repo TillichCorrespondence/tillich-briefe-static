@@ -127,15 +127,15 @@ philosophisches Unternehmen unter dem Titel „<rs ref="#tillich_work_id__146" t
                   <occupation>Philosoph; Herausgeber;</occupation>
                   <note type="bio"><p>Er war Herausgeber der sogenannten "Philosophischen Reihe".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2750">
-                  <persName>Verlag Rösl &amp; Cie., ???</persName>
-                  <occupation>Institution;</occupation>
-               </person>
                <person xml:id="tillich_person_id__1294">
                   <persName>Meiner, Felix</persName>
                </person>
                <person xml:id="tillich_person_id__1826">
                   <persName>Spengler, Oswald</persName>
+               </person>
+               <person xml:id="tillich_person_id__2750">
+                  <persName>Verlag Rösl &amp; Cie., ???</persName>
+                  <occupation>Institution;</occupation>
                </person>
                <person xml:id="tillich_person_id__1376">
                   <persName>Natorp, Paul</persName>

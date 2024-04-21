@@ -107,11 +107,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2296">
-                  <persName>Neumeister, Eckhardt</persName>
-                  <occupation>Geheimrat; Medizinalrat;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -130,16 +126,11 @@
                   <persName>Winkler, Toni</persName>
                   <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__1">Tillich, Paul, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen 1923.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__416">
-                  <placeName>Stettin</placeName>
-                  <location type="coords">
-                     <geo>53.42894 14.55302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
-               </place>
-               <place xml:id="tillich_place_id__279">
+               <person xml:id="tillich_person_id__2296">
+                  <persName>Neumeister, Eckhardt</persName>
+                  <occupation>Geheimrat; Medizinalrat;</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
                   <location type="coords">
                      <geo>50.80904 8.77069</geo>
@@ -147,5 +138,14 @@
                   <idno type="geonames">https://sws.geonames.org/2873759/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
-               </listPlace></back></text>
+               <place xml:id="tillich_place_id__416">
+                  <placeName>Stettin</placeName>
+                  <location type="coords">
+                     <geo>53.42894 14.55302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__1">Tillich, Paul, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen 1923.</bibl>
+               </listBibl></back></text>
 </TEI>

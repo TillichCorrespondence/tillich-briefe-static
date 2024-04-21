@@ -139,9 +139,55 @@
 <closer><signed><rs ref="#tillich_person_id__641" type="person">Alfred</rs></signed></closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1743">
-                  <persName>Schubert, Daniel</persName>
-                  <occupation>Pfarrer</occupation>
+<back><listPlace><place xml:id="tillich_place_id__584">
+                  <placeName>Bad Cannstatt</placeName>
+                  <location type="coords">
+                     <geo>48.80480 9.21450</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q656982</idno>
+               </place>
+               <place xml:id="tillich_place_id__586">
+                  <placeName>Tokio</placeName>
+                  <location type="coords">
+                     <geo>35.68950 139.69171</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/1850147/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7473516</idno>
+               </place>
+               <place xml:id="tillich_place_id__420">
+                  <placeName>Stuttgart</placeName>
+                  <location type="coords">
+                     <geo>48.78232 9.17702</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2825297/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32749678</idno>
+               </place>
+               <place xml:id="tillich_place_id__585">
+                  <placeName>Kapstadt</placeName>
+                  <location type="coords">
+                     <geo>-33.92584 18.42322</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3369157/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q5465</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1231">
+                  <persName>Luxemburg, Rosa</persName>
                </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
@@ -154,25 +200,6 @@
                   <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__2201">
-                  <persName>Singer, Paul</persName>
-                  <birth>
-                     <date>1844-01-16</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1911-01-31</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117630373</idno>
                </person>
                <person xml:id="tillich_person_id__2200">
                   <persName>Bebel, August Ferdinand</persName>
@@ -190,8 +217,15 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118507893</idno>
                </person>
-               <person xml:id="tillich_person_id__1231">
-                  <persName>Luxemburg, Rosa</persName>
+               <person xml:id="tillich_person_id__2138">
+                  <persName>Heller, Otto</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2882">
+                  <persName>Schubert, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2297">
                   <persName>Jaurès, Jean</persName>
@@ -210,63 +244,29 @@
                   <occupation>Historiker; Politiker;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11871192X</idno>
                </person>
-               <person xml:id="tillich_person_id__2138">
-                  <persName>Heller, Otto</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2882">
-                  <persName>Schubert, ???</persName>
-               </person>
                <person xml:id="tillich_person_id__1592">
                   <persName>Rhein, Ernst</persName>
                   <occupation>Vater von Christoph Rhein, Mitstudent von Tillich</occupation>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
+               <person xml:id="tillich_person_id__2201">
+                  <persName>Singer, Paul</persName>
                   <birth>
-                     <date>1886-08-20</date>
+                     <date>1844-01-16</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1965-10-22</date>
+                     <date>1911-01-31</date>
                      <settlement>
-                        <placeName>Chicago, Ill.</placeName>
+                        <placeName>Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+                  <idno type="gnd">https://d-nb.info/gnd/117630373</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__585">
-                  <placeName>Kapstadt</placeName>
-                  <location type="coords">
-                     <geo>-33.92584 18.42322</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3369157/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q5465</idno>
-               </place>
-               <place xml:id="tillich_place_id__584">
-                  <placeName>Bad Cannstatt</placeName>
-                  <location type="coords">
-                     <geo>48.80480 9.21450</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2953533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q656982</idno>
-               </place>
-               <place xml:id="tillich_place_id__420">
-                  <placeName>Stuttgart</placeName>
-                  <location type="coords">
-                     <geo>48.78232 9.17702</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2825297/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32749678</idno>
-               </place>
-               <place xml:id="tillich_place_id__586">
-                  <placeName>Tokio</placeName>
-                  <location type="coords">
-                     <geo>35.68950 139.69171</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/1850147/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q7473516</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__1743">
+                  <persName>Schubert, Daniel</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>
