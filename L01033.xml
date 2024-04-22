@@ -94,13 +94,7 @@
       
      </div>
     </body>
-  <back><listBibl><bibl xml:id="tillich_work_id__66">Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, hg. von Eduard Heimann, Fritz Klatt und Paul Tillich, 1930ff.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__2560">
-                  <persName>???, Ulli</persName>
-                  <occupation>Künstler;</occupation>
-                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2041">
+  <back><listPerson><person xml:id="tillich_person_id__2041">
                   <persName>Werner, Marie Luise</persName>
                   <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
                   <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
@@ -122,6 +116,25 @@
                   <occupation>Schulrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118721054</idno>
                </person>
+               <person xml:id="tillich_person_id__2560">
+                  <persName>???, Ulli</persName>
+                  <occupation>Künstler;</occupation>
+                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1562">
+                  <persName>Rathmann, August</persName>
+                  <birth>
+                     <date>1895-01-03</date>
+                  </birth>
+                  <death>
+                     <date>1995-01-05</date>
+                     <settlement>
+                        <placeName>Mönkeberg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
+                  <idno type="gnd">https://explore.gnd.network/gnd/118749196</idno>
+               </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
@@ -138,6 +151,14 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1059">
+                  <persName>Klatt, Fritz</persName>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
                <person xml:id="tillich_person_id__1887">
                   <persName>Sydow, Eckart von</persName>
@@ -166,28 +187,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1059">
-                  <persName>Klatt, Fritz</persName>
-               </person>
-               <person xml:id="tillich_person_id__1562">
-                  <persName>Rathmann, August</persName>
-                  <birth>
-                     <date>1895-01-03</date>
-                  </birth>
-                  <death>
-                     <date>1995-01-05</date>
-                     <settlement>
-                        <placeName>Mönkeberg</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
-                  <idno type="gnd">https://explore.gnd.network/gnd/118749196</idno>
-               </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
-               </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
@@ -196,5 +195,6 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__66">Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, hg. von Eduard Heimann, Fritz Klatt und Paul Tillich, 1930ff.</bibl>
+               </listBibl></back></text>
 </TEI>

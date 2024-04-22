@@ -98,12 +98,40 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
+   <back><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
+                  <location type="coords">
+                     <geo>51.53443 9.93228</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2151">
+                  <persName>Kachler, ???</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2912">
+                  <persName>Pritschow, ???</persName>
                </person>
                <person xml:id="tillich_person_id__788">
                   <persName>Hanffstengel, Gottfried von</persName>
                   <occupation>Theologe, Jugendfreund</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -127,33 +155,5 @@
                <person xml:id="tillich_person_id__2913">
                   <persName>Magnif, Sr.</persName>
                </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2912">
-                  <persName>Pritschow, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2151">
-                  <persName>Kachler, ???</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__186">
-                  <placeName>Göttingen</placeName>
-                  <location type="coords">
-                     <geo>51.53443 9.93228</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

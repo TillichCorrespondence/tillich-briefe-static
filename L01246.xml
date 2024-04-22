@@ -114,6 +114,13 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2886242/</idno>
                </place>
+               <place xml:id="tillich_place_id__408">
+                  <placeName>Spiekeroog</placeName>
+                  <location type="coords">
+                     <geo>53.77012 7.69481</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2830534/</idno>
+               </place>
                <place xml:id="tillich_place_id__164">
                   <placeName>Freiburg</placeName>
                   <location type="coords">
@@ -129,21 +136,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2988507/</idno>
                </place>
-               <place xml:id="tillich_place_id__408">
-                  <placeName>Spiekeroog</placeName>
-                  <location type="coords">
-                     <geo>53.77012 7.69481</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2830534/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1390">
+               </listPlace><listPerson><person xml:id="tillich_person_id__638">
+                  <persName>Friess, Horace</persName>
+                  <occupation>Philosoph, Columbia University New York</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1390">
                   <persName>Niebuhr, Reinhold</persName>
                   <occupation>US-amerikanischer Theologe</occupation>
                   <note type="bio"><p>Im Anschluss an sein Studium am Elmhurst College, dem Eden Theological Seminary und schließlich in Yale, wurde N. 1915 ordiniert und wirkte zunächst in einer Pfarrgemeinde in Detroit. Seit 1928 lehrte er am Union Theological Seminary in New York, wo er 1930 eine ordentliche Professur erhielt, die er bis zu seiner Emeritierung 1960 innehatte. 1931 heiratete er Ursula  Niebuhr. Er setzte sich maßgeblich für Tillich in den USA ein und wurde in der Folgezeit einer seiner wichtigsten Gesprächspartner. Neben seiner akademischen Tätigkeit äußerte sich N. stets öffentlich zu politischen Themen, wodurch er als einer der einflussreichsten US-amerikanischen Theologen des 20. Jahrhunderts gilt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__638">
-                  <persName>Friess, Horace</persName>
-                  <occupation>Philosoph, Columbia University New York</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

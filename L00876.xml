@@ -122,8 +122,7 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -142,5 +141,6 @@
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
+               </listBibl></back></text>
 </TEI>

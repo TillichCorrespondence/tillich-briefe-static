@@ -91,9 +91,40 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1211">
+<back><listPerson><person xml:id="tillich_person_id__2354">
+                  <persName>???, Anna</persName>
+                  <note type="bio"><p>Unter Umständen handelt es sich um die neue Haushaltshilfe der Tillichs, nach dem Toni Winkler ausgezogen war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1211">
                   <persName>Löwenfeld, Claire</persName>
                   <occupation>Diätetikerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1498">
+                  <persName>Pincus, Lily</persName>
+                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
+                  <note type="bio"><p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
                <person xml:id="tillich_person_id__2406">
                   <persName>Hirzel, Stephan</persName>
@@ -113,40 +144,14 @@
                   <idno type="gnd">https://d-nb.info/gnd/1038829402</idno>
                   <note type="bio"><p>Er war Mitbegründer des Kunst-Dienstes der evangelischen Kirche. Er baute unter anderem das "Haus auf dem Küssel".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1498">
-                  <persName>Pincus, Lily</persName>
-                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
-                  <note type="bio"><p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1499">
-                  <persName>Pincus, Fritz</persName>
-                  <occupation>Mitbesitzer Haus auf dem Küssel</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1762">
                   <persName>Seeberger, Elisabeth</persName>
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2354">
-                  <persName>???, Anna</persName>
-                  <note type="bio"><p>Unter Umständen handelt es sich um die neue Haushaltshilfe der Tillichs, nach dem Toni Winkler ausgezogen war.</p></note>
+               <person xml:id="tillich_person_id__1499">
+                  <persName>Pincus, Fritz</persName>
+                  <occupation>Mitbesitzer Haus auf dem Küssel</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -167,11 +172,6 @@
                   <persName>Löwenfeld, Günther</persName>
                   <occupation>Jurist</occupation>
                   <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__63">Tillich, Paul, Das Wohnen, der Raum und die Zeit. Rede anläßlich der Einweihungsfeier des Hauses auf dem Küssel in Potsdam, in: Die Form, Jg. 8 (1933), S. 11f.</bibl>
                </listBibl><listPlace><place xml:id="tillich_place_id__356">

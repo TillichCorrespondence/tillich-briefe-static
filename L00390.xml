@@ -122,6 +122,10 @@
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -141,10 +145,6 @@
                   <persName>Odysseus, ???</persName>
                   <occupation>Figur aus der griechischen Mythologie;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118589385</idno>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                </listPerson></back></text>
 <text type="letter">

@@ -152,29 +152,13 @@
                <signed>In Treue u. Eile Dein <rs ref="#tillich_person_id__128" type="person">Hans</rs>.</signed></closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
+   <back><listPlace><place xml:id="tillich_place_id__136">
+                  <placeName>Erlangen</placeName>
                   <location type="coords">
-                     <geo>48.52266 9.05222</geo>
+                     <geo>49.59099 11.00783</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__186">
-                  <placeName>Göttingen</placeName>
-                  <location type="coords">
-                     <geo>51.53443 9.93228</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
                </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
@@ -184,15 +168,39 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               <place xml:id="tillich_place_id__136">
-                  <placeName>Erlangen</placeName>
+               <place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
                   <location type="coords">
-                     <geo>49.59099 11.00783</geo>
+                     <geo>51.53443 9.93228</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1924">
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2143">
+                  <persName>Schüssler, ???</persName>
+                  <note type="bio"><p>Er war Mitglied der Wingolfsverbindung in Berlin.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
@@ -203,6 +211,11 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
                </person>
                <person xml:id="tillich_person_id__1205">
                   <persName>Lotz, Ernst</persName>
@@ -226,19 +239,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2143">
-                  <persName>Schüssler, ???</persName>
-                  <note type="bio"><p>Er war Mitglied der Wingolfsverbindung in Berlin.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

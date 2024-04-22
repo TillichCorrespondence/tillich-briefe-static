@@ -151,16 +151,12 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1611">
+<back><listPerson><person xml:id="tillich_person_id__1611">
                   <persName>Rilke, Rainer Maria</persName>
+               </person>
+               <person xml:id="tillich_person_id__2828">
+                  <persName>Tillich, Karl</persName>
+                  <note type="bio"><p>Er war ein Vetter von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2020">
                   <persName>Wegener, Carl Richard</persName>
@@ -182,9 +178,13 @@
                <person xml:id="tillich_person_id__921">
                   <persName>Holbein der Jüngere, Hans</persName>
                </person>
-               <person xml:id="tillich_person_id__2828">
-                  <persName>Tillich, Karl</persName>
-                  <note type="bio"><p>Er war ein Vetter von Paul Tillich.</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

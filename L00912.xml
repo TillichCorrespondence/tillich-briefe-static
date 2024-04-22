@@ -90,23 +90,24 @@
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__51">Handbuch der Kunstwissenschaften, 31 Bde., gegründet von Fritz Burger, hg. von A. E. Brinkmann, Berlin-Neubabelsberg 1913ff.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__2520">
-                  <persName>Brinkmann, Albert Erich</persName>
+<back><listPerson><person xml:id="tillich_person_id__2437">
+                  <persName>Jessen, Malla</persName>
+                  <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2519">
+                  <persName>Brinkmann, (Frau Prof.)</persName>
+                  <note type="bio"><p>Sie war die Frau von Albert Erich Brinkmann.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2521">
+                  <persName>Fouquet, Jean</persName>
                   <birth>
-                     <date>1881-09-04</date>
-                     <settlement>
-                        <placeName>Norderney</placeName>
-                     </settlement>
+                     <date>1418</date>
                   </birth>
                   <death>
-                     <date>1958-08-10</date>
-                     <settlement>
-                        <placeName>Köln</placeName>
-                     </settlement>
+                     <date>1480</date>
                   </death>
-                  <occupation>Kunsthistoriker;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118674129</idno>
+                  <occupation>Maler;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118534564</idno>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -125,6 +126,28 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2520">
+                  <persName>Brinkmann, Albert Erich</persName>
+                  <birth>
+                     <date>1881-09-04</date>
+                     <settlement>
+                        <placeName>Norderney</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-08-10</date>
+                     <settlement>
+                        <placeName>Köln</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118674129</idno>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -140,35 +163,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1550">
-                  <persName>Raffael</persName>
-               </person>
-               <person xml:id="tillich_person_id__2519">
-                  <persName>Brinkmann, (Frau Prof.)</persName>
-                  <note type="bio"><p>Sie war die Frau von Albert Erich Brinkmann.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2521">
-                  <persName>Fouquet, Jean</persName>
-                  <birth>
-                     <date>1418</date>
-                  </birth>
-                  <death>
-                     <date>1480</date>
-                  </death>
-                  <occupation>Maler;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118534564</idno>
-               </person>
                <person xml:id="tillich_person_id__681">
                   <persName>Giotto di Bondone</persName>
                </person>
-               <person xml:id="tillich_person_id__2437">
-                  <persName>Jessen, Malla</persName>
-                  <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               <person xml:id="tillich_person_id__1550">
+                  <persName>Raffael</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__93">
                   <placeName>Chantilly</placeName>
@@ -177,5 +176,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3026827/</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__51">Handbuch der Kunstwissenschaften, 31 Bde., gegründet von Fritz Burger, hg. von A. E. Brinkmann, Berlin-Neubabelsberg 1913ff.</bibl>
+               </listBibl></back></text>
 </TEI>

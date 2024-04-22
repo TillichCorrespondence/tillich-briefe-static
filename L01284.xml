@@ -93,24 +93,21 @@
 
       </body>
    <back><listBibl><bibl xml:id="tillich_work_id__232">Glatzer, Nahum Norbert, Untersuchung zur Geschichtslehre der Tannaiten, 1932.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1705">
-                  <persName>Schelling, Friedrich Wilhelm Joseph</persName>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1648">
+                  <persName>Rosenzweig, Franz</persName>
+               </person>
+               <person xml:id="tillich_person_id__2872">
+                  <persName>Glatzer, Nahum Norbert</persName>
                   <birth>
-                     <date>1775-01-27</date>
+                     <date>1903</date>
                      <settlement>
-                        <placeName>Leonberg (Landkreis Böblingen)</placeName>
+                        <placeName>Lemberg</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1854-08-20</date>
-                     <settlement>
-                        <placeName>Bad Ragaz</placeName>
-                     </settlement>
+                     <date>1990</date>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
-               </person>
-               <person xml:id="tillich_person_id__1648">
-                  <persName>Rosenzweig, Franz</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119011085</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -127,18 +124,21 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2872">
-                  <persName>Glatzer, Nahum Norbert</persName>
+               <person xml:id="tillich_person_id__1705">
+                  <persName>Schelling, Friedrich Wilhelm Joseph</persName>
                   <birth>
-                     <date>1903</date>
+                     <date>1775-01-27</date>
                      <settlement>
-                        <placeName>Lemberg</placeName>
+                        <placeName>Leonberg (Landkreis Böblingen)</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1990</date>
+                     <date>1854-08-20</date>
+                     <settlement>
+                        <placeName>Bad Ragaz</placeName>
+                     </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119011085</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
                </person>
                </listPerson></back></text>
 </TEI>

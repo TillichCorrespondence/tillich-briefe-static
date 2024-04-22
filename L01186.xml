@@ -91,27 +91,10 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1672">
-                  <persName>Sachs, Emmy</persName>
-                  <occupation>Mathematikerin</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118905430</idno>
-               </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+<back><listPerson><person xml:id="tillich_person_id__1498">
+                  <persName>Pincus, Lily</persName>
+                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
+                  <note type="bio"><p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p></note>
                </person>
                <person xml:id="tillich_person_id__2603">
                   <persName>Brod, Max</persName>
@@ -129,9 +112,81 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118515624</idno>
                </person>
-               <person xml:id="tillich_person_id__2408">
-                  <persName>Grimme, Mascha</persName>
-                  <note type="bio"><p>Sie war die Frau von Adolf Grimme.</p></note>
+               <person xml:id="tillich_person_id__2602">
+                  <persName>Reimann, Hans</persName>
+                  <birth>
+                     <date>1889-11-18</date>
+                     <settlement>
+                        <placeName>Leipzig</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969-06-13</date>
+                     <settlement>
+                        <placeName>Schmalenbeck</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118744089</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1672">
+                  <persName>Sachs, Emmy</persName>
+                  <occupation>Mathematikerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118905430</idno>
+               </person>
+               <person xml:id="tillich_person_id__2601">
+                  <persName>Erdmann-Czapski, Veronika</persName>
+                  <birth>
+                     <date>1894-11-02</date>
+                  </birth>
+                  <death>
+                     <date>1984</date>
+                  </death>
+                  <occupation>Schriftstellerin; Dichterin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116531274</idno>
+               </person>
+               <person xml:id="tillich_person_id__1503">
+                  <persName>Piscator, Erwin</persName>
+                  <occupation>Regisseur, Theaterleiter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__728">
+                  <persName>Grosz, George</persName>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__718">
+                  <persName>Grimme, Adolf</persName>
+                  <occupation>Deutscher Kulturpolitiker SPD in der Spätphase der Weimarer Republik und der frühen Bundesrepublik, erster niedersächsischer Kultusminister und Generaldirektor des Nordwestdeutschen Rundfunks (NWDR)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2605">
+                  <persName>Shaw, George Bernard</persName>
+                  <birth>
+                     <date>1856-07-26</date>
+                     <settlement>
+                        <placeName>Dublin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1950-11-02</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118642375</idno>
                </person>
                <person xml:id="tillich_person_id__2407">
                   <persName>Pallenberg, Max</persName>
@@ -150,52 +205,6 @@
                   <occupation>Schauspieler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11859138X</idno>
                </person>
-               <person xml:id="tillich_person_id__718">
-                  <persName>Grimme, Adolf</persName>
-                  <occupation>Deutscher Kulturpolitiker SPD in der Spätphase der Weimarer Republik und der frühen Bundesrepublik, erster niedersächsischer Kultusminister und Generaldirektor des Nordwestdeutschen Rundfunks (NWDR)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2601">
-                  <persName>Erdmann-Czapski, Veronika</persName>
-                  <birth>
-                     <date>1894-11-02</date>
-                  </birth>
-                  <death>
-                     <date>1984</date>
-                  </death>
-                  <occupation>Schriftstellerin; Dichterin;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116531274</idno>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2602">
-                  <persName>Reimann, Hans</persName>
-                  <birth>
-                     <date>1889-11-18</date>
-                     <settlement>
-                        <placeName>Leipzig</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1969-06-13</date>
-                     <settlement>
-                        <placeName>Schmalenbeck</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118744089</idno>
-               </person>
                <person xml:id="tillich_person_id__2604">
                   <persName>Hašek, Jaroslav</persName>
                   <birth>
@@ -212,31 +221,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118546554</idno>
                </person>
-               <person xml:id="tillich_person_id__2605">
-                  <persName>Shaw, George Bernard</persName>
-                  <birth>
-                     <date>1856-07-26</date>
-                     <settlement>
-                        <placeName>Dublin</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1950-11-02</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118642375</idno>
-               </person>
-               <person xml:id="tillich_person_id__1503">
-                  <persName>Piscator, Erwin</persName>
-                  <occupation>Regisseur, Theaterleiter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__728">
-                  <persName>Grosz, George</persName>
-               </person>
-               <person xml:id="tillich_person_id__1498">
-                  <persName>Pincus, Lily</persName>
-                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
-                  <note type="bio"><p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
@@ -249,10 +233,26 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               <person xml:id="tillich_person_id__2408">
+                  <persName>Grimme, Mascha</persName>
+                  <note type="bio"><p>Sie war die Frau von Adolf Grimme.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__212">Hašek, Jaroslav, Die Abenteuer des braven Soldaten Schwejk, Reinbek bei Hamburg.</bibl>
                </listBibl></back></text>

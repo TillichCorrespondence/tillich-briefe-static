@@ -94,7 +94,30 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1923">
+<back><listPlace><place xml:id="tillich_place_id__360">
+                  <placeName>Quedlinburg</placeName>
+                  <location type="coords">
+                     <geo>51.79000 11.16200</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6551148/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q40623</idno>
+               </place>
+               <place xml:id="tillich_place_id__188">
+                  <placeName>Halberstadt</placeName>
+                  <location type="coords">
+                     <geo>51.89562 11.05622</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911665/</idno>
+               </place>
+               <place xml:id="tillich_place_id__180">
+                  <placeName>Goslar</placeName>
+                  <location type="coords">
+                     <geo>51.90425 10.42766</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -130,29 +153,6 @@
                   <persName>Borchers, Frau</persName>
                   <note type="bio"><p>Sie war eine Verwandte von Wilhelm Borcher.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__188">
-                  <placeName>Halberstadt</placeName>
-                  <location type="coords">
-                     <geo>51.89562 11.05622</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911665/</idno>
-               </place>
-               <place xml:id="tillich_place_id__360">
-                  <placeName>Quedlinburg</placeName>
-                  <location type="coords">
-                     <geo>51.79000 11.16200</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6551148/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q40623</idno>
-               </place>
-               <place xml:id="tillich_place_id__180">
-                  <placeName>Goslar</placeName>
-                  <location type="coords">
-                     <geo>51.90425 10.42766</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__62">Tillich, Paul, Der Begriff der historischen Zeit, in: EW XI/2, S. 265-266.</bibl>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__62">Tillich, Paul, Der Begriff der historischen Zeit, in: EW XI/2, S. 265-266.</bibl>
                </listBibl></back></text>
 </TEI>

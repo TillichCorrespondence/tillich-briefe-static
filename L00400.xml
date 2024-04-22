@@ -96,10 +96,6 @@
 <back><listPerson><person xml:id="tillich_person_id__742">
                   <persName>Hartz, Karl</persName>
                </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1762">
                   <persName>Seeberger, Elisabeth</persName>
                   <occupation>Schwester</occupation>
@@ -122,6 +118,10 @@
                </person>
                <person xml:id="tillich_person_id__2529">
                   <persName>???, Anna</persName>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__351">
                   <placeName>Polen</placeName>

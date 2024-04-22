@@ -88,15 +88,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2041">
+<back><listPerson><person xml:id="tillich_person_id__2041">
                   <persName>Werner, Marie Luise</persName>
                   <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
                   <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
@@ -105,5 +97,13 @@
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

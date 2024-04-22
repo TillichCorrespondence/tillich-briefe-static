@@ -121,10 +121,6 @@
                <person xml:id="tillich_person_id__2787">
                   <persName>Balke, Franz</persName>
                </person>
-               <person xml:id="tillich_person_id__845">
-                  <persName>Heim, Karl</persName>
-                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
-               </person>
                <person xml:id="tillich_person_id__128">
                   <persName>Balke, Hans</persName>
                   <occupation>Pfarrer;</occupation>
@@ -140,6 +136,10 @@
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/1068177888</idno>
                   <note type="bio"><p>Er war der Bruder von Hans Balke.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

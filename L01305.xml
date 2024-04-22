@@ -105,20 +105,20 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__43">
+<back><listPlace><place xml:id="tillich_place_id__275">
+                  <placeName>Magdeburg</placeName>
+                  <location type="coords">
+                     <geo>52.12773 11.62916</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
+               </place>
+               <place xml:id="tillich_place_id__43">
                   <placeName>Berlin-Neukölln</placeName>
                   <location type="coords">
                      <geo>52.47719 13.43126</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2864695/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q169492</idno>
-               </place>
-               <place xml:id="tillich_place_id__275">
-                  <placeName>Magdeburg</placeName>
-                  <location type="coords">
-                     <geo>52.12773 11.62916</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
                </place>
                <place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>

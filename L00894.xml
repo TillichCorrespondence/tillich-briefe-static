@@ -114,16 +114,21 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__310">
-                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+<back><listPerson><person xml:id="tillich_person_id__688">
+                  <persName>Goesch, Heinrich</persName>
                   <birth>
-                     <date>1883</date>
+                     <date>1880-07-02</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1945</date>
+                     <date>1931-02-16</date>
+                     <settlement>
+                        <placeName>Konstanz</placeName>
+                     </settlement>
                   </death>
-                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -142,6 +147,21 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
+               <person xml:id="tillich_person_id__757">
+                  <persName>Hahl, Margot</persName>
+                  <note type="bio"><p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p></note>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -157,41 +177,21 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__757">
-                  <persName>Hahl, Margot</persName>
-                  <note type="bio"><p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p></note>
-               </person>
-               <person xml:id="tillich_person_id__688">
-                  <persName>Goesch, Heinrich</persName>
-                  <birth>
-                     <date>1880-07-02</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1931-02-16</date>
-                     <settlement>
-                        <placeName>Konstanz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__230">
-                  <placeName>Kampen</placeName>
-                  <location type="coords">
-                     <geo>54.95411 8.34171</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
-               </place>
-               <place xml:id="tillich_place_id__253">
+               </listPerson><listPlace><place xml:id="tillich_place_id__253">
                   <placeName>Le Conquet</placeName>
                   <location type="coords">
                      <geo>48.36053 -4.77086</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3004513/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q326149</idno>
+               </place>
+               <place xml:id="tillich_place_id__230">
+                  <placeName>Kampen</placeName>
+                  <location type="coords">
+                     <geo>54.95411 8.34171</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
                </place>
                </listPlace></back></text>
 </TEI>

@@ -102,15 +102,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
+<back><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>
@@ -118,24 +110,15 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2304">
-                  <persName>Krohn, Hildegard</persName>
-                  <birth>
-                     <date>1906-02-04</date>
-                     <settlement>
-                        <placeName>Neubrandenburg</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1943-02-04</date>
-                     <settlement>
-                        <placeName>Auschwitz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/1272748154</idno>
-                  <note type="bio"><p>Sie war von 1921 bis 1930 mit Gottfried Salomon-Delatour verheiratet. Davor war sie die Muse von Georg Heym. Sie wurde in einem Konzentrationslager ermordet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__641">
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
                      <date>1886</date>
@@ -164,6 +147,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
+               <person xml:id="tillich_person_id__643">
+                  <persName>Fritz (geb. Horn), Gertrude</persName>
+                  <occupation>(auch Trudchen) Zweite Frau von Alfred Fritz, Ausbildung: Soziale Frauenschule</occupation>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -183,9 +170,22 @@
                   <persName>Salomon, Gottfried</persName>
                   <occupation>Ein deutsch-amerikanischer Soziologe und Nationalökonom</occupation>
                </person>
-               <person xml:id="tillich_person_id__643">
-                  <persName>Fritz (geb. Horn), Gertrude</persName>
-                  <occupation>(auch Trudchen) Zweite Frau von Alfred Fritz, Ausbildung: Soziale Frauenschule</occupation>
+               <person xml:id="tillich_person_id__2304">
+                  <persName>Krohn, Hildegard</persName>
+                  <birth>
+                     <date>1906-02-04</date>
+                     <settlement>
+                        <placeName>Neubrandenburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1943-02-04</date>
+                     <settlement>
+                        <placeName>Auschwitz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1272748154</idno>
+                  <note type="bio"><p>Sie war von 1921 bis 1930 mit Gottfried Salomon-Delatour verheiratet. Davor war sie die Muse von Georg Heym. Sie wurde in einem Konzentrationslager ermordet.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

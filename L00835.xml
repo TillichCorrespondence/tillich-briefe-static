@@ -118,11 +118,6 @@
                   <persName>Seeberg, Reinhold</persName>
                   <occupation>Systematischer Theologe</occupation>
                </person>
-               <person xml:id="tillich_person_id__1602">
-                  <persName>Richter, Werner</persName>
-                  <occupation>Germanist und Ministeriumsmitarbeiter</occupation>
-                  <note type="bio"><p>Studium der Germanistik in Berlin, Basel und Marburg. 1910 Promotion, 1913 Habilitation. Die ersten Kriegsjahre verbrachte R. als Soldat, 1916-1918 war er Gastprofessor in Istanbul, 1919/1920 Professor in Greifswald. 1920-1932 Mitarbeit im Preußischen Kultusministerium als Vertrauter Carl Heinrich Beckers. R. selbst gehörte der DVP an. 1932/1933 wurde er ordentlicher Professor an der Universität Berlin, wo er bereits seit 1921 eine Honorarprofessur innehatte. 1933 wurde er zwangspensioniert, 1939 emigrierte er in die USA, wo er bis zu seiner Rückkehr nach Deutschland im Jahr 1949 am Elmhurst College beschäftigt war. Ab 1949 lehrte er in Bonn, 1955 wurde er emeritiert.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -138,21 +133,26 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__279">
+               <person xml:id="tillich_person_id__1602">
+                  <persName>Richter, Werner</persName>
+                  <occupation>Germanist und Ministeriumsmitarbeiter</occupation>
+                  <note type="bio"><p>Studium der Germanistik in Berlin, Basel und Marburg. 1910 Promotion, 1913 Habilitation. Die ersten Kriegsjahre verbrachte R. als Soldat, 1916-1918 war er Gastprofessor in Istanbul, 1919/1920 Professor in Greifswald. 1920-1932 Mitarbeit im Preußischen Kultusministerium als Vertrauter Carl Heinrich Beckers. R. selbst gehörte der DVP an. 1932/1933 wurde er ordentlicher Professor an der Universität Berlin, wo er bereits seit 1921 eine Honorarprofessur innehatte. 1933 wurde er zwangspensioniert, 1939 emigrierte er in die USA, wo er bis zu seiner Rückkehr nach Deutschland im Jahr 1949 am Elmhurst College beschäftigt war. Ab 1949 lehrte er in Bonn, 1955 wurde er emeritiert.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
                   <location type="coords">
                      <geo>50.80904 8.77069</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2873759/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                </listPlace></back></text>
 </TEI>

@@ -95,17 +95,17 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__566">
+<back><listPerson><person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__566">
                   <placeName>Friedersdorf</placeName>
                   <location type="coords">
                      <geo>52.29476 13.78894</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2924713/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

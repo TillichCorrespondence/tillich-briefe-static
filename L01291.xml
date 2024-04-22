@@ -106,23 +106,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__567">
-                  <placeName>Greiz</placeName>
-                  <location type="coords">
-                     <geo>50.65778 12.19918</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2917737/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041969</idno>
-               </place>
-               <place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__641">
+<back><listPerson><person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
                      <date>1886</date>
@@ -141,5 +125,21 @@
                <person xml:id="tillich_person_id__2776">
                   <persName>Storch, Lotte</persName>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__567">
+                  <placeName>Greiz</placeName>
+                  <location type="coords">
+                     <geo>50.65778 12.19918</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2917737/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041969</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

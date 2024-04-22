@@ -92,23 +92,15 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__567">
+<back><listPerson><person xml:id="tillich_person_id__567">
                   <persName>Fabricius, Cajus</persName>
                   <occupation>Theologe , Universitätslehrer</occupation>
                </person>
-               <person xml:id="tillich_person_id__2835">
-                  <persName>Grassmann, ???</persName>
-               </person>
                <person xml:id="tillich_person_id__808">
                   <persName>Harnack, Adolf von</persName>
+               </person>
+               <person xml:id="tillich_person_id__2835">
+                  <persName>Grassmann, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1600">
                   <persName>Richter, Julius</persName>
@@ -127,5 +119,13 @@
                <person xml:id="tillich_person_id__2836">
                   <persName>Beissmann, ???</persName>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

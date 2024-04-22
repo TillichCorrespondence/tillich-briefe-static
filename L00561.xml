@@ -459,97 +459,23 @@
                         –</salute> Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>! </closer>
             </div>
         </body>
-    <back><listPerson><person xml:id="tillich_person_id__839">
-                  <persName>Hegel, Georg Wilhelm Friedrich</persName>
+    <back><listPerson><person xml:id="tillich_person_id__2135">
+                  <persName>Rickert, Heinrich</persName>
                   <birth>
-                     <date>1770-08-27</date>
+                     <date>1853-05-25</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName>Danzig</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1831-11-14</date>
+                     <date>1936-07-25</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName>Heidelberg</placeName>
                      </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
-               </person>
-               <person xml:id="tillich_person_id__1020">
-                  <persName>Kant, Immanuel</persName>
-               </person>
-               <person xml:id="tillich_person_id__589">
-                  <persName>Fichte, Johann Gottlieb</persName>
-                  <birth>
-                     <date>1762-05-19</date>
-                     <settlement>
-                        <placeName>Rammenau</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1814-01-29</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
-               </person>
-               <person xml:id="tillich_person_id__904">
-                  <persName>Hirsch, Emanuel</persName>
-                  <birth>
-                     <date>1888-06-14</date>
-                     <settlement>
-                        <placeName>Bentwisch</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1972-07-17</date>
-                     <settlement>
-                        <placeName>Göttingen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Systematischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
-               </person>
-               <person xml:id="tillich_person_id__1705">
-                  <persName>Schelling, Friedrich Wilhelm Joseph</persName>
-                  <birth>
-                     <date>1775-01-27</date>
-                     <settlement>
-                        <placeName>Leonberg (Landkreis Böblingen)</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1854-08-20</date>
-                     <settlement>
-                        <placeName>Bad Ragaz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
-               </person>
-               <person xml:id="tillich_person_id__1394">
-                  <persName>Nietzsche, Friedrich</persName>
-               </person>
-               <person xml:id="tillich_person_id__1614">
-                  <persName>Ritschl, Albrecht</persName>
-               </person>
-               <person xml:id="tillich_person_id__586">
-                  <persName>Feuerbach, Ludwig</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+                  <occupation>Philosoph;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
+                  <note type="bio"><p>Er spezialisierte sich auf den Neukantianismus.</p></note>
                </person>
                <person xml:id="tillich_person_id__1954">
                   <persName>Troeltsch, Ernst</persName>
@@ -584,37 +510,20 @@
                   <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
                </person>
-               <person xml:id="tillich_person_id__2135">
-                  <persName>Rickert, Heinrich</persName>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
-                     <date>1853-05-25</date>
-                     <settlement>
-                        <placeName>Danzig</placeName>
-                     </settlement>
+                     <date>1886-08-20</date>
                   </birth>
                   <death>
-                     <date>1936-07-25</date>
+                     <date>1965-10-22</date>
                      <settlement>
-                        <placeName>Heidelberg</placeName>
+                        <placeName>Chicago, Ill.</placeName>
                      </settlement>
                   </death>
-                  <occupation>Philosoph;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
-                  <note type="bio"><p>Er spezialisierte sich auf den Neukantianismus.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2839">
-                  <persName>Forberg, Friedrich Karl</persName>
-                  <birth>
-                     <date>1770</date>
-                  </birth>
-                  <death>
-                     <date>1848</date>
-                  </death>
-                  <occupation>Philosoph;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119059479</idno>
-               </person>
-               <person xml:id="tillich_person_id__1611">
-                  <persName>Rilke, Rainer Maria</persName>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__1887">
                   <persName>Sydow, Eckart von</persName>
@@ -628,13 +537,104 @@
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                   <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__122">Kant, Immanuel, Kritik der reinen Vernunft, hg. von Jens Timmermann, Hamburg 1998.</bibl>
-               <bibl xml:id="tillich_work_id__195">Tillich, Paul, Die religionsgeschichtliche Konstruktion in Schellings positiver Philosophie, ihre Voraussetzungen und Prinzipien, Breslau 1910</bibl>
+               <person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__2839">
+                  <persName>Forberg, Friedrich Karl</persName>
+                  <birth>
+                     <date>1770</date>
+                  </birth>
+                  <death>
+                     <date>1848</date>
+                  </death>
+                  <occupation>Philosoph;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119059479</idno>
+               </person>
+               <person xml:id="tillich_person_id__1614">
+                  <persName>Ritschl, Albrecht</persName>
+               </person>
+               <person xml:id="tillich_person_id__586">
+                  <persName>Feuerbach, Ludwig</persName>
+               </person>
+               <person xml:id="tillich_person_id__839">
+                  <persName>Hegel, Georg Wilhelm Friedrich</persName>
+                  <birth>
+                     <date>1770-08-27</date>
+                     <settlement>
+                        <placeName>Stuttgart</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1831-11-14</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
+               </person>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
+                  <birth>
+                     <date>1888-06-14</date>
+                     <settlement>
+                        <placeName>Bentwisch</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-07-17</date>
+                     <settlement>
+                        <placeName>Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+               </person>
+               <person xml:id="tillich_person_id__1020">
+                  <persName>Kant, Immanuel</persName>
+               </person>
+               <person xml:id="tillich_person_id__1611">
+                  <persName>Rilke, Rainer Maria</persName>
+               </person>
+               <person xml:id="tillich_person_id__1705">
+                  <persName>Schelling, Friedrich Wilhelm Joseph</persName>
+                  <birth>
+                     <date>1775-01-27</date>
+                     <settlement>
+                        <placeName>Leonberg (Landkreis Böblingen)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1854-08-20</date>
+                     <settlement>
+                        <placeName>Bad Ragaz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
+               </person>
+               <person xml:id="tillich_person_id__589">
+                  <persName>Fichte, Johann Gottlieb</persName>
+                  <birth>
+                     <date>1762-05-19</date>
+                     <settlement>
+                        <placeName>Rammenau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1814-01-29</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__195">Tillich, Paul, Die religionsgeschichtliche Konstruktion in Schellings positiver Philosophie, ihre Voraussetzungen und Prinzipien, Breslau 1910</bibl>
+               <bibl xml:id="tillich_work_id__197">Tillich, Paul, Systematische Theologie von 1913, in: Ders., Frühe Werke (EW IX), hg. von Gerd Hummel / Doris Lax, Berlin/New York 1998, 273-434.</bibl>
                <bibl xml:id="tillich_work_id__201">Schelling, Friedrich Wilhelm Joseph, Philosophische Untersuchungen über das Wesen der menschlichen Freiheit, München 1809.</bibl>
-               <bibl xml:id="tillich_work_id__23">Tillich, Paul, Der Begriff des übernatürlichen, sein dialektischer Charakter und das Prinzip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher, Königsberg 1915</bibl>
+               <bibl xml:id="tillich_work_id__122">Kant, Immanuel, Kritik der reinen Vernunft, hg. von Jens Timmermann, Hamburg 1998.</bibl>
                <bibl xml:id="tillich_work_id__24">Tillich, Paul, Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung, Gütersloh 1912.</bibl>
                <bibl xml:id="tillich_work_id__196">Schelling, Friedrich Wilhelm Joseph, Sämtliche Werke, Erste Abteilung, Band X, Stuttgart/Augsburg 1861.</bibl>
-               <bibl xml:id="tillich_work_id__197">Tillich, Paul, Systematische Theologie von 1913, in: Ders., Frühe Werke (EW IX), hg. von Gerd Hummel / Doris Lax, Berlin/New York 1998, 273-434.</bibl>
+               <bibl xml:id="tillich_work_id__23">Tillich, Paul, Der Begriff des übernatürlichen, sein dialektischer Charakter und das Prinzip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher, Königsberg 1915</bibl>
                </listBibl><listPlace><place xml:id="tillich_place_id__441">
                   <placeName>Trarbach</placeName>
                   <location type="coords">

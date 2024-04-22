@@ -119,32 +119,24 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__130">
-                  <placeName>Düsseldorf</placeName>
-                  <location type="coords">
-                     <geo>51.22172 6.77616</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2934246/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1718</idno>
-               </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__343">
-                  <placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1830">
-                  <persName>Spiegelberg, Rosalie</persName>
-                  <note type="bio"><p>Frau von Friedrich(Frederic) Spiegelberg</p></note>
+<back><listPerson><person xml:id="tillich_person_id__1829">
+                  <persName>Spiegelberg, Friedrich</persName>
+                  <birth>
+                     <date>1897-05-24</date>
+                     <settlement>
+                        <placeName>Hamburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1994</date>
+                  </death>
+                  <occupation>Religionswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
+                  <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2437">
+                  <persName>Jessen, Malla</persName>
+                  <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
                </person>
                <person xml:id="tillich_person_id__2560">
                   <persName>???, Ulli</persName>
@@ -168,6 +160,15 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1830">
+                  <persName>Spiegelberg, Rosalie</persName>
+                  <note type="bio"><p>Frau von Friedrich(Frederic) Spiegelberg</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1794">
+                  <persName>Simons, Hans</persName>
+                  <occupation>Jurist, Politikwissenschaftler und Ministerialbeamter</occupation>
+                  <note type="bio"><p>Studium der Rechts- und Staatswissenschaften in Berlin, München, Tübingen und Bonn. Im Krieg wurde er als Soldat 1917 schwer verwundet und arbeitete im Anschluss als Verwaltungsbeamter. Nach Kriegsende Mitbegründung der Deutschen Liga für Völkerbund. 1920 nahm er sein Studium in Königsberg wieder auf und wurde im Folgejahr promoviert. Er arbeitete zunächst als Geschäftsführer der Deutschen Hochschule für Politik, bevor er 1922 ins Reichsministerium des Inneren und 1923 ins preußische Innenministerium wechselte. 1925-1929 war er als Professor und Direktor wieder an der Deutschen Hochschule für Politik beschäftigt, ab 1927 zudem als Ministerialbeamter wieder im preußischen Innenministerium. Mitglied der SPD und Mitarbeiter der von Tillich herausgegebenen Neuen Blätter für den Sozialismus. Nach dem Preußenschlag 1932 wurde er zunächst suspendiert, 1933 endgültig entlassen. Er ging zunächst in die Schweiz und nahm 1934 einen Ruf der New School for Social Research in New York an, als deren Dekan (Politik- und Sozialwissenschaftliche Fakultät) er 1943-1950 und als deren Präsident er 1950-1960 fungierte.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -183,29 +184,28 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1794">
-                  <persName>Simons, Hans</persName>
-                  <occupation>Jurist, Politikwissenschaftler und Ministerialbeamter</occupation>
-                  <note type="bio"><p>Studium der Rechts- und Staatswissenschaften in Berlin, München, Tübingen und Bonn. Im Krieg wurde er als Soldat 1917 schwer verwundet und arbeitete im Anschluss als Verwaltungsbeamter. Nach Kriegsende Mitbegründung der Deutschen Liga für Völkerbund. 1920 nahm er sein Studium in Königsberg wieder auf und wurde im Folgejahr promoviert. Er arbeitete zunächst als Geschäftsführer der Deutschen Hochschule für Politik, bevor er 1922 ins Reichsministerium des Inneren und 1923 ins preußische Innenministerium wechselte. 1925-1929 war er als Professor und Direktor wieder an der Deutschen Hochschule für Politik beschäftigt, ab 1927 zudem als Ministerialbeamter wieder im preußischen Innenministerium. Mitglied der SPD und Mitarbeiter der von Tillich herausgegebenen Neuen Blätter für den Sozialismus. Nach dem Preußenschlag 1932 wurde er zunächst suspendiert, 1933 endgültig entlassen. Er ging zunächst in die Schweiz und nahm 1934 einen Ruf der New School for Social Research in New York an, als deren Dekan (Politik- und Sozialwissenschaftliche Fakultät) er 1943-1950 und als deren Präsident er 1950-1960 fungierte.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1829">
-                  <persName>Spiegelberg, Friedrich</persName>
-                  <birth>
-                     <date>1897-05-24</date>
-                     <settlement>
-                        <placeName>Hamburg</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1994</date>
-                  </death>
-                  <occupation>Religionswissenschaftler</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
-                  <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2437">
-                  <persName>Jessen, Malla</persName>
-                  <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__130">
+                  <placeName>Düsseldorf</placeName>
+                  <location type="coords">
+                     <geo>51.22172 6.77616</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2934246/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1718</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>
