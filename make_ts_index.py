@@ -64,7 +64,7 @@ for x in tqdm(files, total=len(files)):
     cfts_record["resolver"] = (
         f"https://tillich-briefe.acdh.oeaw.ac.at/{record['id']}.html"
     )
-    record["rec_id"] = os.path.split(x)[-1]
+    record["rec_id"] = os.path.split(x)[-1].replace(".xml", "")
     cfts_record["rec_id"] = record["rec_id"]
     record["title"] = extract_fulltext(
         doc.any_xpath(".//tei:titleStmt/tei:title[1]")[0]

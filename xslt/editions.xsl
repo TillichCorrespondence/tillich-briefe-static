@@ -63,9 +63,7 @@
                                                 <li class="nav-item"> &#160;
                                                     <a>
                                                         <xsl:attribute name="href">
-                                                            <xsl:text>./</xsl:text>
                                                             <xsl:value-of select="$doc_id"/>
-                                                            <xsl:text>.xml</xsl:text>
                                                         </xsl:attribute>
                                                         <xsl:attribute name="download" />
                                                         <i class="fas fa-solid fa-download"/>
