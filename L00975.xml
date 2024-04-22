@@ -133,7 +133,24 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPlace><place xml:id="tillich_place_id__542">
+                  <placeName>Aarau</placeName>
+                  <location type="coords">
+                     <geo>47.39254 8.04422</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661881/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q14274</idno>
+               </place>
+               <place xml:id="tillich_place_id__185">
+                  <placeName>Gurzelen</placeName>
+                  <location type="coords">
+                     <geo>46.77644 7.54264</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2659383/</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__119">Tillich, Paul, Die protestantische Verkündigung und der Mensch der Gegenwart, in: ders., Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I (=GW VII), 70-83.</bibl>
+               <bibl xml:id="tillich_work_id__118">Jehle, Frank, Die Aarauer Konferenz (1897-1939). Spiegel der evangelischen Theologiegeschichte, Zürich 2020.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -152,22 +169,5 @@
                   <persName>Bäschlin, Franz</persName>
                   <occupation>Aktuar des Zentralkommitees der Aarauer Studentenkonferenz</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__185">
-                  <placeName>Gurzelen</placeName>
-                  <location type="coords">
-                     <geo>46.77644 7.54264</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2659383/</idno>
-               </place>
-               <place xml:id="tillich_place_id__542">
-                  <placeName>Aarau</placeName>
-                  <location type="coords">
-                     <geo>47.39254 8.04422</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2661881/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q14274</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__119">Tillich, Paul, Die protestantische Verkündigung und der Mensch der Gegenwart, in: ders., Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I (=GW VII), 70-83.</bibl>
-               <bibl xml:id="tillich_work_id__118">Jehle, Frank, Die Aarauer Konferenz (1897-1939). Spiegel der evangelischen Theologiegeschichte, Zürich 2020.</bibl>
-               </listBibl></back></text>
+               </listPerson></back></text>
 </TEI>

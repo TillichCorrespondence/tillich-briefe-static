@@ -117,18 +117,9 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__45">
-                  <placeName>Berlin-Pankow</placeName>
-                  <location type="coords">
-                     <geo>52.56926 13.40186</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2855598/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q4707648</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+<back><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__1926">
                   <persName>Tillich, Oskar</persName>
@@ -141,9 +132,18 @@
                   <occupation>Großvater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
                </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__45">
+                  <placeName>Berlin-Pankow</placeName>
+                  <location type="coords">
+                     <geo>52.56926 13.40186</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2855598/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4707648</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

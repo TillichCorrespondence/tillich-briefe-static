@@ -130,7 +130,14 @@
                   <persName>Borchers, Frau</persName>
                   <note type="bio"><p>Sie war eine Verwandte von Wilhelm Borcher.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__360">
+               </listPerson><listPlace><place xml:id="tillich_place_id__188">
+                  <placeName>Halberstadt</placeName>
+                  <location type="coords">
+                     <geo>51.89562 11.05622</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911665/</idno>
+               </place>
+               <place xml:id="tillich_place_id__360">
                   <placeName>Quedlinburg</placeName>
                   <location type="coords">
                      <geo>51.79000 11.16200</geo>
@@ -145,13 +152,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2918840/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
-               </place>
-               <place xml:id="tillich_place_id__188">
-                  <placeName>Halberstadt</placeName>
-                  <location type="coords">
-                     <geo>51.89562 11.05622</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911665/</idno>
                </place>
                </listPlace><listBibl><bibl xml:id="tillich_work_id__62">Tillich, Paul, Der Begriff der historischen Zeit, in: EW XI/2, S. 265-266.</bibl>
                </listBibl></back></text>

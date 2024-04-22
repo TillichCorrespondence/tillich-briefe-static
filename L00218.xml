@@ -128,8 +128,53 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2908">
+   <back><listPlace><place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               <place xml:id="tillich_place_id__318">
+                  <placeName>Neviges</placeName>
+                  <location type="coords">
+                     <geo>51.30929 7.09051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2863758/</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2908">
                   <persName>Meinhof, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2149">
+                  <persName>Fink, ???</persName>
+                  <note type="bio"><p>Er war ein Philister im Bonner Wingolf.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2191">
+                  <persName>???, Jonas</persName>
+                  <note type="bio"><p>Er scheint ein Studienkollege von Paul Tillich gewesen zu sein.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -150,64 +195,19 @@
                   <persName>Bertheau, Lorenz</persName>
                   <occupation>Pfarrer</occupation>
                </person>
-               <person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__1295">
-                  <persName>Meinhof, Heinrich</persName>
-                  <occupation>Leibfux von Paul Tillich</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2191">
-                  <persName>???, Jonas</persName>
-                  <note type="bio"><p>Er scheint ein Studienkollege von Paul Tillich gewesen zu sein.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__310">
-                  <persName>Büchsel, Friedrich Hermann Martin</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1945</date>
-                  </death>
-                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
-               </person>
-               <person xml:id="tillich_person_id__2149">
-                  <persName>Fink, ???</persName>
-                  <note type="bio"><p>Er war ein Philister im Bonner Wingolf.</p></note>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
                </person>
                <person xml:id="tillich_person_id__2185">
                   <persName>Meyersieck, Joh.</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
                   <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__318">
-                  <placeName>Neviges</placeName>
-                  <location type="coords">
-                     <geo>51.30929 7.09051</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2863758/</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__293">
-                  <placeName>Misdroy</placeName>
-                  <location type="coords">
-                     <geo>53.92921 14.45097</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

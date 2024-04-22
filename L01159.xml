@@ -157,7 +157,38 @@
         
      </div>
     </body>
-  <back><listPerson><person xml:id="tillich_person_id__1928">
+  <back><listPlace><place xml:id="tillich_place_id__182">
+                  <placeName>Gross-Frankfurt</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__275">
+                  <placeName>Magdeburg</placeName>
+                  <location type="coords">
+                     <geo>52.12773 11.62916</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
+               </place>
+               <place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -182,36 +213,5 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/130145645</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__182">
-                  <placeName>Gross-Frankfurt</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__275">
-                  <placeName>Magdeburg</placeName>
-                  <location type="coords">
-                     <geo>52.12773 11.62916</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__260">
-                  <placeName>Leipzig</placeName>
-                  <location type="coords">
-                     <geo>51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

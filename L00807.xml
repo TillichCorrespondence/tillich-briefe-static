@@ -160,7 +160,11 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listBibl><bibl xml:id="tillich_work_id__113">Spengler, Oswald, Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte, 2. Bd (Welthistorische Perspektiven), München 1924 (1. Aufl. 1922).</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1826">
+                  <persName>Spengler, Oswald</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -179,13 +183,9 @@
                   <persName>Hahl, Margot</persName>
                   <note type="bio"><p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p></note>
                </person>
-               <person xml:id="tillich_person_id__1826">
-                  <persName>Spengler, Oswald</persName>
-               </person>
                <person xml:id="tillich_person_id__574">
                   <persName>Faust, Erich</persName>
                   <occupation>Leitungsposition bei den Röchlinger Eisen- und Stahlwerke</occupation>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__113">Spengler, Oswald, Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte, 2. Bd (Welthistorische Perspektiven), München 1924 (1. Aufl. 1922).</bibl>
-               </listBibl></back></text>
+               </listPerson></back></text>
 </TEI>

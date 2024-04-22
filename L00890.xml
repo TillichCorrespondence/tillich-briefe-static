@@ -129,7 +129,21 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1923">
+<back><listPerson><person xml:id="tillich_person_id__2567">
+                  <persName>???, Hilde</persName>
+               </person>
+               <person xml:id="tillich_person_id__2008">
+                  <persName>von Sydow, Eckart</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+               </person>
+               <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -166,24 +180,10 @@
                   <occupation>Philosoph; Pädagoge;</occupation>
                   <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2008">
-                  <persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person>
                <person xml:id="tillich_person_id__570">
                   <persName>Farris, Erdmuthe</persName>
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
-               </person>
-               <person xml:id="tillich_person_id__2567">
-                  <persName>???, Hilde</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__77">
                   <placeName>Brest</placeName>

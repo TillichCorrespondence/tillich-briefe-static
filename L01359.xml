@@ -103,7 +103,16 @@
                   <idno type="geonames">https://sws.geonames.org/3083829/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1924">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
@@ -118,15 +127,6 @@
                <person xml:id="tillich_person_id__1929">
                   <persName>Tillich, Wilhelmina Mathilde</persName>
                   <occupation>Mutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

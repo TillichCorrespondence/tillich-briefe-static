@@ -113,15 +113,7 @@
                 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__63">
-                  <placeName>Bingerbrück</placeName>
-                  <location type="coords">
-                     <geo>49.96612 7.88476</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2948821/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q863777</idno>
-               </place>
-               <place xml:id="tillich_place_id__61">
+<back><listPlace><place xml:id="tillich_place_id__61">
                   <placeName>Bieuxy</placeName>
                   <location type="coords">
                      <geo>49.44667 3.26139</geo>
@@ -136,13 +128,13 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2843395/</idno>
                </place>
-               <place xml:id="tillich_place_id__164">
-                  <placeName>Freiburg</placeName>
+               <place xml:id="tillich_place_id__179">
+                  <placeName>Gorlice</placeName>
                   <location type="coords">
-                     <geo>47.99590 7.85222</geo>
+                     <geo>49.65563 21.16035</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2925177/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
+                  <idno type="geonames">https://sws.geonames.org/771804/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q947521</idno>
                </place>
                <place xml:id="tillich_place_id__431">
                   <placeName>Tarnow</placeName>
@@ -152,6 +144,14 @@
                   <idno type="geonames">https://sws.geonames.org/757026/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q106281</idno>
                </place>
+               <place xml:id="tillich_place_id__164">
+                  <placeName>Freiburg</placeName>
+                  <location type="coords">
+                     <geo>47.99590 7.85222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925177/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
+               </place>
                <place xml:id="tillich_place_id__172">
                   <placeName>Galizien</placeName>
                   <location type="coords">
@@ -160,15 +160,27 @@
                   <idno type="geonames">https://sws.geonames.org/562153/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q180086</idno>
                </place>
-               <place xml:id="tillich_place_id__179">
-                  <placeName>Gorlice</placeName>
+               <place xml:id="tillich_place_id__63">
+                  <placeName>Bingerbrück</placeName>
                   <location type="coords">
-                     <geo>49.65563 21.16035</geo>
+                     <geo>49.96612 7.88476</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/771804/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q947521</idno>
+                  <idno type="geonames">https://sws.geonames.org/2948821/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q863777</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -186,18 +198,6 @@
                <person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1924">
-                  <persName>Tillich, Johannes Oskar</persName>
-                  <birth>
-                     <date>1857</date>
-                  </birth>
-                  <death>
-                     <date>1937</date>
-                  </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

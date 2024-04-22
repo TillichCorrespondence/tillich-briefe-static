@@ -92,7 +92,27 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listBibl><bibl xml:id="tillich_work_id__232">Glatzer, Nahum Norbert, Untersuchung zur Geschichtslehre der Tannaiten, 1932.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1705">
+                  <persName>Schelling, Friedrich Wilhelm Joseph</persName>
+                  <birth>
+                     <date>1775-01-27</date>
+                     <settlement>
+                        <placeName>Leonberg (Landkreis Böblingen)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1854-08-20</date>
+                     <settlement>
+                        <placeName>Bad Ragaz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
+               </person>
+               <person xml:id="tillich_person_id__1648">
+                  <persName>Rosenzweig, Franz</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -120,25 +140,5 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119011085</idno>
                </person>
-               <person xml:id="tillich_person_id__1705">
-                  <persName>Schelling, Friedrich Wilhelm Joseph</persName>
-                  <birth>
-                     <date>1775-01-27</date>
-                     <settlement>
-                        <placeName>Leonberg (Landkreis Böblingen)</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1854-08-20</date>
-                     <settlement>
-                        <placeName>Bad Ragaz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
-               </person>
-               <person xml:id="tillich_person_id__1648">
-                  <persName>Rosenzweig, Franz</persName>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__232">Glatzer, Nahum Norbert, Untersuchung zur Geschichtslehre der Tannaiten, 1932.</bibl>
-               </listBibl></back></text>
+               </listPerson></back></text>
 </TEI>

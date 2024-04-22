@@ -137,7 +137,15 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listBibl><bibl xml:id="tillich_work_id__225">Tillich, Paul: Die Überwindung des Persönlichkeitsideals, in: Hamburger Lehrerzeitung, hg. und verlegt v. der Gesellschaft der Freunde des vaterländischen Schul- und Erziehungswesens in Hamburg 6. Jg., 12.3.1927, Nr. 10, 193– 198</bibl>
+               <bibl xml:id="tillich_work_id__223">Tillich, Paul: Die Überwindung des Persönlichkeitsideals, in: Sächsische Schulzeitung. Eigentum des Dresdner Lehrervereins 94. Jg., 9.3.1927, Nr. 9, 149–151, 169–172</bibl>
+               <bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
+               <bibl xml:id="tillich_work_id__84">Tillich, Paul, Die Überwindung des Persönlichkeitsideals. Ein Vortrag, in Logos, Band XVI, 1927, S. 68-85</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1099">
+                  <persName>Kroner, Richard</persName>
+                  <occupation>deutscher Philosoph und Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -156,29 +164,13 @@
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
-               <person xml:id="tillich_person_id__1099">
-                  <persName>Kroner, Richard</persName>
-                  <occupation>deutscher Philosoph und Theologe</occupation>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__84">Tillich, Paul, Die Überwindung des Persönlichkeitsideals. Ein Vortrag, in Logos, Band XVI, 1927, S. 68-85</bibl>
-               <bibl xml:id="tillich_work_id__223">Tillich, Paul: Die Überwindung des Persönlichkeitsideals, in: Sächsische Schulzeitung. Eigentum des Dresdner Lehrervereins 94. Jg., 9.3.1927, Nr. 9, 149–151, 169–172</bibl>
-               <bibl xml:id="tillich_work_id__225">Tillich, Paul: Die Überwindung des Persönlichkeitsideals, in: Hamburger Lehrerzeitung, hg. und verlegt v. der Gesellschaft der Freunde des vaterländischen Schul- und Erziehungswesens in Hamburg 6. Jg., 12.3.1927, Nr. 10, 193– 198</bibl>
-               <bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__126">
+               </listPerson><listPlace><place xml:id="tillich_place_id__126">
                   <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__383">
-                  <placeName>Sachsen</placeName>
-                  <location type="coords">
-                     <geo>51.00000 13.25000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2842566/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1202</idno>
                </place>
                <place xml:id="tillich_place_id__198">
                   <placeName>Hamburg</placeName>
@@ -187,6 +179,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2911298/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
+               </place>
+               <place xml:id="tillich_place_id__383">
+                  <placeName>Sachsen</placeName>
+                  <location type="coords">
+                     <geo>51.00000 13.25000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2842566/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1202</idno>
                </place>
                </listPlace></back></text>
 </TEI>

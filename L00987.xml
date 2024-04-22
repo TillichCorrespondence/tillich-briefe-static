@@ -91,7 +91,11 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1923">
+<back><listPerson><person xml:id="tillich_person_id__1761">
+                  <persName>Seeberg, Reinhold</persName>
+                  <occupation>Systematischer Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -133,11 +137,14 @@
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
-               <person xml:id="tillich_person_id__1761">
-                  <persName>Seeberg, Reinhold</persName>
-                  <occupation>Systematischer Theologe</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__327">
+               </listPerson><listPlace><place xml:id="tillich_place_id__23">
+                  <placeName>Bad Reichenhall</placeName>
+                  <location type="coords">
+                     <geo>47.72947 12.87819</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953371/</idno>
+               </place>
+               <place xml:id="tillich_place_id__327">
                   <placeName>Nürnberg</placeName>
                   <location type="coords">
                      <geo>49.45421 11.07752</geo>
@@ -153,14 +160,6 @@
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
-               <place xml:id="tillich_place_id__533">
-                  <placeName>Königssee</placeName>
-                  <location type="coords">
-                     <geo>47.55567 12.97802</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2885777/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q156715</idno>
-               </place>
                <place xml:id="tillich_place_id__534">
                   <placeName>Berchtesgaden</placeName>
                   <location type="coords">
@@ -169,12 +168,13 @@
                   <idno type="geonames">https://sws.geonames.org/2950881/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31910292</idno>
                </place>
-               <place xml:id="tillich_place_id__23">
-                  <placeName>Bad Reichenhall</placeName>
+               <place xml:id="tillich_place_id__533">
+                  <placeName>Königssee</placeName>
                   <location type="coords">
-                     <geo>47.72947 12.87819</geo>
+                     <geo>47.55567 12.97802</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2953371/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2885777/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q156715</idno>
                </place>
                </listPlace></back></text>
 </TEI>

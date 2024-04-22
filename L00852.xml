@@ -137,7 +137,31 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__398">
+                  <placeName>Schönfließ</placeName>
+                  <location type="coords">
+                     <geo>52.96487 14.60667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083158/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q558719</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -155,29 +179,5 @@
                <person xml:id="tillich_person_id__2413">
                   <persName>Viergutz, Paul</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__398">
-                  <placeName>Schönfließ</placeName>
-                  <location type="coords">
-                     <geo>52.96487 14.60667</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083158/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q558719</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

@@ -124,13 +124,13 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1780">
-                  <persName>Siebeck, Oskar</persName>
-                  <occupation>Deutscher Verleger</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1570">
+   <back><listPerson><person xml:id="tillich_person_id__1570">
                   <persName>Reichl, Otto</persName>
                   <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1780">
+                  <persName>Siebeck, Oskar</persName>
+                  <occupation>Deutscher Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

@@ -107,7 +107,24 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1696">
+<back><listPerson><person xml:id="tillich_person_id__2347">
+                  <persName>Weber, Hans Emil</persName>
+                  <birth>
+                     <date>1882-03-08</date>
+                     <settlement>
+                        <placeName>Mönchengladbach</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1950-06-13</date>
+                     <settlement>
+                        <placeName>Bonn</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117163228</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1696">
                   <persName>Schafft, Hermann</persName>
                   <birth>
                      <date>1883</date>
@@ -137,30 +154,13 @@
                <person xml:id="tillich_person_id__2409">
                   <persName>Königs, ???</persName>
                </person>
-               <person xml:id="tillich_person_id__2347">
-                  <persName>Weber, Hans Emil</persName>
-                  <birth>
-                     <date>1882-03-08</date>
-                     <settlement>
-                        <placeName>Mönchengladbach</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1950-06-13</date>
-                     <settlement>
-                        <placeName>Bonn</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117163228</idno>
-                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__68">
-                  <placeName>Bonn</placeName>
+               </listPerson><listPlace><place xml:id="tillich_place_id__122">
+                  <placeName>Deutschland</placeName>
                   <location type="coords">
-                     <geo>50.73438 7.09549</geo>
+                     <geo>51.50000 10.50000</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+                  <idno type="geonames">https://sws.geonames.org/2921044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q183</idno>
                </place>
                <place xml:id="tillich_place_id__78">
                   <placeName>Brüssel</placeName>
@@ -170,13 +170,13 @@
                   <idno type="geonames">https://sws.geonames.org/2800866/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q239</idno>
                </place>
-               <place xml:id="tillich_place_id__122">
-                  <placeName>Deutschland</placeName>
+               <place xml:id="tillich_place_id__68">
+                  <placeName>Bonn</placeName>
                   <location type="coords">
-                     <geo>51.50000 10.50000</geo>
+                     <geo>50.73438 7.09549</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2921044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q183</idno>
+                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
                </place>
                </listPlace></back></text>
 </TEI>

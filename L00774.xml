@@ -133,8 +133,7 @@ Antwort abhängen.</p>
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__149">Hegel, Enzyklopädie der philosophischen Wissenschaften</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__839">
+<back><listPerson><person xml:id="tillich_person_id__839">
                   <persName>Hegel, Georg Wilhelm Friedrich</persName>
                   <birth>
                      <date>1770-08-27</date>
@@ -166,5 +165,6 @@ Antwort abhängen.</p>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__149">Hegel, Enzyklopädie der philosophischen Wissenschaften</bibl>
+               </listBibl></back></text>
 </TEI>

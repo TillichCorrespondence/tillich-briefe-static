@@ -121,7 +121,20 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1211">
+                  <persName>Löwenfeld, Claire</persName>
+                  <occupation>Diätetikerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1498">
+                  <persName>Pincus, Lily</persName>
+                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
+                  <note type="bio"><p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1499">
+                  <persName>Pincus, Fritz</persName>
+                  <occupation>Mitbesitzer Haus auf dem Küssel</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -141,34 +154,21 @@
                   <occupation>Jurist</occupation>
                   <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1211">
-                  <persName>Löwenfeld, Claire</persName>
-                  <occupation>Diätetikerin</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1499">
-                  <persName>Pincus, Fritz</persName>
-                  <occupation>Mitbesitzer Haus auf dem Küssel</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1498">
-                  <persName>Pincus, Lily</persName>
-                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
-                  <note type="bio"><p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__356">
-                  <placeName>Potsdam</placeName>
-                  <location type="coords">
-                     <geo>52.39886 13.06566</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2852458/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1711</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__356">
+                  <placeName>Potsdam</placeName>
+                  <location type="coords">
+                     <geo>52.39886 13.06566</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2852458/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1711</idno>
                </place>
                </listPlace></back></text>
 </TEI>

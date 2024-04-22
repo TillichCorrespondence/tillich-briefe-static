@@ -95,7 +95,23 @@
             <p>Wir haben uns riesig gefreut <rs type="person" ref="#tillich_person_id__1928">Paul</rs> hier zu sehen, hoffentlich sehen wir Dich auch bald in <rs type="place" ref="#tillich_place_id__143">Frankfurt</rs>. Dir und der lieben <rs type="person" ref="#tillich_person_id__570">Erdmuthe</rs> viele liebe Grüße von <unclear cert="medium">Hannes in Biel</unclear></p>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1923">
+   <back><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__31">
+                  <placeName>Basel</placeName>
+                  <location type="coords">
+                     <geo>47.55839 7.57327</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661604/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q56447734</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -132,21 +148,5 @@
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__31">
-                  <placeName>Basel</placeName>
-                  <location type="coords">
-                     <geo>47.55839 7.57327</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2661604/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q56447734</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

@@ -93,7 +93,10 @@
 </date>
 </p>
 </div>
-</body><back><listPlace><place xml:id="tillich_place_id__37">
+</body><back><listPerson><person xml:id="tillich_person_id__2847">
+                  <persName>Jordan, Julius</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
@@ -108,7 +111,4 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/7303020/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2847">
-                  <persName>Jordan, Julius</persName>
-               </person>
-               </listPerson></back></text></TEI>
+               </listPlace></back></text></TEI>

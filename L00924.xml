@@ -91,7 +91,31 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPlace><place xml:id="tillich_place_id__236">
+                  <placeName>Kassel</placeName>
+                  <location type="coords">
+                     <geo>51.31667 9.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2892518/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__556">
+                  <placeName>Meißen</placeName>
+                  <location type="coords">
+                     <geo>51.16158 13.47370</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2872155/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32638348</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -109,29 +133,5 @@
                <person xml:id="tillich_person_id__2883">
                   <persName>???, Aée</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__236">
-                  <placeName>Kassel</placeName>
-                  <location type="coords">
-                     <geo>51.31667 9.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2892518/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
-               </place>
-               <place xml:id="tillich_place_id__556">
-                  <placeName>Meißen</placeName>
-                  <location type="coords">
-                     <geo>51.16158 13.47370</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2872155/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32638348</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>
