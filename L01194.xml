@@ -103,22 +103,11 @@
          </div>
 
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__540">
-                  <placeName>Hanau</placeName>
-                  <location type="coords">
-                     <geo>50.13423 8.91418</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911007/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1610">
+   <back><listPerson><person xml:id="tillich_person_id__2456">
+                  <persName>Keck, Karl</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116141182</idno>
+               </person>
+               <person xml:id="tillich_person_id__1610">
                   <persName>Riezler, Kurt</persName>
                   <birth>
                      <date>1882-02-11</date>
@@ -172,10 +161,21 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11861858X</idno>
                </person>
-               <person xml:id="tillich_person_id__2456">
-                  <persName>Keck, Karl</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/116141182</idno>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__88">Rieter, Heinz, Der deutsche Volkswirt 1926 bis 1933. Eine Fallstudie zur publizistischen Umsetzung wirtschaftspolitischer Konzeptionen, in: Albeda, Willem et al., Die Umsetzung wirtschaftspolitischer Grundkonzeptionen in die kontinentaleuropäische Praxis des 19. und 20. Jahrhunderts, II. Teil (Studien zur Entwicklung der ökonomischen Theorie XVII, hg. von Erich W. Streissler), Berlin 1998, S. 95-153.</bibl>
+               </listPerson><listPlace><place xml:id="tillich_place_id__540">
+                  <placeName>Hanau</placeName>
+                  <location type="coords">
+                     <geo>50.13423 8.91418</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911007/</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__88">Rieter, Heinz, Der deutsche Volkswirt 1926 bis 1933. Eine Fallstudie zur publizistischen Umsetzung wirtschaftspolitischer Konzeptionen, in: Albeda, Willem et al., Die Umsetzung wirtschaftspolitischer Grundkonzeptionen in die kontinentaleuropäische Praxis des 19. und 20. Jahrhunderts, II. Teil (Studien zur Entwicklung der ökonomischen Theorie XVII, hg. von Erich W. Streissler), Berlin 1998, S. 95-153.</bibl>
                </listBibl></back></text>
 </TEI>

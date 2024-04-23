@@ -277,72 +277,6 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118606131</idno>
                </person>
-               <person xml:id="tillich_person_id__243">
-                  <persName>Böhme, Jakob</persName>
-                  <birth>
-                     <date>1575</date>
-                     <settlement>
-                        <placeName>Alt-Seidenberg</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1624-11-17</date>
-                     <settlement>
-                        <placeName>Görlitz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118512579</idno>
-               </person>
-               <person xml:id="tillich_person_id__839">
-                  <persName>Hegel, Georg Wilhelm Friedrich</persName>
-                  <birth>
-                     <date>1770-08-27</date>
-                     <settlement>
-                        <placeName>Stuttgart</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1831-11-14</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
-               </person>
-               <person xml:id="tillich_person_id__904">
-                  <persName>Hirsch, Emanuel</persName>
-                  <birth>
-                     <date>1888-06-14</date>
-                     <settlement>
-                        <placeName>Bentwisch</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1972-07-17</date>
-                     <settlement>
-                        <placeName>Göttingen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Systematischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
-               </person>
-               <person xml:id="tillich_person_id__1712">
-                  <persName>Schlatter, Adolf</persName>
-                  <birth>
-                     <date>1852-08-16</date>
-                     <settlement>
-                        <placeName>Sankt Gallen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1938-05-19</date>
-                     <settlement>
-                        <placeName>Tübingen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Evangelischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
-               </person>
                <person xml:id="tillich_person_id__1020">
                   <persName>Kant, Immanuel</persName>
                </person>
@@ -360,6 +294,36 @@
                   <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
                </person>
+               <person xml:id="tillich_person_id__1614">
+                  <persName>Ritschl, Albrecht</persName>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__243">
+                  <persName>Böhme, Jakob</persName>
+                  <birth>
+                     <date>1575</date>
+                     <settlement>
+                        <placeName>Alt-Seidenberg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1624-11-17</date>
+                     <settlement>
+                        <placeName>Görlitz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118512579</idno>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -374,6 +338,23 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1712">
+                  <persName>Schlatter, Adolf</persName>
+                  <birth>
+                     <date>1852-08-16</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1938-05-19</date>
+                     <settlement>
+                        <placeName>Tübingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
                </person>
                <person xml:id="tillich_person_id__1705">
                   <persName>Schelling, Friedrich Wilhelm Joseph</persName>
@@ -407,19 +388,38 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
                </person>
-               <person xml:id="tillich_person_id__1227">
-                  <persName>Lütgert, Wilhelm</persName>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
                   <birth>
-                     <date>1867</date>
+                     <date>1888-06-14</date>
+                     <settlement>
+                        <placeName>Bentwisch</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1938</date>
+                     <date>1972-07-17</date>
+                     <settlement>
+                        <placeName>Göttingen</placeName>
+                     </settlement>
                   </death>
-                  <occupation>Systematischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
                </person>
-               <person xml:id="tillich_person_id__1614">
-                  <persName>Ritschl, Albrecht</persName>
+               <person xml:id="tillich_person_id__839">
+                  <persName>Hegel, Georg Wilhelm Friedrich</persName>
+                  <birth>
+                     <date>1770-08-27</date>
+                     <settlement>
+                        <placeName>Stuttgart</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1831-11-14</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__159">Otto, Rudolf, Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen, Breslau 1917.</bibl>
                </listBibl></back></text>

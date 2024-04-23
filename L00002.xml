@@ -144,17 +144,17 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+<back><listPerson><person xml:id="tillich_person_id__1929">
+                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <occupation>Mutter</occupation>
                </person>
                <person xml:id="tillich_person_id__1925">
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1929">
-                  <persName>Tillich, Wilhelmina Mathilde</persName>
-                  <occupation>Mutter</occupation>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>

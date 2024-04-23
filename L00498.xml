@@ -226,15 +226,7 @@
 </table>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__456">
-                  <placeName>Vaux-lès-Mouron</placeName>
-                  <location type="coords">
-                     <geo>49.30000 4.78333</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6426152/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1147107</idno>
-               </place>
-               <place xml:id="tillich_place_id__17">
+<back><listPlace><place xml:id="tillich_place_id__17">
                   <placeName>Autry</placeName>
                   <location type="coords">
                      <geo>49.26829 4.83435</geo>
@@ -249,13 +241,13 @@
                   <idno type="geonames">https://sws.geonames.org/6612952/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q473084</idno>
                </place>
-               <place xml:id="tillich_place_id__331">
-                  <placeName>Olizy</placeName>
+               <place xml:id="tillich_place_id__456">
+                  <placeName>Vaux-lès-Mouron</placeName>
                   <location type="coords">
-                     <geo>49.55670 5.22190</geo>
+                     <geo>49.30000 4.78333</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2989603/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q981623</idno>
+                  <idno type="geonames">https://sws.geonames.org/6426152/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1147107</idno>
                </place>
                <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
@@ -265,11 +257,15 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1700">
-                  <persName>Schaumann, Leopold</persName>
-                  <occupation>Militäroberpfarrer und Konsistorialrat</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+               <place xml:id="tillich_place_id__331">
+                  <placeName>Olizy</placeName>
+                  <location type="coords">
+                     <geo>49.55670 5.22190</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2989603/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q981623</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -283,6 +279,10 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1700">
+                  <persName>Schaumann, Leopold</persName>
+                  <occupation>Militäroberpfarrer und Konsistorialrat</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

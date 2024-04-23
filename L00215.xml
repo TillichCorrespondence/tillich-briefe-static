@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00215.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00214.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00216.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief von Paul Tillich an Alfred Fritz vom 22. September 1907</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Andreas Burri</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="manuscript">
+               <msIdentifier>
+                  <country>USA</country>
+                  <settlement ref="#tillich_place_id__82">Cambridge, MA</settlement>
+                  <institution>Harvard University</institution>
+                  <repository>Harvard Divinity School Library</repository>
+                  <collection>Tillich, Paul, 1886-1965. Papers, 1894-1974.</collection>
+                  <idno>bMS 649/143(11)</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Brief, eigenhändig</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__37">Berlin</placeName>
+               <date when="1907-09-22">09.22.1907</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__641">Alfred Fritz</persName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L00214">Postkarte von Eberhard Röhricht an Paul Tillich vom 22. September 1907 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L00216">Postkarte von Hermann Witte an Paul Tillich vom 28. September 1907</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="AB" when="2023-01-24">Intitale Auszeichnung des Transkripts</change>
+         <change who="AB" when="2023-02-07">Überprüfung und Ergänzung der Auszeichnungen</change>
+         <change who="EL" when="2024-04-22">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Mein lieber <rs ref="#tillich_person_id__641" type="person">Alfred</rs>!</salute>
+            </opener>
+            <p>Da in meinem "Vergiß mein nicht" Du unter dem <date when="1907-09-24">24ten September</date> verzeichnet stehst, wir
+               aber morgen nach <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> fahren – staune
+               nur – will ich schon heute meinen Geburtstagsglückwunsch Dir aussprechen. Welchen
+               Inhalt diese Form bei einem
+               Examensarbeiter haben muß, ist ja klar im allgemeinen, aber im speziellen liegt die
+               Sache schwieriger, da – wenigstens nach Deiner Behauptung – von der Art des
+               Durchkommens Dein Sein oder Nicht-Sein in Europa abhängt. Da wünscht denn mein
+                  <foreign xml:lang="grc">ἄνθρωπος πνευματικός</foreign> (<rs ref="#tillich_person_id__2268" type="person">valentinianische</rs> Gnosis), daß Du vermittelst einer 1-2 zu den Negern
+               befördert wirst, und mein <foreign xml:lang="grc">ἄνθρωπος ψυχικός</foreign>, daß
+               Dich eine 3<hi rend="sup">b</hi> in "das Pfarrhaus im <rs ref="#tillich_place_id__394" type="place">Schwarzwald</rs>" als "<foreign xml:lang="grc">ἄρχων τοῦ τόπου μεσότητος</foreign>" für alle Berliner und sοnstige Milchgesichter in weißen Kouleuren
+               bringt. Da ich augenblicklich heimlicher Anhänger von <rs ref="#tillich_person_id__2268" type="person">Valentinus</rs> bin, so muß ich mich
+               wohl für das erste entscheiden. Also in diesem Sinne viel Segen! – Was die Reise nach
+                  <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> betrifft, so<pb n="2"/> will ich
+               Dich gleich beruhigen; es ist die Verlegung unseres ganzen Haushalts mit
+               Mädchen u. allem auf 14 Tage an die Ostsee, die mein <rs ref="#tillich_person_id__1924" type="person">Vater</rs> noch braucht und die uns so noch am billigsten <sic>kommt
+               kommt</sic>. Ich werde mich natürlich mehr mit kl.
+               <rs ref="#tillich_person_id__1201" type="person">Loofs</rs> und <rs ref="#tillich_person_id__2269" type="person">Steuernagel</rs> wappnen, als mit Spaten, wie im Sommer. – Herzlichen Dank
+               für Deinen <rs type="letter" ref="L00211">Brief</rs>; es geht mir mit der Arbeit genau so wie Dir. Bis jetzt habe ich
+                  Amos übersetzt (<unclear reason="damage">¿¿¿</unclear>0!! Vokabeln aufgeschlagen, alphabetisch geordnet, und im Begriff
+               sie auswendig zu lernen); es ist doch etwas feines und Deine Freude am Hebräischen
+               immer weniger <foreign xml:lang="lat">horribile dictu</foreign>. Dazu kommt, daß ich
+               mit wachsender Begeisterung <rs ref="#tillich_person_id__2032" type="person">Wellhausens</rs> <rs type="work" ref="#tillich_work_id__285">Prolegomena</rs>
+               gelesen und gestern vollendet habe; ich habe selten einen Roman mit
+               soviel, Spannung und Interesse gelesen, ordentlich zitternd vor
+               jedem Gegen<add place="superlinear">beweis</add> und jubelnd bei jeder Absägung durch
+                  <rs ref="#tillich_person_id__2032" type="person">Wellhausen</rs>. Du wirst über diese fuxenhafte erste
+               Liebe lächeln, aber ich bin im A-T ja weniger als ein Fux und <rs ref="#tillich_person_id__2032" type="person">Wellhausen</rs> der Geist, der mir die Finsternis etwas zu durchstrahlen
+               scheint. Wie gern würde ich mit Dir da<pb n="3"/>über tönen und Dein "wissenschaftlich gereiftes (!) (?)
+               Urteil" vernehmen! Dann kommt Hosea dran und vielleicht die
+               übrigen "Kleinen." – Kirchengeschichte bin ich jetzt, wie Du ja gesehen hast, mitten
+               in der Gnosis. Das meiste ist Unfug; aber für <rs ref="#tillich_person_id__2268" type="person">Valentinus</rs> begeistere ich mich jetzt noch ebenso, wie in meinem ersten
+               Semester, als ich zum ersten Mal davon las! – Neues Testament arbeite ich Einleitung
+                  und bin mit Thessalonicher- und Galater fertig, was deshalb etwas besagen will, weil ich <rs ref="#tillich_person_id__2217" type="person">Jülicher</rs>, <rs ref="#tillich_person_id__2270" type="person">B. Weiß</rs> und
+                  <rs ref="#tillich_person_id__2180" type="person">Zahn</rs> gemeinsam durcharbeite, was natürlich viel
+               Zeit in Anspruch nimmt. – Überhaupt ist das Problem, das richtige Verhältnis zwischen
+               Gründlichkeit und Behältlichkeit herauszubekommen. Ersteres ist natürlich ungleich
+               sympatischer, aber fürs Examen unpraktisch. Dir gehts ja ebenso! –
+               Mittwoch bis Freitag war mein <rs type="person" ref="#tillich_person_id__1295">Lbfx</rs> hier, der von <rs ref="#tillich_place_id__211" type="place">Hinterpommern</rs> zurückkam; wir waren noch sehr nett 2 Tage zusammen;
+               vielleicht fahre ich noch auf ein paar Tage zu <rs ref="#tillich_person_id__2190" type="person">Spatz</rs> – Der Rundbrief hat einen verheißungsvollen Anfang genommen.
+               Hoffentlich bist Du mit den Statuten einverstanden. Jedenfalls kann die Ordnung
+               bleiben. Die Predigt hatte ich meiner<pb n="4"/> <rs type="person" ref="#tillich_person_id__644">Schwester</rs> gegeben und vergessen,
+               mitzuschicken! – das "<foreign xml:lang="lat">donum superadditum
+               </foreign> ist also das
+               "Menschentyp"; ich bin neugierig, ob dies gefällt; es ist glänzend getroffen, aber
+               etwas blaß. – Ich hoffte, <rs type="person" ref="#tillich_person_id__1696">Hermann</rs> würde noch nach
+                  <rs ref="#tillich_place_id__293" type="place">Misdroy</rs> mitkommen; er hatte seine Lust
+               ausgesprochen und es würde ihm sehr gut tun. – Dienstag macht <rs ref="#tillich_person_id__310" type="person">Fr. Büchsel</rs> sein II<hi rend="sup">tes</hi> Examen! – Soll ich noch
+               aktiv werden? Augenblicklich schwankt die
+               Wage sehr nach "ja". Besonders
+               mein <rs ref="#tillich_person_id__1924" type="person">Vater</rs> wünschts. – <rs type="person" ref="#tillich_person_id__1050">Albert</rs> muß es noch; ich habe die <hi rend="u">heimliche</hi>!!
+               (nichts sagen!) Hoffnung, ihn zum x zu machen; nach 3 Wochen wird ein neuer gewählt!
+               Es wäre für ihn und <rs ref="#tillich_place_id__37" type="place">Berlin</rs> famos! Nicht wahr? –
+               Schreibe an meine Berliner Adresse! Es wird alles
+               sofort nachgeschickt! – Und zwar bald!!! </p>
+            <closer>
+               <salute>Herzlichen Geburtstagsgruß sendet Dein</salute>
+               <signed>treuer <rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2270">
+                  <persName>Weiss, Karl Philipp Bernhard</persName>
+                  <birth>
+                     <date>1827-06-20</date>
+                  </birth>
+                  <death>
+                     <date>1918-01-14</date>
+                  </death>
+                  <occupation>Professor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
+                  <note type="bio"><p>Er hat sich auf die neutestamentliche Forschung spezialisiert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2190">
+                  <persName>Spatz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2180">
+                  <persName>Zahn, Theodor</persName>
+                  <birth>
+                     <date>1838-10-10</date>
+                     <settlement>
+                        <placeName>Moers</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1933-03-05</date>
+                     <settlement>
+                        <placeName>Erlangen</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118991787</idno>
+               </person>
+               <person xml:id="tillich_person_id__2269">
+                  <persName>Steuernagel, Carl</persName>
+                  <birth>
+                     <date>1869-02-17</date>
+                     <settlement>
+                        <placeName>Hardegsen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-03-06</date>
+                     <settlement>
+                        <placeName>Greifswald</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Professor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117241377</idno>
+                  <note type="bio"><p>Er hat sich auf die alttestamentliche Forschung spezialisiert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1201">
+                  <persName>Loofs, Friedrich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2217">
+                  <persName>Jülicher, Adolf</persName>
+                  <birth>
+                     <date>1857-01-26</date>
+                  </birth>
+                  <death>
+                     <date>1938-08-03</date>
+                  </death>
+                  <occupation>Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118776495</idno>
+                  <note type="bio"><p>Er hat sich auf die neutestamentliche und kirchengeschichtliche Forschung spezialisiert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2268">
+                  <persName>Valentinus, Gnosticus</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118803751</idno>
+               </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
+               <person xml:id="tillich_person_id__2032">
+                  <persName>Wellhausen, Julius</persName>
+                  <birth>
+                     <date>1844-05-17</date>
+                  </birth>
+                  <death>
+                     <date>1918-01-07</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118630849</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__394">
+                  <placeName>Schwarzwald</placeName>
+                  <location type="coords">
+                     <geo>48.00000 8.25000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2834688/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4204</idno>
+               </place>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__211">
+                  <placeName>Hinterpommern</placeName>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__285">Wellhausen, Julius. Prolegomena zur Geschichte Israels. Deutschland: De Gruyter, Incorporated, 1899.</bibl>
+            </listBibl></back></text>
+</TEI>

@@ -98,39 +98,7 @@
 <closer> Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>. </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__468">
-                  <placeName>Wasigny</placeName>
-                  <location type="coords">
-                     <geo>49.63278 4.35667</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6453605/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q930958</idno>
-               </place>
-               <place xml:id="tillich_place_id__365">
-                  <placeName>Rethel</placeName>
-                  <location type="coords">
-                     <geo>49.50979 4.36740</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2983891/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q209790</idno>
-               </place>
-               <place xml:id="tillich_place_id__399">
-                  <placeName>Sedan</placeName>
-                  <location type="coords">
-                     <geo>49.70187 4.94028</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2975349/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q184371</idno>
-               </place>
-               <place xml:id="tillich_place_id__94">
-                  <placeName>Charleville-Mézières</placeName>
-                  <location type="coords">
-                     <geo>49.76850 4.72487</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3026613/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2960786</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2140">
+<back><listPerson><person xml:id="tillich_person_id__2140">
                   <persName>Pulkowski, ???</persName>
                   <birth>
                      <date>1877</date>
@@ -165,5 +133,37 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__468">
+                  <placeName>Wasigny</placeName>
+                  <location type="coords">
+                     <geo>49.63278 4.35667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6453605/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q930958</idno>
+               </place>
+               <place xml:id="tillich_place_id__399">
+                  <placeName>Sedan</placeName>
+                  <location type="coords">
+                     <geo>49.70187 4.94028</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2975349/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q184371</idno>
+               </place>
+               <place xml:id="tillich_place_id__94">
+                  <placeName>Charleville-Mézières</placeName>
+                  <location type="coords">
+                     <geo>49.76850 4.72487</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3026613/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2960786</idno>
+               </place>
+               <place xml:id="tillich_place_id__365">
+                  <placeName>Rethel</placeName>
+                  <location type="coords">
+                     <geo>49.50979 4.36740</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2983891/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q209790</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

@@ -90,18 +90,43 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__205">
-                  <placeName>Hellerau</placeName>
-                  <location type="coords">
-                     <geo>51.11667 13.75000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2906837/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q8920</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1209">
+<back><listPerson><person xml:id="tillich_person_id__271">
+                  <persName>Brändström, Elsa</persName>
+                  <birth>
+                     <date>1888-03-26</date>
+                     <settlement>
+                        <placeName>Sankt Petersburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1948-03-04</date>
+                     <settlement>
+                        <placeName>Cambridge, Mass.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philanthropin, Lehrerin, Krankenschwester</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514407</idno>
+                  <note type="bio"><p>(hat Ulich Robert als Ehemann)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1209">
                   <persName>Löwe, Adolf</persName>
                   <occupation>deutscher Soziologe und Nationalökonom</occupation>
                   <note type="bio"><p>1911-1915 Studium der Wirtschafts- wie auch Rechtswissenschaften in München, Berlin und Tübingen. In Tübingen wurde er 1918 zum Dr. iur. promoviert. 1919 heiratete er Beatrice Löwenstein (genannt Bea, *1893). 1919-1924 Tätigkeit im Reichswirtschaftsministerium, 1924-1926 Leiter der internationalen Abteilung des Statistischen Reichsamtes, in dieser Zeit auch mitverantwortlich für die Gründung des Deutschen Instituts für Konjunkturforschung (DIW). 1926 Habilitation in Kiel, damit einhergehend Leitung und Ausbau des Kieler Instituts für Weltwirtschaft (IfW) und Lehrtätigkeit an der Universität. 1931 folgte L. einem Ruf an die Universität Frankfurt/Main, wo er unter anderem seine alten Freunde Max  Horkheimer (aus Schulzeiten) und Tillich (aus Berliner Zeiten und dem Kreis religiöser Sozialisten) wiedertraf. Nachdem er 1933 zunächst beurlaubt und sodann entlassen wurde, emigrierte er im selben Jahr nach England, wo er 1933-1940 an der Universität Manchester tätig war und nebenher an der London School of Economics lehrte. 1940 zweite Emigration in die USA, wo er bis zu seiner Emeritierung 1963 an der New School for Social Research in New York lehrte. Adolf und Beatrice L. hatten zwei Töchter, Rahel Dorothea (tw. auch Dora, 1921-2011), später Rachel Aubrey bzw. in erster Ehe Rüstow, sowie Hanna Ruth (1924-2010), später Hanna Lustig.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -132,38 +157,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
                   <note type="bio"><p>(verheiratet mit Brändström, Elsa)</p></note>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__271">
-                  <persName>Brändström, Elsa</persName>
-                  <birth>
-                     <date>1888-03-26</date>
-                     <settlement>
-                        <placeName>Sankt Petersburg</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1948-03-04</date>
-                     <settlement>
-                        <placeName>Cambridge, Mass.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Philanthropin, Lehrerin, Krankenschwester</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118514407</idno>
-                  <note type="bio"><p>(hat Ulich Robert als Ehemann)</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__205">
+                  <placeName>Hellerau</placeName>
+                  <location type="coords">
+                     <geo>51.11667 13.75000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2906837/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q8920</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

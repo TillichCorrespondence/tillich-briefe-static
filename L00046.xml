@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00046.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00041.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00047.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L00046.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00044.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L00047.xml">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -68,7 +68,7 @@
 <correspAction type="received">
 <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
 </correspAction>
-<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00041">Brief von Marie Tillich an Paul Tillichvon 1905</ref><ref subtype="next_letter" type="withinCollection" target="L00047">Brief von Gerich an Paul Tillich vom 21. März 1905 [PS]</ref></correspContext></correspDesc>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00044">Postkarte von Wingolfsbrüder an Paul Tillich von 1905</ref><ref subtype="next_letter" type="withinCollection" target="L00047">Brief von Gerich an Paul Tillich vom 21. März 1905 [PS]</ref></correspContext></correspDesc>
 <langUsage>
 <language ident="deu">Deutsch</language>
 </langUsage>
@@ -93,11 +93,7 @@
                uns Allen, besonders von Eurem Großpapa <rs ref="#tillich_person_id__2237" type="person">Dürselen</rs>.</p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2236">
-                  <persName>???, Else</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -123,6 +119,10 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2236">
+                  <persName>???, Else</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2237">
                   <persName>Dürselen, Gustav</persName>

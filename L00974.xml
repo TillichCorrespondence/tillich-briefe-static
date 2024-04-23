@@ -91,21 +91,21 @@
                 </closer>
             </div>
         </body>
-    <back><listPlace><place xml:id="tillich_place_id__251">
-                  <placeName>Laigueglia</placeName>
-                  <location type="coords">
-                     <geo>43.97590 8.15823</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3175239/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q30026464</idno>
-               </place>
-               <place xml:id="tillich_place_id__350">
+    <back><listPlace><place xml:id="tillich_place_id__350">
                   <placeName>Piz Bernina</placeName>
                   <location type="coords">
                      <geo>46.38235 9.90806</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2661545/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q15132</idno>
+               </place>
+               <place xml:id="tillich_place_id__251">
+                  <placeName>Laigueglia</placeName>
+                  <location type="coords">
+                     <geo>43.97590 8.15823</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3175239/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q30026464</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>

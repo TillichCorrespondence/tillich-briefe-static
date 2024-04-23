@@ -123,13 +123,7 @@ richten bitte, u.<expan>nd</expan> hoffe auf weitere gedeihliche Zusammenarbeit.
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2752">
-                  <persName>Reyer, Wilhelm</persName>
-               </person>
-               <person xml:id="tillich_person_id__2735">
-                  <persName>Albers, August</persName>
-               </person>
-               <person xml:id="tillich_person_id__2135">
+<back><listPerson><person xml:id="tillich_person_id__2135">
                   <persName>Rickert, Heinrich</persName>
                   <birth>
                      <date>1853-05-25</date>
@@ -146,6 +140,12 @@ richten bitte, u.<expan>nd</expan> hoffe auf weitere gedeihliche Zusammenarbeit.
                   <occupation>Philosoph;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
                   <note type="bio"><p>Er spezialisierte sich auf den Neukantianismus.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2752">
+                  <persName>Reyer, Wilhelm</persName>
+               </person>
+               <person xml:id="tillich_person_id__2735">
+                  <persName>Albers, August</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__553">
                   <placeName>Rügenwaldermünde</placeName>

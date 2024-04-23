@@ -129,26 +129,20 @@
                   <persName>???, Trude</persName>
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2224">
-                  <persName>Dürselen , Paul Rudolf</persName>
-                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               <person xml:id="tillich_person_id__621">
+                  <persName>Frey-Sollberger, Georgy</persName>
+                  <note type="bio"><p>Die Schulfreundin von Tillichs 1920 verstorbener Schwester Johanna war seit 1928 mit dem Schweizer Komponisten und Pianisten Emil Frey (1889-1946) verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1852">
-                  <persName>Steinhausen, Hermann</persName>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
                   <birth>
-                     <date>1854-10-07</date>
-                     <settlement>
-                        <placeName>Hoppegarten-Münchehofe</placeName>
-                     </settlement>
+                     <date>1867</date>
                   </birth>
                   <death>
-                     <date>1928-10-08</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
+                     <date>1938</date>
                   </death>
-                  <occupation>Konsistorialpräsident in Berlin von 1904–1925</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1111512221</idno>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -182,27 +176,32 @@
                   <occupation>Schriftsteller;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118542192</idno>
                </person>
-               <person xml:id="tillich_person_id__621">
-                  <persName>Frey-Sollberger, Georgy</persName>
-                  <note type="bio"><p>Die Schulfreundin von Tillichs 1920 verstorbener Schwester Johanna war seit 1928 mit dem Schweizer Komponisten und Pianisten Emil Frey (1889-1946) verheiratet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1227">
-                  <persName>Lütgert, Wilhelm</persName>
-                  <birth>
-                     <date>1867</date>
-                  </birth>
-                  <death>
-                     <date>1938</date>
-                  </death>
-                  <occupation>Systematischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
-               </person>
                <person xml:id="tillich_person_id__2225">
                   <persName>Dürselen, Johanna Amalia Eugenia</persName>
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__211">Grillparzer, Friedrich, Des Meeres und der Liebe Wellen: Trauerspiel in fünf Aufzügen. Wien: Daberkow, 1903</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__37">
+               <person xml:id="tillich_person_id__1852">
+                  <persName>Steinhausen, Hermann</persName>
+                  <birth>
+                     <date>1854-10-07</date>
+                     <settlement>
+                        <placeName>Hoppegarten-Münchehofe</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1928-10-08</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Konsistorialpräsident in Berlin von 1904–1925</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1111512221</idno>
+               </person>
+               <person xml:id="tillich_person_id__2224">
+                  <persName>Dürselen , Paul Rudolf</persName>
+                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
@@ -210,5 +209,6 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__211">Grillparzer, Friedrich, Des Meeres und der Liebe Wellen: Trauerspiel in fünf Aufzügen. Wien: Daberkow, 1903</bibl>
+               </listBibl></back></text>
 </TEI>

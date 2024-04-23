@@ -68,7 +68,7 @@
 <correspAction type="received">
 <persName ref="Paul Tillich">Paul Tillich</persName>
 </correspAction>
-<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00066">Postkarte von Johannes Tillich u. a. an Paul Tillich vom 24. Juni 1905 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L00068">Brieffragment von Johanna Tillich an Paul Tillich vom 26. Juni 1905</ref></correspContext></correspDesc>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L00066">Postkarte von Johannes Tillich u. a. an Paul Tillich vom 24. Juni 1905 [PS]</ref><ref subtype="next_letter" type="withinCollection" target="L00068">Brieffragment von Johanna Tillich an Paul Tillich vom 26. Juni 1905</ref><ref subtype="previous_letter" type="withinCorrespondence" target="L00049">Postkarte ohne an Paul Tillich vom 26. März 1905</ref></correspContext></correspDesc>
 <langUsage>
 <language ident="deu">Deutsch</language>
 </langUsage>
@@ -114,33 +114,12 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__227">
-                  <persName>Blech, George</persName>
-               </person>
-               <person xml:id="tillich_person_id__673">
+<back><listPerson><person xml:id="tillich_person_id__673">
                   <persName>Gerich, ???</persName>
                   <occupation>Er war Paul Tillichs Leibbursch.</occupation>
                </person>
-               <person xml:id="tillich_person_id__2544">
-                  <persName>Spicker, ???</persName>
-                  <birth>
-                     <date>1856</date>
-                     <settlement>
-                        <placeName>Boppard</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1920</date>
-                     <settlement>
-                        <placeName>Barmen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Missionsinspektor;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1028222882</idno>
-               </person>
-               <person xml:id="tillich_person_id__1074">
-                  <persName>Koch, Karl</persName>
-                  <occupation>Referent, Bursche von Paul Tillich</occupation>
+               <person xml:id="tillich_person_id__227">
+                  <persName>Blech, George</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -173,20 +152,41 @@
                   <persName>Kaumann, E.</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__175">
-                  <placeName>Gießen</placeName>
-                  <location type="coords">
-                     <geo>50.58727 8.67554</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
+               <person xml:id="tillich_person_id__1074">
+                  <persName>Koch, Karl</persName>
+                  <occupation>Referent, Bursche von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2544">
+                  <persName>Spicker, ???</persName>
+                  <birth>
+                     <date>1856</date>
+                     <settlement>
+                        <placeName>Boppard</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1920</date>
+                     <settlement>
+                        <placeName>Barmen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Missionsinspektor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1028222882</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__175">
+                  <placeName>Gießen</placeName>
+                  <location type="coords">
+                     <geo>50.58727 8.67554</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
                </place>
                </listPlace></back></text>
 </TEI>

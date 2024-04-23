@@ -94,36 +94,7 @@
                 <postscript><p>beste Grüsse an Ihre <rs ref="#tillich_person_id__2759" type="person">Schwester</rs></p></postscript>
             </div>
         </body>
-    <back><listPerson><person xml:id="tillich_person_id__2759">
-                  <persName>Ottmer, Johanne</persName>
-                  <note type="bio"><p>Sie war eine geborene Otto und die Schwester von Rudolf Otto. 1899 heiratete sie Ernst Ottmer, der jedoch bereits 1904 verstarb. Seitdem lebte sie überwiegend bei ihrem Bruder und kümmerte sich um seinen Haushalt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2938">
-                  <persName>Ferrara, Francesca</persName>
-                  <birth>
-                     <date>1985</date>
-                  </birth>
-                  <occupation>Philosophin</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1154497305</idno>
-               </person>
-               <person xml:id="tillich_person_id__1438">
+    <back><listPerson><person xml:id="tillich_person_id__1438">
                   <persName>Otto, Rudolf</persName>
                   <birth>
                      <date>1869-09-25</date>
@@ -136,6 +107,18 @@
                   </death>
                   <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
+               </person>
+               <person xml:id="tillich_person_id__2938">
+                  <persName>Ferrara, Francesca</persName>
+                  <birth>
+                     <date>1985</date>
+                  </birth>
+                  <occupation>Philosophin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1154497305</idno>
+               </person>
+               <person xml:id="tillich_person_id__2759">
+                  <persName>Ottmer, Johanne</persName>
+                  <note type="bio"><p>Sie war eine geborene Otto und die Schwester von Rudolf Otto. 1899 heiratete sie Ernst Ottmer, der jedoch bereits 1904 verstarb. Seitdem lebte sie überwiegend bei ihrem Bruder und kümmerte sich um seinen Haushalt.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -157,6 +140,23 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1029992940</idno>
                </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__306">
                   <placeName>München</placeName>
                   <location type="coords">
@@ -165,14 +165,6 @@
                   <idno type="geonames">https://sws.geonames.org/2867714/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
                </place>
-               <place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
                <place xml:id="tillich_place_id__369">
                   <placeName>Rom</placeName>
                   <location type="coords">
@@ -180,6 +172,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3169070/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q220</idno>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
                </listPlace><listBibl><bibl xml:id="tillich_work_id__160">Otto, Rudolf, Die Gnadenreligion Indiens und das Christentum. Vergleich und Unterscheidung, Gotha 1930</bibl>
                </listBibl></back></text>

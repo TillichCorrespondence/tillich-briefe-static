@@ -92,11 +92,7 @@
          </div>
 
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__232">Glatzer, Nahum Norbert, Untersuchung zur Geschichtslehre der Tannaiten, 1932.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1648">
-                  <persName>Rosenzweig, Franz</persName>
-               </person>
-               <person xml:id="tillich_person_id__2872">
+   <back><listPerson><person xml:id="tillich_person_id__2872">
                   <persName>Glatzer, Nahum Norbert</persName>
                   <birth>
                      <date>1903</date>
@@ -140,5 +136,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__1648">
+                  <persName>Rosenzweig, Franz</persName>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__232">Glatzer, Nahum Norbert, Untersuchung zur Geschichtslehre der Tannaiten, 1932.</bibl>
+               </listBibl></back></text>
 </TEI>

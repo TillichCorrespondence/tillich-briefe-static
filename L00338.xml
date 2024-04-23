@@ -103,11 +103,14 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__41">
+<back><listPlace><place xml:id="tillich_place_id__80">
+                  <placeName>Butterfelde</placeName>
+                  <location type="coords">
+                     <geo>52.87141 14.38608</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
+               </place>
+               <place xml:id="tillich_place_id__41">
                   <placeName>Berlin-Lichtenrade</placeName>
                   <location type="coords">
                      <geo>52.39844 13.40637</geo>
@@ -115,12 +118,9 @@
                   <idno type="geonames">https://sws.geonames.org/2878044/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
                </place>
-               <place xml:id="tillich_place_id__80">
-                  <placeName>Butterfelde</placeName>
-                  <location type="coords">
-                     <geo>52.87141 14.38608</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
-               </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>

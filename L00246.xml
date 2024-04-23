@@ -162,97 +162,21 @@
             </postscript>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2944">
-                  <persName>Arndt, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1982">
-                  <persName>Van der Smissen, Gilbert</persName>
-                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2943">
-                  <persName>Schotte, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2334">
-                  <persName>Mensching, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2147">
-                  <persName>Vethake, Hans</persName>
-               </person>
-               <person xml:id="tillich_person_id__227">
-                  <persName>Blech, George</persName>
-               </person>
-               <person xml:id="tillich_person_id__2169">
-                  <persName>Struckmaier, ???</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2525">
-                  <persName>???, Claus</persName>
-                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__877">
-                  <persName>Hensmann, Amos</persName>
-                  <occupation>Pfarrer;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2157">
-                  <persName>Nickelby, C.</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2091">
-                  <persName>Witte, Hermann</persName>
-                  <birth>
-                     <date>1666-12-07</date>
-                     <settlement>
-                        <placeName>Riga-Daugavgriva</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1728-03-24</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
-               </person>
-               <person xml:id="tillich_person_id__2190">
-                  <persName>Spatz, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2185">
-                  <persName>Meyersieck, Joh.</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
-                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2370">
-                  <persName>Bensch, ???</persName>
-                  <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2183">
-                  <persName>Bertheau, Hans</persName>
-                  <note type="bio"><p>Er war scheinbar der kleine Bruder von einem Mann namens Lorenz.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__260">
+   <back><listPlace><place xml:id="tillich_place_id__260">
                   <placeName>Leipzig</placeName>
                   <location type="coords">
                      <geo>51.33962 12.37129</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2879139/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               <place xml:id="tillich_place_id__198">
+                  <placeName>Hamburg</placeName>
+                  <location type="coords">
+                     <geo>53.55073 9.99302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911298/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
                </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
@@ -270,13 +194,89 @@
                   <idno type="geonames">https://sws.geonames.org/2929567/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
                </place>
-               <place xml:id="tillich_place_id__198">
-                  <placeName>Hamburg</placeName>
-                  <location type="coords">
-                     <geo>53.55073 9.99302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911298/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
-               </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2157">
+                  <persName>Nickelby, C.</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2190">
+                  <persName>Spatz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2091">
+                  <persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__227">
+                  <persName>Blech, George</persName>
+               </person>
+               <person xml:id="tillich_person_id__2334">
+                  <persName>Mensching, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2943">
+                  <persName>Schotte, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2185">
+                  <persName>Meyersieck, Joh.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
+                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2169">
+                  <persName>Struckmaier, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2147">
+                  <persName>Vethake, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__2370">
+                  <persName>Bensch, ???</persName>
+                  <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2183">
+                  <persName>Bertheau, Hans</persName>
+                  <note type="bio"><p>Er war scheinbar der kleine Bruder von einem Mann namens Lorenz.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1982">
+                  <persName>Van der Smissen, Gilbert</persName>
+                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
+               </person>
+               <person xml:id="tillich_person_id__877">
+                  <persName>Hensmann, Amos</persName>
+                  <occupation>Pfarrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2525">
+                  <persName>???, Claus</persName>
+                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2944">
+                  <persName>Arndt, ???</persName>
+               </person>
+               </listPerson></back></text>
 </TEI>

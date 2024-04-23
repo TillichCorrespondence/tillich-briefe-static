@@ -117,11 +117,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1133">
-                  <persName>Lang, Martin</persName>
-                  <occupation>Superintendent</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1762">
+<back><listPerson><person xml:id="tillich_person_id__1762">
                   <persName>Seeberger, Elisabeth</persName>
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
@@ -133,6 +129,10 @@
                <person xml:id="tillich_person_id__1929">
                   <persName>Tillich, Wilhelmina Mathilde</persName>
                   <occupation>Mutter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1133">
+                  <persName>Lang, Martin</persName>
+                  <occupation>Superintendent</occupation>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>

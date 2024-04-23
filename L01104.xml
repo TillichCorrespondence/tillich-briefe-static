@@ -136,8 +136,74 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2692">
+   <back><listPerson><person xml:id="tillich_person_id__2689">
+                  <persName>Jacker, Annie</persName>
+                  <birth>
+                     <date>1893-01-03</date>
+                  </birth>
+                  <death>
+                     <date>1931-04-07</date>
+                  </death>
+                  <occupation>Journalistin;</occupation>
+                  <note type="bio"><p>Sie schrieb unter anderem für die "Vossische Zeitung" sowie für die "Weltbühne". Sie war jüdische Journalistin, die mit dem Fleischfabrikanten Arthur Jacker verheiratet war und starb unerwartet am 7. April 1931.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__963">
+                  <persName>Jacker, John Arthur</persName>
+                  <birth>
+                     <date>1875-07-19</date>
+                  </birth>
+                  <death>
+                     <date>1963-07-06</date>
+                  </death>
+                  <occupation>Fleischfabrikant</occupation>
+                  <note type="bio"><p>Geboren in Prag (Tschechoslowakei), Heirat mit Annie Jacker im Jahr 1915 in Wien. Von 1914 bis 1933 Lebensmittelpunkt in Berlin, wo J. Fleischverpackungsbetrieben vorstand, bevor er am 1. April 1933 seinen Beruf aufgeben musste. Exil in Paris und Grenoble bis 1942, danach in der Schweiz und schließlich in New York.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2691">
+                  <persName>???, (Großmama)</persName>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__2690">
+                  <persName>Jacker, Maria</persName>
+                  <birth>
+                     <date>1927-11-04</date>
+                  </birth>
+                  <note type="bio"><p>Sie war die Tochter von Arthur und Annie Jacker.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2692">
                   <persName>???, Liese</persName>
+               </person>
+               <person xml:id="tillich_person_id__2693">
+                  <persName>Seidel, Heinrich Wolfgang</persName>
+                  <birth>
+                     <date>1876-08-28</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-09-22</date>
+                  </death>
+                  <occupation>Pfarrer; Schriftsteller;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118760602</idno>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -155,72 +221,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__963">
-                  <persName>Jacker, John Arthur</persName>
-                  <birth>
-                     <date>1875-07-19</date>
-                  </birth>
-                  <death>
-                     <date>1963-07-06</date>
-                  </death>
-                  <occupation>Fleischfabrikant</occupation>
-                  <note type="bio"><p>Geboren in Prag (Tschechoslowakei), Heirat mit Annie Jacker im Jahr 1915 in Wien. Von 1914 bis 1933 Lebensmittelpunkt in Berlin, wo J. Fleischverpackungsbetrieben vorstand, bevor er am 1. April 1933 seinen Beruf aufgeben musste. Exil in Paris und Grenoble bis 1942, danach in der Schweiz und schließlich in New York.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2689">
-                  <persName>Jacker, Annie</persName>
-                  <birth>
-                     <date>1893-01-03</date>
-                  </birth>
-                  <death>
-                     <date>1931-04-07</date>
-                  </death>
-                  <occupation>Journalistin;</occupation>
-                  <note type="bio"><p>Sie schrieb unter anderem für die "Vossische Zeitung" sowie für die "Weltbühne". Sie war jüdische Journalistin, die mit dem Fleischfabrikanten Arthur Jacker verheiratet war und starb unerwartet am 7. April 1931.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
-               </person>
-               <person xml:id="tillich_person_id__2693">
-                  <persName>Seidel, Heinrich Wolfgang</persName>
-                  <birth>
-                     <date>1876-08-28</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1945-09-22</date>
-                  </death>
-                  <occupation>Pfarrer; Schriftsteller;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118760602</idno>
-               </person>
-               <person xml:id="tillich_person_id__2690">
-                  <persName>Jacker, Maria</persName>
-                  <birth>
-                     <date>1927-11-04</date>
-                  </birth>
-                  <note type="bio"><p>Sie war die Tochter von Arthur und Annie Jacker.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2691">
-                  <persName>???, (Großmama)</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>

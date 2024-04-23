@@ -157,7 +157,15 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__400">
+<back><listPlace><place xml:id="tillich_place_id__361">
+                  <placeName>Quiberon</placeName>
+                  <location type="coords">
+                     <geo>47.48368 -3.11986</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2984741/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q128783</idno>
+               </place>
+               <place xml:id="tillich_place_id__400">
                   <placeName>Siena</placeName>
                   <location type="coords">
                      <geo>43.31822 11.33064</geo>
@@ -165,35 +173,12 @@
                   <idno type="geonames">https://sws.geonames.org/3166548/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q49280771</idno>
                </place>
-               <place xml:id="tillich_place_id__141">
-                  <placeName>Florenz</placeName>
-                  <location type="coords">
-                     <geo>43.77925 11.24626</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3176959/</idno>
-               </place>
                <place xml:id="tillich_place_id__332">
                   <placeName>Orvieto</placeName>
                   <location type="coords">
                      <geo>42.71924 12.11249</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3171874/</idno>
-               </place>
-               <place xml:id="tillich_place_id__430">
-                  <placeName>Taormina</placeName>
-                  <location type="coords">
-                     <geo>37.85206 15.28699</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6537773/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q199952</idno>
-               </place>
-               <place xml:id="tillich_place_id__361">
-                  <placeName>Quiberon</placeName>
-                  <location type="coords">
-                     <geo>47.48368 -3.11986</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2984741/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q128783</idno>
                </place>
                <place xml:id="tillich_place_id__369">
                   <placeName>Rom</placeName>
@@ -203,12 +188,22 @@
                   <idno type="geonames">https://sws.geonames.org/3169070/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q220</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2356">
-                  <persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__688">
+               <place xml:id="tillich_place_id__141">
+                  <placeName>Florenz</placeName>
+                  <location type="coords">
+                     <geo>43.77925 11.24626</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3176959/</idno>
+               </place>
+               <place xml:id="tillich_place_id__430">
+                  <placeName>Taormina</placeName>
+                  <location type="coords">
+                     <geo>37.85206 15.28699</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6537773/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q199952</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__688">
                   <persName>Goesch, Heinrich</persName>
                   <birth>
                      <date>1880-07-02</date>
@@ -223,6 +218,69 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
+               </person>
+               <person xml:id="tillich_person_id__2008">
+                  <persName>von Sydow, Eckart</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+               </person>
+               <person xml:id="tillich_person_id__2455">
+                  <persName>Spitta, Walter</persName>
+                  <birth>
+                     <date>1903-10-05</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-01-26</date>
+                     <settlement>
+                        <placeName>Nakło nad Notecia̜</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/122188918</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2566">
+                  <persName>Bernhardt, Sarah</persName>
+                  <birth>
+                     <date>1844-10-22</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1923-03-26</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118509896</idno>
+               </person>
+               <person xml:id="tillich_person_id__2356">
+                  <persName>Herrmann, Christian</persName>
+                  <occupation>Philosoph; Pädagoge;</occupation>
+                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
                </person>
                <person xml:id="tillich_person_id__2564">
                   <persName>Kallen, ???</persName>
@@ -244,66 +302,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2566">
-                  <persName>Bernhardt, Sarah</persName>
-                  <birth>
-                     <date>1844-10-22</date>
-                     <settlement>
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1923-03-26</date>
-                     <settlement>
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118509896</idno>
-               </person>
                <person xml:id="tillich_person_id__2565">
                   <persName>Große, (Fräulein)</persName>
-               </person>
-               <person xml:id="tillich_person_id__2008">
-                  <persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2455">
-                  <persName>Spitta, Walter</persName>
-                  <birth>
-                     <date>1903-10-05</date>
-                     <settlement>
-                        <placeName>Bremen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1945-01-26</date>
-                     <settlement>
-                        <placeName>Nakło nad Notecia̜</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/122188918</idno>
                </person>
                </listPerson></back></text>
 </TEI>

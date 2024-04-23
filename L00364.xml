@@ -277,15 +277,7 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1062">
-                  <persName>Klein, Lisa</persName>
-                  <occupation>Schwester von Maria Klein (Rhine)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__374">
-                  <persName>Christiansen, Hans</persName>
-                  <occupation>Unterhielt wohl eine Art Liasion mit Maria Klein; wird in ihren Briefen von 1913 an Tillich erwähnt</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1061">
+<back><listPerson><person xml:id="tillich_person_id__1061">
                   <persName>Klein, Ernst August Ferdinand</persName>
                   <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
                </person>
@@ -303,6 +295,14 @@
                   </death>
                   <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
+               </person>
+               <person xml:id="tillich_person_id__1062">
+                  <persName>Klein, Lisa</persName>
+                  <occupation>Schwester von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__374">
+                  <persName>Christiansen, Hans</persName>
+                  <occupation>Unterhielt wohl eine Art Liasion mit Maria Klein; wird in ihren Briefen von 1913 an Tillich erwähnt</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
