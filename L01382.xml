@@ -88,18 +88,25 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__425">
-                  <placeName>Sylt</placeName>
-                  <location type="coords">
-                     <geo>54.91823 8.33113</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2824454/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3107</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2041">
-                  <persName>Werner, Marie Luise</persName>
-                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
-                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+<back><listPerson><person xml:id="tillich_person_id__505">
+                  <persName>Ebbinghaus, Julius</persName>
+                  <occupation>Philosoph</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__827">
+                  <persName>Hauptmann, Gerhart</persName>
+               </person>
+               <person xml:id="tillich_person_id__2817">
+                  <persName>Tovote, Heinz</persName>
+               </person>
+               <person xml:id="tillich_person_id__2810">
+                  <persName>Dox</persName>
+               </person>
+               <person xml:id="tillich_person_id__1886">
+                  <persName>Sydow, Gertrud von</persName>
                </person>
                <person xml:id="tillich_person_id__1887">
                   <persName>Sydow, Eckart von</persName>
@@ -112,26 +119,6 @@
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                   <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__827">
-                  <persName>Hauptmann, Gerhart</persName>
-               </person>
-               <person xml:id="tillich_person_id__2810">
-                  <persName>Dox</persName>
-               </person>
-               <person xml:id="tillich_person_id__505">
-                  <persName>Ebbinghaus, Julius</persName>
-                  <occupation>Philosoph</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2817">
-                  <persName>Tovote, Heinz</persName>
-               </person>
-               <person xml:id="tillich_person_id__1886">
-                  <persName>Sydow, Gertrud von</persName>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                <person xml:id="tillich_person_id__1835">
                   <persName>Stahl, Friedrich Julius</persName>
@@ -149,5 +136,18 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118616641</idno>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__425">
+                  <placeName>Sylt</placeName>
+                  <location type="coords">
+                     <geo>54.91823 8.33113</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2824454/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3107</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

@@ -102,9 +102,20 @@
          </div>
 
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__238">Jaspers, Karl, Psychologie der Weltanschauung, Berlin 1919.</bibl>
-               <bibl xml:id="tillich_work_id__119">Tillich, Paul, Die protestantische Verkündigung und der Mensch der Gegenwart, in: ders., Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I (=GW VII), 70-83.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__2877">
+                  <persName>Zerener, Holm</persName>
+                  <birth>
+                     <date>1872-09-29</date>
+                     <settlement>
+                        <placeName>Dresden</placeName>
+                     </settlement>
+                  </birth>
+                  <idno type="gnd">https://d-nb.info/gnd/11759637X</idno>
+               </person>
+               <person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -125,18 +136,7 @@
                <person xml:id="tillich_person_id__1058">
                   <persName>Klages, Ludwig</persName>
                </person>
-               <person xml:id="tillich_person_id__2877">
-                  <persName>Zerener, Holm</persName>
-                  <birth>
-                     <date>1872-09-29</date>
-                     <settlement>
-                        <placeName>Dresden</placeName>
-                     </settlement>
-                  </birth>
-                  <idno type="gnd">https://d-nb.info/gnd/11759637X</idno>
-               </person>
-               <person xml:id="tillich_person_id__1394">
-                  <persName>Nietzsche, Friedrich</persName>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__119">Tillich, Paul, Die protestantische Verkündigung und der Mensch der Gegenwart, in: ders., Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I (=GW VII), 70-83.</bibl>
+               <bibl xml:id="tillich_work_id__238">Jaspers, Karl, Psychologie der Weltanschauung, Berlin 1919.</bibl>
+               </listBibl></back></text>
 </TEI>

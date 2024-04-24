@@ -95,7 +95,15 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1762">
+<back><listPlace><place xml:id="tillich_place_id__416">
+                  <placeName>Stettin</placeName>
+                  <location type="coords">
+                     <geo>53.42894 14.55302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1762">
                   <persName>Seeberger, Elisabeth</persName>
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
@@ -120,13 +128,5 @@
                   <persName>Tillich, Wilhelmina Mathilde</persName>
                   <occupation>Mutter</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__416">
-                  <placeName>Stettin</placeName>
-                  <location type="coords">
-                     <geo>53.42894 14.55302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

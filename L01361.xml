@@ -104,7 +104,11 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
+<back><listPerson><person xml:id="tillich_person_id__2196">
+                  <persName>???, Käte</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
@@ -112,9 +116,5 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2196">
-                  <persName>???, Käte</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

@@ -126,8 +126,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__8">Tillich, Paul, Die religiöse und philosophische Weiterbildung des Sozialismus, in: Blätter für Religiösen Sozialismus, Jg. 5 (1924), S. 26-30.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__28">
+               </listPerson><listPlace><place xml:id="tillich_place_id__28">
                   <placeName>Barchem</placeName>
                   <location type="coords">
                      <geo>52.12417 6.44306</geo>
@@ -142,5 +141,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2920512/</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__8">Tillich, Paul, Die religiöse und philosophische Weiterbildung des Sozialismus, in: Blätter für Religiösen Sozialismus, Jg. 5 (1924), S. 26-30.</bibl>
+               </listBibl></back></text>
 </TEI>

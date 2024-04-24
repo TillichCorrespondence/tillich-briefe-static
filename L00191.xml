@@ -122,7 +122,37 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2789">
+<back><listPlace><place xml:id="tillich_place_id__333">
+                  <placeName>Osnabrück</placeName>
+                  <location type="coords">
+                     <geo>52.27264 8.04980</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2856883/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33158934</idno>
+               </place>
+               <place xml:id="tillich_place_id__111">
+                  <placeName>Collinghorst</placeName>
+                  <location type="coords">
+                     <geo>53.16082 7.53085</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2939921/</idno>
+               </place>
+               <place xml:id="tillich_place_id__335">
+                  <placeName>Ostfriesland</placeName>
+                  <location type="coords">
+                     <geo>53.33333 7.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2856304/</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2789">
                   <persName>Anders, Fritz</persName>
                   <birth>
                      <date>1841-08-31</date>
@@ -172,35 +202,5 @@
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__186">Anders, Fritz, Skizzen aus unserem heutigen Volksleben. Zweite Sammlung, Berlin: Grunow, 1899.</bibl>
                <bibl xml:id="tillich_work_id__185">Steuernagl, Carl, Hebräische Grammatik mit Paradigmen, Literatur, Übungsstücken und Wortverzeichnis, 2 überarbeitete Auflage, Berlin: Reuther &amp; Reichard, 1905.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__111">
-                  <placeName>Collinghorst</placeName>
-                  <location type="coords">
-                     <geo>53.16082 7.53085</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2939921/</idno>
-               </place>
-               <place xml:id="tillich_place_id__333">
-                  <placeName>Osnabrück</placeName>
-                  <location type="coords">
-                     <geo>52.27264 8.04980</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2856883/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33158934</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__335">
-                  <placeName>Ostfriesland</placeName>
-                  <location type="coords">
-                     <geo>53.33333 7.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2856304/</idno>
-               </place>
-               </listPlace></back></text>
+               </listBibl></back></text>
 </TEI>

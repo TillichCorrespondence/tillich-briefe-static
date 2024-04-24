@@ -125,28 +125,9 @@
                     Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>. </closer>
             </div>
         </body>
-    <back><listBibl><bibl xml:id="tillich_work_id__95">Seidel, Heinrich Wolfgang, Unbekannter Vortrag, den Paul Tillich von seinem Vater geschickt bekommen hat, wahrscheinlich 1916.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__2020">
-                  <persName>Wegener, Carl Richard</persName>
-                  <birth>
-                     <date>1883-08-03</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1967-07-11</date>
-                     <settlement>
-                        <placeName>Neuruppin</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
-               </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+    <back><listPerson><person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
                <person xml:id="tillich_person_id__2699">
                   <persName>Seidel, Heinrich</persName>
@@ -165,19 +146,22 @@
                   <occupation>Schriftsteller; Bauingenieur;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118796089</idno>
                </person>
-               <person xml:id="tillich_person_id__2693">
-                  <persName>Seidel, Heinrich Wolfgang</persName>
+               <person xml:id="tillich_person_id__2020">
+                  <persName>Wegener, Carl Richard</persName>
                   <birth>
-                     <date>1876-08-28</date>
+                     <date>1883-08-03</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName>Rostock</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1945-09-22</date>
+                     <date>1967-07-11</date>
+                     <settlement>
+                        <placeName>Neuruppin</placeName>
+                     </settlement>
                   </death>
-                  <occupation>Pfarrer; Schriftsteller;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118760602</idno>
+                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -206,11 +190,27 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+               <person xml:id="tillich_person_id__2693">
+                  <persName>Seidel, Heinrich Wolfgang</persName>
+                  <birth>
+                     <date>1876-08-28</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-09-22</date>
+                  </death>
+                  <occupation>Pfarrer; Schriftsteller;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118760602</idno>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__95">Seidel, Heinrich Wolfgang, Unbekannter Vortrag, den Paul Tillich von seinem Vater geschickt bekommen hat, wahrscheinlich 1916.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>

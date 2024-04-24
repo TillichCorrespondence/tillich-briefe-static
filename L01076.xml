@@ -124,7 +124,8 @@
                <person xml:id="tillich_person_id__875">
                   <persName>Hennig, Hilde</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__617">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__124">Tillich, Paul, Was ist religiöser Sozialismus? Rundfunkvortrag beim "Deutschlandsender" am 22. Juli 1930.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__617">
                   <placeName>Johanngeorgenstadt</placeName>
                   <location type="coords">
                      <geo>50.43254 12.71140</geo>
@@ -132,6 +133,5 @@
                   <idno type="geonames">https://sws.geonames.org/2894814/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32063218</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__124">Tillich, Paul, Was ist religiöser Sozialismus? Rundfunkvortrag beim "Deutschlandsender" am 22. Juli 1930.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

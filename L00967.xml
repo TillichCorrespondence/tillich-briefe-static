@@ -111,7 +111,31 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPlace><place xml:id="tillich_place_id__142">
+                  <placeName>Foche-Solingen</placeName>
+                  <location type="coords">
+                     <geo>51.17343 7.08450</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2831580/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2715">
+                  <persName>Hinrichs, Johann Conrad</persName>
+                  <birth>
+                     <date>1763-10-30</date>
+                     <settlement>
+                        <placeName>Harburg (Elbe)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1813-09-08</date>
+                     <settlement>
+                        <placeName>Leipzig</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Buchhändler; Verleger;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/123161789</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -130,29 +154,5 @@
                   <persName>Hartmann, Hans</persName>
                   <occupation>Deutscher evangelischer Pfarrer und Schriftsteller</occupation>
                </person>
-               <person xml:id="tillich_person_id__2715">
-                  <persName>Hinrichs, Johann Conrad</persName>
-                  <birth>
-                     <date>1763-10-30</date>
-                     <settlement>
-                        <placeName>Harburg (Elbe)</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1813-09-08</date>
-                     <settlement>
-                        <placeName>Leipzig</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Buchhändler; Verleger;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/123161789</idno>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__142">
-                  <placeName>Foche-Solingen</placeName>
-                  <location type="coords">
-                     <geo>51.17343 7.08450</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2831580/</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

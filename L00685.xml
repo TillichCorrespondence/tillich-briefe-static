@@ -84,25 +84,13 @@
 <p>Eben habe ich einen Brief an Frau Gottschow zugeklebt, und nun schäumt es in mir über, zu Dir hin; mein ganzes Innen stürzt wie eine Woge über Dich in den Schoß Deiner Seele. Ich bin Dir nahe und Du bist mir nahe; in Dir hat mein irdisches Dasein täglich seinen Sinn, schon längst lebe ich nur für Dich. Lange hörte ich nichts von Dir, aber es ist Dir wohl nicht möglich, in <rs ref="#tillich_place_id__306" type="place">München</rs> zu schreiben; wie jammervoll, daß Dein Brief mich nicht erreicht hat; ich hätte so gut vom 1.–3. in <rs ref="#tillich_place_id__306" type="place">München</rs> sein können. Beinahe wäre ich an <rs ref="#tillich_place_id__567" type="place">Greiz</rs> vorbeigekommen, zwischen <rs ref="#tillich_place_id__596" type="place">Plauen</rs> und <rs ref="#tillich_place_id__260" type="place">Leipzig</rs>; ich habe die Landschaft in mich gefressen hinter <rs ref="#tillich_place_id__596" type="place">Plauen</rs>; aber wir fuhren eine andre Strecke. – Du schreibst von einer Lehrerinnenstelle von Oktober 1920 an; Du meinst natürlich 1921. Ich werde es schaffen; sobald Du mir Definitives sagst, werde ich Fühlung nehmen. – Hannah, ich bin vom 1. Jan ab ohne Geld; ich erfuhr, daß man mir meine Stadtvikariatsstelle zum Vorwurf macht, und auch meinem Vater, wegen seiner entgegengesetzten <pb n="2"/> kirchenpolitischen Stellung es verdenkt, daß ich vom Konsistorium gehalten werde. Ich habe mich entschlossen zu verzichten; gleichzeitig habe ich in <rs ref="#tillich_place_id__189" type="place">Halle</rs> auf ein Stipendium verzichtet, das auch in andrer Richtung gemeint war, als ich sie vertrete. Nun kommt die Frage, ob ich meine Wohnung z.<expan>um</expan> Teil vermieten soll; mir wird es schwer, zumal ich immer den Gedanken habe, sie für Dich freizuhalten; was denkst Du? Du mußt sehr bald im November kommen, nicht um irgend eine Unsicherheit zu überwinden; die gibt es von mir aus nicht, sondern um die selige Bestätigung der Einheit zu haben, die immer da ist, und um vieles zu besprechen. – Es ist ein merkwürdiges Gefühl, unmittelbar vor der materiellen Not zu stehen; aber der Gedanke an Dich macht mir alles leicht. – Wie stehst Du zu <rs ref="#tillich_person_id__705" type="person">Albert</rs>? Kannst Du ihn dahin führen, daß er von selbst fühlt, daß in Dir etwas ist, was weit über Eure Ehe hinausliegt, und daß er dieses bejaht? Das wäre Dein größtes Werk und wichtigstes zur Zeit. – – </p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__705">
-                  <persName>Gottschow, Albert</persName>
-                  <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__306">
-                  <placeName>München</placeName>
+<back><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
                   <location type="coords">
-                     <geo>48.13743 11.57549</geo>
+                     <geo>51.48158 11.97947</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2867714/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
-               </place>
-               <place xml:id="tillich_place_id__260">
-                  <placeName>Leipzig</placeName>
-                  <location type="coords">
-                     <geo>51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
                <place xml:id="tillich_place_id__596">
                   <placeName>Plauen</placeName>
@@ -112,13 +100,13 @@
                   <idno type="geonames">https://sws.geonames.org/2853292/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32227563</idno>
                </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
+               <place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
                   <location type="coords">
-                     <geo>51.48158 11.97947</geo>
+                     <geo>51.33962 12.37129</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
                </place>
                <place xml:id="tillich_place_id__567">
                   <placeName>Greiz</placeName>
@@ -128,5 +116,17 @@
                   <idno type="geonames">https://sws.geonames.org/2917737/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32041969</idno>
                </place>
-               </listPlace></back></text>
+               <place xml:id="tillich_place_id__306">
+                  <placeName>München</placeName>
+                  <location type="coords">
+                     <geo>48.13743 11.57549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2867714/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__705">
+                  <persName>Gottschow, Albert</persName>
+                  <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>

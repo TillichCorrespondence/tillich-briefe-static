@@ -95,5 +95,8 @@
 
       </body>
    <back><listBibl><bibl xml:id="tillich_work_id__86">Tillich, Paul, Die religiöse Lage der Gegenwart, Berlin 1926.</bibl>
-               </listBibl></back></text>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2947">
+                  <persName>R??, ???</persName>
+               </person>
+               </listPerson></back></text>
 </TEI>

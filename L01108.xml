@@ -120,8 +120,16 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1617">
-                  <persName>Ritter, Karl Bernhard</persName>
+   <back><listPerson><person xml:id="tillich_person_id__1045">
+                  <persName>Keßler, Harry Graf</persName>
+               </person>
+               <person xml:id="tillich_person_id__1503">
+                  <persName>Piscator, Erwin</persName>
+                  <occupation>Regisseur, Theaterleiter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1739">
+                  <persName>Schreiner, Helmuth</persName>
+                  <occupation>Professor für Praktische Theologie (zw. 1931-37 in Rostock); in Münster wurde er 1945 zum kommissarischen Dekan und 1946 zum Professor für Praktische Theologie an der Westfälischen Wilhelms-Universität berufen und gehörte bis zu seiner Emeritierung 1957 zu dem wesentlichen Kräften im Wiederaufbau der Evangelisch-Theologischen Fakultät</occupation>
                </person>
                <person xml:id="tillich_person_id__1756">
                   <persName>Schweitzer, Carl Gunther</persName>
@@ -132,12 +140,8 @@
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als katholischer Gutachter im Blasphemie-Prozess George Grosz'.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2866">
-                  <persName>Schloss, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1503">
-                  <persName>Piscator, Erwin</persName>
-                  <occupation>Regisseur, Theaterleiter</occupation>
+               <person xml:id="tillich_person_id__2865">
+                  <persName>Albrecht, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__2740">
                   <persName>Bondy, Curt</persName>
@@ -154,22 +158,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/116238011</idno>
                   <note type="bio"><p>Er wirkte unter anderem als Leiter des Jugendgefängnisses Eisenach.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2739">
-                  <persName>Krebs, Albert</persName>
-                  <birth>
-                     <date>1897-10-07</date>
-                  </birth>
-                  <death>
-                     <date>1992-02-12</date>
-                  </death>
-                  <occupation>Sozialpädagoge; Strafvollzugsreformer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118715844</idno>
-               </person>
-               <person xml:id="tillich_person_id__1045">
-                  <persName>Keßler, Harry Graf</persName>
-               </person>
-               <person xml:id="tillich_person_id__2865">
-                  <persName>Albrecht, Hans</persName>
+               <person xml:id="tillich_person_id__1617">
+                  <persName>Ritter, Karl Bernhard</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -185,10 +175,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1739">
-                  <persName>Schreiner, Helmuth</persName>
-                  <occupation>Professor für Praktische Theologie (zw. 1931-37 in Rostock); in Münster wurde er 1945 zum kommissarischen Dekan und 1946 zum Professor für Praktische Theologie an der Westfälischen Wilhelms-Universität berufen und gehörte bis zu seiner Emeritierung 1957 zu dem wesentlichen Kräften im Wiederaufbau der Evangelisch-Theologischen Fakultät</occupation>
                </person>
                <person xml:id="tillich_person_id__2407">
                   <persName>Pallenberg, Max</persName>
@@ -210,10 +196,24 @@
                <person xml:id="tillich_person_id__728">
                   <persName>Grosz, George</persName>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__216">Goldstein, Moritz, "George Grosz freigesprochen". Gerichtsreportagen aus der Weimarer Republik, Hamburg 2005.</bibl>
+               <person xml:id="tillich_person_id__2739">
+                  <persName>Krebs, Albert</persName>
+                  <birth>
+                     <date>1897-10-07</date>
+                  </birth>
+                  <death>
+                     <date>1992-02-12</date>
+                  </death>
+                  <occupation>Sozialpädagoge; Strafvollzugsreformer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118715844</idno>
+               </person>
+               <person xml:id="tillich_person_id__2866">
+                  <persName>Schloss, ???</persName>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__214">Aktenstücke aus dem Grosz-Prozeß, in: Neuwerk. Ein Dienst am Werdenden, 12. Jg. (1930/31), 291-309</bibl>
                <bibl xml:id="tillich_work_id__217">Vorwärts, div. Herausgeber, 1876ff.</bibl>
                <bibl xml:id="tillich_work_id__215">Schreiner, Helmuth, Die Hintergründe des Grosz-Prozesses, in: Zeitwende. Monatsschrift, hg. von Tim Klein/Otto Gründler/Friedrich Langenfaß, Jg. 7/1 (1931), 193-206.</bibl>
-               <bibl xml:id="tillich_work_id__214">Aktenstücke aus dem Grosz-Prozeß, in: Neuwerk. Ein Dienst am Werdenden, 12. Jg. (1930/31), 291-309</bibl>
+               <bibl xml:id="tillich_work_id__216">Goldstein, Moritz, "George Grosz freigesprochen". Gerichtsreportagen aus der Weimarer Republik, Hamburg 2005.</bibl>
                </listBibl><listPlace><place xml:id="tillich_place_id__615">
                   <placeName>Scheuen</placeName>
                   <location type="coords">

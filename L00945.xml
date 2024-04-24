@@ -113,8 +113,24 @@
         </closer>
      </div>
     </body>
-  <back><listBibl><bibl xml:id="tillich_work_id__1">Tillich, Paul, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen 1923.</bibl>
-               <bibl xml:id="tillich_work_id__165">Titius, Arthur (Hg.), Deutsche Theologie. Bericht über den ersten deutschen Theologentag zu Eisenach (Herbst 1927). Göttingen 1928.</bibl>
+  <back><listPlace><place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__132">
+                  <placeName>Eisenach</placeName>
+                  <location type="coords">
+                     <geo>50.98070 10.31522</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2931574/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31987608</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__165">Titius, Arthur (Hg.), Deutsche Theologie. Bericht über den ersten deutschen Theologentag zu Eisenach (Herbst 1927). Göttingen 1928.</bibl>
+               <bibl xml:id="tillich_work_id__1">Tillich, Paul, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen 1923.</bibl>
                </listBibl><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -134,21 +150,5 @@
                   <persName>Ruprecht, Günther</persName>
                   <occupation>Ein deutscher Verleger. Er leitete ab 1929 den Göttinger Verlag Vandenhoeck &amp; Ruprecht. Er war eine führende Kraft in der Jungreformatorischen Bewegung im Kirchenkampf innerhalb der Deutschen Evangelischen Kirche (DEK) in der Zeit des Nationalsozialismus</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__132">
-                  <placeName>Eisenach</placeName>
-                  <location type="coords">
-                     <geo>50.98070 10.31522</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2931574/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31987608</idno>
-               </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>
