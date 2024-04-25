@@ -87,11 +87,11 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1611">
-                  <persName>Rilke, Rainer Maria</persName>
-               </person>
-               <person xml:id="tillich_person_id__1394">
+<back><listPerson><person xml:id="tillich_person_id__1394">
                   <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1611">
+                  <persName>Rilke, Rainer Maria</persName>
                </person>
                <person xml:id="tillich_person_id__2807">
                   <persName>Burger, Fritz</persName>

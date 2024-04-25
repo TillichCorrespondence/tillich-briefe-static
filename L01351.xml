@@ -92,28 +92,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2020">
-                  <persName>Wegener, Carl Richard</persName>
-                  <birth>
-                     <date>1883-08-03</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1967-07-11</date>
-                     <settlement>
-                        <placeName>Neuruppin</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__129">
+<back><listPlace><place xml:id="tillich_place_id__129">
                   <placeName>Dölzig</placeName>
                   <location type="coords">
                      <geo>52.90062 14.37630</geo>
@@ -137,5 +116,26 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2020">
+                  <persName>Wegener, Carl Richard</persName>
+                  <birth>
+                     <date>1883-08-03</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1967-07-11</date>
+                     <settlement>
+                        <placeName>Neuruppin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
+               </person>
+               </listPerson></back></text>
 </TEI>

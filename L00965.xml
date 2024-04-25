@@ -102,7 +102,10 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2877">
+   <back><listPerson><person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__2877">
                   <persName>Zerener, Holm</persName>
                   <birth>
                      <date>1872-09-29</date>
@@ -111,9 +114,6 @@
                      </settlement>
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/11759637X</idno>
-               </person>
-               <person xml:id="tillich_person_id__1394">
-                  <persName>Nietzsche, Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

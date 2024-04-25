@@ -116,7 +116,15 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPlace><place xml:id="tillich_place_id__78">
+                  <placeName>Brüssel</placeName>
+                  <location type="coords">
+                     <geo>50.85045 4.34878</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2800866/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q239</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -157,13 +165,5 @@
                   <occupation>Politiker; Kommunist;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118642979</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__78">
-                  <placeName>Brüssel</placeName>
-                  <location type="coords">
-                     <geo>50.85045 4.34878</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2800866/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q239</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

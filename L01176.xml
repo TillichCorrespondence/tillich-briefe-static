@@ -91,15 +91,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__43">
-                  <placeName>Berlin-Neukölln</placeName>
-                  <location type="coords">
-                     <geo>52.47719 13.43126</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2864695/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q169492</idno>
-               </place>
-               <place xml:id="tillich_place_id__49">
+<back><listPlace><place xml:id="tillich_place_id__49">
                   <placeName>Berlin-Tempelhof</placeName>
                   <location type="coords">
                      <geo>52.46667 13.40000</geo>
@@ -107,24 +99,15 @@
                   <idno type="geonames">https://sws.geonames.org/2823538/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q363830</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+               <place xml:id="tillich_place_id__43">
+                  <placeName>Berlin-Neukölln</placeName>
+                  <location type="coords">
+                     <geo>52.47719 13.43126</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2864695/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q169492</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -143,6 +126,23 @@
                   <persName>Seeberger, Elisabeth</persName>
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
                <person xml:id="tillich_person_id__2041">
                   <persName>Werner, Marie Luise</persName>

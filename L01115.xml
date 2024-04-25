@@ -98,42 +98,21 @@
       
      </div>
     </body>
-  <back><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__118">
-                  <placeName>Darmstadt</placeName>
-                  <location type="coords">
-                     <geo>49.87167 8.65027</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2938913/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067893</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2371">
-                  <persName>Keyserling-Bismarck, Gräfin Goedela</persName>
+  <back><listPerson><person xml:id="tillich_person_id__2372">
+                  <persName>von Mallinckrodt-Schnitzler, Lilly</persName>
                   <birth>
-                     <date>1896-03-04</date>
+                     <date>1889-06-25</date>
                      <settlement>
-                        <placeName>Schönhausen (Elbe)</placeName>
+                        <placeName>Köln</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1981-06-12</date>
+                     <date>1981-06-26</date>
                      <settlement>
-                        <placeName>Darmstadt</placeName>
+                        <placeName>Murnau a. Staffelsee</placeName>
                      </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/106015850</idno>
-                  <note type="bio"><p>Sie war die Frau des Philosophen Hermann Graf Keyserling.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1570">
-                  <persName>Reichl, Otto</persName>
-                  <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116848715</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -153,22 +132,43 @@
                <person xml:id="tillich_person_id__1048">
                   <persName>Keyserling, Hermann Graf</persName>
                </person>
-               <person xml:id="tillich_person_id__2372">
-                  <persName>von Mallinckrodt-Schnitzler, Lilly</persName>
+               <person xml:id="tillich_person_id__1570">
+                  <persName>Reichl, Otto</persName>
+                  <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2371">
+                  <persName>Keyserling-Bismarck, Gräfin Goedela</persName>
                   <birth>
-                     <date>1889-06-25</date>
+                     <date>1896-03-04</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName>Schönhausen (Elbe)</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1981-06-26</date>
+                     <date>1981-06-12</date>
                      <settlement>
-                        <placeName>Murnau a. Staffelsee</placeName>
+                        <placeName>Darmstadt</placeName>
                      </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/116848715</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/106015850</idno>
+                  <note type="bio"><p>Sie war die Frau des Philosophen Hermann Graf Keyserling.</p></note>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__156">Hansert, Andreas, "...Frau von Schnitzler, reich, mondän und ziemlich intellektuell..." – Der Salon der Lilly von Schnitzler im Fft. der 20er und 30er Jahre. In: Archiv für Frankfurts Geschichte und Kunst 77 (2017): Frankfurter Frauengeschichte(n), S. 206-220.</bibl>
-               </listBibl></back></text>
+               </listBibl><listPlace><place xml:id="tillich_place_id__118">
+                  <placeName>Darmstadt</placeName>
+                  <location type="coords">
+                     <geo>49.87167 8.65027</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2938913/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067893</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

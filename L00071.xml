@@ -89,13 +89,13 @@
 <p>Herrliches Wetter</p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2528">
-                  <persName>Schmidt, (Frau)</persName>
-                  <note type="bio"><p>Sie stand in Kontakt mit Paul Tillichs Mutter und war eventuell die Frau von Pastor Schmidt (P02246).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2242">
+<back><listPerson><person xml:id="tillich_person_id__2242">
                   <persName>Schmidt</persName>
                   <occupation>Pfarrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2528">
+                  <persName>Schmidt, (Frau)</persName>
+                  <note type="bio"><p>Sie stand in Kontakt mit Paul Tillichs Mutter und war eventuell die Frau von Pastor Schmidt (P02246).</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

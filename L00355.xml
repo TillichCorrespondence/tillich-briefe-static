@@ -370,7 +370,15 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__561">
+<back><listPlace><place xml:id="tillich_place_id__181">
+                  <placeName>Greifswald</placeName>
+                  <location type="coords">
+                     <geo>54.09311 13.38786</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2917788/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041909</idno>
+               </place>
+               <place xml:id="tillich_place_id__561">
                   <placeName>Bad Doberan</placeName>
                   <location type="coords">
                      <geo>54.10712 11.90051</geo>
@@ -385,14 +393,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__181">
-                  <placeName>Greifswald</placeName>
-                  <location type="coords">
-                     <geo>54.09311 13.38786</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2917788/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041909</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2760">
                   <persName>Klein, Peter</persName>

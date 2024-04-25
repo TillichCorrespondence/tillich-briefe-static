@@ -92,17 +92,17 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__177">
+   <back><listPlace><place xml:id="tillich_place_id__177">
                   <placeName>Glarnerland</placeName>
                   <location type="coords">
                      <geo>47.09858 9.06247</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6458011/</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

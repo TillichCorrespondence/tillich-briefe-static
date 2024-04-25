@@ -142,51 +142,23 @@
    
    
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1829">
-                  <persName>Spiegelberg, Friedrich</persName>
+<back><listPerson><person xml:id="tillich_person_id__2443">
+                  <persName>Janentzky, Christian</persName>
                   <birth>
-                     <date>1897-05-24</date>
+                     <date>1886-01-29</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName>Rostock</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1994</date>
-                  </death>
-                  <occupation>Religionswissenschaftler</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
-                  <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2361">
-                  <persName>???, Elis</persName>
-               </person>
-               <person xml:id="tillich_person_id__2358">
-                  <persName>Stepun, Natalja Nikolaevna</persName>
-                  <death>
-                     <date>1961</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/1107814014</idno>
-                  <note type="bio"><p>Sie war die Frau von Fedor Stepun und war bekannt als Natascha.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__218">
-                  <persName>Bienert, Erwin</persName>
-               </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
+                     <date>1968-08-27</date>
                      <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
+                        <placeName>Dresden</placeName>
                      </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+                  <occupation>Literaturwissenschaftler; Bibliotheksdirektor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117078190</idno>
+                  <note type="bio"><p>Er wirkte als Direktor der Bibliothek der TH Dresden.</p></note>
                </person>
                <person xml:id="tillich_person_id__1699">
                   <persName>Schairer, Reinhold</persName>
@@ -208,23 +180,51 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2443">
-                  <persName>Janentzky, Christian</persName>
+               <person xml:id="tillich_person_id__2358">
+                  <persName>Stepun, Natalja Nikolaevna</persName>
+                  <death>
+                     <date>1961</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1107814014</idno>
+                  <note type="bio"><p>Sie war die Frau von Fedor Stepun und war bekannt als Natascha.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2361">
+                  <persName>???, Elis</persName>
+               </person>
+               <person xml:id="tillich_person_id__1829">
+                  <persName>Spiegelberg, Friedrich</persName>
                   <birth>
-                     <date>1886-01-29</date>
+                     <date>1897-05-24</date>
                      <settlement>
-                        <placeName>Rostock</placeName>
+                        <placeName>Hamburg</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1968-08-27</date>
+                     <date>1994</date>
+                  </death>
+                  <occupation>Religionswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
+                  <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
                      <settlement>
-                        <placeName>Dresden</placeName>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
                      </settlement>
                   </death>
-                  <occupation>Literaturwissenschaftler; Bibliotheksdirektor;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117078190</idno>
-                  <note type="bio"><p>Er wirkte als Direktor der Bibliothek der TH Dresden.</p></note>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__218">
+                  <persName>Bienert, Erwin</persName>
                </person>
                </listPerson></back></text>
 </TEI>

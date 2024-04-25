@@ -132,7 +132,8 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2626">
+<back><listBibl><bibl xml:id="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2626">
                   <persName>Dobschütz, Ernst von</persName>
                   <birth>
                      <date>1870-10-09</date>
@@ -149,23 +150,6 @@
                   <occupation>Dekan;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116151420</idno>
                   <note type="bio"><p>Er war Dekan der Theologischen Fakultät während Paul Tillichs Habilitationsvorlesung in Halle.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2708">
-                  <persName>Meyer, Gottfried</persName>
-                  <birth>
-                     <date>1855-12-23</date>
-                     <settlement>
-                        <placeName>Marienburg (Westpreußen, Region)</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1933-06-04</date>
-                     <settlement>
-                        <placeName>Bonn</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Rechtswissenschaftler; Kurator der Universität Halle;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1104756838</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -186,6 +170,23 @@
                   <persName>Kattenbusch, Ferdinand</persName>
                   <occupation>Evangelischer Theologe, Wingolf</occupation>
                </person>
+               <person xml:id="tillich_person_id__2708">
+                  <persName>Meyer, Gottfried</persName>
+                  <birth>
+                     <date>1855-12-23</date>
+                     <settlement>
+                        <placeName>Marienburg (Westpreußen, Region)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1933-06-04</date>
+                     <settlement>
+                        <placeName>Bonn</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Rechtswissenschaftler; Kurator der Universität Halle;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1104756838</idno>
+               </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                   <location type="coords">
@@ -194,6 +195,5 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

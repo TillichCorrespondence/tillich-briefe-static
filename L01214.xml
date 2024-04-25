@@ -106,7 +106,11 @@
             </postscript>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1214">
+                  <persName>Löwith, Karl</persName>
+                  <occupation>Philosoph</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -136,10 +140,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
-               </person>
-               <person xml:id="tillich_person_id__1214">
-                  <persName>Löwith, Karl</persName>
-                  <occupation>Philosoph</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>

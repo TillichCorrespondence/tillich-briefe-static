@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01160.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01159.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01161.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Postkarte von Paul Tillich an Oskar Siebeck vom 10. Oktober 1932 [PS]</title>
+            <author ref="#tillich_person_id__1928">Paul Tillich</author>
+            <respStmt>
+               <resp>Editor</resp>
+               <name>Sebastian Kueffner</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title type="editionstitel">Edition der Korrespondenz von Paul Tillich
+                  1887-1933</title>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Institut für Systematische Theologie und Religionswissenschaft</name>
+               <address>
+                  <street>Schenkenstraße 8-10</street>
+                  <postCode>1010</postCode>
+                  <placeName ref="#tillich_place_id__470">
+                     <settlement>Wien</settlement>
+                     <country>Österreich</country>
+                  </placeName>
+               </address>
+            </publisher>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="copy">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement ref="#tillich_place_id__37">Berlin</settlement>
+                  <repository>Staatsbibliothek zu Berlin Preußischer Kulturbesitz</repository>
+                  <collection>Handschriftenabteilung, Archiv des Verlages J. C. B. Mohr (Paul
+                     Siebeck)</collection>
+                  <idno>Nachl. 488, A 0469,5; Blatt 143-205</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Postkarte, nach <placeName ref="tillich_place_id__448">Tübingen</placeName>,
+                     maschinenschriftlich</p>
+               </physDesc>
+            </msDesc>
+            <biblStruct type="journal">
+               <monogr>
+                  <author>Alf Christophersen/Friedrich Wilhelm Graf</author>
+                  <title>"Beweise einer unsichtbaren Beziehung" Die Korrespondenz zwischen Paul
+                     Tillich und dem Tübinger Verlag J. C. B. Mohr (Paul Siebeck)</title>
+                  <imprint>
+                     <pubPlace ref="#tillich_place_id__37">Berlin/</pubPlace>
+                     <pubPlace ref="#tillich_place_id__70">Boston, MA</pubPlace>
+                     <date when="2011">2011</date>
+                     <biblScope>237-403, hier: S. 342</biblScope>
+                  </imprint>
+               </monogr>
+               <series>
+                  <title>International Yearbook for Tillich Research</title>
+                  <biblScope>Band 6 Heft 1</biblScope>
+               </series>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl.
+               https://www.deutschestextarchiv.de/doku/basisformat/</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+               <placeName ref="#tillich_place_id__356">Potsdam</placeName>
+               <date when="1932-10-10">10.10.1932</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#tillich_person_id__1780">Oskar Siebeck</persName>
+               <placeName ref="tillich_place_id__448">Tübingen</placeName>
+            </correspAction>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01159">Brief von der SPD Groß-Frankfurt an Paul Tillich vom 07. Oktober 1932</ref><ref subtype="next_letter" type="withinCollection" target="L01161">Brief von Verlag Mohr Siebeck an Paul Tillich vom 14. Oktober 1932</ref><ref subtype="next_letter" type="withinCorrespondence" target="L01162">Brief von Oskar Siebeck an Paul Tillich vom 7. Novemeber 1932</ref></correspContext></correspDesc>
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="approved">
+         <change who="SK" when="2023-05-16">Intitale Auszeichnung des Transkripts</change>
+         <change who="PS" when="2024-02-21">Endabnahme</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="postcard">
+      <body>
+         <div type="writingSession">
+            <pb n="1"/>
+            <opener>
+               <salute>Sehr<note type="eb">Erklärende Anmerkungen zu vorliegendem Brief wurden (ggf.
+                     geringfügig abgewandelt) aus seiner Erstveröffentlichung übernommen.</note>
+                  geehrter <rs ref="#tillich_person_id__1780" type="person">Herr
+                  Siebeck</rs>!</salute>
+            </opener>
+            <p><rs ref="#tillich_person_id__1291" type="person">Herr Professor Medicus</rs> schreibt
+               mir, Sie wünschten den Vertrag über die Metaphysik abzuschliessen. Es läge Ihnen aber
+               daran, von mir zu erfahren, dass meine Arbeit 25 Bogen nicht überschreiten würde. Ich
+               bin gern bereit, Ihnen diese Zusicherung zu machen, da ich gewohnt bin, meine
+               Gedanken in knapper Form zu sagen. Ich sehe Ihrem Entwurf entgegen.</p>
+            <closer>
+               <salute>Mit bestem Gruss<lb/>Ihr sehr ergebener</salute>
+               <signed><rs ref="#tillich_person_id__1928" type="person"><hi rend="hand">P.
+                        Tillich</hi></rs></signed><note type="ea" resp="PS">Vgl. Oskar Siebeck an
+                  Fritz Medicus, 22.10.1932 (VA, A Nr. 467 1932 Led-Pla). Vgl. dann auch Siebeck an
+                  Medicus, 22.10.1932 (ebd.): "Den letzten Bescheid, den ich von Herrn Professor
+                  Tillich wegen seiner 'Metaphysik' hatte, habe ich Ihnen in meinem Breif vom 12.
+                  ds. Mits. [sic!] mitgeteilt. Zufällig ist mir über die Verträge, die er mit Reichl
+                  hatte, Einiges bekannt. Ich möchte ihm daher am liebsten für einen Band von 25
+                  Druckbogen, bei dem man trotz seiner Zusicherung vorsichtshalber eine
+                  Ueberschreitung von 20% in Anschlag wird bringen müssen, entweder ein nach
+                  Druckvollendung in einer Summe zahlbares festes Honorar von M. 3000.-, oder ein
+                  Beteiligungshonorar von 15% vom Ladenpreis des verkauften broschierten Exemplares,
+                  über das Massgabe des jährlichen Absatzes abzurechnen wäre, anbieten. Die Auflage
+                  können wir in diesem Fall wohl bedenklich mit 2500 Exemplaren unverädert bestehen
+                  lassen."</note>
+            </closer>
+         </div>
+      </body>
+   <back><listPerson><person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1780">
+                  <persName>Siebeck, Oskar</persName>
+                  <occupation>Deutscher Verleger</occupation>
+               </person>
+               </listPerson></back></text>
+</TEI>

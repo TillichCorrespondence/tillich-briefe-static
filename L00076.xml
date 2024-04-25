@@ -112,42 +112,7 @@
 <closer><signed>D. tr. <rs ref="#tillich_person_id__1930" type="person">M. T.</rs></signed></closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__213">
-                  <placeName>Hohen Neuendorf</placeName>
-                  <location type="coords">
-                     <geo>52.67631 13.27775</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
-               </place>
-               <place xml:id="tillich_place_id__57">
-                  <placeName>Bertrich</placeName>
-                  <location type="coords">
-                     <geo>50.06667 7.03333</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2953543/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31896761</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1926">
-                  <persName>Tillich, Oskar</persName>
-                  <birth>
-                     <date>1828</date>
-                  </birth>
-                  <death>
-                     <date>1914</date>
-                  </death>
-                  <occupation>Großvater</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
-               </person>
-               <person xml:id="tillich_person_id__1930">
-                  <persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1925">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -166,9 +131,44 @@
                   <persName>Dürselen, Gustav</persName>
                   <note type="bio"><p>Er war ein Großvater von Paul Tillich.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1930">
+                  <persName>Tillich, Marie</persName>
+                  <occupation>Großmutter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
+               </person>
                <person xml:id="tillich_person_id__2238">
                   <persName>Dürselen, Amalia Gertrud Mathilde</persName>
                   <note type="bio"><p>Sie war eine Großmutter von Paul Tillich.</p></note>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__1926">
+                  <persName>Tillich, Oskar</persName>
+                  <birth>
+                     <date>1828</date>
+                  </birth>
+                  <death>
+                     <date>1914</date>
+                  </death>
+                  <occupation>Großvater</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__57">
+                  <placeName>Bertrich</placeName>
+                  <location type="coords">
+                     <geo>50.06667 7.03333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953543/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31896761</idno>
+               </place>
+               <place xml:id="tillich_place_id__213">
+                  <placeName>Hohen Neuendorf</placeName>
+                  <location type="coords">
+                     <geo>52.67631 13.27775</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01146.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01144.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01150.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01146.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01144.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01147.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,7 +85,7 @@
             <correspAction type="received">
                <persName ref="#tillich_person_id__2440">Verlag Mohr Siebeck</persName>
             </correspAction>
-         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01144">Postkarte von Paul Tillich an Verlag Mohr Siebeck vom 8. Mai 1932</ref><ref subtype="next_letter" type="withinCollection" target="L01150">Brief von Paul Tillich an Fritz Medicus vom 07. Juli 1932</ref></correspContext></correspDesc>
+         <correspContext><ref subtype="previous_letter" type="withinCollection" target="L01144">Postkarte von Paul Tillich an Verlag Mohr Siebeck vom 8. Mai 1932</ref><ref subtype="next_letter" type="withinCollection" target="L01147">Brief von Paul Tillich an Verlag Mohr Siebeck(Oskar Siebeck) vom 22. Mai 1932</ref></correspContext></correspDesc>
          <langUsage>
             <language ident="deu">Deutsch</language>
          </langUsage>
@@ -119,24 +119,10 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__240">Tillich, Paul: Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__2470">
+                  <persName>Sulzbach, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -169,8 +155,22 @@
                   <idno type="gnd">https://d-nb.info/gnd/11875355X</idno>
                   <note type="bio"><p>Fedor S. wurde in Moskau geboren, wo er auch zur Schule ging. Seine Familie hatte deutsch-litauische Herkunft. 1910 wurde er in Heidelberg im Fach Philosophie promoviert. Nach dem Studium Rückkehr nach Russland, 1922 infolge der Oktoberrevolution zunächst verhaftet, dann ausgewiesen. Seit 1926 lehrte er an der Technischen Hochschule Dresden. 1937 wurde er entlassen und erhielt Schreibverbot. Die Kriegsjahre verbrachte er in Deutschland, ab 1946 lehrte er als Professor für russische Geistesgeschichte an der Universität München. Nachdem frühen Tod seiner ersten Frau hatte Fedor S. im Jahr 1911 Natascha geheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2470">
-                  <persName>Sulzbach, ???</persName>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__240">Tillich, Paul: Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

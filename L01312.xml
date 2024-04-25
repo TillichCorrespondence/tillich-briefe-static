@@ -107,12 +107,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1792">
-                  <persName>Simon, Hugo</persName>
-                  <occupation>Bankier und Mäzen</occupation>
-                  <note type="bio"><p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__279">
+<back><listPlace><place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
                   <location type="coords">
                      <geo>50.80904 8.77069</geo>
@@ -120,5 +115,10 @@
                   <idno type="geonames">https://sws.geonames.org/2873759/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1792">
+                  <persName>Simon, Hugo</persName>
+                  <occupation>Bankier und Mäzen</occupation>
+                  <note type="bio"><p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

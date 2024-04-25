@@ -88,34 +88,9 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__526">
-                  <placeName>Arnhem</placeName>
-                  <location type="coords">
-                     <geo>51.98000 5.91111</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2759661/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1310</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2663">
+<back><listPerson><person xml:id="tillich_person_id__2663">
                   <persName>Berger, ???</persName>
                   <note type="bio"><p>Es handelt sich um die Frau von Geza Berger.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -135,5 +110,30 @@
                <person xml:id="tillich_person_id__190">
                   <persName>Berger, Geza</persName>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__526">
+                  <placeName>Arnhem</placeName>
+                  <location type="coords">
+                     <geo>51.98000 5.91111</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2759661/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1310</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>
