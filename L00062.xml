@@ -173,17 +173,18 @@
 <signed>Deine <rs ref="#tillich_person_id__2085" type="person">Tante Toni</rs></signed></closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__800">
-                  <persName>Harder, Erich</persName>
-                  <occupation>Pfarrer;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2225">
-                  <persName>Dürselen, Johanna Amalia Eugenia</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2085">
+<back><listPerson><person xml:id="tillich_person_id__2085">
                   <persName>Winkler, Toni</persName>
                   <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2192">
+                  <persName>???, Therese</persName>
+                  <occupation>Gemeindeschwester;</occupation>
+                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2224">
+                  <persName>Dürselen , Paul Rudolf</persName>
+                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
@@ -196,6 +197,15 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2225">
+                  <persName>Dürselen, Johanna Amalia Eugenia</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -216,38 +226,20 @@
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
+               <person xml:id="tillich_person_id__800">
+                  <persName>Harder, Erich</persName>
+                  <occupation>Pfarrer;</occupation>
+               </person>
                <person xml:id="tillich_person_id__586">
                   <persName>Feuerbach, Ludwig</persName>
                </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2192">
-                  <persName>???, Therese</persName>
-                  <occupation>Gemeindeschwester;</occupation>
-                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2224">
-                  <persName>Dürselen , Paul Rudolf</persName>
-                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__34">
-                  <placeName>Belzig</placeName>
+               </listPerson><listPlace><place xml:id="tillich_place_id__213">
+                  <placeName>Hohen Neuendorf</placeName>
                   <location type="coords">
-                     <geo>52.14184 12.59272</geo>
+                     <geo>52.67631 13.27775</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2951134/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31909574</idno>
-               </place>
-               <place xml:id="tillich_place_id__181">
-                  <placeName>Greifswald</placeName>
-                  <location type="coords">
-                     <geo>54.09311 13.38786</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2917788/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041909</idno>
+                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
                </place>
                <place xml:id="tillich_place_id__164">
                   <placeName>Freiburg</placeName>
@@ -257,13 +249,21 @@
                   <idno type="geonames">https://sws.geonames.org/2925177/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
                </place>
-               <place xml:id="tillich_place_id__213">
-                  <placeName>Hohen Neuendorf</placeName>
+               <place xml:id="tillich_place_id__375">
+                  <placeName>Ruppin</placeName>
                   <location type="coords">
-                     <geo>52.67631 13.27775</geo>
+                     <geo>52.94833 12.84800</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
+                  <idno type="geonames">https://sws.geonames.org/2956883/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q433253</idno>
+               </place>
+               <place xml:id="tillich_place_id__34">
+                  <placeName>Belzig</placeName>
+                  <location type="coords">
+                     <geo>52.14184 12.59272</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2951134/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31909574</idno>
                </place>
                <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
@@ -273,13 +273,13 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               <place xml:id="tillich_place_id__375">
-                  <placeName>Ruppin</placeName>
+               <place xml:id="tillich_place_id__181">
+                  <placeName>Greifswald</placeName>
                   <location type="coords">
-                     <geo>52.94833 12.84800</geo>
+                     <geo>54.09311 13.38786</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2956883/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q433253</idno>
+                  <idno type="geonames">https://sws.geonames.org/2917788/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041909</idno>
                </place>
                </listPlace></back></text>
 </TEI>

@@ -95,12 +95,12 @@
 <back><listPerson><person xml:id="tillich_person_id__2835">
                   <persName>Grassmann, ???</persName>
                </person>
-               <person xml:id="tillich_person_id__2836">
-                  <persName>Beissmann, ???</persName>
-               </person>
                <person xml:id="tillich_person_id__567">
                   <persName>Fabricius, Cajus</persName>
                   <occupation>Theologe , Universitätslehrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2836">
+                  <persName>Beissmann, ???</persName>
                </person>
                <person xml:id="tillich_person_id__808">
                   <persName>Harnack, Adolf von</persName>

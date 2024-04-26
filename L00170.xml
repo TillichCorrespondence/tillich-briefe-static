@@ -128,8 +128,31 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2529">
-                  <persName>???, Anna</persName>
+<back><listPlace><place xml:id="tillich_place_id__19">
+                  <placeName>Bad Hersfeld</placeName>
+                  <location type="coords">
+                     <geo>50.87197 9.70891</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
+               </place>
+               <place xml:id="tillich_place_id__46">
+                  <placeName>Berlin-Schöneberg</placeName>
+                  <location type="coords">
+                     <geo>52.46667 13.35000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2836788/</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__2085">
                   <persName>Winkler, Toni</persName>
@@ -146,6 +169,9 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2529">
+                  <persName>???, Anna</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -171,31 +197,5 @@
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1295">
-                  <persName>Meinhof, Heinrich</persName>
-                  <occupation>Leibfux von Paul Tillich</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__19">
-                  <placeName>Bad Hersfeld</placeName>
-                  <location type="coords">
-                     <geo>50.87197 9.70891</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
-               </place>
-               <place xml:id="tillich_place_id__46">
-                  <placeName>Berlin-Schöneberg</placeName>
-                  <location type="coords">
-                     <geo>52.46667 13.35000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2836788/</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

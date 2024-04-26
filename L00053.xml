@@ -122,63 +122,10 @@
                nicht dazu kommen kannst.</p>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__245">
-                  <placeName>Königsberg/Neumark</placeName>
-                  <location type="coords">
-                     <geo>52.96389 14.42797</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3101675/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q954157</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__34">
-                  <placeName>Belzig</placeName>
-                  <location type="coords">
-                     <geo>52.14184 12.59272</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2951134/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31909574</idno>
-               </place>
-               <place xml:id="tillich_place_id__225">
-                  <placeName>Jerusalem</placeName>
-                  <location type="coords">
-                     <geo>31.76904 35.21633</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/281184/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1218</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2704">
+<back><listBibl><bibl xml:id="tillich_work_id__109">Anonym: Landeskirchliche Versammlung. (Eigener Bericht.), in: Vossische Zeitung, Nr. 207, 4. Mai 1905, Morgen-Ausgabe, Fünfte Beilage.</bibl>
+               <bibl xml:id="tillich_work_id__117">Lütgert, Wilhelm, Christentum und Theologie, in: Positive Union. Kirchliche Monatsschrift, Nr. 6, Juni 1905, 121–128.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2704">
                   <persName>Martin, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2717">
-                  <persName>Harder, Braut</persName>
-               </person>
-               <person xml:id="tillich_person_id__2716">
-                  <persName>Riedel, ???</persName>
-                  <note type="bio"><p>Er hatte einen Doktortitel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__2253">
                   <persName>Lepsius, Johannes</persName>
@@ -196,21 +143,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11694580X</idno>
                </person>
-               <person xml:id="tillich_person_id__1864">
-                  <persName>Stöcker, Adolf</persName>
-                  <birth>
-                     <date>1835-12-11</date>
-                     <settlement>
-                        <placeName>Halberstadt</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1909-02-07</date>
-                     <settlement>
-                        <placeName>Gries (Bozen)</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118618393</idno>
+               <person xml:id="tillich_person_id__2716">
+                  <persName>Riedel, ???</persName>
+                  <note type="bio"><p>Er hatte einen Doktortitel.</p></note>
                </person>
                <person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
@@ -223,14 +158,12 @@
                   <occupation>Systematischer Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
                </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
-               <person xml:id="tillich_person_id__800">
-                  <persName>Harder, Erich</persName>
-                  <occupation>Pfarrer;</occupation>
+               <person xml:id="tillich_person_id__2703">
+                  <persName>Schmidt, Eugenie</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -250,10 +183,77 @@
                <person xml:id="tillich_person_id__2705">
                   <persName>Titzke, ???</persName>
                </person>
-               <person xml:id="tillich_person_id__2703">
-                  <persName>Schmidt, Eugenie</persName>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__109">Anonym: Landeskirchliche Versammlung. (Eigener Bericht.), in: Vossische Zeitung, Nr. 207, 4. Mai 1905, Morgen-Ausgabe, Fünfte Beilage.</bibl>
-               <bibl xml:id="tillich_work_id__117">Lütgert, Wilhelm, Christentum und Theologie, in: Positive Union. Kirchliche Monatsschrift, Nr. 6, Juni 1905, 121–128.</bibl>
-               </listBibl></back></text>
+               <person xml:id="tillich_person_id__1864">
+                  <persName>Stöcker, Adolf</persName>
+                  <birth>
+                     <date>1835-12-11</date>
+                     <settlement>
+                        <placeName>Halberstadt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1909-02-07</date>
+                     <settlement>
+                        <placeName>Gries (Bozen)</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118618393</idno>
+               </person>
+               <person xml:id="tillich_person_id__800">
+                  <persName>Harder, Erich</persName>
+                  <occupation>Pfarrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2717">
+                  <persName>Harder, Braut</persName>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__225">
+                  <placeName>Jerusalem</placeName>
+                  <location type="coords">
+                     <geo>31.76904 35.21633</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/281184/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1218</idno>
+               </place>
+               <place xml:id="tillich_place_id__34">
+                  <placeName>Belzig</placeName>
+                  <location type="coords">
+                     <geo>52.14184 12.59272</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2951134/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31909574</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__245">
+                  <placeName>Königsberg/Neumark</placeName>
+                  <location type="coords">
+                     <geo>52.96389 14.42797</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3101675/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q954157</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

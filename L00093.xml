@@ -131,13 +131,25 @@
 </figure>!</p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2226">
-                  <persName>???, Anton von</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+<back><listPerson><person xml:id="tillich_person_id__1591">
+                  <persName>Rhein, Christoph</persName>
+                  <occupation>Pfarrer in Berlin, Verfasser einer der ersten Dissertation zu „Paul Tillich – Philosoph und Theologe“, Eine Einführung in sein Denken, Evangelisches Verlagswerk, Stuttgart 1957.</occupation>
                </person>
                <person xml:id="tillich_person_id__2168">
                   <persName>Schuster, Daniel</persName>
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2226">
+                  <persName>???, Anton von</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2155">
+                  <persName>Voget, Hans</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2154">
+                  <persName>Stosch, Martin</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
@@ -154,18 +166,6 @@
                <person xml:id="tillich_person_id__788">
                   <persName>Hanffstengel, Gottfried von</persName>
                   <occupation>Theologe, Jugendfreund</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2154">
-                  <persName>Stosch, Martin</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1591">
-                  <persName>Rhein, Christoph</persName>
-                  <occupation>Pfarrer in Berlin, Verfasser einer der ersten Dissertation zu „Paul Tillich – Philosoph und Theologe“, Eine Einführung in sein Denken, Evangelisches Verlagswerk, Stuttgart 1957.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2155">
-                  <persName>Voget, Hans</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

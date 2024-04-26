@@ -96,8 +96,7 @@
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__53">Tillich, Paul, 2. Kor 4,17f - Auf das Unsichtbare und Ewige sehen, in: Ders., Frühe Predigten (EW VII), hg. von Erdmann Sturm, Berlin/New York 1994, S. 408-411.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -116,5 +115,6 @@
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__53">Tillich, Paul, 2. Kor 4,17f - Auf das Unsichtbare und Ewige sehen, in: Ders., Frühe Predigten (EW VII), hg. von Erdmann Sturm, Berlin/New York 1994, S. 408-411.</bibl>
+               </listBibl></back></text>
 </TEI>

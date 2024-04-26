@@ -119,23 +119,22 @@
                   <idno type="geonames">https://sws.geonames.org/2873759/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2841">
-                  <persName>Prof. Bornhausen</persName>
-               </person>
-               <person xml:id="tillich_person_id__641">
-                  <persName>Fritz, Alfred</persName>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2447">
+                  <persName>Thurmann, Theodor</persName>
                   <birth>
-                     <date>1886</date>
+                     <date>1882</date>
                   </birth>
                   <death>
-                     <date>1963</date>
+                     <date>[nach 1953]</date>
                   </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+                  <occupation>Verwaltungsjurist;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/133789152</idno>
+                  <note type="bio"><p>Als Verwaltungsjurist wirkte er vor allem in Berlin.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1178">
-                  <persName>Liebert, Arthur</persName>
+               <person xml:id="tillich_person_id__1794">
+                  <persName>Simons, Hans</persName>
+                  <occupation>Jurist, Politikwissenschaftler und Ministerialbeamter</occupation>
+                  <note type="bio"><p>Studium der Rechts- und Staatswissenschaften in Berlin, München, Tübingen und Bonn. Im Krieg wurde er als Soldat 1917 schwer verwundet und arbeitete im Anschluss als Verwaltungsbeamter. Nach Kriegsende Mitbegründung der Deutschen Liga für Völkerbund. 1920 nahm er sein Studium in Königsberg wieder auf und wurde im Folgejahr promoviert. Er arbeitete zunächst als Geschäftsführer der Deutschen Hochschule für Politik, bevor er 1922 ins Reichsministerium des Inneren und 1923 ins preußische Innenministerium wechselte. 1925-1929 war er als Professor und Direktor wieder an der Deutschen Hochschule für Politik beschäftigt, ab 1927 zudem als Ministerialbeamter wieder im preußischen Innenministerium. Mitglied der SPD und Mitarbeiter der von Tillich herausgegebenen Neuen Blätter für den Sozialismus. Nach dem Preußenschlag 1932 wurde er zunächst suspendiert, 1933 endgültig entlassen. Er ging zunächst in die Schweiz und nahm 1934 einen Ruf der New School for Social Research in New York an, als deren Dekan (Politik- und Sozialwissenschaftliche Fakultät) er 1943-1950 und als deren Präsident er 1950-1960 fungierte.</p></note>
                </person>
                <person xml:id="tillich_person_id__1696">
                   <persName>Schafft, Hermann</persName>
@@ -149,28 +148,29 @@
                   <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
                   <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1807">
-                  <persName>Soden, Hans Freiherr von</persName>
-               </person>
                <person xml:id="tillich_person_id__2840">
                   <persName>Müller, Margot</persName>
                </person>
-               <person xml:id="tillich_person_id__1794">
-                  <persName>Simons, Hans</persName>
-                  <occupation>Jurist, Politikwissenschaftler und Ministerialbeamter</occupation>
-                  <note type="bio"><p>Studium der Rechts- und Staatswissenschaften in Berlin, München, Tübingen und Bonn. Im Krieg wurde er als Soldat 1917 schwer verwundet und arbeitete im Anschluss als Verwaltungsbeamter. Nach Kriegsende Mitbegründung der Deutschen Liga für Völkerbund. 1920 nahm er sein Studium in Königsberg wieder auf und wurde im Folgejahr promoviert. Er arbeitete zunächst als Geschäftsführer der Deutschen Hochschule für Politik, bevor er 1922 ins Reichsministerium des Inneren und 1923 ins preußische Innenministerium wechselte. 1925-1929 war er als Professor und Direktor wieder an der Deutschen Hochschule für Politik beschäftigt, ab 1927 zudem als Ministerialbeamter wieder im preußischen Innenministerium. Mitglied der SPD und Mitarbeiter der von Tillich herausgegebenen Neuen Blätter für den Sozialismus. Nach dem Preußenschlag 1932 wurde er zunächst suspendiert, 1933 endgültig entlassen. Er ging zunächst in die Schweiz und nahm 1934 einen Ruf der New School for Social Research in New York an, als deren Dekan (Politik- und Sozialwissenschaftliche Fakultät) er 1943-1950 und als deren Präsident er 1950-1960 fungierte.</p></note>
+               <person xml:id="tillich_person_id__1807">
+                  <persName>Soden, Hans Freiherr von</persName>
                </person>
-               <person xml:id="tillich_person_id__2447">
-                  <persName>Thurmann, Theodor</persName>
+               <person xml:id="tillich_person_id__1178">
+                  <persName>Liebert, Arthur</persName>
+               </person>
+               <person xml:id="tillich_person_id__2841">
+                  <persName>Prof. Bornhausen</persName>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
                   <birth>
-                     <date>1882</date>
+                     <date>1886</date>
                   </birth>
                   <death>
-                     <date>[nach 1953]</date>
+                     <date>1963</date>
                   </death>
-                  <occupation>Verwaltungsjurist;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/133789152</idno>
-                  <note type="bio"><p>Als Verwaltungsjurist wirkte er vor allem in Berlin.</p></note>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

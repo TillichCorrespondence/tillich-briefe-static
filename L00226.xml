@@ -96,11 +96,7 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2525">
-                  <persName>???, Claus</persName>
-                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -118,6 +114,10 @@
                <person xml:id="tillich_person_id__1635">
                   <persName>Röhricht, Eberhard</persName>
                   <occupation>Pfarrer Berlin-Dahlem</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2525">
+                  <persName>???, Claus</persName>
+                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

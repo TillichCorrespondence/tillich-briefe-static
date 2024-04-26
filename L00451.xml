@@ -114,20 +114,20 @@
                 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__342">
+<back><listPlace><place xml:id="tillich_place_id__90">
+                  <placeName>Champagne</placeName>
+                  <location type="coords">
+                     <geo>49.00000 4.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3027258/</idno>
+               </place>
+               <place xml:id="tillich_place_id__342">
                   <placeName>Pargny</placeName>
                   <location type="coords">
                      <geo>49.81320 2.95190</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6454768/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q490478</idno>
-               </place>
-               <place xml:id="tillich_place_id__90">
-                  <placeName>Champagne</placeName>
-                  <location type="coords">
-                     <geo>49.00000 4.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3027258/</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>

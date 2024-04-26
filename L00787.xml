@@ -120,6 +120,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2874545/</idno>
                </place>
+               <place xml:id="tillich_place_id__565">
+                  <placeName>Kreiensen</placeName>
+                  <location type="coords">
+                     <geo>51.85363 9.96481</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2884482/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q503423</idno>
+               </place>
                <place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
                   <location type="coords">
@@ -135,14 +143,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2918632/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
-               </place>
-               <place xml:id="tillich_place_id__565">
-                  <placeName>Kreiensen</placeName>
-                  <location type="coords">
-                     <geo>51.85363 9.96481</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2884482/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q503423</idno>
                </place>
                </listPlace></back></text>
 </TEI>

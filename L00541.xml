@@ -97,11 +97,7 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2724">
-                  <persName>Grimms, ???</persName>
-                  <note type="bio"><p>Es handelt sich um eine Person aus der Verwaltung der Evangelischen Kirche in Berlin oder Brandenburg, die Paul Tillich eine Hilfspredigerstelle während des Ersten Weltkriegs verschaffen sollte.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1852">
+   <back><listPerson><person xml:id="tillich_person_id__1852">
                   <persName>Steinhausen, Hermann</persName>
                   <birth>
                      <date>1854-10-07</date>
@@ -117,6 +113,10 @@
                   </death>
                   <occupation>Konsistorialpräsident in Berlin von 1904–1925</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1111512221</idno>
+               </person>
+               <person xml:id="tillich_person_id__2724">
+                  <persName>Grimms, ???</persName>
+                  <note type="bio"><p>Es handelt sich um eine Person aus der Verwaltung der Evangelischen Kirche in Berlin oder Brandenburg, die Paul Tillich eine Hilfspredigerstelle während des Ersten Weltkriegs verschaffen sollte.</p></note>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>

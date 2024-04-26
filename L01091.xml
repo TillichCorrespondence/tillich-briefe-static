@@ -114,22 +114,6 @@
    <back><listPerson><person xml:id="tillich_person_id__1516">
                   <persName>Poelchau, Harald</persName>
                </person>
-               <person xml:id="tillich_person_id__2455">
-                  <persName>Spitta, Walter</persName>
-                  <birth>
-                     <date>1903-10-05</date>
-                     <settlement>
-                        <placeName>Bremen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1945-01-26</date>
-                     <settlement>
-                        <placeName>Nakło nad Notecia̜</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/122188918</idno>
-               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -161,6 +145,22 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2455">
+                  <persName>Spitta, Walter</persName>
+                  <birth>
+                     <date>1903-10-05</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-01-26</date>
+                     <settlement>
+                        <placeName>Nakło nad Notecia̜</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/122188918</idno>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__116">Spitta, Walter, Die Insel des Todes, in: Zeitwende, Jg. 6, H. 2 (Dezember 1930), S. 540-544.</bibl>
                </listBibl><listPlace><place xml:id="tillich_place_id__223">

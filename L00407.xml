@@ -104,30 +104,25 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__61">
-                  <placeName>Bieuxy</placeName>
-                  <location type="coords">
-                     <geo>49.44667 3.26139</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
-               </place>
-               <place xml:id="tillich_place_id__344">
-                  <placeName>Pasly02200</placeName>
-                  <location type="coords">
-                     <geo>49.40167 3.29631</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988421/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1020383</idno>
-               </place>
-               <place xml:id="tillich_place_id__325">
-                  <placeName>Nouvron-Vingré</placeName>
-                  <location type="coords">
-                     <geo>49.42826 3.20000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2989951/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1924">
+<back><listPerson><person xml:id="tillich_person_id__2532">
+                  <persName>Philipps, Wilhelm</persName>
+                  <birth>
+                     <date>1859-12-11</date>
+                     <settlement>
+                        <placeName>Holzwickede-Opherdicke</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1933-05-22</date>
+                     <settlement>
+                        <placeName>Heilsbronn</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Politiker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/102452020X</idno>
+                  <note type="bio"><p>Er war Vorsitzender der christlich-sozialen Partei von 1912 bis 1916.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
@@ -159,23 +154,28 @@
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2532">
-                  <persName>Philipps, Wilhelm</persName>
-                  <birth>
-                     <date>1859-12-11</date>
-                     <settlement>
-                        <placeName>Holzwickede-Opherdicke</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1933-05-22</date>
-                     <settlement>
-                        <placeName>Heilsbronn</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Politiker;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/102452020X</idno>
-                  <note type="bio"><p>Er war Vorsitzender der christlich-sozialen Partei von 1912 bis 1916.</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__344">
+                  <placeName>Pasly02200</placeName>
+                  <location type="coords">
+                     <geo>49.40167 3.29631</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988421/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1020383</idno>
+               </place>
+               <place xml:id="tillich_place_id__325">
+                  <placeName>Nouvron-Vingré</placeName>
+                  <location type="coords">
+                     <geo>49.42826 3.20000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2989951/</idno>
+               </place>
+               <place xml:id="tillich_place_id__61">
+                  <placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

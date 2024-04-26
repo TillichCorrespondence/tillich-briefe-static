@@ -96,14 +96,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__4">
-                  <placeName>Aachen</placeName>
-                  <location type="coords">
-                     <geo>50.77664 6.08342</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3247449/</idno>
-               </place>
-               <place xml:id="tillich_place_id__309">
+<back><listPlace><place xml:id="tillich_place_id__309">
                   <placeName>Namur</placeName>
                   <location type="coords">
                      <geo>50.46690 4.86746</geo>
@@ -118,6 +111,13 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2802361/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31</idno>
+               </place>
+               <place xml:id="tillich_place_id__4">
+                  <placeName>Aachen</placeName>
+                  <location type="coords">
+                     <geo>50.77664 6.08342</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3247449/</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2085">
                   <persName>Winkler, Toni</persName>

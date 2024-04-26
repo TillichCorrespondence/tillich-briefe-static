@@ -94,15 +94,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__321">
-                  <placeName>Nimwegen</placeName>
-                  <location type="coords">
-                     <geo>51.84250 5.85278</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2750053/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q13188714</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -120,5 +112,13 @@
                <person xml:id="tillich_person_id__227">
                   <persName>Blech, George</persName>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__321">
+                  <placeName>Nimwegen</placeName>
+                  <location type="coords">
+                     <geo>51.84250 5.85278</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2750053/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q13188714</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

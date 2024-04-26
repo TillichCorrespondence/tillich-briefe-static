@@ -149,64 +149,14 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__208">
+<back><listBibl><bibl xml:id="tillich_work_id__194">Damaschke, Adolf, Die Bodenreform. Grundsätzliches und Geschichtliches. Vorträge, Fischer, Jena, 1902.</bibl>
+               <bibl xml:id="tillich_work_id__193">Bunge, Gustav von, Die Alkoholfrage. Ein Vortrag. F.C.W. Vogel, Leipzig 1887</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__208">
                   <placeName>Hersfeld</placeName>
                   <location type="coords">
                      <geo>50.87197 9.70891</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2953439/</idno>
-               </place>
-               <place xml:id="tillich_place_id__451">
-                  <placeName>Ubbedissen</placeName>
-                  <location type="coords">
-                     <geo>51.98638 8.62984</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820620/</idno>
-               </place>
-               <place xml:id="tillich_place_id__75">
-                  <placeName>Bremervörde</placeName>
-                  <location type="coords">
-                     <geo>53.48458 9.14306</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
-               </place>
-               <place xml:id="tillich_place_id__473">
-                  <placeName>Wittlage</placeName>
-                  <location type="coords">
-                     <geo>52.32127 8.36978</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2807244/</idno>
-               </place>
-               <place xml:id="tillich_place_id__236">
-                  <placeName>Kassel</placeName>
-                  <location type="coords">
-                     <geo>51.31667 9.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2892518/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
-               </place>
-               <place xml:id="tillich_place_id__318">
-                  <placeName>Neviges</placeName>
-                  <location type="coords">
-                     <geo>51.30929 7.09051</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2863758/</idno>
-               </place>
-               <place xml:id="tillich_place_id__587">
-                  <placeName>Minden</placeName>
-                  <location type="coords">
-                     <geo>52.28953 8.91455</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2871039/</idno>
-               </place>
-               <place xml:id="tillich_place_id__414">
-                  <placeName>Stellingen</placeName>
-                  <location type="coords">
-                     <geo>53.59220 9.92870</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2827552/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1621</idno>
                </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
@@ -216,6 +166,36 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
+               <place xml:id="tillich_place_id__587">
+                  <placeName>Minden</placeName>
+                  <location type="coords">
+                     <geo>52.28953 8.91455</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2871039/</idno>
+               </place>
+               <place xml:id="tillich_place_id__75">
+                  <placeName>Bremervörde</placeName>
+                  <location type="coords">
+                     <geo>53.48458 9.14306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
+               </place>
+               <place xml:id="tillich_place_id__236">
+                  <placeName>Kassel</placeName>
+                  <location type="coords">
+                     <geo>51.31667 9.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2892518/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
+               </place>
+               <place xml:id="tillich_place_id__276">
+                  <placeName>Manebach</placeName>
+                  <location type="coords">
+                     <geo>50.67828 10.85779</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873960/</idno>
+               </place>
                <place xml:id="tillich_place_id__437">
                   <placeName>Thüringen</placeName>
                   <location type="coords">
@@ -223,6 +203,20 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2822542/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1205</idno>
+               </place>
+               <place xml:id="tillich_place_id__318">
+                  <placeName>Neviges</placeName>
+                  <location type="coords">
+                     <geo>51.30929 7.09051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2863758/</idno>
+               </place>
+               <place xml:id="tillich_place_id__473">
+                  <placeName>Wittlage</placeName>
+                  <location type="coords">
+                     <geo>52.32127 8.36978</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2807244/</idno>
                </place>
                <place xml:id="tillich_place_id__74">
                   <placeName>Bremen</placeName>
@@ -232,13 +226,6 @@
                   <idno type="geonames">https://sws.geonames.org/2944388/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
                </place>
-               <place xml:id="tillich_place_id__276">
-                  <placeName>Manebach</placeName>
-                  <location type="coords">
-                     <geo>50.67828 10.85779</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873960/</idno>
-               </place>
                <place xml:id="tillich_place_id__260">
                   <placeName>Leipzig</placeName>
                   <location type="coords">
@@ -247,48 +234,55 @@
                   <idno type="geonames">https://sws.geonames.org/2879139/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2302">
-                  <persName>Bunge, Gustav von</persName>
-                  <birth>
-                     <date>1844-01-19</date>
-                     <settlement>
-                        <placeName>Dorpat</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1920-11-05</date>
-                     <settlement>
-                        <placeName>Basel</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117156078</idno>
-               </person>
-               <person xml:id="tillich_person_id__2178">
-                  <persName>Van der Smissen, Wilm</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1982">
-                  <persName>Van der Smissen, Gilbert</persName>
-                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2215">
+               <place xml:id="tillich_place_id__414">
+                  <placeName>Stellingen</placeName>
+                  <location type="coords">
+                     <geo>53.59220 9.92870</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2827552/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1621</idno>
+               </place>
+               <place xml:id="tillich_place_id__451">
+                  <placeName>Ubbedissen</placeName>
+                  <location type="coords">
+                     <geo>51.98638 8.62984</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820620/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2215">
                   <persName>Ritter, Rudi</persName>
                </person>
-               <person xml:id="tillich_person_id__2303">
-                  <persName>Damaschke, Adolf</persName>
+               <person xml:id="tillich_person_id__2248">
+                  <persName>Raabe, Wilhelm Karl</persName>
                   <birth>
-                     <date>1865-11-24</date>
+                     <date>1831-10-08</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName>Eschershausen</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1935-07-30</date>
+                     <date>1910-11-15</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName>Braunschweig</placeName>
                      </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/11906121X</idno>
+                  <occupation>Schriftsteller;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118597442</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__2082">
                   <persName>Windelband, Wilhelm</persName>
@@ -310,46 +304,52 @@
                   <persName>Bertheau, Lorenz</persName>
                   <occupation>Pfarrer</occupation>
                </person>
-               <person xml:id="tillich_person_id__2248">
-                  <persName>Raabe, Wilhelm Karl</persName>
+               <person xml:id="tillich_person_id__1982">
+                  <persName>Van der Smissen, Gilbert</persName>
+                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2302">
+                  <persName>Bunge, Gustav von</persName>
                   <birth>
-                     <date>1831-10-08</date>
+                     <date>1844-01-19</date>
                      <settlement>
-                        <placeName>Eschershausen</placeName>
+                        <placeName>Dorpat</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1910-11-15</date>
+                     <date>1920-11-05</date>
                      <settlement>
-                        <placeName>Braunschweig</placeName>
+                        <placeName>Basel</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftsteller;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118597442</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/117156078</idno>
+               </person>
+               <person xml:id="tillich_person_id__2303">
+                  <persName>Damaschke, Adolf</persName>
+                  <birth>
+                     <date>1865-11-24</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1935-07-30</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/11906121X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2178">
+                  <persName>Van der Smissen, Wilm</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__833">
+                  <persName>Hebbel, Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__788">
                   <persName>Hanffstengel, Gottfried von</persName>
                   <occupation>Theologe, Jugendfreund</occupation>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__833">
-                  <persName>Hebbel, Friedrich</persName>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__193">Bunge, Gustav von, Die Alkoholfrage. Ein Vortrag. F.C.W. Vogel, Leipzig 1887</bibl>
-               <bibl xml:id="tillich_work_id__194">Damaschke, Adolf, Die Bodenreform. Grundsätzliches und Geschichtliches. Vorträge, Fischer, Jena, 1902.</bibl>
-               </listBibl></back></text>
+               </listPerson></back></text>
 </TEI>

@@ -173,14 +173,7 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__175">
-                  <placeName>Gießen</placeName>
-                  <location type="coords">
-                     <geo>50.58727 8.67554</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
+   <back><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>
@@ -196,6 +189,13 @@
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
+               <place xml:id="tillich_place_id__175">
+                  <placeName>Gießen</placeName>
+                  <location type="coords">
+                     <geo>50.58727 8.67554</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
+               </place>
                <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
@@ -204,23 +204,7 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2573">
-                  <persName>Falk, Werner David</persName>
-                  <birth>
-                     <date>1929-01-04</date>
-                     <settlement>
-                        <placeName>Köln</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>2023-05-31</date>
-                     <settlement>
-                        <placeName>Washington, DC</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119211084</idno>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -252,8 +236,21 @@
                   <occupation>Philosoph;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116372222</idno>
                </person>
-               <person xml:id="tillich_person_id__1275">
-                  <persName>Marx, Karl</persName>
+               <person xml:id="tillich_person_id__2573">
+                  <persName>Falk, Werner David</persName>
+                  <birth>
+                     <date>1929-01-04</date>
+                     <settlement>
+                        <placeName>Köln</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>2023-05-31</date>
+                     <settlement>
+                        <placeName>Washington, DC</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119211084</idno>
                </person>
                <person xml:id="tillich_person_id__839">
                   <persName>Hegel, Georg Wilhelm Friedrich</persName>
@@ -270,6 +267,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
+               </person>
+               <person xml:id="tillich_person_id__1275">
+                  <persName>Marx, Karl</persName>
                </person>
                <person xml:id="tillich_person_id__1780">
                   <persName>Siebeck, Oskar</persName>

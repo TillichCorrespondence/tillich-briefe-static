@@ -120,7 +120,12 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1923">
+   <back><listBibl><bibl xml:id="tillich_work_id__154">Tillich, Paul, Sozialismus, in: Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, 1. Jg., H. 1, Jan. 1930, 1-12.</bibl>
+               <bibl xml:id="tillich_work_id__66">Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, hg. von Eduard Heimann, Fritz Klatt und Paul Tillich, 1930ff.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1208">
+                  <persName>Löwe, Beatrice</persName>
+               </person>
+               <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -136,9 +141,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1208">
-                  <persName>Löwe, Beatrice</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -160,9 +162,7 @@
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__66">Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, hg. von Eduard Heimann, Fritz Klatt und Paul Tillich, 1930ff.</bibl>
-               <bibl xml:id="tillich_work_id__154">Tillich, Paul, Sozialismus, in: Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, 1. Jg., H. 1, Jan. 1930, 1-12.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__238">
+               </listPerson><listPlace><place xml:id="tillich_place_id__238">
                   <placeName>Kiel</placeName>
                   <location type="coords">
                      <geo>54.32133 10.13489</geo>
