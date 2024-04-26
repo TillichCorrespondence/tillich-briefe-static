@@ -73,7 +73,7 @@ for x in tqdm(files, total=len(files)):
     try:
         date_str = doc.any_xpath("//tei:correspAction[@type='sent']/tei:date/@when")[0]
     except IndexError:
-        date_str = "1887"
+        date_str = MIN_DATE
     try:
         record["year"] = int(date_str[:4])
         cfts_record["year"] = int(date_str[:4])
