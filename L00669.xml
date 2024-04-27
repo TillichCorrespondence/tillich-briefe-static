@@ -141,7 +141,10 @@ senden.</p>
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__38">
+<back><listPerson><person xml:id="tillich_person_id__2752">
+                  <persName>Reyer, Wilhelm</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__38">
                   <placeName>Berlin-Friedenau</placeName>
                   <location type="coords">
                      <geo>52.47133 13.32813</geo>
@@ -149,8 +152,5 @@ senden.</p>
                   <idno type="geonames">https://sws.geonames.org/2924770/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2752">
-                  <persName>Reyer, Wilhelm</persName>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

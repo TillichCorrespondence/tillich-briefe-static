@@ -139,33 +139,6 @@
                   <occupation>Systematischer Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
                </person>
-               <person xml:id="tillich_person_id__310">
-                  <persName>Büchsel, Friedrich Hermann Martin</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1945</date>
-                  </death>
-                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
-               </person>
-               <person xml:id="tillich_person_id__2027">
-                  <persName>Weiß, Johannes</persName>
-                  <birth>
-                     <date>1863-12-13</date>
-                     <settlement>
-                        <placeName>Kiel</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1914-08-24</date>
-                     <settlement>
-                        <placeName>Heidelberg</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118891642</idno>
-               </person>
                <person xml:id="tillich_person_id__890">
                   <persName>Herrmann, Wilhelm</persName>
                   <birth>
@@ -182,6 +155,19 @@
                   </death>
                   <occupation>Deutscher Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118549995</idno>
+               </person>
+               <person xml:id="tillich_person_id__2091">
+                  <persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
                </person>
                <person xml:id="tillich_person_id__1696">
                   <persName>Schafft, Hermann</persName>
@@ -207,8 +193,35 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
                <person xml:id="tillich_person_id__2263">
                   <persName>Jäger, Th.</persName>
+               </person>
+               <person xml:id="tillich_person_id__2027">
+                  <persName>Weiß, Johannes</persName>
+                  <birth>
+                     <date>1863-12-13</date>
+                     <settlement>
+                        <placeName>Kiel</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1914-08-24</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118891642</idno>
                </person>
                <person xml:id="tillich_person_id__2538">
                   <persName>Bartels, Johann Heinrich Christian Adolf</persName>
@@ -222,19 +235,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1215952473</idno>
-               </person>
-               <person xml:id="tillich_person_id__2091">
-                  <persName>Witte, Hermann</persName>
-                  <birth>
-                     <date>1666-12-07</date>
-                     <settlement>
-                        <placeName>Riga-Daugavgriva</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1728-03-24</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

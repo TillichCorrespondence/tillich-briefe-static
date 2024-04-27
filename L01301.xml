@@ -100,21 +100,21 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__38">
-                  <placeName>Berlin-Friedenau</placeName>
-                  <location type="coords">
-                     <geo>52.47133 13.32813</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2924770/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
-               </place>
-               <place xml:id="tillich_place_id__279">
+<back><listPlace><place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
                   <location type="coords">
                      <geo>50.80904 8.77069</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2873759/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__38">
+                  <placeName>Berlin-Friedenau</placeName>
+                  <location type="coords">
+                     <geo>52.47133 13.32813</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2924770/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2039">
                   <persName>Werner, Louise</persName>

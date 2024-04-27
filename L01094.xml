@@ -90,20 +90,15 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__180">
+<back><listBibl><bibl xml:id="tillich_work_id__20">Tillich, Paul, Gläubiger Realismus II, in: Ders., Philosophie und Schicksal. Schriften zur Erkenntnislehre und Existenzphilosophie (GW IV), hg. von Renate Albtecht, Stuttgart 1961, S. 88-106.</bibl>
+               <bibl xml:id="tillich_work_id__61">Tillich, Paul, Zwang und Freiheit im sozialen Leben (Philosophie der Macht), in: EW XI/2, S. 233-247.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__180">
                   <placeName>Goslar</placeName>
                   <location type="coords">
                      <geo>51.90425 10.42766</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2918840/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
-               </place>
-               <place xml:id="tillich_place_id__274">
-                  <placeName>Lübeck</placeName>
-                  <location type="coords">
-                     <geo>53.86893 10.68729</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2875601/</idno>
                </place>
                <place xml:id="tillich_place_id__201">
                   <placeName>Harz</placeName>
@@ -121,9 +116,14 @@
                   <idno type="geonames">https://sws.geonames.org/2939996/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q15377091</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__20">Tillich, Paul, Gläubiger Realismus II, in: Ders., Philosophie und Schicksal. Schriften zur Erkenntnislehre und Existenzphilosophie (GW IV), hg. von Renate Albtecht, Stuttgart 1961, S. 88-106.</bibl>
-               <bibl xml:id="tillich_work_id__61">Tillich, Paul, Zwang und Freiheit im sozialen Leben (Philosophie der Macht), in: EW XI/2, S. 233-247.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__757">
+               <place xml:id="tillich_place_id__274">
+                  <placeName>Lübeck</placeName>
+                  <location type="coords">
+                     <geo>53.86893 10.68729</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2875601/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__757">
                   <persName>Hahl, Margot</persName>
                   <note type="bio"><p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p></note>
                </person>

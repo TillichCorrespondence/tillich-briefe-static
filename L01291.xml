@@ -106,27 +106,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               <place xml:id="tillich_place_id__567">
-                  <placeName>Greiz</placeName>
-                  <location type="coords">
-                     <geo>50.65778 12.19918</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2917737/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041969</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__705">
-                  <persName>Gottschow, Albert</persName>
-                  <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2776">
+<back><listPerson><person xml:id="tillich_person_id__2776">
                   <persName>Storch, Lotte</persName>
                </person>
                <person xml:id="tillich_person_id__641">
@@ -141,5 +121,25 @@
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__705">
+                  <persName>Gottschow, Albert</persName>
+                  <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__567">
+                  <placeName>Greiz</placeName>
+                  <location type="coords">
+                     <geo>50.65778 12.19918</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2917737/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041969</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

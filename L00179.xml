@@ -106,15 +106,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__198">
-                  <placeName>Hamburg</placeName>
-                  <location type="coords">
-                     <geo>53.55073 9.99302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911298/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
+<back><listPlace><place xml:id="tillich_place_id__448">
                   <placeName>Tübingen</placeName>
                   <location type="coords">
                      <geo>48.52266 9.05222</geo>
@@ -128,6 +120,14 @@
                      <geo>54.32133 10.13489</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2891122/</idno>
+               </place>
+               <place xml:id="tillich_place_id__198">
+                  <placeName>Hamburg</placeName>
+                  <location type="coords">
+                     <geo>53.55073 9.99302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911298/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2091">
                   <persName>Witte, Hermann</persName>

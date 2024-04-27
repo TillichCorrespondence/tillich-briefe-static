@@ -157,134 +157,13 @@ begrüßen wir Sie hochachtungsvoll und ergebenst</salute>
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__141">Walter Kinkel, Idealismus und Realismus. Eine Einführung in ihr Wesen und in ihre kulturgeschichtliche Entwicklung, Wege zur Einführung in die Philosophie. Schriften zur Einführung in das philosophische Denken, Heft 3. Göttingen: Vandenhoeck &amp; Ruprecht, 1911, 2., verbesserte Auflage 1920.</bibl>
-               <bibl xml:id="tillich_work_id__145">Hirsch, Emanuel, Deutschlands Schicksal. Staat, Volk und Menschheit im Lichte einer ethischen Geschichtsansicht. Göttingen: Vandenhoeck &amp; Ruprecht, 1920.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__904">
-                  <persName>Hirsch, Emanuel</persName>
-                  <birth>
-                     <date>1888-06-14</date>
-                     <settlement>
-                        <placeName>Bentwisch</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1972-07-17</date>
-                     <settlement>
-                        <placeName>Göttingen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Systematischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
-               </person>
-               <person xml:id="tillich_person_id__1548">
-                  <persName>Radbruch, Gustav</persName>
+<back><listPerson><person xml:id="tillich_person_id__946">
+                  <persName>Husserl, Edmund</persName>
                </person>
                <person xml:id="tillich_person_id__1291">
                   <persName>Medicus, Fritz</persName>
                   <occupation>Philosoph</occupation>
                   <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__946">
-                  <persName>Husserl, Edmund</persName>
-               </person>
-               <person xml:id="tillich_person_id__844">
-                  <persName>Heiler, Friedrich</persName>
-               </person>
-               <person xml:id="tillich_person_id__2091">
-                  <persName>Witte, Hermann</persName>
-                  <birth>
-                     <date>1666-12-07</date>
-                     <settlement>
-                        <placeName>Riga-Daugavgriva</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1728-03-24</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1403">
-                  <persName>Nohl, Herman</persName>
-               </person>
-               <person xml:id="tillich_person_id__2105">
-                  <persName>Wundt, Max</persName>
-                  <birth>
-                     <date>1832-08-16</date>
-                     <settlement>
-                        <placeName>Neckarau</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1920-08-31</date>
-                     <settlement>
-                        <placeName>Großbothen</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/11863562X</idno>
-               </person>
-               <person xml:id="tillich_person_id__2746">
-                  <persName>Steinmann, ???</persName>
-                  <occupation>Herausgeber;</occupation>
-                  <note type="bio"><p>Er war Herausgeber der sogenannten "Wege".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__42">
-                  <persName>Althaus, Paul</persName>
-                  <birth>
-                     <date>1888-02-04</date>
-                     <settlement>
-                        <placeName>Uetze-Obershagen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1966-05-18</date>
-                     <settlement>
-                        <placeName>Erlangen</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
-               </person>
-               <person xml:id="tillich_person_id__2315">
-                  <persName>Mehlis, Georg (Prof.)</persName>
-                  <occupation>Freiburg</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2747">
-                  <persName>Plenge, Johannes</persName>
-                  <occupation>Nationalökonom; Soziologe;</occupation>
-                  <note type="bio"><p>Er war ein Schüler Karl Büchers und lehrte an der WWU Münster.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1833">
-                  <persName>Spranger, Eduard</persName>
-               </person>
-               <person xml:id="tillich_person_id__1954">
-                  <persName>Troeltsch, Ernst</persName>
-                  <birth>
-                     <date>1865-02-17</date>
-                     <settlement>
-                        <placeName>Haunstetten</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1923-02-01</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
                </person>
                <person xml:id="tillich_person_id__2135">
                   <persName>Rickert, Heinrich</persName>
@@ -304,23 +183,144 @@ begrüßen wir Sie hochachtungsvoll und ergebenst</salute>
                   <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
                   <note type="bio"><p>Er spezialisierte sich auf den Neukantianismus.</p></note>
                </person>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
+                  <birth>
+                     <date>1888-06-14</date>
+                     <settlement>
+                        <placeName>Bentwisch</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-07-17</date>
+                     <settlement>
+                        <placeName>Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+               </person>
+               <person xml:id="tillich_person_id__1403">
+                  <persName>Nohl, Herman</persName>
+               </person>
+               <person xml:id="tillich_person_id__1954">
+                  <persName>Troeltsch, Ernst</persName>
+                  <birth>
+                     <date>1865-02-17</date>
+                     <settlement>
+                        <placeName>Haunstetten</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1923-02-01</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
+               </person>
+               <person xml:id="tillich_person_id__844">
+                  <persName>Heiler, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1548">
+                  <persName>Radbruch, Gustav</persName>
+               </person>
+               <person xml:id="tillich_person_id__2746">
+                  <persName>Steinmann, ???</persName>
+                  <occupation>Herausgeber;</occupation>
+                  <note type="bio"><p>Er war Herausgeber der sogenannten "Wege".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2747">
+                  <persName>Plenge, Johannes</persName>
+                  <occupation>Nationalökonom; Soziologe;</occupation>
+                  <note type="bio"><p>Er war ein Schüler Karl Büchers und lehrte an der WWU Münster.</p></note>
+               </person>
                <person xml:id="tillich_person_id__2748">
                   <persName>Foerster, Erich</persName>
                   <occupation>Pfarrer; Jurist;</occupation>
                   <note type="bio"><p>Er war nach einem Studium der Evangelischen Theologie und der Rechtswissenschaft Vikar bei Martin Rade gewesen, bevor er 1893 bis 1895 als Pfarrer in Hirschberg wirkte. 1895 übernahm er das Pfarramt der Reformierten Gemeinde in Frankfurt am Main. An der Frankfurter Akademie für Sozial- und Handelswissenschaften habilitierte er sich 1907.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2745">
-                  <persName>Kinkel, Walter</persName>
-               </person>
-               <person xml:id="tillich_person_id__1826">
-                  <persName>Spengler, Oswald</persName>
-               </person>
                <person xml:id="tillich_person_id__845">
                   <persName>Heim, Karl</persName>
                   <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
                </person>
+               <person xml:id="tillich_person_id__1833">
+                  <persName>Spranger, Eduard</persName>
+               </person>
+               <person xml:id="tillich_person_id__2091">
+                  <persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__1826">
+                  <persName>Spengler, Oswald</persName>
+               </person>
+               <person xml:id="tillich_person_id__2105">
+                  <persName>Wundt, Max</persName>
+                  <birth>
+                     <date>1832-08-16</date>
+                     <settlement>
+                        <placeName>Neckarau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1920-08-31</date>
+                     <settlement>
+                        <placeName>Großbothen</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/11863562X</idno>
+               </person>
                <person xml:id="tillich_person_id__1178">
                   <persName>Liebert, Arthur</persName>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2315">
+                  <persName>Mehlis, Georg (Prof.)</persName>
+                  <occupation>Freiburg</occupation>
+               </person>
+               <person xml:id="tillich_person_id__42">
+                  <persName>Althaus, Paul</persName>
+                  <birth>
+                     <date>1888-02-04</date>
+                     <settlement>
+                        <placeName>Uetze-Obershagen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1966-05-18</date>
+                     <settlement>
+                        <placeName>Erlangen</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
+               </person>
+               <person xml:id="tillich_person_id__2745">
+                  <persName>Kinkel, Walter</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__141">Walter Kinkel, Idealismus und Realismus. Eine Einführung in ihr Wesen und in ihre kulturgeschichtliche Entwicklung, Wege zur Einführung in die Philosophie. Schriften zur Einführung in das philosophische Denken, Heft 3. Göttingen: Vandenhoeck &amp; Ruprecht, 1911, 2., verbesserte Auflage 1920.</bibl>
+               <bibl xml:id="tillich_work_id__145">Hirsch, Emanuel, Deutschlands Schicksal. Staat, Volk und Menschheit im Lichte einer ethischen Geschichtsansicht. Göttingen: Vandenhoeck &amp; Ruprecht, 1920.</bibl>
+               </listBibl></back></text>
 </TEI>

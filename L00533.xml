@@ -97,14 +97,11 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__80">
-                  <placeName>Butterfelde</placeName>
-                  <location type="coords">
-                     <geo>52.87141 14.38608</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1924">
+   <back><listPerson><person xml:id="tillich_person_id__2700">
+                  <persName>Ahleck, ???</persName>
+                  <note type="bio"><p>Sie hat Paul Tillich im 1. Weltkrieg ein Kissen geschickt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
@@ -116,13 +113,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2700">
-                  <persName>Ahleck, ???</persName>
-                  <note type="bio"><p>Sie hat Paul Tillich im 1. Weltkrieg ein Kissen geschickt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2354">
-                  <persName>???, Anna</persName>
-                  <note type="bio"><p>Unter Umständen handelt es sich um die neue Haushaltshilfe der Tillichs, nach dem Toni Winkler ausgezogen war.</p></note>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -139,9 +132,16 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               <person xml:id="tillich_person_id__2354">
+                  <persName>???, Anna</persName>
+                  <note type="bio"><p>Unter Umständen handelt es sich um die neue Haushaltshilfe der Tillichs, nach dem Toni Winkler ausgezogen war.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__80">
+                  <placeName>Butterfelde</placeName>
+                  <location type="coords">
+                     <geo>52.87141 14.38608</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

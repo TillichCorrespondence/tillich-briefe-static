@@ -279,19 +279,12 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__117">
-                  <placeName>Cuisy-en-Almont</placeName>
+<back><listPlace><place xml:id="tillich_place_id__113">
+                  <placeName>Crécy-au-Mont</placeName>
                   <location type="coords">
-                     <geo>49.41821 3.24584</geo>
+                     <geo>49.48857 3.32416</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3022111/</idno>
-               </place>
-               <place xml:id="tillich_place_id__300">
-                  <placeName>Montécouvé (Juvigny)</placeName>
-                  <location type="coords">
-                     <geo>49.44762 3.31821</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
+                  <idno type="geonames">https://sws.geonames.org/3022625/</idno>
                </place>
                <place xml:id="tillich_place_id__432">
                   <placeName>Tartiers02290</placeName>
@@ -301,20 +294,20 @@
                   <idno type="geonames">https://sws.geonames.org/6425259/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q871168</idno>
                </place>
-               <place xml:id="tillich_place_id__344">
-                  <placeName>Pasly02200</placeName>
+               <place xml:id="tillich_place_id__117">
+                  <placeName>Cuisy-en-Almont</placeName>
                   <location type="coords">
-                     <geo>49.40167 3.29631</geo>
+                     <geo>49.41821 3.24584</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2988421/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1020383</idno>
+                  <idno type="geonames">https://sws.geonames.org/3022111/</idno>
                </place>
-               <place xml:id="tillich_place_id__261">
-                  <placeName>Leuilly-sous-Coucy02380</placeName>
+               <place xml:id="tillich_place_id__138">
+                  <placeName>Ferme de Mareuille</placeName>
                   <location type="coords">
-                     <geo>49.47845 3.35879</geo>
+                     <geo>45.45074 0.45214</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2999029/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2995825/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q35724623</idno>
                </place>
                <place xml:id="tillich_place_id__457">
                   <placeName>Vauxrezis02200</placeName>
@@ -332,6 +325,56 @@
                   <idno type="geonames">https://sws.geonames.org/6446494/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
                </place>
+               <place xml:id="tillich_place_id__261">
+                  <placeName>Leuilly-sous-Coucy02380</placeName>
+                  <location type="coords">
+                     <geo>49.47845 3.35879</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2999029/</idno>
+               </place>
+               <place xml:id="tillich_place_id__344">
+                  <placeName>Pasly02200</placeName>
+                  <location type="coords">
+                     <geo>49.40167 3.29631</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988421/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1020383</idno>
+               </place>
+               <place xml:id="tillich_place_id__464">
+                  <placeName>Vézaponin</placeName>
+                  <location type="coords">
+                     <geo>49.45969 3.22826</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2969480/</idno>
+               </place>
+               <place xml:id="tillich_place_id__100">
+                  <placeName>Chavigny02880</placeName>
+                  <location type="coords">
+                     <geo>49.42560 3.30535</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3025718/</idno>
+               </place>
+               <place xml:id="tillich_place_id__227">
+                  <placeName>Juvigny (Aisne)</placeName>
+                  <location type="coords">
+                     <geo>49.44762 3.31821</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
+               </place>
+               <place xml:id="tillich_place_id__486">
+                  <placeName>Épagny02290</placeName>
+                  <location type="coords">
+                     <geo>49.46119 3.24048</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3020095/</idno>
+               </place>
+               <place xml:id="tillich_place_id__300">
+                  <placeName>Montécouvé (Juvigny)</placeName>
+                  <location type="coords">
+                     <geo>49.44762 3.31821</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
+               </place>
                <place xml:id="tillich_place_id__363">
                   <placeName>Raucourt</placeName>
                   <location type="coords">
@@ -339,13 +382,12 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2984363/</idno>
                </place>
-               <place xml:id="tillich_place_id__138">
-                  <placeName>Ferme de Mareuille</placeName>
+               <place xml:id="tillich_place_id__91">
+                  <placeName>Champs02670</placeName>
                   <location type="coords">
-                     <geo>45.45074 0.45214</geo>
+                     <geo>49.54083 3.25428</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2995825/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q35724623</idno>
+                  <idno type="geonames">https://sws.geonames.org/3027028/</idno>
                </place>
                <place xml:id="tillich_place_id__263">
                   <placeName>Leury</placeName>
@@ -355,20 +397,6 @@
                   <idno type="geonames">https://sws.geonames.org/2999022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q846041</idno>
                </place>
-               <place xml:id="tillich_place_id__486">
-                  <placeName>Épagny02290</placeName>
-                  <location type="coords">
-                     <geo>49.46119 3.24048</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3020095/</idno>
-               </place>
-               <place xml:id="tillich_place_id__464">
-                  <placeName>Vézaponin</placeName>
-                  <location type="coords">
-                     <geo>49.45969 3.22826</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2969480/</idno>
-               </place>
                <place xml:id="tillich_place_id__255">
                   <placeName>Le Mont de Guny</placeName>
                   <location type="coords">
@@ -376,35 +404,32 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3014161/</idno>
                </place>
-               <place xml:id="tillich_place_id__113">
-                  <placeName>Crécy-au-Mont</placeName>
-                  <location type="coords">
-                     <geo>49.48857 3.32416</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3022625/</idno>
-               </place>
-               <place xml:id="tillich_place_id__91">
-                  <placeName>Champs02670</placeName>
-                  <location type="coords">
-                     <geo>49.54083 3.25428</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3027028/</idno>
-               </place>
-               <place xml:id="tillich_place_id__227">
-                  <placeName>Juvigny (Aisne)</placeName>
-                  <location type="coords">
-                     <geo>49.44762 3.31821</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
-               </place>
-               <place xml:id="tillich_place_id__100">
-                  <placeName>Chavigny02880</placeName>
-                  <location type="coords">
-                     <geo>49.42560 3.30535</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3025718/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2438">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2533">
+                  <persName>Förster</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er war Lazarettpfarrer und Kollege von Paul Tillich im 1. Weltkrieg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__109">
+                  <persName>Backhaus, Alwin</persName>
+                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2438">
                   <persName>(Graf von Schwerin), ???</persName>
                   <idno type="gnd">https://d-nb.info/gnd/114681593X</idno>
                   <note type="bio"><p>Er war in irgendeiner Form in den 1. Weltkrieg involviert.</p></note>
@@ -421,6 +446,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1930">
+                  <persName>Tillich, Marie</persName>
+                  <occupation>Großmutter</occupation>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -435,35 +464,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2533">
-                  <persName>Förster</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er war Lazarettpfarrer und Kollege von Paul Tillich im 1. Weltkrieg.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__109">
-                  <persName>Backhaus, Alwin</persName>
-                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1930">
-                  <persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1924">
-                  <persName>Tillich, Johannes Oskar</persName>
-                  <birth>
-                     <date>1857</date>
-                  </birth>
-                  <death>
-                     <date>1937</date>
-                  </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

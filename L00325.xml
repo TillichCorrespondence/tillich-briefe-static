@@ -133,7 +133,10 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2105">
+<back><listPerson><person xml:id="tillich_person_id__1467">
+                  <persName>Paulsen, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__2105">
                   <persName>Wundt, Max</persName>
                   <birth>
                      <date>1832-08-16</date>
@@ -148,9 +151,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11863562X</idno>
-               </person>
-               <person xml:id="tillich_person_id__1467">
-                  <persName>Paulsen, Friedrich</persName>
                </person>
                </listPerson></back></text>
 </TEI>

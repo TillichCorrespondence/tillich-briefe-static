@@ -191,8 +191,30 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1821">
-                  <persName>Spann, Othmar</persName>
+   <back><listPerson><person xml:id="tillich_person_id__2475">
+                  <persName>Schwietering, Julius</persName>
+                  <birth>
+                     <date>1884-05-24</date>
+                     <settlement>
+                        <placeName>Bramsche-Engter</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1962-07-21</date>
+                     <settlement>
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118795805</idno>
+               </person>
+               <person xml:id="tillich_person_id__841">
+                  <persName>Heidegger, Martin</persName>
+               </person>
+               <person xml:id="tillich_person_id__1020">
+                  <persName>Kant, Immanuel</persName>
+               </person>
+               <person xml:id="tillich_person_id__2492">
+                  <persName>Rosenbusch, Agnes</persName>
                </person>
                <person xml:id="tillich_person_id__2494">
                   <persName>Schultz, Franz</persName>
@@ -210,53 +232,16 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795570</idno>
                </person>
-               <person xml:id="tillich_person_id__841">
-                  <persName>Heidegger, Martin</persName>
-               </person>
-               <person xml:id="tillich_person_id__2493">
-                  <persName>Nida, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2475">
-                  <persName>Schwietering, Julius</persName>
-                  <birth>
-                     <date>1884-05-24</date>
-                     <settlement>
-                        <placeName>Bramsche-Engter</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1962-07-21</date>
-                     <settlement>
-                        <placeName>Frankfurt am Main</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118795805</idno>
-               </person>
-               <person xml:id="tillich_person_id__2492">
-                  <persName>Rosenbusch, Agnes</persName>
-               </person>
-               <person xml:id="tillich_person_id__1020">
-                  <persName>Kant, Immanuel</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
                <person xml:id="tillich_person_id__1577">
                   <persName>Reinhardt, Karl</persName>
                   <occupation>Altphilologe</occupation>
                   <note type="bio"><p>1905-1910 Studium der Klassischen Philologie in Bonn und Berlin, 1910 Promotion in Berlin, 1914 Habilitation in Bonn. 1916-1918 außerordentlicher Professor in Marburg, 1919-1923 ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf an die Universität Frankfurt, wo R., unterbrochen von einigen Jahren an der Universität Leipzig (1942-1946) bis zu seiner Emeritierung 1951 blieb und lehrte. Er war mit Elly Reinhardt (geb. Boessneck) verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1821">
+                  <persName>Spann, Othmar</persName>
+               </person>
+               <person xml:id="tillich_person_id__2493">
+                  <persName>Nida, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2507">
                   <persName>Gehlen, Arnold</persName>
@@ -273,6 +258,21 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11853808X</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>

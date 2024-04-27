@@ -152,7 +152,8 @@
                   <persName>Kattenbusch, Ferdinand</persName>
                   <occupation>Evangelischer Theologe, Wingolf</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__189">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                   <location type="coords">
                      <geo>51.48158 11.97947</geo>
@@ -160,6 +161,5 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

@@ -92,7 +92,41 @@
                 </closer>
             </div>
         </body>
-    <back><listPerson><person xml:id="tillich_person_id__1610">
+    <back><listPerson><person xml:id="tillich_person_id__2504">
+                  <persName>Gundolf, Elisabeth</persName>
+                  <birth>
+                     <date>1893-11-10</date>
+                  </birth>
+                  <death>
+                     <date>1958-02-13</date>
+                     <settlement>
+                        <placeName>Oxford</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Nationalökonomin; Schriftstellerin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116766972</idno>
+                  <note type="bio"><p>Sie war die Frau von Friedrich Gundolf.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__697">
+                  <persName>Goldstein, Kurt</persName>
+                  <occupation>Deutsch-amerikanischer Neurologe und Psychiater</occupation>
+                  <note type="bio"><p>Kurt G. studierte bis 1903 Medizin in Breslau und Heidelberg, wo er promoviert wurde. Nach dem Studium arbeitete er zunächst als klinischer Assistent am Neurologischen Institut Frankfurt/Main sowie in der psychiatrischen Klinik der Universität Heidelberg, bevor er 1906-1914 an die psychiatrischen Klinik Königsberg wechselte, an der dortigen Universität als Privatdozent tätig war und sich schließlich auch habilitierte. Bereits 1905 hatte er Ida Zuckermann geheiratet, mit der er drei Töchter hatte. 1916-1930 arbeitete er an der Universität Frankfurt/Main und als Direktor des Neurologischen Instituts. 1930 wechselte er nach Berlin, wo er bis 1933 blieb. Nach kurzer SA-Haft konnte G. 1933 zuerst nach Amsterdam und 1934 weiter in die USA emigrieren. Im selben Jahr ließ es sich von seiner ersten Frau Ida scheiden und heiratete kurz darauf die Neuropsychiaterin Eva Rothmann. In den USA lehrte und arbeitete er bis 1940 an diversen New Yorker Hochschulen (u.a. Columbia) bzw. Kliniken und war anschließend 1940-1945 an der School of Medicine der Tufts University, Massachusetts, beschäftigt. Nach dem Krieg hatte es bis zu seinem Tod eine Privatpraxis in New York und hatte währenddessen diverse Gastprofessuren (u.a. City College, New School, Brandeis Univ.) inne.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2503">
+                  <persName>Platzhoff, Walter</persName>
+                  <birth>
+                     <date>1881-09-27</date>
+                     <settlement>
+                        <placeName>Elberfeld</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969-08-09</date>
+                  </death>
+                  <occupation>Historiker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116208929</idno>
+               </person>
+               <person xml:id="tillich_person_id__1610">
                   <persName>Riezler, Kurt</persName>
                   <birth>
                      <date>1882-02-11</date>
@@ -110,48 +144,22 @@
                   <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
                   <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1532">
+                  <persName>Prinzhorn, Hans</persName>
+               </person>
                <person xml:id="tillich_person_id__736">
                   <persName>Gundolf, Friedrich</persName>
-               </person>
-               <person xml:id="tillich_person_id__2503">
-                  <persName>Platzhoff, Walter</persName>
-                  <birth>
-                     <date>1881-09-27</date>
-                     <settlement>
-                        <placeName>Elberfeld</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1969-08-09</date>
-                  </death>
-                  <occupation>Historiker;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116208929</idno>
                </person>
                <person xml:id="tillich_person_id__1972">
                   <persName>Usener, Ilse</persName>
                </person>
-               <person xml:id="tillich_person_id__2504">
-                  <persName>Gundolf, Elisabeth</persName>
-                  <birth>
-                     <date>1893-11-10</date>
-                  </birth>
-                  <death>
-                     <date>1958-02-13</date>
-                     <settlement>
-                        <placeName>Oxford</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Nationalökonomin; Schriftstellerin;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116766972</idno>
-                  <note type="bio"><p>Sie war die Frau von Friedrich Gundolf.</p></note>
+               <person xml:id="tillich_person_id__1577">
+                  <persName>Reinhardt, Karl</persName>
+                  <occupation>Altphilologe</occupation>
+                  <note type="bio"><p>1905-1910 Studium der Klassischen Philologie in Bonn und Berlin, 1910 Promotion in Berlin, 1914 Habilitation in Bonn. 1916-1918 außerordentlicher Professor in Marburg, 1919-1923 ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf an die Universität Frankfurt, wo R., unterbrochen von einigen Jahren an der Universität Leipzig (1942-1946) bis zu seiner Emeritierung 1951 blieb und lehrte. Er war mit Elly Reinhardt (geb. Boessneck) verheiratet.</p></note>
                </person>
                <person xml:id="tillich_person_id__664">
                   <persName>Gelb, Adhémar</persName>
-               </person>
-               <person xml:id="tillich_person_id__697">
-                  <persName>Goldstein, Kurt</persName>
-                  <occupation>Deutsch-amerikanischer Neurologe und Psychiater</occupation>
-                  <note type="bio"><p>Kurt G. studierte bis 1903 Medizin in Breslau und Heidelberg, wo er promoviert wurde. Nach dem Studium arbeitete er zunächst als klinischer Assistent am Neurologischen Institut Frankfurt/Main sowie in der psychiatrischen Klinik der Universität Heidelberg, bevor er 1906-1914 an die psychiatrischen Klinik Königsberg wechselte, an der dortigen Universität als Privatdozent tätig war und sich schließlich auch habilitierte. Bereits 1905 hatte er Ida Zuckermann geheiratet, mit der er drei Töchter hatte. 1916-1930 arbeitete er an der Universität Frankfurt/Main und als Direktor des Neurologischen Instituts. 1930 wechselte er nach Berlin, wo er bis 1933 blieb. Nach kurzer SA-Haft konnte G. 1933 zuerst nach Amsterdam und 1934 weiter in die USA emigrieren. Im selben Jahr ließ es sich von seiner ersten Frau Ida scheiden und heiratete kurz darauf die Neuropsychiaterin Eva Rothmann. In den USA lehrte und arbeitete er bis 1940 an diversen New Yorker Hochschulen (u.a. Columbia) bzw. Kliniken und war anschließend 1940-1945 an der School of Medicine der Tufts University, Massachusetts, beschäftigt. Nach dem Krieg hatte es bis zu seinem Tod eine Privatpraxis in New York und hatte währenddessen diverse Gastprofessuren (u.a. City College, New School, Brandeis Univ.) inne.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -168,23 +176,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1577">
-                  <persName>Reinhardt, Karl</persName>
-                  <occupation>Altphilologe</occupation>
-                  <note type="bio"><p>1905-1910 Studium der Klassischen Philologie in Bonn und Berlin, 1910 Promotion in Berlin, 1914 Habilitation in Bonn. 1916-1918 außerordentlicher Professor in Marburg, 1919-1923 ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf an die Universität Frankfurt, wo R., unterbrochen von einigen Jahren an der Universität Leipzig (1942-1946) bis zu seiner Emeritierung 1951 blieb und lehrte. Er war mit Elly Reinhardt (geb. Boessneck) verheiratet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1532">
-                  <persName>Prinzhorn, Hans</persName>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__203">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__79">Gundolf, Friedrich, Briefe. Neue Folge, hg. von Lother Helbing und Claus Victor Bock, 2. Aufl., Amsterdam 1965</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__203">
                   <placeName>Heidelberg (Deutschland)</placeName>
                   <location type="coords">
                      <geo>49.40768 8.69079</geo>
@@ -200,6 +193,13 @@
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__79">Gundolf, Friedrich, Briefe. Neue Folge, hg. von Lother Helbing und Claus Victor Bock, 2. Aufl., Amsterdam 1965</bibl>
-               </listBibl></back></text>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

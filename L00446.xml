@@ -141,10 +141,7 @@
 <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>. </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1717">
-                  <persName>Schleiermacher, Friedrich Daniel Ernst</persName>
-               </person>
-               <person xml:id="tillich_person_id__1227">
+<back><listPerson><person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
                   <birth>
                      <date>1867</date>
@@ -170,6 +167,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
+               </person>
+               <person xml:id="tillich_person_id__1717">
+                  <persName>Schleiermacher, Friedrich Daniel Ernst</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

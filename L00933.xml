@@ -106,15 +106,7 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
+<back><listPlace><place xml:id="tillich_place_id__448">
                   <placeName>Tübingen</placeName>
                   <location type="coords">
                      <geo>48.52266 9.05222</geo>
@@ -122,7 +114,19 @@
                   <idno type="geonames">https://sws.geonames.org/2820860/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__688">
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__688">
                   <persName>Goesch, Heinrich</persName>
                   <birth>
                      <date>1880-07-02</date>
@@ -137,10 +141,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
-               </person>
-               <person xml:id="tillich_person_id__845">
-                  <persName>Heim, Karl</persName>
-                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>

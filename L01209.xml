@@ -114,8 +114,7 @@
             </postscript>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__64">Tillich, Paul, Die sozialistische Entscheidung, Potsdam 1933</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__904">
+   <back><listPerson><person xml:id="tillich_person_id__904">
                   <persName>Hirsch, Emanuel</persName>
                   <birth>
                      <date>1888-06-14</date>
@@ -172,5 +171,6 @@
                   <idno type="geonames">https://sws.geonames.org/2918632/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__64">Tillich, Paul, Die sozialistische Entscheidung, Potsdam 1933</bibl>
+               </listBibl></back></text>
 </TEI>

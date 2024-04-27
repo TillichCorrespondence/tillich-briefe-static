@@ -185,137 +185,19 @@ von Heft 22, das System der Wissenschaften, machen will.</p>
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__208">
-                  <placeName>Hersfeld</placeName>
-                  <location type="coords">
-                     <geo>50.87197 9.70891</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
-               </place>
-               <place xml:id="tillich_place_id__370">
-                  <placeName>Rostock</placeName>
-                  <location type="coords">
-                     <geo>54.08870 12.14049</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2844588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32265522</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               <place xml:id="tillich_place_id__277">
-                  <placeName>Mannheim</placeName>
-                  <location type="coords">
-                     <geo>49.48910 8.46694</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873891/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2119</idno>
-               </place>
-               <place xml:id="tillich_place_id__480">
-                  <placeName>Zürich</placeName>
-                  <location type="coords">
-                     <geo>47.36667 8.55000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2657896/</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__153">Hartlaub, Kunst und Religion. Ein Versuch über die Möglichkeit neuer religiöser Kunst" Das neue Deutschland 9 (1921), 151–158.</bibl>
-               <bibl xml:id="tillich_work_id__130">Husserl, Edmund, Logische Untersuchungen. Prolegomena zur reinen Logik. Bd. 1, Halle a.S. 1900.</bibl>
-               <bibl xml:id="tillich_work_id__152">Eckart von Sydow, Die Kultur der Dekadenz. Dresden: Sibyllen-Verlag, 1921.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__904">
-                  <persName>Hirsch, Emanuel</persName>
-                  <birth>
-                     <date>1888-06-14</date>
-                     <settlement>
-                        <placeName>Bentwisch</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1972-07-17</date>
-                     <settlement>
-                        <placeName>Göttingen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Systematischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+<back><listPerson><person xml:id="tillich_person_id__551">
+                  <persName>Eucken, Rudolf</persName>
                </person>
-               <person xml:id="tillich_person_id__1548">
-                  <persName>Radbruch, Gustav</persName>
+               <person xml:id="tillich_person_id__946">
+                  <persName>Husserl, Edmund</persName>
+               </person>
+               <person xml:id="tillich_person_id__1703">
+                  <persName>Scheler, Max</persName>
                </person>
                <person xml:id="tillich_person_id__1291">
                   <persName>Medicus, Fritz</persName>
                   <occupation>Philosoph</occupation>
                   <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__946">
-                  <persName>Husserl, Edmund</persName>
-               </person>
-               <person xml:id="tillich_person_id__363">
-                  <persName>Cassirer, Ernst</persName>
-               </person>
-               <person xml:id="tillich_person_id__812">
-                  <persName>Hartlaub, Gustav Friedrich</persName>
-               </person>
-               <person xml:id="tillich_person_id__2755">
-                  <persName>Stern, William</persName>
-                  <occupation>Psychologe;</occupation>
-                  <note type="bio"><p>Er war der Begründer der differentiellen Psychologie.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__856">
-                  <persName>Heller, Hermann</persName>
-               </person>
-               <person xml:id="tillich_person_id__2008">
-                  <persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-               </person>
-               <person xml:id="tillich_person_id__2757">
-                  <persName>Bruns, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__640">
-                  <persName>Frischeisen-Köhler, Max</persName>
-               </person>
-               <person xml:id="tillich_person_id__2754">
-                  <persName>Zschimmer, Eberhard</persName>
-                  <occupation>Mineraloge;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__42">
-                  <persName>Althaus, Paul</persName>
-                  <birth>
-                     <date>1888-02-04</date>
-                     <settlement>
-                        <placeName>Uetze-Obershagen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1966-05-18</date>
-                     <settlement>
-                        <placeName>Erlangen</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
-               </person>
-               <person xml:id="tillich_person_id__2315">
-                  <persName>Mehlis, Georg (Prof.)</persName>
-                  <occupation>Freiburg</occupation>
                </person>
                <person xml:id="tillich_person_id__2135">
                   <persName>Rickert, Heinrich</persName>
@@ -335,8 +217,54 @@ von Heft 22, das System der Wissenschaften, machen will.</p>
                   <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
                   <note type="bio"><p>Er spezialisierte sich auf den Neukantianismus.</p></note>
                </person>
-               <person xml:id="tillich_person_id__719">
-                  <persName>Grisebach, Eberhard</persName>
+               <person xml:id="tillich_person_id__2755">
+                  <persName>Stern, William</persName>
+                  <occupation>Psychologe;</occupation>
+                  <note type="bio"><p>Er war der Begründer der differentiellen Psychologie.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2008">
+                  <persName>von Sydow, Eckart</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+               </person>
+               <person xml:id="tillich_person_id__363">
+                  <persName>Cassirer, Ernst</persName>
+               </person>
+               <person xml:id="tillich_person_id__856">
+                  <persName>Heller, Hermann</persName>
+               </person>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
+                  <birth>
+                     <date>1888-06-14</date>
+                     <settlement>
+                        <placeName>Bentwisch</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-07-17</date>
+                     <settlement>
+                        <placeName>Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+               </person>
+               <person xml:id="tillich_person_id__2754">
+                  <persName>Zschimmer, Eberhard</persName>
+                  <occupation>Mineraloge;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__640">
+                  <persName>Frischeisen-Köhler, Max</persName>
+               </person>
+               <person xml:id="tillich_person_id__1548">
+                  <persName>Radbruch, Gustav</persName>
                </person>
                <person xml:id="tillich_person_id__1839">
                   <persName>Stammler, Rudolf</persName>
@@ -354,14 +282,86 @@ von Heft 22, das System der Wissenschaften, machen will.</p>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118616692</idno>
                </person>
-               <person xml:id="tillich_person_id__551">
-                  <persName>Eucken, Rudolf</persName>
+               <person xml:id="tillich_person_id__2757">
+                  <persName>Bruns, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2756">
                   <persName>Schmalenbach, Hermann Friedrich</persName>
                </person>
-               <person xml:id="tillich_person_id__1703">
-                  <persName>Scheler, Max</persName>
+               <person xml:id="tillich_person_id__812">
+                  <persName>Hartlaub, Gustav Friedrich</persName>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2315">
+                  <persName>Mehlis, Georg (Prof.)</persName>
+                  <occupation>Freiburg</occupation>
+               </person>
+               <person xml:id="tillich_person_id__719">
+                  <persName>Grisebach, Eberhard</persName>
+               </person>
+               <person xml:id="tillich_person_id__42">
+                  <persName>Althaus, Paul</persName>
+                  <birth>
+                     <date>1888-02-04</date>
+                     <settlement>
+                        <placeName>Uetze-Obershagen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1966-05-18</date>
+                     <settlement>
+                        <placeName>Erlangen</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__208">
+                  <placeName>Hersfeld</placeName>
+                  <location type="coords">
+                     <geo>50.87197 9.70891</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               <place xml:id="tillich_place_id__370">
+                  <placeName>Rostock</placeName>
+                  <location type="coords">
+                     <geo>54.08870 12.14049</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2844588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32265522</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__277">
+                  <placeName>Mannheim</placeName>
+                  <location type="coords">
+                     <geo>49.48910 8.46694</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873891/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2119</idno>
+               </place>
+               <place xml:id="tillich_place_id__480">
+                  <placeName>Zürich</placeName>
+                  <location type="coords">
+                     <geo>47.36667 8.55000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2657896/</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__152">Eckart von Sydow, Die Kultur der Dekadenz. Dresden: Sibyllen-Verlag, 1921.</bibl>
+               <bibl xml:id="tillich_work_id__130">Husserl, Edmund, Logische Untersuchungen. Prolegomena zur reinen Logik. Bd. 1, Halle a.S. 1900.</bibl>
+               <bibl xml:id="tillich_work_id__153">Hartlaub, Kunst und Religion. Ein Versuch über die Möglichkeit neuer religiöser Kunst" Das neue Deutschland 9 (1921), 151–158.</bibl>
+               </listBibl></back></text>
 </TEI>

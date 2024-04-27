@@ -105,19 +105,29 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2418">
-                  <persName>Dixelius - von Aster, Hildur Emma Eufrosyne</persName>
-                  <birth>
-                     <date>1879</date>
-                  </birth>
-                  <death>
-                     <date>1969</date>
-                  </death>
-                  <occupation>Dichterin;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/101206844</idno>
-                  <note type="bio"><p>Sie war die Frau von Ernst von Aster.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2417">
+   <back><listPlace><place xml:id="tillich_place_id__539">
+                  <placeName>Nauheim</placeName>
+                  <location type="coords">
+                     <geo>50.36463 8.73859</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953395/</idno>
+               </place>
+               <place xml:id="tillich_place_id__417">
+                  <placeName>Stockholm</placeName>
+                  <location type="coords">
+                     <geo>59.50000 18.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2673722/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q104231</idno>
+               </place>
+               <place xml:id="tillich_place_id__175">
+                  <placeName>Gießen</placeName>
+                  <location type="coords">
+                     <geo>50.58727 8.67554</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2417">
                   <persName>Aster, Ernst von</persName>
                   <birth>
                      <date>1880-02-18</date>
@@ -133,6 +143,11 @@
                   </death>
                   <occupation>Philosoph;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116372222</idno>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -151,12 +166,24 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
+               <person xml:id="tillich_person_id__219">
+                  <persName>Billström, Jacob</persName>
+               </person>
                <person xml:id="tillich_person_id__2416">
                   <persName>Billström, Astrid</persName>
                   <note type="bio"><p>Sie war eine Freundin von Paul Tillich und war die Frau von Jacob Billström.</p></note>
                </person>
-               <person xml:id="tillich_person_id__219">
-                  <persName>Billström, Jacob</persName>
+               <person xml:id="tillich_person_id__2418">
+                  <persName>Dixelius - von Aster, Hildur Emma Eufrosyne</persName>
+                  <birth>
+                     <date>1879</date>
+                  </birth>
+                  <death>
+                     <date>1969</date>
+                  </death>
+                  <occupation>Dichterin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/101206844</idno>
+                  <note type="bio"><p>Sie war die Frau von Ernst von Aster.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -173,32 +200,5 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__417">
-                  <placeName>Stockholm</placeName>
-                  <location type="coords">
-                     <geo>59.50000 18.00000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2673722/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q104231</idno>
-               </place>
-               <place xml:id="tillich_place_id__539">
-                  <placeName>Nauheim</placeName>
-                  <location type="coords">
-                     <geo>50.36463 8.73859</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2953395/</idno>
-               </place>
-               <place xml:id="tillich_place_id__175">
-                  <placeName>Gießen</placeName>
-                  <location type="coords">
-                     <geo>50.58727 8.67554</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

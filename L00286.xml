@@ -154,7 +154,14 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1013">
+<back><listPerson><person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2771">
+                  <persName>Kalweit, ???</persName>
+                  <occupation>Theologe;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1013">
                   <persName>Kähler, Martin</persName>
                   <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
                </person>
@@ -174,12 +181,8 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                </person>
-               <person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__2771">
-                  <persName>Kalweit, ???</persName>
-                  <occupation>Theologe;</occupation>
+               <person xml:id="tillich_person_id__2221">
+                  <persName>Diehl, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1954">
                   <persName>Troeltsch, Ernst</persName>
@@ -197,24 +200,21 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
                </person>
-               <person xml:id="tillich_person_id__2221">
-                  <persName>Diehl, ???</persName>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__467">
-                  <placeName>Wartburg</placeName>
-                  <location type="coords">
-                     <geo>50.96605 10.30646</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
                </place>
                </listPlace></back></text>
 </TEI>

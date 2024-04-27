@@ -93,11 +93,8 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1678">
-                  <persName>Salomon, Gottfried</persName>
-                  <occupation>Ein deutsch-amerikanischer Soziologe und Nationalökonom</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2304">
+<back><listBibl><bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2304">
                   <persName>Krohn, Hildegard</persName>
                   <birth>
                      <date>1906-02-04</date>
@@ -113,6 +110,10 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1272748154</idno>
                   <note type="bio"><p>Sie war von 1921 bis 1930 mit Gottfried Salomon-Delatour verheiratet. Davor war sie die Muse von Georg Heym. Sie wurde in einem Konzentrationslager ermordet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1678">
+                  <persName>Salomon, Gottfried</persName>
+                  <occupation>Ein deutsch-amerikanischer Soziologe und Nationalökonom</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -137,6 +138,5 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

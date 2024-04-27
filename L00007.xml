@@ -94,11 +94,7 @@ Auch hatte sich die Wiese schon mit einer dünnen Eisdecke bekleidet, welche jed
                   <idno type="geonames">https://sws.geonames.org/554234/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1829</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1929">
-                  <persName>Tillich, Wilhelmina Mathilde</persName>
-                  <occupation>Mutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1926">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1926">
                   <persName>Tillich, Oskar</persName>
                   <birth>
                      <date>1828</date>
@@ -112,6 +108,10 @@ Auch hatte sich die Wiese schon mit einer dünnen Eisdecke bekleidet, welche jed
                <person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1929">
+                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <occupation>Mutter</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -91,12 +91,13 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__535">
-                  <placeName>Hiddensee</placeName>
+<back><listPlace><place xml:id="tillich_place_id__327">
+                  <placeName>Nürnberg</placeName>
                   <location type="coords">
-                     <geo>54.53919 13.09910</geo>
+                     <geo>49.45421 11.07752</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2904885/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2861650/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q116874675</idno>
                </place>
                <place xml:id="tillich_place_id__126">
                   <placeName>Dresden</placeName>
@@ -114,18 +115,16 @@
                   <idno type="geonames">https://sws.geonames.org/2934246/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1718</idno>
                </place>
-               <place xml:id="tillich_place_id__327">
-                  <placeName>Nürnberg</placeName>
+               <place xml:id="tillich_place_id__535">
+                  <placeName>Hiddensee</placeName>
                   <location type="coords">
-                     <geo>49.45421 11.07752</geo>
+                     <geo>54.53919 13.09910</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2861650/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q116874675</idno>
+                  <idno type="geonames">https://sws.geonames.org/2904885/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1792">
-                  <persName>Simon, Hugo</persName>
-                  <occupation>Bankier und Mäzen</occupation>
-                  <note type="bio"><p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p></note>
+               </listPlace><listPerson><person xml:id="tillich_person_id__705">
+                  <persName>Gottschow, Albert</persName>
+                  <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -144,9 +143,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__705">
-                  <persName>Gottschow, Albert</persName>
-                  <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
+               <person xml:id="tillich_person_id__1792">
+                  <persName>Simon, Hugo</persName>
+                  <occupation>Bankier und Mäzen</occupation>
+                  <note type="bio"><p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

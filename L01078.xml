@@ -137,13 +137,13 @@
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__352">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__230">Tillich, Paul, "Sozialismus: II. Religiöser Sozialismus", in: RGG 2, Bd. 5, Sp. 637–648, 1931</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__352">
                   <placeName>Polen-Neuendorf</placeName>
                   <location type="coords">
                      <geo>54.33333 18.73333</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3090679/</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__230">Tillich, Paul, "Sozialismus: II. Religiöser Sozialismus", in: RGG 2, Bd. 5, Sp. 637–648, 1931</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>
