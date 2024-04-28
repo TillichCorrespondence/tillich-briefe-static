@@ -90,17 +90,17 @@
                sich etwas daraus macht, <lb/>weiß freilich nicht <rs ref="#tillich_person_id__2192" type="person">Schwester Therese</rs>.</p>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__29">
+<back><listPerson><person xml:id="tillich_person_id__2192">
+                  <persName>???, Therese</persName>
+                  <occupation>Gemeindeschwester;</occupation>
+                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__29">
                   <placeName>Barkow</placeName>
                   <location type="coords">
                      <geo>53.70632 13.17928</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2952578/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2192">
-                  <persName>???, Therese</persName>
-                  <occupation>Gemeindeschwester;</occupation>
-                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

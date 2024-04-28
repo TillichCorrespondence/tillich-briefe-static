@@ -139,6 +139,19 @@
                   <occupation>Deutscher Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118549995</idno>
                </person>
+               <person xml:id="tillich_person_id__2156">
+                  <persName>Oberschmidt, ???</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117077836</idno>
+                  <note type="bio"><p>Er war der Leibfux eines Herrn namens Nickelby.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1133">
+                  <persName>Lang, Martin</persName>
+                  <occupation>Superintendent</occupation>
+               </person>
                <person xml:id="tillich_person_id__2152">
                   <persName>Goebel, ???</persName>
                   <birth>
@@ -160,22 +173,9 @@
                   <persName>Müller, ???</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1133">
-                  <persName>Lang, Martin</persName>
-                  <occupation>Superintendent</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2156">
-                  <persName>Oberschmidt, ???</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/117077836</idno>
-                  <note type="bio"><p>Er war der Leibfux eines Herrn namens Nickelby.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2157">
                   <persName>Nickelby, C.</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1295">
-                  <persName>Meinhof, Heinrich</persName>
-                  <occupation>Leibfux von Paul Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

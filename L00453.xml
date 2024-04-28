@@ -86,7 +86,14 @@
 <dateline><rs ref="#tillich_place_id__267" type="place">Liry</rs> d. <date when="1915-10-25">25. Okt. 1915</date></dateline>
 <salute>L. <rs ref="#tillich_person_id__1594" type="person">Maria!</rs></salute>
 </opener>
-</div></body><back><listPerson><person xml:id="tillich_person_id__1594">
+</div></body><back><listPlace><place xml:id="tillich_place_id__267">
+                  <placeName>Liry</placeName>
+                  <location type="coords">
+                     <geo>49.30704 4.65971</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2998160/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1594">
                   <persName>Rhine, Maria</persName>
                   <birth>
                      <date>1895-12-01</date>
@@ -97,11 +104,4 @@
                   <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__267">
-                  <placeName>Liry</placeName>
-                  <location type="coords">
-                     <geo>49.30704 4.65971</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2998160/</idno>
-               </place>
-               </listPlace></back></text></TEI>
+               </listPerson></back></text></TEI>

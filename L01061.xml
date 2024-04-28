@@ -91,6 +91,10 @@
 <back><listPerson><person xml:id="tillich_person_id__190">
                   <persName>Berger, Geza</persName>
                </person>
+               <person xml:id="tillich_person_id__2663">
+                  <persName>Berger, ???</persName>
+                  <note type="bio"><p>Es handelt sich um die Frau von Geza Berger.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
@@ -107,10 +111,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2663">
-                  <persName>Berger, ???</persName>
-                  <note type="bio"><p>Es handelt sich um die Frau von Geza Berger.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

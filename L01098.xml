@@ -94,30 +94,8 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__180">
-                  <placeName>Goslar</placeName>
-                  <location type="coords">
-                     <geo>51.90425 10.42766</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
-               </place>
-               <place xml:id="tillich_place_id__360">
-                  <placeName>Quedlinburg</placeName>
-                  <location type="coords">
-                     <geo>51.79000 11.16200</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6551148/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q40623</idno>
-               </place>
-               <place xml:id="tillich_place_id__188">
-                  <placeName>Halberstadt</placeName>
-                  <location type="coords">
-                     <geo>51.89562 11.05622</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911665/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2352">
+<back><listBibl><bibl xml:id="tillich_work_id__62">Tillich, Paul, Der Begriff der historischen Zeit, in: EW XI/2, S. 265-266.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2352">
                   <persName>Borchers, Frau</persName>
                   <note type="bio"><p>Sie war eine Verwandte von Wilhelm Borcher.</p></note>
                </person>
@@ -153,6 +131,28 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__62">Tillich, Paul, Der Begriff der historischen Zeit, in: EW XI/2, S. 265-266.</bibl>
-               </listBibl></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__180">
+                  <placeName>Goslar</placeName>
+                  <location type="coords">
+                     <geo>51.90425 10.42766</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
+               </place>
+               <place xml:id="tillich_place_id__360">
+                  <placeName>Quedlinburg</placeName>
+                  <location type="coords">
+                     <geo>51.79000 11.16200</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6551148/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q40623</idno>
+               </place>
+               <place xml:id="tillich_place_id__188">
+                  <placeName>Halberstadt</placeName>
+                  <location type="coords">
+                     <geo>51.89562 11.05622</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911665/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

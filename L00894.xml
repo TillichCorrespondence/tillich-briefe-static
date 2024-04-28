@@ -114,21 +114,21 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__253">
-                  <placeName>Le Conquet</placeName>
-                  <location type="coords">
-                     <geo>48.36053 -4.77086</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3004513/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q326149</idno>
-               </place>
-               <place xml:id="tillich_place_id__230">
+<back><listPlace><place xml:id="tillich_place_id__230">
                   <placeName>Kampen</placeName>
                   <location type="coords">
                      <geo>54.95411 8.34171</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2893295/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
+               </place>
+               <place xml:id="tillich_place_id__253">
+                  <placeName>Le Conquet</placeName>
+                  <location type="coords">
+                     <geo>48.36053 -4.77086</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3004513/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q326149</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__757">
                   <persName>Hahl, Margot</persName>
@@ -144,22 +144,6 @@
                   </death>
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
-               </person>
-               <person xml:id="tillich_person_id__688">
-                  <persName>Goesch, Heinrich</persName>
-                  <birth>
-                     <date>1880-07-02</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1931-02-16</date>
-                     <settlement>
-                        <placeName>Konstanz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -177,6 +161,22 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__688">
+                  <persName>Goesch, Heinrich</persName>
+                  <birth>
+                     <date>1880-07-02</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1931-02-16</date>
+                     <settlement>
+                        <placeName>Konstanz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

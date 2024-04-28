@@ -107,7 +107,33 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__217">
+<back><listPlace><place xml:id="tillich_place_id__206">
+                  <placeName>Heppenheim</placeName>
+                  <location type="coords">
+                     <geo>49.64145 8.63206</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2906268/</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2945">
+                  <persName>Hirsekorn, Frau</persName>
+               </person>
+               <person xml:id="tillich_person_id__217">
                   <persName>Bienert, Ida</persName>
                   <birth>
                      <date>1870-11-29</date>
@@ -129,11 +155,6 @@
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
-               <person xml:id="tillich_person_id__2946">
-                  <persName>Moeller van den Bruck, Lucy</persName>
-                  <occupation>Zweite Ehefrau von Arthur Moeller van den Bruck. Schwester der Dostojewski-Übersetzerin Elisabeth Kaerrick (pseud. E. K. Rashin).</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117083402</idno>
-               </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
@@ -151,8 +172,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2945">
-                  <persName>Hirsekorn, Frau</persName>
+               <person xml:id="tillich_person_id__2946">
+                  <persName>Moeller van den Bruck, Lucy</persName>
+                  <occupation>Zweite Ehefrau von Arthur Moeller van den Bruck. Schwester der Dostojewski-Übersetzerin Elisabeth Kaerrick (pseud. E. K. Rashin).</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117083402</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -169,28 +192,5 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__206">
-                  <placeName>Heppenheim</placeName>
-                  <location type="coords">
-                     <geo>49.64145 8.63206</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2906268/</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

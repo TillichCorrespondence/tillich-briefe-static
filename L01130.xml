@@ -118,8 +118,7 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__233">Tillich, Paul, Selbstanzeige Tillichs von "Hegel und Goethe", in: Neuigkeiten, J. C. B. Mohr (Paul Siebeck), H. Laupp’sche Buchhandlung 1932, Nr. 2, 14. Mai, 25</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1780">
+   <back><listPerson><person xml:id="tillich_person_id__1780">
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
@@ -138,5 +137,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__233">Tillich, Paul, Selbstanzeige Tillichs von "Hegel und Goethe", in: Neuigkeiten, J. C. B. Mohr (Paul Siebeck), H. Laupp’sche Buchhandlung 1932, Nr. 2, 14. Mai, 25</bibl>
+               </listBibl></back></text>
 </TEI>

@@ -92,15 +92,12 @@
 <postscript><p>Am tollsten sind die Löcher d. alten Burgen <unclear>mit</unclear> Schnee.</p></postscript>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__20">Tillich, Paul, Gläubiger Realismus II, in: Ders., Philosophie und Schicksal. Schriften zur Erkenntnislehre und Existenzphilosophie (GW IV), hg. von Renate Albtecht, Stuttgart 1961, S. 88-106.</bibl>
-               <bibl xml:id="tillich_work_id__60">Lübeckische Blätter. Zeitschrift der Gesellschaft zur Beförderung gemeinnütziger Arbeit, Jg. 73, Nr. 9 (1. März 1931)</bibl>
-               <bibl xml:id="tillich_work_id__19">Tillich, Paul, Religiöse Verwirklichung, Berlin 1930</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__508">
-                  <placeName>Niendorf</placeName>
+<back><listPlace><place xml:id="tillich_place_id__274">
+                  <placeName>Lübeck</placeName>
                   <location type="coords">
-                     <geo>53.99306 10.82093</geo>
+                     <geo>53.86893 10.68729</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2862596/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2875601/</idno>
                </place>
                <place xml:id="tillich_place_id__507">
                   <placeName>Travemünde</placeName>
@@ -110,14 +107,17 @@
                   <idno type="geonames">https://sws.geonames.org/2821480/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q321792</idno>
                </place>
-               <place xml:id="tillich_place_id__274">
-                  <placeName>Lübeck</placeName>
+               <place xml:id="tillich_place_id__508">
+                  <placeName>Niendorf</placeName>
                   <location type="coords">
-                     <geo>53.86893 10.68729</geo>
+                     <geo>53.99306 10.82093</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2875601/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2862596/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1154">
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__19">Tillich, Paul, Religiöse Verwirklichung, Berlin 1930</bibl>
+               <bibl xml:id="tillich_work_id__20">Tillich, Paul, Gläubiger Realismus II, in: Ders., Philosophie und Schicksal. Schriften zur Erkenntnislehre und Existenzphilosophie (GW IV), hg. von Renate Albtecht, Stuttgart 1961, S. 88-106.</bibl>
+               <bibl xml:id="tillich_work_id__60">Lübeckische Blätter. Zeitschrift der Gesellschaft zur Beförderung gemeinnütziger Arbeit, Jg. 73, Nr. 9 (1. März 1931)</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1154">
                   <persName>Leese, Kurt</persName>
                   <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
                </person>

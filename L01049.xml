@@ -165,6 +165,10 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/129609838</idno>
                </person>
+               <person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
+               </person>
                <person xml:id="tillich_person_id__2518">
                   <persName>Ruprecht, Gustav</persName>
                   <birth>
@@ -174,10 +178,6 @@
                      <date>1950</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116709065</idno>
-               </person>
-               <person xml:id="tillich_person_id__845">
-                  <persName>Heim, Karl</persName>
-                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -208,10 +208,10 @@
                   <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__173">Pfenningsdorf, Emil (Hg.), Der Erlösungsgedanke. Bericht über den 2. deutschen Theologentag in Frankfurt a. M. (Herbst 1928), Göttingen 1929.</bibl>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__170">Eisenhuth, Heinz Erich, Der Begriff des Irrationalen als philosophisches Problem. Ein Beitrag zur existenzialen Religionsbegründung, Göttingen 1931.</bibl>
                <bibl xml:id="tillich_work_id__172">Eisenhuth, Heinz Erich, Die Entwicklung des Problems der Glaubensgewißheit bei Karl Heim, Göttingen 1928.</bibl>
+               <bibl xml:id="tillich_work_id__173">Pfenningsdorf, Emil (Hg.), Der Erlösungsgedanke. Bericht über den 2. deutschen Theologentag in Frankfurt a. M. (Herbst 1928), Göttingen 1929.</bibl>
                <bibl xml:id="tillich_work_id__171">Eisenhuth, Heinz Erich, Ontologie und Theologie, Göttingen 1933.</bibl>
-               <bibl xml:id="tillich_work_id__170">Eisenhuth, Heinz Erich, Der Begriff des Irrationalen als philosophisches Problem. Ein Beitrag zur existenzialen Religionsbegründung, Göttingen 1931.</bibl>
                </listBibl><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">

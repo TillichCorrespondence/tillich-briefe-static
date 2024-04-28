@@ -97,15 +97,15 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2190">
-                  <persName>Spatz, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2216">
+   <back><listPerson><person xml:id="tillich_person_id__2216">
                   <persName>Jarcke, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1295">
                   <persName>Meinhof, Heinrich</persName>
                   <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2190">
+                  <persName>Spatz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

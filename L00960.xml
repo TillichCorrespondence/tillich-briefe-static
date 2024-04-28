@@ -91,7 +91,14 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__126">
+<back><listPlace><place xml:id="tillich_place_id__470">
+                  <placeName>Wien</placeName>
+                  <location type="coords">
+                     <geo>48.20820 16.37169</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2761367/</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
                   <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>
@@ -99,15 +106,11 @@
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
-               <place xml:id="tillich_place_id__470">
-                  <placeName>Wien</placeName>
-                  <location type="coords">
-                     <geo>48.20820 16.37169</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2761367/</idno>
-               </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__295">
                   <persName>Brueghel, Pieter</persName>
+               </person>
+               <person xml:id="tillich_person_id__2556">
+                  <persName>Wagner, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -125,9 +128,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2556">
-                  <persName>Wagner, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

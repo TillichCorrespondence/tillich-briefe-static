@@ -99,13 +99,12 @@
                   <idno type="geonames">https://sws.geonames.org/2861650/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q116874675</idno>
                </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
+               <place xml:id="tillich_place_id__535">
+                  <placeName>Hiddensee</placeName>
                   <location type="coords">
-                     <geo>51.05089 13.73832</geo>
+                     <geo>54.53919 13.09910</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+                  <idno type="geonames">https://sws.geonames.org/2904885/</idno>
                </place>
                <place xml:id="tillich_place_id__130">
                   <placeName>Düsseldorf</placeName>
@@ -115,12 +114,13 @@
                   <idno type="geonames">https://sws.geonames.org/2934246/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1718</idno>
                </place>
-               <place xml:id="tillich_place_id__535">
-                  <placeName>Hiddensee</placeName>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
                   <location type="coords">
-                     <geo>54.53919 13.09910</geo>
+                     <geo>51.05089 13.73832</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2904885/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__705">
                   <persName>Gottschow, Albert</persName>

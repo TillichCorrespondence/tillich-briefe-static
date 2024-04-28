@@ -100,11 +100,11 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2742">
-                  <persName>Zitzte, Hans</persName>
-               </person>
-               <person xml:id="tillich_person_id__2741">
+<back><listPerson><person xml:id="tillich_person_id__2741">
                   <persName>???, Lina</persName>
+               </person>
+               <person xml:id="tillich_person_id__2742">
+                  <persName>Zitzte, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>

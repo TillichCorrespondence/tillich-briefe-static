@@ -123,7 +123,11 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1874">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1763">
+                  <persName>Seeberger, Erhard</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1874">
                   <persName>Strathmann, Hermann</persName>
                   <birth>
                      <date>1882-08-30</date>
@@ -139,10 +143,6 @@
                   </death>
                   <occupation>Neutestamentler und Politiker (DNVP, CSVD, CSU)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119239221</idno>
-               </person>
-               <person xml:id="tillich_person_id__1763">
-                  <persName>Seeberger, Erhard</persName>
-                  <occupation>Pfarrer</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

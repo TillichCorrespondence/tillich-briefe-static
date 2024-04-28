@@ -103,14 +103,14 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2456">
-                  <persName>Keck, Karl</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/116141182</idno>
-               </person>
-               <person xml:id="tillich_person_id__760">
+   <back><listPerson><person xml:id="tillich_person_id__760">
                   <persName>Hahn, L. Albrecht</persName>
                   <occupation>Bankier und Finanzwissenschaftler</occupation>
                   <note type="bio"><p>Studium der Rechtswissenschaften, Volkswirtschaft und Philosophie in Freiburg/Breisgau, Heidelberg, Marburg und Berlin, 1912 wurde er zum Dr. jur. promoviert, 1919 zum Dr. phil. 1919-1933 Vorstandsmitglied der Deutschen Effekten- und Wechselbank (vormals Bankhaus L. A. Hahn), 1929-1933 war er zudem Honorarprofessor für Geld- und Kreditwesen an der Universität Frankfurt. 1936 Emigration in die Schweiz, 1939 in die USA, wo er als Dozent an der New School for Sozial Research in New York tätig war. Nach dem Zweiten Weltkrieg kehrte er nach Europa zurück und hielt ab 1950 auch wieder Lehrveranstaltungen in Frankfurt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2456">
+                  <persName>Keck, Karl</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116141182</idno>
                </person>
                <person xml:id="tillich_person_id__1610">
                   <persName>Riezler, Kurt</persName>

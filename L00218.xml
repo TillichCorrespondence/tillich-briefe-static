@@ -128,17 +128,26 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2185">
+   <back><listPerson><person xml:id="tillich_person_id__2191">
+                  <persName>???, Jonas</persName>
+                  <note type="bio"><p>Er scheint ein Studienkollege von Paul Tillich gewesen zu sein.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2185">
                   <persName>Meyersieck, Joh.</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
                   <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__203">
                   <persName>Bertheau, Lorenz</persName>
                   <occupation>Pfarrer</occupation>
                </person>
-               <person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
+               <person xml:id="tillich_person_id__2149">
+                  <persName>Fink, ???</persName>
+                  <note type="bio"><p>Er war ein Philister im Bonner Wingolf.</p></note>
                </person>
                <person xml:id="tillich_person_id__128">
                   <persName>Balke, Hans</persName>
@@ -156,20 +165,11 @@
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
                </person>
-               <person xml:id="tillich_person_id__2191">
-                  <persName>???, Jonas</persName>
-                  <note type="bio"><p>Er scheint ein Studienkollege von Paul Tillich gewesen zu sein.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2908">
                   <persName>Meinhof, ???</persName>
                </person>
-               <person xml:id="tillich_person_id__2149">
-                  <persName>Fink, ???</persName>
-                  <note type="bio"><p>Er war ein Philister im Bonner Wingolf.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1295">
-                  <persName>Meinhof, Heinrich</persName>
-                  <occupation>Leibfux von Paul Tillich</occupation>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

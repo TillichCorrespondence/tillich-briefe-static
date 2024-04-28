@@ -103,14 +103,14 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__128">
+   <back><listPerson><person xml:id="tillich_person_id__2149">
+                  <persName>Fink, ???</persName>
+                  <note type="bio"><p>Er war ein Philister im Bonner Wingolf.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__128">
                   <persName>Balke, Hans</persName>
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2149">
-                  <persName>Fink, ???</persName>
-                  <note type="bio"><p>Er war ein Philister im Bonner Wingolf.</p></note>
                </person>
                <person xml:id="tillich_person_id__2148">
                   <persName>Schlemm, ???</persName>

@@ -136,22 +136,17 @@ diesen umfassenden Plan so zu veröffentlichen, sondern würden ihn mehr als Le
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__904">
-                  <persName>Hirsch, Emanuel</persName>
-                  <birth>
-                     <date>1888-06-14</date>
-                     <settlement>
-                        <placeName>Bentwisch</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1972-07-17</date>
-                     <settlement>
-                        <placeName>Göttingen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Systematischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+<back><listPerson><person xml:id="tillich_person_id__2735">
+                  <persName>Albers, August</persName>
+               </person>
+               <person xml:id="tillich_person_id__2748">
+                  <persName>Foerster, Erich</persName>
+                  <occupation>Pfarrer; Jurist;</occupation>
+                  <note type="bio"><p>Er war nach einem Studium der Evangelischen Theologie und der Rechtswissenschaft Vikar bei Martin Rade gewesen, bevor er 1893 bis 1895 als Pfarrer in Hirschberg wirkte. 1895 übernahm er das Pfarramt der Reformierten Gemeinde in Frankfurt am Main. An der Frankfurter Akademie für Sozial- und Handelswissenschaften habilitierte er sich 1907.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2315">
+                  <persName>Mehlis, Georg (Prof.)</persName>
+                  <occupation>Freiburg</occupation>
                </person>
                <person xml:id="tillich_person_id__1291">
                   <persName>Medicus, Fritz</persName>
@@ -174,39 +169,36 @@ diesen umfassenden Plan so zu veröffentlichen, sondern würden ihn mehr als Le
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118616692</idno>
                </person>
-               <person xml:id="tillich_person_id__2315">
-                  <persName>Mehlis, Georg (Prof.)</persName>
-                  <occupation>Freiburg</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1403">
-                  <persName>Nohl, Herman</persName>
-               </person>
-               <person xml:id="tillich_person_id__1376">
-                  <persName>Natorp, Paul</persName>
+               <person xml:id="tillich_person_id__844">
+                  <persName>Heiler, Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__677">
                   <persName>Gierke, Otto von</persName>
                </person>
-               <person xml:id="tillich_person_id__2748">
-                  <persName>Foerster, Erich</persName>
-                  <occupation>Pfarrer; Jurist;</occupation>
-                  <note type="bio"><p>Er war nach einem Studium der Evangelischen Theologie und der Rechtswissenschaft Vikar bei Martin Rade gewesen, bevor er 1893 bis 1895 als Pfarrer in Hirschberg wirkte. 1895 übernahm er das Pfarramt der Reformierten Gemeinde in Frankfurt am Main. An der Frankfurter Akademie für Sozial- und Handelswissenschaften habilitierte er sich 1907.</p></note>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
+                  <birth>
+                     <date>1888-06-14</date>
+                     <settlement>
+                        <placeName>Bentwisch</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-07-17</date>
+                     <settlement>
+                        <placeName>Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
                </person>
-               <person xml:id="tillich_person_id__2735">
-                  <persName>Albers, August</persName>
+               <person xml:id="tillich_person_id__1376">
+                  <persName>Natorp, Paul</persName>
                </person>
-               <person xml:id="tillich_person_id__844">
-                  <persName>Heiler, Friedrich</persName>
+               <person xml:id="tillich_person_id__1403">
+                  <persName>Nohl, Herman</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
+               </listPerson><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>
@@ -221,6 +213,14 @@ diesen umfassenden Plan so zu veröffentlichen, sondern würden ihn mehr als Le
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2925177/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
                </listPlace><listBibl><bibl xml:id="tillich_work_id__145">Hirsch, Emanuel, Deutschlands Schicksal. Staat, Volk und Menschheit im Lichte einer ethischen Geschichtsansicht. Göttingen: Vandenhoeck &amp; Ruprecht, 1920.</bibl>
                </listBibl></back></text>

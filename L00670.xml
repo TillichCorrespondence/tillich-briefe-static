@@ -125,11 +125,11 @@ entgegen.</p>
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2752">
-                  <persName>Reyer, Wilhelm</persName>
-               </person>
-               <person xml:id="tillich_person_id__2735">
+<back><listPerson><person xml:id="tillich_person_id__2735">
                   <persName>Albers, August</persName>
+               </person>
+               <person xml:id="tillich_person_id__2752">
+                  <persName>Reyer, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__1376">
                   <persName>Natorp, Paul</persName>
