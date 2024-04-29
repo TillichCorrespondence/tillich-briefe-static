@@ -203,11 +203,7 @@
                   <idno type="geonames">https://sws.geonames.org/2878044/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1061">
-                  <persName>Klein, Ernst August Ferdinand</persName>
-                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1594">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1594">
                   <persName>Rhine, Maria</persName>
                   <birth>
                      <date>1895-12-01</date>
@@ -218,9 +214,9 @@
                   <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
                </person>
-               <person xml:id="tillich_person_id__1063">
-                  <persName>Klein, Elisabeth</persName>
-                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
+               <person xml:id="tillich_person_id__1061">
+                  <persName>Klein, Ernst August Ferdinand</persName>
+                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
                </person>
                <person xml:id="tillich_person_id__375">
                   <persName>Christiansen, Martha</persName>
@@ -229,6 +225,10 @@
                <person xml:id="tillich_person_id__376">
                   <persName>Christiansen, Anna</persName>
                   <occupation>Wohl ebenfalls Schwester von Hans C.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1063">
+                  <persName>Klein, Elisabeth</persName>
+                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
                </person>
                <person xml:id="tillich_person_id__374">
                   <persName>Christiansen, Hans</persName>

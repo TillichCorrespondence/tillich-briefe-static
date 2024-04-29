@@ -112,17 +112,17 @@
 <signed>Dein <rs ref="#tillich_person_id__2224" type="person">Onkel Paul</rs>.</signed></closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2236">
+<back><listPerson><person xml:id="tillich_person_id__2224">
+                  <persName>Dürselen , Paul Rudolf</persName>
+                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2236">
                   <persName>???, Else</persName>
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2237">
                   <persName>Dürselen, Gustav</persName>
                   <note type="bio"><p>Er war ein Großvater von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2224">
-                  <persName>Dürselen , Paul Rudolf</persName>
-                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

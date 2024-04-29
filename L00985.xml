@@ -99,20 +99,27 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__511">
-                  <placeName>Rosenheim</placeName>
-                  <location type="coords">
-                     <geo>47.85637 12.12247</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2844988/</idno>
-               </place>
-               <place xml:id="tillich_place_id__512">
+<back><listPlace><place xml:id="tillich_place_id__512">
                   <placeName>Venedig</placeName>
                   <location type="coords">
                      <geo>45.43713 12.33265</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3164603/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33723961</idno>
+               </place>
+               <place xml:id="tillich_place_id__23">
+                  <placeName>Bad Reichenhall</placeName>
+                  <location type="coords">
+                     <geo>47.72947 12.87819</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953371/</idno>
+               </place>
+               <place xml:id="tillich_place_id__511">
+                  <placeName>Rosenheim</placeName>
+                  <location type="coords">
+                     <geo>47.85637 12.12247</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2844988/</idno>
                </place>
                <place xml:id="tillich_place_id__306">
                   <placeName>München</placeName>
@@ -122,19 +129,7 @@
                   <idno type="geonames">https://sws.geonames.org/2867714/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
                </place>
-               <place xml:id="tillich_place_id__23">
-                  <placeName>Bad Reichenhall</placeName>
-                  <location type="coords">
-                     <geo>47.72947 12.87819</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2953371/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2560">
-                  <persName>???, Ulli</persName>
-                  <occupation>Künstler;</occupation>
-                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1923">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -150,6 +145,11 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2560">
+                  <persName>???, Ulli</persName>
+                  <occupation>Künstler;</occupation>
+                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

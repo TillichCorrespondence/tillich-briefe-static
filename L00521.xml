@@ -122,15 +122,7 @@ Deutsche (Roh-)Übersetzung: s. Transkriptionsdokument (Word)-->
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2145">
-                  <persName>Martel, Rachel</persName>
-                  <note type="bio"><p>Er war im Kontakt mit Paul Tillich im 1. Weltkrieg und korrespondierte mit ihm auf Französisch.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1487">
-                  <persName>Pfeiffer, Erich</persName>
-                  <occupation>Hauptmann im 1. WK</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2146">
+<back><listPerson><person xml:id="tillich_person_id__2146">
                   <persName>Wagner, Richard</persName>
                   <birth>
                      <date>1813-05-22</date>
@@ -146,6 +138,14 @@ Deutsche (Roh-)Übersetzung: s. Transkriptionsdokument (Word)-->
                   </death>
                   <occupation>Komponist;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118594117</idno>
+               </person>
+               <person xml:id="tillich_person_id__2145">
+                  <persName>Martel, Rachel</persName>
+                  <note type="bio"><p>Er war im Kontakt mit Paul Tillich im 1. Weltkrieg und korrespondierte mit ihm auf Französisch.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1487">
+                  <persName>Pfeiffer, Erich</persName>
+                  <occupation>Hauptmann im 1. WK</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

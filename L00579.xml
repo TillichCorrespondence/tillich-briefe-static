@@ -109,14 +109,14 @@
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1074">
-                  <persName>Koch, Karl</persName>
-                  <occupation>Referent, Bursche von Paul Tillich</occupation>
-               </person>
                <person xml:id="tillich_person_id__2285">
                   <persName>Grimm, ???</persName>
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er war Feldpfarrer im 1. Weltkrieg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1074">
+                  <persName>Koch, Karl</persName>
+                  <occupation>Referent, Bursche von Paul Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

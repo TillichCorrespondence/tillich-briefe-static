@@ -99,11 +99,7 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2225">
-                  <persName>Dürselen, Johanna Amalia Eugenia</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -121,6 +117,10 @@
                <person xml:id="tillich_person_id__2238">
                   <persName>Dürselen, Amalia Gertrud Mathilde</persName>
                   <note type="bio"><p>Sie war eine Großmutter von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2225">
+                  <persName>Dürselen, Johanna Amalia Eugenia</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -139,15 +139,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__241">
-                  <placeName>Korntal</placeName>
-                  <location type="coords">
-                     <geo>48.83139 9.12234</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6557968/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q61663</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
+<back><listPlace><place xml:id="tillich_place_id__448">
                   <placeName>Tübingen</placeName>
                   <location type="coords">
                      <geo>48.52266 9.05222</geo>
@@ -171,12 +163,20 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1468">
+               <place xml:id="tillich_place_id__241">
+                  <placeName>Korntal</placeName>
+                  <location type="coords">
+                     <geo>48.83139 9.12234</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6557968/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q61663</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2190">
+                  <persName>Spatz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1468">
                   <persName>Paulus</persName>
                   <occupation>Apostel</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2190">
-                  <persName>Spatz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2193">
                   <persName>Gaiser, ???</persName>

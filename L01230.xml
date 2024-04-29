@@ -110,8 +110,7 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__84">Tillich, Paul, Die Überwindung des Persönlichkeitsideals. Ein Vortrag, in Logos, Band XVI, 1927, S. 68-85</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__204">
+   <back><listPlace><place xml:id="tillich_place_id__204">
                   <placeName>Heilbronn</placeName>
                   <location type="coords">
                      <geo>49.13995 9.22054</geo>
@@ -127,7 +126,8 @@
                   <idno type="geonames">https://sws.geonames.org/2873759/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__84">Tillich, Paul, Die Überwindung des Persönlichkeitsideals. Ein Vortrag, in Logos, Band XVI, 1927, S. 68-85</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>

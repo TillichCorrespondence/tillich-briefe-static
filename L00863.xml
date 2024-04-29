@@ -132,9 +132,7 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__9">Tillich, Paul, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen 1924, S. 1-22.</bibl>
-               <bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__448">
+   <back><listPlace><place xml:id="tillich_place_id__448">
                   <placeName>Tübingen</placeName>
                   <location type="coords">
                      <geo>48.52266 9.05222</geo>
@@ -150,7 +148,9 @@
                   <idno type="geonames">https://sws.geonames.org/2911298/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1780">
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
+               <bibl xml:id="tillich_work_id__9">Tillich, Paul, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen 1924, S. 1-22.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1780">
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>

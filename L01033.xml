@@ -94,53 +94,7 @@
       
      </div>
     </body>
-  <back><listPerson><person xml:id="tillich_person_id__2614">
-                  <persName>Karsen, Fritz</persName>
-                  <birth>
-                     <date>1885-11-11</date>
-                     <settlement>
-                        <placeName>Breslau</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1951-08-25</date>
-                     <settlement>
-                        <placeName>Guayaquil</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Schulrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118721054</idno>
-               </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
-               </person>
-               <person xml:id="tillich_person_id__2560">
-                  <persName>???, Ulli</persName>
-                  <occupation>Künstler;</occupation>
-                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2041">
-                  <persName>Werner, Marie Luise</persName>
-                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
-                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1562">
-                  <persName>Rathmann, August</persName>
-                  <birth>
-                     <date>1895-01-03</date>
-                  </birth>
-                  <death>
-                     <date>1995-01-05</date>
-                     <settlement>
-                        <placeName>Mönkeberg</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
-                  <idno type="gnd">https://explore.gnd.network/gnd/118749196</idno>
-               </person>
-               <person xml:id="tillich_person_id__1923">
+  <back><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -157,9 +111,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1059">
-                  <persName>Klatt, Fritz</persName>
-               </person>
                <person xml:id="tillich_person_id__1887">
                   <persName>Sydow, Eckart von</persName>
                   <birth>
@@ -171,6 +122,55 @@
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                   <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2560">
+                  <persName>???, Ulli</persName>
+                  <occupation>Künstler;</occupation>
+                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1059">
+                  <persName>Klatt, Fritz</persName>
+               </person>
+               <person xml:id="tillich_person_id__2614">
+                  <persName>Karsen, Fritz</persName>
+                  <birth>
+                     <date>1885-11-11</date>
+                     <settlement>
+                        <placeName>Breslau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1951-08-25</date>
+                     <settlement>
+                        <placeName>Guayaquil</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schulrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118721054</idno>
+               </person>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__1562">
+                  <persName>Rathmann, August</persName>
+                  <birth>
+                     <date>1895-01-03</date>
+                  </birth>
+                  <death>
+                     <date>1995-01-05</date>
+                     <settlement>
+                        <placeName>Mönkeberg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
+                  <idno type="gnd">https://explore.gnd.network/gnd/118749196</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

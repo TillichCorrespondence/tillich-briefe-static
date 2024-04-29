@@ -155,6 +155,9 @@
                   <persName>Tillich, Karl</persName>
                   <note type="bio"><p>Er war ein Vetter von Paul Tillich.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1611">
+                  <persName>Rilke, Rainer Maria</persName>
+               </person>
                <person xml:id="tillich_person_id__2020">
                   <persName>Wegener, Carl Richard</persName>
                   <birth>
@@ -174,9 +177,6 @@
                </person>
                <person xml:id="tillich_person_id__921">
                   <persName>Holbein der Jüngere, Hans</persName>
-               </person>
-               <person xml:id="tillich_person_id__1611">
-                  <persName>Rilke, Rainer Maria</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>

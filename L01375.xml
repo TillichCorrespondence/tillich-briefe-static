@@ -87,16 +87,16 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2085">
+<back><listPerson><person xml:id="tillich_person_id__2085">
                   <persName>Winkler, Toni</persName>
                   <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
                <person xml:id="tillich_person_id__2781">
                   <persName>Hamsun, Knut</persName>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                <person xml:id="tillich_person_id__1611">
                   <persName>Rilke, Rainer Maria</persName>

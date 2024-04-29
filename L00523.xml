@@ -149,11 +149,7 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1201">
-                  <persName>Loofs, Friedrich</persName>
-                  <occupation>Kirchenhistoriker</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1594">
+   <back><listPerson><person xml:id="tillich_person_id__1594">
                   <persName>Rhine, Maria</persName>
                   <birth>
                      <date>1895-12-01</date>
@@ -164,13 +160,17 @@
                   <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
                </person>
-               <person xml:id="tillich_person_id__374">
-                  <persName>Christiansen, Hans</persName>
-                  <occupation>Unterhielt wohl eine Art Liasion mit Maria Klein; wird in ihren Briefen von 1913 an Tillich erwähnt</occupation>
+               <person xml:id="tillich_person_id__1061">
+                  <persName>Klein, Ernst August Ferdinand</persName>
+                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
                </person>
                <person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
                   <occupation>Mutter von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1201">
+                  <persName>Loofs, Friedrich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -191,9 +191,9 @@
                   <persName>Klein, Lisa</persName>
                   <occupation>Schwester von Maria Klein (Rhine)</occupation>
                </person>
-               <person xml:id="tillich_person_id__1061">
-                  <persName>Klein, Ernst August Ferdinand</persName>
-                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
+               <person xml:id="tillich_person_id__374">
+                  <persName>Christiansen, Hans</persName>
+                  <occupation>Unterhielt wohl eine Art Liasion mit Maria Klein; wird in ihren Briefen von 1913 an Tillich erwähnt</occupation>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__89">Loofs, Friedrich, Grundlinien der Kirchengeschichte: in der Form von Dispositionen für seine Vorlesungen, Halle a.S. 1901.</bibl>
                </listBibl></back></text>

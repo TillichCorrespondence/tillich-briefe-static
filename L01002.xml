@@ -116,11 +116,11 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1537">
-                  <persName>Przywara, Erich</persName>
-               </person>
-               <person xml:id="tillich_person_id__2451">
+   <back><listPerson><person xml:id="tillich_person_id__2451">
                   <persName>Pange, Johann</persName>
+               </person>
+               <person xml:id="tillich_person_id__1537">
+                  <persName>Przywara, Erich</persName>
                </person>
                <person xml:id="tillich_person_id__137">
                   <persName>Barth, Karl</persName>

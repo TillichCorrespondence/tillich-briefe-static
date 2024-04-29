@@ -103,15 +103,7 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__273">
-                  <placeName>Lugo</placeName>
-                  <location type="coords">
-                     <geo>43.00992 -7.55602</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3117814/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917885</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -142,5 +134,13 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118682253</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__273">
+                  <placeName>Lugo</placeName>
+                  <location type="coords">
+                     <geo>43.00992 -7.55602</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3117814/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917885</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

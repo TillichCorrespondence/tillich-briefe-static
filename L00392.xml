@@ -116,6 +116,9 @@
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2050">
+                  <persName>Wever, Wolf</persName>
+               </person>
                <person xml:id="tillich_person_id__2049">
                   <persName>Wever, Mathilde</persName>
                   <occupation>Mutter von Greti</occupation>
@@ -123,9 +126,6 @@
                <person xml:id="tillich_person_id__1929">
                   <persName>Tillich, Wilhelmina Mathilde</persName>
                   <occupation>Mutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2050">
-                  <persName>Wever, Wolf</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

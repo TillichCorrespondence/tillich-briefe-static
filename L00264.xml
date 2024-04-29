@@ -106,11 +106,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1982">
-                  <persName>Van der Smissen, Gilbert</persName>
-                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2091">
+<back><listPerson><person xml:id="tillich_person_id__2091">
                   <persName>Witte, Hermann</persName>
                   <birth>
                      <date>1666-12-07</date>
@@ -122,6 +118,10 @@
                      <date>1728-03-24</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__1982">
+                  <persName>Van der Smissen, Gilbert</persName>
+                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
                </person>
                <person xml:id="tillich_person_id__128">
                   <persName>Balke, Hans</persName>

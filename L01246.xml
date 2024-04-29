@@ -99,12 +99,27 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__244">
+<back><listPlace><place xml:id="tillich_place_id__164">
+                  <placeName>Freiburg</placeName>
+                  <location type="coords">
+                     <geo>47.99590 7.85222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925177/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
+               </place>
+               <place xml:id="tillich_place_id__244">
                   <placeName>Köln</placeName>
                   <location type="coords">
                      <geo>50.93333 6.95000</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2886242/</idno>
+               </place>
+               <place xml:id="tillich_place_id__408">
+                  <placeName>Spiekeroog</placeName>
+                  <location type="coords">
+                     <geo>53.77012 7.69481</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2830534/</idno>
                </place>
                <place xml:id="tillich_place_id__343">
                   <placeName>Paris</placeName>
@@ -120,21 +135,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/5128581/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q60</idno>
-               </place>
-               <place xml:id="tillich_place_id__408">
-                  <placeName>Spiekeroog</placeName>
-                  <location type="coords">
-                     <geo>53.77012 7.69481</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2830534/</idno>
-               </place>
-               <place xml:id="tillich_place_id__164">
-                  <placeName>Freiburg</placeName>
-                  <location type="coords">
-                     <geo>47.99590 7.85222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925177/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1390">
                   <persName>Niebuhr, Reinhold</persName>

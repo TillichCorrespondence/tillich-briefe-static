@@ -91,83 +91,13 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__582">
-                  <placeName>Palästina</placeName>
-                  <location type="coords">
-                     <geo>31.92157 35.20329</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6254930/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q219060</idno>
-               </place>
-               <place xml:id="tillich_place_id__467">
-                  <placeName>Wartburg</placeName>
-                  <location type="coords">
-                     <geo>50.96605 10.30646</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
-               </place>
-               <place xml:id="tillich_place_id__200">
-                  <placeName>Hannover</placeName>
-                  <location type="coords">
-                     <geo>52.37052 9.73322</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2910831/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32052205</idno>
-               </place>
-               <place xml:id="tillich_place_id__437">
-                  <placeName>Thüringen</placeName>
-                  <location type="coords">
-                     <geo>50.91667 11.00000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2822542/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1205</idno>
-               </place>
-               <place xml:id="tillich_place_id__581">
-                  <placeName>Brandenburg</placeName>
-                  <location type="coords">
-                     <geo>52.45905 13.01582</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2945356/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1208</idno>
-               </place>
-               <place xml:id="tillich_place_id__561">
-                  <placeName>Bad Doberan</placeName>
-                  <location type="coords">
-                     <geo>54.10712 11.90051</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2953528/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31896916</idno>
-               </place>
-               <place xml:id="tillich_place_id__580">
-                  <placeName>Wilhelmsdorf</placeName>
-                  <location type="coords">
-                     <geo>52.37217 12.50533</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2808741/</idno>
-               </place>
-               <place xml:id="tillich_place_id__41">
-                  <placeName>Berlin-Lichtenrade</placeName>
-                  <location type="coords">
-                     <geo>52.39844 13.40637</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
-               </place>
-               <place xml:id="tillich_place_id__579">
-                  <placeName>Eldena</placeName>
-                  <location type="coords">
-                     <geo>53.23191 11.41804</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2931217/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2792">
-                  <persName>Rhine, ???</persName>
-                  <note type="bio"><p>Er war der Mann von Maria Klein/Rhine.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2760">
+<back><listPerson><person xml:id="tillich_person_id__2760">
                   <persName>Klein, Peter</persName>
                   <note type="bio"><p>Er war der jüngere Bruder von Maria Klein bzw. Maria Rhine.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2791">
+                  <persName>Klein, Linda</persName>
+                  <note type="bio"><p>Sie war die Schwester von Maria Klein/Rhine.</p></note>
                </person>
                <person xml:id="tillich_person_id__2793">
                   <persName>Jellinghaus, Paul</persName>
@@ -192,13 +122,83 @@
                   <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
                </person>
-               <person xml:id="tillich_person_id__2791">
-                  <persName>Klein, Linda</persName>
-                  <note type="bio"><p>Sie war die Schwester von Maria Klein/Rhine.</p></note>
+               <person xml:id="tillich_person_id__2792">
+                  <persName>Rhine, ???</persName>
+                  <note type="bio"><p>Er war der Mann von Maria Klein/Rhine.</p></note>
                </person>
                <person xml:id="tillich_person_id__1062">
                   <persName>Klein, Lisa</persName>
                   <occupation>Schwester von Maria Klein (Rhine)</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__581">
+                  <placeName>Brandenburg</placeName>
+                  <location type="coords">
+                     <geo>52.45905 13.01582</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2945356/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1208</idno>
+               </place>
+               <place xml:id="tillich_place_id__580">
+                  <placeName>Wilhelmsdorf</placeName>
+                  <location type="coords">
+                     <geo>52.37217 12.50533</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2808741/</idno>
+               </place>
+               <place xml:id="tillich_place_id__579">
+                  <placeName>Eldena</placeName>
+                  <location type="coords">
+                     <geo>53.23191 11.41804</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2931217/</idno>
+               </place>
+               <place xml:id="tillich_place_id__561">
+                  <placeName>Bad Doberan</placeName>
+                  <location type="coords">
+                     <geo>54.10712 11.90051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953528/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31896916</idno>
+               </place>
+               <place xml:id="tillich_place_id__200">
+                  <placeName>Hannover</placeName>
+                  <location type="coords">
+                     <geo>52.37052 9.73322</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2910831/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32052205</idno>
+               </place>
+               <place xml:id="tillich_place_id__41">
+                  <placeName>Berlin-Lichtenrade</placeName>
+                  <location type="coords">
+                     <geo>52.39844 13.40637</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
+               </place>
+               <place xml:id="tillich_place_id__437">
+                  <placeName>Thüringen</placeName>
+                  <location type="coords">
+                     <geo>50.91667 11.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2822542/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1205</idno>
+               </place>
+               <place xml:id="tillich_place_id__582">
+                  <placeName>Palästina</placeName>
+                  <location type="coords">
+                     <geo>31.92157 35.20329</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6254930/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q219060</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

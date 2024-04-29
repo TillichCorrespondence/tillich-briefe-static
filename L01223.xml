@@ -118,7 +118,23 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2477">
+   <back><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__68">
+                  <placeName>Bonn</placeName>
+                  <location type="coords">
+                     <geo>50.73438 7.09549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2477">
                   <persName>Naumann, Hans</persName>
                   <birth>
                      <date>1888-11-29</date>
@@ -156,21 +172,5 @@
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/1053257104</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__68">
-                  <placeName>Bonn</placeName>
-                  <location type="coords">
-                     <geo>50.73438 7.09549</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>
