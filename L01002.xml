@@ -119,14 +119,6 @@
    <back><listPerson><person xml:id="tillich_person_id__2451">
                   <persName>Pange, Johann</persName>
                </person>
-               <person xml:id="tillich_person_id__1537">
-                  <persName>Przywara, Erich</persName>
-               </person>
-               <person xml:id="tillich_person_id__137">
-                  <persName>Barth, Karl</persName>
-                  <occupation>Theologe;</occupation>
-                  <note type="bio"><p>Er studiere in Bern, Berlin, Tübingen und Marburg.  1909 war er Hilfsprediger der deutschen Gemeinde Genf, wo er Nelly Hoffmann (1893-1976) kennenlernte, die er 1913 heiratete. Seit 1911 war er Pfarrer in Safenwil (Aargau) und hatte eine Nähe zur religiös-sozialen Bewegung. 1919 erscheint B.s Kommentar zum Römerbrief, der insb. in seiner neubearbeiteten Zweitauflage (1922) zu einem Hauptdokument der Dialektischen Theologie wurde. Ruf an die Universität Göttingen im Jahr 1921, 1925-1930 Professor in Münster, ab 1930 in Bonn. Opposition zum Nationalsozialismus und folglich Entlassung. 1934 war er maßgeblicher Verfasser der Barmer Theologischen Erklärung. Seit 1935 in Basel, wo er bis 1962 als Professor wirkte. Bereits 1925 hatte er bei einem Aufenthalt bei den Pestallozis Charlotte von Kirschbaum (1899-1975) kennengelernt, in den Folgejahren entstand eine lebenslange Dreiecksbeziehung. 1940 meldete er sich aus Sorge vor einer deutschen Invasion freiwillig als Soldat im bewaffneten Hilfsdienst. Nach dem Krieg lehrte B. 1946-1947 als Gastprofessor in Bonn und äußerte sich auch in der Nachkriegszeit weiterhin zum politischen Geschehen.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -141,6 +133,14 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1537">
+                  <persName>Przywara, Erich</persName>
+               </person>
+               <person xml:id="tillich_person_id__137">
+                  <persName>Barth, Karl</persName>
+                  <occupation>Theologe;</occupation>
+                  <note type="bio"><p>Er studiere in Bern, Berlin, Tübingen und Marburg.  1909 war er Hilfsprediger der deutschen Gemeinde Genf, wo er Nelly Hoffmann (1893-1976) kennenlernte, die er 1913 heiratete. Seit 1911 war er Pfarrer in Safenwil (Aargau) und hatte eine Nähe zur religiös-sozialen Bewegung. 1919 erscheint B.s Kommentar zum Römerbrief, der insb. in seiner neubearbeiteten Zweitauflage (1922) zu einem Hauptdokument der Dialektischen Theologie wurde. Ruf an die Universität Göttingen im Jahr 1921, 1925-1930 Professor in Münster, ab 1930 in Bonn. Opposition zum Nationalsozialismus und folglich Entlassung. 1934 war er maßgeblicher Verfasser der Barmer Theologischen Erklärung. Seit 1935 in Basel, wo er bis 1962 als Professor wirkte. Bereits 1925 hatte er bei einem Aufenthalt bei den Pestallozis Charlotte von Kirschbaum (1899-1975) kennengelernt, in den Folgejahren entstand eine lebenslange Dreiecksbeziehung. 1940 meldete er sich aus Sorge vor einer deutschen Invasion freiwillig als Soldat im bewaffneten Hilfsdienst. Nach dem Krieg lehrte B. 1946-1947 als Gastprofessor in Bonn und äußerte sich auch in der Nachkriegszeit weiterhin zum politischen Geschehen.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__307">
                   <placeName>Münster</placeName>

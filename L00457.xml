@@ -145,13 +145,13 @@
                   <persName>Kattenbusch, Ferdinand</persName>
                   <occupation>Evangelischer Theologe, Wingolf</occupation>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__90">
+               </listPerson><listPlace><place xml:id="tillich_place_id__90">
                   <placeName>Champagne</placeName>
                   <location type="coords">
                      <geo>49.00000 4.50000</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3027258/</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl>
+               </listBibl></back></text>
 </TEI>

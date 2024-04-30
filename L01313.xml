@@ -107,11 +107,11 @@
                   <persName>Burger, Fritz</persName>
                   <occupation>Kunsthistoriker;</occupation>
                </person>
-               <person xml:id="tillich_person_id__1611">
-                  <persName>Rilke, Rainer Maria</persName>
-               </person>
                <person xml:id="tillich_person_id__1394">
                   <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1611">
+                  <persName>Rilke, Rainer Maria</persName>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -222,21 +222,21 @@
                   <persName>Siebeck, Paul</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__122">
+               </listPerson><listPlace><place xml:id="tillich_place_id__122">
                   <placeName>Deutschland</placeName>
                   <location type="coords">
                      <geo>51.50000 10.50000</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2921044/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q183</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
                </place>
                <place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>

@@ -125,8 +125,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3090679/</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__230">Tillich, Paul, "Sozialismus: II. Religiöser Sozialismus", in: RGG 2, Bd. 5, Sp. 637–648, 1931</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -145,5 +144,6 @@
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__230">Tillich, Paul, "Sozialismus: II. Religiöser Sozialismus", in: RGG 2, Bd. 5, Sp. 637–648, 1931</bibl>
+               </listBibl></back></text>
 </TEI>

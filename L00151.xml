@@ -182,34 +182,32 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1707">
-                  <persName>Schetelig, Wilhelm</persName>
-               </person>
-               <person xml:id="tillich_person_id__788">
-                  <persName>Hanffstengel, Gottfried von</persName>
-                  <occupation>Theologe, Jugendfreund</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2168">
-                  <persName>Schuster, Daniel</persName>
+<back><listPerson><person xml:id="tillich_person_id__2163">
+                  <persName>Hessig, ???</persName>
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1707">
+                  <persName>Schetelig, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2234">
                   <persName>Heintze, Hans Karl Ludwig Theodor</persName>
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er war Pfarrer in Lindtorf und Onkel von G. v. Hanffstengel.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2178">
-                  <persName>Van der Smissen, Wilm</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               <person xml:id="tillich_person_id__2168">
+                  <persName>Schuster, Daniel</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1738">
-                  <persName>Schreiber, Hans</persName>
+               <person xml:id="tillich_person_id__2235">
+                  <persName>Hessel, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2185">
+                  <persName>Meyersieck, Joh.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
+                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2233">
                   <persName>Engelmann, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__672">
-                  <persName>Gerhardt, Paul</persName>
                </person>
                <person xml:id="tillich_person_id__2184">
                   <persName>Kalfhaus, ???</persName>
@@ -230,21 +228,23 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2235">
-                  <persName>Hessel, ???</persName>
+               <person xml:id="tillich_person_id__1738">
+                  <persName>Schreiber, Hans</persName>
                </person>
-               <person xml:id="tillich_person_id__2185">
-                  <persName>Meyersieck, Joh.</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
-                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               <person xml:id="tillich_person_id__2178">
+                  <persName>Van der Smissen, Wilm</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2232">
                   <persName>Hanffstengel, ???</persName>
                   <note type="bio"><p>Sie war die Mutter von G. v. Hanffstengel.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2163">
-                  <persName>Hessig, ???</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               <person xml:id="tillich_person_id__672">
+                  <persName>Gerhardt, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__75">
                   <placeName>Bremervörde</placeName>
@@ -253,21 +253,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2944354/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
-               </place>
-               <place xml:id="tillich_place_id__60">
-                  <placeName>Bielefeld</placeName>
-                  <location type="coords">
-                     <geo>52.02113 8.53500</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2949188/</idno>
-               </place>
-               <place xml:id="tillich_place_id__58">
-                  <placeName>Bethel</placeName>
-                  <location type="coords">
-                     <geo>52.00697 8.52797</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2949766/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q23559794</idno>
                </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
@@ -284,6 +269,21 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2877106/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q648578</idno>
+               </place>
+               <place xml:id="tillich_place_id__60">
+                  <placeName>Bielefeld</placeName>
+                  <location type="coords">
+                     <geo>52.02113 8.53500</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2949188/</idno>
+               </place>
+               <place xml:id="tillich_place_id__58">
+                  <placeName>Bethel</placeName>
+                  <location type="coords">
+                     <geo>52.00697 8.52797</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2949766/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q23559794</idno>
                </place>
                <place xml:id="tillich_place_id__68">
                   <placeName>Bonn</placeName>

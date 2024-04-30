@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01391.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01390.xml" next="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01392.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich verm. vom 10. April 1933</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/3(6)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig.</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+    <placeName ref="#tillich_place_id__37" type="place">Berlin</placeName>
+<date when="1933-04-10">10.04.1933</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L01390">Brief von Paul Tillich an Hannah Tillich verm. März 1931</ref><ref subtype="next_letter" type="withinCollection" target="L01392">Brief von Paul Tillich an Hannah Tillich verm. April 1933</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2024-04-29" who="FS">Initiale Auszeichnung des Transkripts und Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+    <opener><dateline><hi rend="u">Montag</hi><note type="ea">Der vorliegende, undatierte Brief steht im inhaltlichen Zusammenhang mit andere undatierten Schreiben Tillichs an seine Frau, die allesamt auf April 1933 datiert werden können. Der größere Kontext jener Schreiben, verbunden mit der hier vorgenommenen Wochentagsangabe, lässt die vermutliche Datierung auf den <date when="1933-04-10">10. April 1933</date> zu.</note></dateline>
+    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!</salute>
+</opener>
+    <p>Heute drei Briefe von Dir.<note type="ea">Diese Briefe liegen nicht vor.</note> Ich danke Dir <hi rend="u">sehr</hi>! Machs weiter so, das ist für alle hiesigen Entscheidungen maßgebend. Ist es wahr, daß das Semester erst am 1. Mai beginnen soll?<note type="ea">Ein Blick in das Vorlesungsverzeichnis der Universität Frankfurt für das Sommersemester 1933 zeigt, dass der Semesterbeginn für Montag, den <date when="1933-05-01">1. Mai 1933</date> angesetzt war, nachträglich jedoch auf den <date when="1933-05-02">2. Mai 1933</date> verschoben wurde.</note> <rs ref="#tillich_person_id__846" type="person">Peter</rs> sagte, er hätte es in der Frankfurter Zeitung gelesen. <hi rend="u">Bitte schreibe gleich</hi>; erkundige Dich unter Umständen im Sekretariat. Auch davon hängt ja allerhand ab. Anbei die Quittungen. <hi rend="u">Sage doch der <rs ref="#tillich_person_id__2506" type="person">Siemßen</rs></hi>, sie solle alles, was in die Universität kommt, direkt hierher schicken. Wechsle Du mal mit der Adresse ab und schreibe an <rs ref="#tillich_person_id__2041" type="person">M. L.</rs> ohne Hinzufügung von <rs ref="#tillich_person_id__1762" type="person"><rs ref="#tillich_person_id__1763" type="person">Seebergers</rs></rs>. –</p>
+    <p>Gestern rief <rs ref="#tillich_person_id__846" type="person">Peter</rs> aus <unclear>¿¿¿</unclear> an. Am Abend war er hier, und zwar mit <rs ref="#tillich_person_id__2951" type="person">Elli</rs>. Ich mußte vom Essen aufstehen und ins Excelsior<note type="ea">Gemeint ist das Hotel Excelsior, das gegenüber vom Anhalter Bahnhof in der Königgrätzer Straße 112/113 stand.</note> sausen. Er wollte noch vor Beginn der Sperre abfahren. Auf meinen Rat hin ist er geblieben, aber vorläufig in <rs ref="#tillich_place_id__37" type="place">Berlin</rs>. Er kommt heut Mittag zu <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs>. Inzwischen will <rs ref="#tillich_person_id__2951" type="person">Elli</rs> die Vermerke für einen Besuch holländischer Freunde in <rs ref="#tillich_place_id__12" type="place">Amsterdam</rs> besorgen <pb n="2"/> Gelingt das, so könntest du Ähnliches machen. Ich schreibe dann<supplied>.</supplied> <rs ref="#tillich_person_id__846" type="person">Peter</rs> ist schon seit Wochen nicht mehr in der Kant-Gesellschaft. Die Vorstände habe ihn und die übrigen Beamten von sich aus gestrichen. Vielleicht ist es bei uns auch schon so. Jedenfalls ist dies das einzig Richtige. Sonst niemand Wichtiges gesprochen. <rs ref="#tillich_person_id__2652" type="person">Wedemeyer</rs> erst morgen da.</p>
+    <p>Auf dem Küssel war es nicht sehr ermunternd. Beide <rs ref="#tillich_person_id__1212" type="person"><rs ref="#tillich_person_id__2953" type="person">Brüder L.</rs></rs> sind wie alle Berliner Anwälte dieser 'Art' von Ausschluß aus den Gerichten bedroht. Damit ist ihre Existenz weitgehend vernichtet. Trotzdem können wir zur Zeit noch dort wohnen. Außerdem ist der Adler<note type="ea">Nicht ermittelt.</note> in ihrem Hause geschutzhaftet worden, nach 2 Tagen wieder frei. Infolgedessen aber Haussuchung und eben "bekannt" geworden. Die inneren Spannungen sind größer denn je. Entscheidender Gegensatz: <rs ref="#tillich_person_id__1211" type="person">Claire</rs>-<rs ref="#tillich_person_id__1498" type="person">Lilly</rs>. Auflösung des Ganzen schon besprochen aber noch abgelehnt. – Geh doch regelmäßig zu <rs ref="#tillich_person_id__1210" type="person">Bea</rs>. Bis jetzt nichts von <rs ref="#tillich_person_id__1209" type="person">Adolf</rs>. Morgen mehr! Grüße <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>!</p>
+    <closer>
+        <salute>Euch beiden Liebsten Gruß und Kuß! Euer (<unclear>bisher schlafender</unclear>)</salute>
+<signed><rs ref="#tillich_person_id__1928" type="person">Paul.</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__2951">
+                  <persName>Heimann, Elisabeth</persName>
+                  <occupation>Medizinerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2506">
+                  <persName>Siemsen, Gertrud</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/12587913X</idno>
+               </person>
+               <person xml:id="tillich_person_id__1498">
+                  <persName>Pincus, Lily</persName>
+                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
+                  <note type="bio"><p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__846">
+                  <persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1212">
+                  <persName>Löwenfeld, Günther</persName>
+                  <occupation>Jurist</occupation>
+                  <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1210">
+                  <persName>Löwe, Beatrice</persName>
+                  <note type="bio"><p>Frau von Adolf Löwe</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2652">
+                  <persName>Wedemeyer, Hans von</persName>
+                  <birth>
+                     <date>1888-07-31</date>
+                  </birth>
+                  <death>
+                     <date>1942-08-22</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119124947</idno>
+               </person>
+               <person xml:id="tillich_person_id__1209">
+                  <persName>Löwe, Adolf</persName>
+                  <occupation>deutscher Soziologe und Nationalökonom</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119383292</idno>
+                  <note type="bio"><p>1911-1915 Studium der Wirtschafts- wie auch Rechtswissenschaften in München, Berlin und Tübingen. In Tübingen wurde er 1918 zum Dr. iur. promoviert. 1919 heiratete er Beatrice Löwenstein (genannt Bea, *1893). 1919-1924 Tätigkeit im Reichswirtschaftsministerium, 1924-1926 Leiter der internationalen Abteilung des Statistischen Reichsamtes, in dieser Zeit auch mitverantwortlich für die Gründung des Deutschen Instituts für Konjunkturforschung (DIW). 1926 Habilitation in Kiel, damit einhergehend Leitung und Ausbau des Kieler Instituts für Weltwirtschaft (IfW) und Lehrtätigkeit an der Universität. 1931 folgte L. einem Ruf an die Universität Frankfurt/Main, wo er unter anderem seine alten Freunde Max  Horkheimer (aus Schulzeiten) und Tillich (aus Berliner Zeiten und dem Kreis religiöser Sozialisten) wiedertraf. Nachdem er 1933 zunächst beurlaubt und sodann entlassen wurde, emigrierte er im selben Jahr nach England, wo er 1933-1940 an der Universität Manchester tätig war und nebenher an der London School of Economics lehrte. 1940 zweite Emigration in die USA, wo er bis zu seiner Emeritierung 1963 an der New School for Social Research in New York lehrte. Adolf und Beatrice L. hatten zwei Töchter, Rahel Dorothea (tw. auch Dora, 1921-2011), später Rachel Aubrey bzw. in erster Ehe Rüstow, sowie Hanna Ruth (1924-2010), später Hanna Lustig.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1763">
+                  <persName>Seeberger, Erhard</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1211">
+                  <persName>Löwenfeld, Claire</persName>
+                  <occupation>Diätetikerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2953">
+                  <persName>Löwenfeld, Erwin</persName>
+                  <occupation>Anwalt</occupation>
+                  <note type="bio"><p>Bruder von Günther Löwenfeld.</p></note>
+               </person>
+            <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__12">
+                  <placeName>Amsterdam</placeName>
+                  <location type="coords">
+                     <geo>52.37403 4.88969</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2759794/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q727</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

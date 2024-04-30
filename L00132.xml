@@ -108,7 +108,21 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__890">
+<back><listPerson><person xml:id="tillich_person_id__1013">
+                  <persName>Kähler, Martin</persName>
+                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2277">
+                  <persName>Büchsel, Karl Wilhelm Konrad</persName>
+                  <note type="bio"><p>Er war ein Bruder von Hermann Martin Friedrich Büchsel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2275">
+                  <persName>Büchsel, Johannes Friedrich Wilhelm</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117718580</idno>
+                  <note type="bio"><p>Er war der Vater von Hermann Martin Friedrich Büchsel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__890">
                   <persName>Herrmann, Wilhelm</persName>
                   <birth>
                      <date>1846-12-06</date>
@@ -125,10 +139,6 @@
                   <occupation>Deutscher Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118549995</idno>
                </person>
-               <person xml:id="tillich_person_id__2278">
-                  <persName>Büchsel, Hermann Martin Friedrich</persName>
-                  <note type="bio"><p>Er war ein Bruder von Hermann Martin Friedrich Büchsel.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
                   <birth>
@@ -139,14 +149,6 @@
                   </death>
                   <occupation>Systematischer Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
-               </person>
-               <person xml:id="tillich_person_id__2279">
-                  <persName>Büchsel, Johannes Karl</persName>
-                  <note type="bio"><p>Er war ein Bruder von Hermann Martin Friedrich Büchsel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1013">
-                  <persName>Kähler, Martin</persName>
-                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
                </person>
                <person xml:id="tillich_person_id__310">
                   <persName>Büchsel, Friedrich Hermann Martin</persName>
@@ -159,26 +161,15 @@
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
                </person>
-               <person xml:id="tillich_person_id__2277">
-                  <persName>Büchsel, Karl Wilhelm Konrad</persName>
+               <person xml:id="tillich_person_id__2279">
+                  <persName>Büchsel, Johannes Karl</persName>
                   <note type="bio"><p>Er war ein Bruder von Hermann Martin Friedrich Büchsel.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2275">
-                  <persName>Büchsel, Johannes Friedrich Wilhelm</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117718580</idno>
-                  <note type="bio"><p>Er war der Vater von Hermann Martin Friedrich Büchsel.</p></note>
+               <person xml:id="tillich_person_id__2278">
+                  <persName>Büchsel, Hermann Martin Friedrich</persName>
+                  <note type="bio"><p>Er war ein Bruder von Hermann Martin Friedrich Büchsel.</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__175">Herrmann, Wilhelm, Ethik, J. C. B. Mohr, 1901.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__293">
-                  <placeName>Misdroy</placeName>
-                  <location type="coords">
-                     <geo>53.92921 14.45097</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
+               </listPerson><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                   <location type="coords">
                      <geo>51.48158 11.97947</geo>
@@ -186,5 +177,14 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               </listPlace></back></text>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__175">Herrmann, Wilhelm, Ethik, J. C. B. Mohr, 1901.</bibl>
+               </listBibl></back></text>
 </TEI>

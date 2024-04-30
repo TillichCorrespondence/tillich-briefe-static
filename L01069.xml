@@ -144,14 +144,14 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1780">
-                  <persName>Siebeck, Oskar</persName>
-                  <occupation>Deutscher Verleger</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1760">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1760">
                   <persName>Seeberg, Erich</persName>
                   <occupation>Kirchenhistoriker</occupation>
                   <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1780">
+                  <persName>Siebeck, Oskar</persName>
+                  <occupation>Deutscher Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

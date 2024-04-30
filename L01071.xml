@@ -100,29 +100,31 @@
            <hi rend="u">hier.</hi></salute>
      </div>
     </body>
-  <back><listPerson><person xml:id="tillich_person_id__169">
-                  <persName>Becker, Carl Heinrich</persName>
-                  <occupation>Deutscher Orientalist und Politiker, Kultusminister 1921 und 1925-30</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2726">
-                  <persName>Haas, August</persName>
-                  <birth>
-                     <date>1881-07-21</date>
-                     <settlement>
-                        <placeName>Waldbröl</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1945-03-28</date>
-                     <settlement>
-                        <placeName>Hausen (Waldbrunn, Westerwald)</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Schlosser; Parteifunktionär; Abgeordneter;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/133437086</idno>
-                  <note type="bio"><p>Zwischen Mai 1930 und 21. Juli 1932 war er Oberpräsident der Provinz Hessen-Nassau mit Sitz in Kassel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1610">
+  <back><listPlace><place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1610">
                   <persName>Riezler, Kurt</persName>
                   <birth>
                      <date>1882-02-11</date>
@@ -158,6 +160,28 @@
                   <idno type="gnd">https://d-nb.info/gnd/117400149</idno>
                   <note type="bio"><p>Er war Mitglied der DVP und wirkte ab 1926 als Ministerialrat im preußischen Unterrichtsministerium. Er war auch als Honorarprofessor für die Universität Berlin tätig.</p></note>
                </person>
+               <person xml:id="tillich_person_id__169">
+                  <persName>Becker, Carl Heinrich</persName>
+                  <occupation>Deutscher Orientalist und Politiker, Kultusminister 1921 und 1925-30</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2726">
+                  <persName>Haas, August</persName>
+                  <birth>
+                     <date>1881-07-21</date>
+                     <settlement>
+                        <placeName>Waldbröl</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-03-28</date>
+                     <settlement>
+                        <placeName>Hausen (Waldbrunn, Westerwald)</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schlosser; Parteifunktionär; Abgeordneter;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/133437086</idno>
+                  <note type="bio"><p>Zwischen Mai 1930 und 21. Juli 1932 war er Oberpräsident der Provinz Hessen-Nassau mit Sitz in Kassel.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -185,29 +209,5 @@
                   <idno type="gnd">https://d-nb.info/gnd/119208857</idno>
                   <note type="bio"><p>Von 1925 bis 1931 war er preußischer Finanzminister.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

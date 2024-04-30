@@ -89,16 +89,16 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2804">
-                  <persName>Ilse-Margot</persName>
+<back><listPerson><person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                <person xml:id="tillich_person_id__705">
                   <persName>Gottschow, Albert</persName>
                   <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
                </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               <person xml:id="tillich_person_id__2804">
+                  <persName>Ilse-Margot</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>

@@ -112,7 +112,8 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__126">
+<back><listBibl><bibl xml:id="tillich_work_id__14">Medicus, Fritz, Paul Tillich (Zu seiner Berufung nach Frankfurt), in: Neue Zürcher Zeitung, Nr. 527, vom 19.3.1929.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__126">
                   <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>
@@ -128,15 +129,14 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__14">Medicus, Fritz, Paul Tillich (Zu seiner Berufung nach Frankfurt), in: Neue Zürcher Zeitung, Nr. 527, vom 19.3.1929.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1291">
+               </listPlace><listPerson><person xml:id="tillich_person_id__158">
+                  <persName>Bäumler, Alfred</persName>
+                  <occupation>Philosoph</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1291">
                   <persName>Medicus, Fritz</persName>
                   <occupation>Philosoph</occupation>
                   <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__158">
-                  <persName>Bäumler, Alfred</persName>
-                  <occupation>Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

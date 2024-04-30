@@ -156,12 +156,13 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__600">
-                  <placeName>Bredow</placeName>
+<back><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
-                     <geo>52.58866 12.92662</geo>
+                     <geo>52.52437 13.41053</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2944885/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                <place xml:id="tillich_place_id__602">
                   <placeName>Havelberg</placeName>
@@ -178,13 +179,12 @@
                   <idno type="geonames">https://sws.geonames.org/2866930/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32174574</idno>
                </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
+               <place xml:id="tillich_place_id__600">
+                  <placeName>Bredow</placeName>
                   <location type="coords">
-                     <geo>52.52437 13.41053</geo>
+                     <geo>52.58866 12.92662</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+                  <idno type="geonames">https://sws.geonames.org/2944885/</idno>
                </place>
                </listPlace></back></text>
 </TEI>

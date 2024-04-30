@@ -46,6 +46,30 @@
                     <physDesc>
                         <p>Brief, eigenhändig</p>
                     </physDesc>
+                    <additional>
+                        <listBibl>
+                            <biblStruct n="firstPrint" type="monograph">
+                                <monogr>
+                                    <author>Paul Tillich</author>
+                                    <editor>Renate Albrecht/Margot Hahl (Hg.)</editor>
+                                    <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
+                                        Berichte</title>
+                                    <edition>Erste Auflage</edition>
+                                    <imprint>
+                                        <publisher>Evangelisches Verlagswerk Stuttgart</publisher>
+                                        <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+                                        <date when="1980">1980</date>
+                                        <biblScope>109</biblScope>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>Ergänzungs- und Nachlassbände zu den Gesammelten Werken
+                                        von Paul Tillich</title>
+                                    <biblScope>V</biblScope>
+                                </series>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -132,10 +156,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2724">
-                  <persName>Grimms, ???</persName>
-                  <note type="bio"><p>Es handelt sich um eine Person aus der Verwaltung der Evangelischen Kirche in Berlin oder Brandenburg, die Paul Tillich eine Hilfspredigerstelle während des Ersten Weltkriegs verschaffen sollte.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -150,6 +170,10 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2724">
+                  <persName>Grimms, ???</persName>
+                  <note type="bio"><p>Es handelt sich um eine Person aus der Verwaltung der Evangelischen Kirche in Berlin oder Brandenburg, die Paul Tillich eine Hilfspredigerstelle während des Ersten Weltkriegs verschaffen sollte.</p></note>
                </person>
                <person xml:id="tillich_person_id__1852">
                   <persName>Steinhausen, Hermann</persName>
@@ -184,14 +208,6 @@
                   <idno type="geonames">https://sws.geonames.org/3014195/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q271093</idno>
                </place>
-               <place xml:id="tillich_place_id__43">
-                  <placeName>Berlin-Neukölln</placeName>
-                  <location type="coords">
-                     <geo>52.47719 13.43126</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2864695/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q169492</idno>
-               </place>
                <place xml:id="tillich_place_id__38">
                   <placeName>Berlin-Friedenau</placeName>
                   <location type="coords">
@@ -199,6 +215,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2924770/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
+               </place>
+               <place xml:id="tillich_place_id__43">
+                  <placeName>Berlin-Neukölln</placeName>
+                  <location type="coords">
+                     <geo>52.47719 13.43126</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2864695/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q169492</idno>
                </place>
                </listPlace></back></text>
 </TEI>

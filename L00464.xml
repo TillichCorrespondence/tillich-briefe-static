@@ -46,6 +46,28 @@
 <physDesc>
 <p>Brief, eigenhändig</p>
 </physDesc>
+                  <additional>
+                                    <listBibl>
+                                                      <biblStruct n="firstPrint" type="monograph">
+                                                                        <monogr>
+                                                                                          <author>Paul Tillich</author>
+                                                                                          <title>Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge,
+                                                                                                            Berichte</title>
+                                                                                          <edition>1. Auflage</edition>
+                                                                                          <imprint>
+                                                                                                            <publisher>Renate Albrecht und Margot Hahl</publisher>
+                                                                                                            <pubPlace ref="#tillich_place_id__420">Stuttgart</pubPlace>
+                                                                                                            <date when="1980">1980</date>
+                                                                                                            <biblScope>117f.</biblScope>
+                                                                                          </imprint>
+                                                                        </monogr>
+                                                                        <series>
+                                                                                          <title>Gesammelte Werke. Ergänzungs- und Nachlaßbände</title>
+                                                                                          <biblScope>Band 5</biblScope>
+                                                                        </series>
+                                                      </biblStruct>
+                                    </listBibl>
+                  </additional>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -86,7 +108,11 @@
 <salute>Liebe <rs ref="#tillich_person_id__1594" type="person">Maria</rs>!</salute>
 </opener>
 <p>Dein Brief hat mich lebhaft bewegt. Selbstverständlich erfährt niemand, auch <rs ref="#tillich_person_id__1931" type="person">Greti</rs> nicht, von allen Dingen,
-               die das Innenleben eines anderen betreffen und vertraulich sind, nichts; auch <rs/></p></div></body><back><listPerson><person xml:id="tillich_person_id__1594">
+               die das Innenleben eines anderen betreffen und vertraulich sind, nichts; auch <rs/></p></div></body><back><listPerson><person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1594">
                   <persName>Rhine, Maria</persName>
                   <birth>
                      <date>1895-12-01</date>
@@ -96,9 +122,5 @@
                   </death>
                   <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                </listPerson></back></text></TEI>

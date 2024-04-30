@@ -121,14 +121,6 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               <place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
                <place xml:id="tillich_place_id__129">
                   <placeName>Dölzig</placeName>
                   <location type="coords">
@@ -136,6 +128,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3100226/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q5289683</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
                </place>
                </listPlace></back></text>
 </TEI>

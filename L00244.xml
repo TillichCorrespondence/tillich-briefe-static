@@ -97,36 +97,36 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1738">
-                  <persName>Schreiber, Hans</persName>
-               </person>
-               <person xml:id="tillich_person_id__877">
-                  <persName>Hensmann, Amos</persName>
-                  <occupation>Pfarrer;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2380">
+   <back><listPerson><person xml:id="tillich_person_id__2380">
                   <persName>Kilger, Johannes</persName>
                   <note type="bio"><p>Er war der Bruder von Albert Kilger.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__2138">
-                  <persName>Heller, Otto</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2155">
-                  <persName>Voget, Hans</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2369">
-                  <persName>Gottschalk, M.</persName>
-                  <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__128">
                   <persName>Balke, Hans</persName>
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2155">
+                  <persName>Voget, Hans</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__877">
+                  <persName>Hensmann, Amos</persName>
+                  <occupation>Pfarrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2369">
+                  <persName>Gottschalk, M.</persName>
+                  <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__1738">
+                  <persName>Schreiber, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__2138">
+                  <persName>Heller, Otto</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

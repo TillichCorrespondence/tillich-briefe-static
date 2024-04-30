@@ -137,11 +137,30 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__225">Tillich, Paul: Die Überwindung des Persönlichkeitsideals, in: Hamburger Lehrerzeitung, hg. und verlegt v. der Gesellschaft der Freunde des vaterländischen Schul- und Erziehungswesens in Hamburg 6. Jg., 12.3.1927, Nr. 10, 193– 198</bibl>
-               <bibl xml:id="tillich_work_id__223">Tillich, Paul: Die Überwindung des Persönlichkeitsideals, in: Sächsische Schulzeitung. Eigentum des Dresdner Lehrervereins 94. Jg., 9.3.1927, Nr. 9, 149–151, 169–172</bibl>
-               <bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
-               <bibl xml:id="tillich_work_id__84">Tillich, Paul, Die Überwindung des Persönlichkeitsideals. Ein Vortrag, in Logos, Band XVI, 1927, S. 68-85</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__126">
+   <back><listPerson><person xml:id="tillich_person_id__1099">
+                  <persName>Kroner, Richard</persName>
+                  <occupation>deutscher Philosoph und Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1780">
+                  <persName>Siebeck, Oskar</persName>
+                  <occupation>Deutscher Verleger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__126">
                   <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>
@@ -165,28 +184,9 @@
                   <idno type="geonames">https://sws.geonames.org/2911298/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1780">
-                  <persName>Siebeck, Oskar</persName>
-                  <occupation>Deutscher Verleger</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1099">
-                  <persName>Kroner, Richard</persName>
-                  <occupation>deutscher Philosoph und Theologe</occupation>
-               </person>
-               </listPerson></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
+               <bibl xml:id="tillich_work_id__225">Tillich, Paul: Die Überwindung des Persönlichkeitsideals, in: Hamburger Lehrerzeitung, hg. und verlegt v. der Gesellschaft der Freunde des vaterländischen Schul- und Erziehungswesens in Hamburg 6. Jg., 12.3.1927, Nr. 10, 193– 198</bibl>
+               <bibl xml:id="tillich_work_id__84">Tillich, Paul, Die Überwindung des Persönlichkeitsideals. Ein Vortrag, in Logos, Band XVI, 1927, S. 68-85</bibl>
+               <bibl xml:id="tillich_work_id__223">Tillich, Paul: Die Überwindung des Persönlichkeitsideals, in: Sächsische Schulzeitung. Eigentum des Dresdner Lehrervereins 94. Jg., 9.3.1927, Nr. 9, 149–151, 169–172</bibl>
+               </listBibl></back></text>
 </TEI>

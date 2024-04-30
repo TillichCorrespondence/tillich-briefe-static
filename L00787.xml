@@ -97,7 +97,15 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__275">
+<back><listPlace><place xml:id="tillich_place_id__180">
+                  <placeName>Goslar</placeName>
+                  <location type="coords">
+                     <geo>51.90425 10.42766</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
+               </place>
+               <place xml:id="tillich_place_id__275">
                   <placeName>Magdeburg</placeName>
                   <location type="coords">
                      <geo>52.12773 11.62916</geo>
@@ -111,14 +119,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2873759/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               <place xml:id="tillich_place_id__180">
-                  <placeName>Goslar</placeName>
-                  <location type="coords">
-                     <geo>51.90425 10.42766</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
                </place>
                <place xml:id="tillich_place_id__200">
                   <placeName>Hannover</placeName>

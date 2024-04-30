@@ -111,42 +111,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2592">
-                  <persName>Rade, Paul Martin</persName>
-                  <birth>
-                     <date>1857-04-04</date>
-                     <settlement>
-                        <placeName>Herrnhut-Rennersdorf</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1940-04-09</date>
-                     <settlement>
-                        <placeName>Frankfurt am Main</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Evangelischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118597612</idno>
-               </person>
-               <person xml:id="tillich_person_id__2401">
-                  <persName>Hermelink, Heinrich</persName>
-                  <birth>
-                     <date>1877-07-30</date>
-                     <settlement>
-                        <placeName>Mulki</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1958-02-11</date>
-                     <settlement>
-                        <placeName>München-Obermenzing</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe (Kirchengeschichte)</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
-                  <note type="bio"><p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__279">
+<back><listPlace><place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
                   <location type="coords">
                      <geo>50.80904 8.77069</geo>
@@ -170,5 +135,40 @@
                   <idno type="geonames">https://sws.geonames.org/2924770/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2401">
+                  <persName>Hermelink, Heinrich</persName>
+                  <birth>
+                     <date>1877-07-30</date>
+                     <settlement>
+                        <placeName>Mulki</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-02-11</date>
+                     <settlement>
+                        <placeName>München-Obermenzing</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe (Kirchengeschichte)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
+                  <note type="bio"><p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2592">
+                  <persName>Rade, Paul Martin</persName>
+                  <birth>
+                     <date>1857-04-04</date>
+                     <settlement>
+                        <placeName>Herrnhut-Rennersdorf</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1940-04-09</date>
+                     <settlement>
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118597612</idno>
+               </person>
+               </listPerson></back></text>
 </TEI>

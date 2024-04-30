@@ -93,7 +93,15 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__266">
+<back><listPlace><place xml:id="tillich_place_id__454">
+                  <placeName>Valenciennes</placeName>
+                  <location type="coords">
+                     <geo>50.35909 3.52506</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2971041/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q163795</idno>
+               </place>
+               <place xml:id="tillich_place_id__266">
                   <placeName>Lille</placeName>
                   <location type="coords">
                      <geo>50.63297 3.05858</geo>
@@ -108,14 +116,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3029030/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q181285</idno>
-               </place>
-               <place xml:id="tillich_place_id__454">
-                  <placeName>Valenciennes</placeName>
-                  <location type="coords">
-                     <geo>50.35909 3.52506</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2971041/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q163795</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__310">
                   <persName>Büchsel, Friedrich Hermann Martin</persName>

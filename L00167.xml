@@ -93,6 +93,10 @@
 <back><listPerson><person xml:id="tillich_person_id__2261">
                   <persName>???, Gerty</persName>
                </person>
+               <person xml:id="tillich_person_id__2196">
+                  <persName>???, Käte</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -112,10 +116,6 @@
                   <persName>Seeberger, Elisabeth</persName>
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2196">
-                  <persName>???, Käte</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

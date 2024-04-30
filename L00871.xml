@@ -105,21 +105,21 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__260">
-                  <placeName>Leipzig</placeName>
-                  <location type="coords">
-                     <geo>51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
-               </place>
-               <place xml:id="tillich_place_id__126">
+   <back><listPlace><place xml:id="tillich_place_id__126">
                   <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
                </place>
                </listPlace><listBibl><bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
                </listBibl><listPerson><person xml:id="tillich_person_id__1780">

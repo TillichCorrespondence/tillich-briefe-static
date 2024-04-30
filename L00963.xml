@@ -95,7 +95,28 @@
       
      </div>
     </body>
-  <back><listPerson><person xml:id="tillich_person_id__2684">
+  <back><listPerson><person xml:id="tillich_person_id__1678">
+                  <persName>Salomon, Gottfried</persName>
+                  <occupation>Ein deutsch-amerikanischer Soziologe und Nationalökonom</occupation>
+               </person>
+               <person xml:id="tillich_person_id__119">
+                  <persName>Bahr, Egon</persName>
+                  <birth>
+                     <date>1922-03-18</date>
+                     <settlement>
+                        <placeName>Treffurt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>2015-08-20</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher SPD-Politiker</occupation>
+                  <idno type="gnd">https://explore.gnd.network/gnd/118651935?term=Bahr&amp;rows=25&amp;pos=11</idno>
+               </person>
+               <person xml:id="tillich_person_id__2684">
                   <persName>B., ???</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
@@ -115,27 +136,6 @@
                </person>
                <person xml:id="tillich_person_id__1426">
                   <persName>Oppenheimer, Franz</persName>
-               </person>
-               <person xml:id="tillich_person_id__119">
-                  <persName>Bahr, Egon</persName>
-                  <birth>
-                     <date>1922-03-18</date>
-                     <settlement>
-                        <placeName>Treffurt</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>2015-08-20</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Deutscher SPD-Politiker</occupation>
-                  <idno type="gnd">https://explore.gnd.network/gnd/118651935?term=Bahr&amp;rows=25&amp;pos=11</idno>
-               </person>
-               <person xml:id="tillich_person_id__1678">
-                  <persName>Salomon, Gottfried</persName>
-                  <occupation>Ein deutsch-amerikanischer Soziologe und Nationalökonom</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

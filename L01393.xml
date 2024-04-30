@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L01393.xml" xml:base="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe" prev="https://tillich-briefe.acdh.oeaw.ac.at/tillich-briefe/L01392.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Brief von Paul Tillich an Hannah Tillich verm. April 1933</title>
+<author ref="#tillich_person_id__1928">Paul Tillich</author>
+<respStmt>
+<resp>Editor</resp>
+<name>Friedrich Schumann</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<title type="editionstitel">Edition der Korrespondenz von Paul Tillich 1887-1933</title>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>
+<name>Institut für Systematische Theologie und Religionswissenschaft</name>
+<address>
+<street>Schenkenstraße 8-10</street>
+<postCode>1010</postCode>
+<placeName ref="#tillich_place_id__470">
+<settlement>Wien</settlement>
+<country>Österreich</country>
+</placeName>
+</address>
+</publisher>
+<availability>
+<licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc type="manuscript">
+<msIdentifier>
+<country>USA</country>
+<settlement>Cambridge, MA</settlement>
+<institution>Harvard University</institution>
+<repository>Harvard Divinity School Library</repository>
+<collection>Tillich, Hannah. Papers, 1896-1976</collection>
+<idno>bMS 721/3(6)</idno>
+</msIdentifier>
+<physDesc>
+<p>Brief, eigenhändig.</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>online-Edition: Edition der Korrespondenz von Paul Tillich 1887-1933.</p>
+</projectDesc>
+<editorialDecl>
+<p>Die Ausgabe folgt folgenden Editorischen Richtlinien des DTA-Basisformats. Vgl. https://www.deutschestextarchiv.de/doku/basisformat/</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<correspDesc>
+<correspAction type="sent">
+<persName ref="#tillich_person_id__1928">Paul Tillich</persName>
+    <placeName ref="#tillich_place_id__37" type="place">Berlin</placeName>
+    <date when="1933-04">04.1933</date>
+</correspAction>
+<correspAction type="received">
+<persName ref="#tillich_person_id__1923">Hannah Tillich</persName>
+</correspAction>
+<correspContext><ref subtype="previous_letter" type="withinCollection" target="L01392">Brief von Paul Tillich an Hannah Tillich verm. April 1933</ref></correspContext></correspDesc>
+<langUsage>
+<language ident="deu">Deutsch</language>
+</langUsage>
+</profileDesc>
+<revisionDesc status="approved">
+<change when="2024-04-29" who="FS">Initiale Auszeichnung des Transkripts und Endabnahme</change>
+</revisionDesc>
+</teiHeader>
+<text type="letter">
+<body>
+<div type="writingSession">
+<pb n="1"/>
+<opener>
+    <salute>Liebste <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>!<note type="ea">Dieser undatierte Brief lässt sich grob auf die erste Aprilwoche 1933 datieren. Er steht inhaltlich im Zusammenhang mit weiteren undatierten Briefen Tillichs an seine Frau vom April 1933.</note></salute>
+</opener>
+    <p>Heut Vormittag hatte ich einen Brief an Dich angefangen. Da kam Dein großer Brief,<note type="ea">Dieser Brief liegt nicht vor.</note> den mir <rs ref="#tillich_person_id__2041" type="person">M. L.</rs> zum Mittagessen mit <rs ref="#tillich_person_id__641" type="person">Frede</rs>, Schreiner<note type="ea">Identität unsicher, womöglich <rs ref="#tillich_person_id__1739" type="person">Helmuth Schreiner</rs>.</note> und Elisabeth <unclear>Hanau</unclear> in <unclear reason="illegible">die Stadt</unclear> mitbrachte. Nun ist wieder alles anders und ich muß von vorn anfangen. Ich habe jeden Tag an Dich geschrieben und immer gesagt, wie viele Briefe von Dir angekommen sind. Ich versuche auch, auf alles zu antworten, so weit ich es verstanden habe; doch lagen manchmal Unklarheiten vor.</p>
+    <p>Also zunächst zu Deinem Brief: Die Besprechung von <rs ref="#tillich_person_id__2955" type="person">Zurhellen-Pfleiderer</rs> soll ruhig kommen. Sie kann auf keinen Fall etwas schaden. – Was <rs ref="#tillich_person_id__2383" type="person">Emmy Frey</rs> betrifft, so haben wir uns um <rs ref="#tillich_person_id__1696" type="person">H. Schafft</rs> sehr angefreundet. Im Übrigen ist sie so radikal gebunden, wie nur selten jemand. Ihre Briefe bezogen sich auf Sorgen meinet- und <rs ref="#tillich_person_id__1696" type="person">Hermanns</rs> wegen. Eine Revanche wäre hier wirklich nicht angebracht gewesen. Aber auch sonst freue ich mich, daß Du nicht in <rs ref="#tillich_place_id__277" type="place">Mannheim</rs> warst. Denn dieses wäre mir schwer geworden. Als heut <pb n="2"/> bei der ersten Post kein Brief von Dir da war, war ich ganz traurig und verlassen. Schreib immer, wie ich unbedingt täglich schreibe.</p>
+    <p>Sobald Du den Brief vom <rs ref="#tillich_person_id__2948" type="person">Dekan</rs> hast, gehe damit zu Kurt<note type="ea">Verm. ist <rs ref="#tillich_person_id__1610" type="person">Kurt Riezler</rs> gemeint, evtl. auch <rs ref="#tillich_person_id__697" type="person">Kurt Goldstein</rs>.</note> und Julia<note type="ea">Dürfte <rs ref="#tillich_person_id__1256" type="person">Julia Mannheim</rs> meinen, die Frau <rs ref="#tillich_person_id__1255" type="person">Karl Mannheims</rs>.</note> und erkundige dich 1) Wer sonst noch etwas bekommen hat. 2) Wie wir gemeinsam reagieren sollen. Läßt sich das nicht feststellen, so muß ich kommen, wenn auch nur für einen Tag, Anfang nächster Woche. Denn es kommt alles darauf an, daß dieses richtig gemacht wird, wenn ich nicht gleich ganz heraus will. Jedenfalls werde ich, wenn ich eine solche Aufforderung habe, sofort nachdem du geschrieben hast, ins Ministerium gehen. Ich habe dann einen dienstlichen Anlaß.</p>
+    <p>Gestern war ich bei <rs ref="#tillich_person_id__2094" type="person">Arnold</rs>. Seine Hochschule<note type="ea">Die Deutsche Hochschule für Politik in Berlin.</note> ist für Tage geschlossen. Er hat sein Urlaubsgesuch eingereicht und nimmt einen gleichzeitig eingetroffenen Ruf nach Amerika an. <rs ref="#tillich_person_id__2400" type="person">Doris</rs> ist traurig, aber tapfer. Gleichzeitig war <rs ref="#tillich_person_id__2956" type="person">Fritz Berber</rs> da, ein Jurist <pb n="3"/> und <rs ref="#tillich_person_id__137" type="person">Barth</rs>-Schüler, dem ich den <rs ref="L01203" type="letter">Brief</rs> von <rs ref="#tillich_person_id__137" type="person">Barth</rs> gab und der ihn als Ausdruck seiner Fremdheit gegenüber der Situation empfand. Beide rieten mir zu <rs ref="#tillich_place_id__319" type="place">New York</rs>, durch <rs ref="#tillich_person_id__2957" type="person">Niebuhr</rs>, den Übersetzer meines <rs ref="#tillich_work_id__286" type="work">Buches</rs>. Natürlich ist das nicht so einfach, da die Verständigung so schwer ist. Doch will ich es versuchen. Ein Jahr <rs ref="#tillich_place_id__319" type="place">N. Y.</rs> wäre nicht schlecht. Ich lerne weiter englisch. – Vorgestern war ich mit <rs ref="#tillich_person_id__2958" type="person">Goma</rs> und Frau zusammen. Wir haben ihre Zukunft besprochen, die hoffnungslos ist, da <rs ref="#tillich_person_id__2958" type="person">Goma</rs> Jude ist. Er wird nach Spanien gehen, zunächst zu <rs ref="#tillich_person_id__2959" type="person">Eva</rs>, dann weiter. – <rs ref="#tillich_person_id__1212" type="person">Günther</rs> arbeitet an einem Gesuch für seine Zulassung als Anwalt, worin er alle seine nationalen Heldentaten aufzählen muß. Mich durchläuft es heiß vor Scham bei diesen Dingen. –</p>
+    <p>Ich kann immer bei <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> wohnen und will im Augenblick nicht das Centrum der Entscheidungen verlassen. Zu erwägen wäre, falls ich nicht nach <rs ref="#tillich_place_id__143" type="place">Frankfurt</rs> muß, ob Du nicht mit einem Firmen-Auto hierher kommen sollst; doch ist vor Sonnabend nichts zu sagen. Bis jetzt hängt für mich alles von Deinen <pb n="4"/> Briefen ab. Wie gehts <rs ref="#tillich_person_id__570" type="person">Erdmuthe</rs>? Ich habe die letzten Nächte sehr gut geschlafen. Bei <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> kam ich für 2M täglich unbegrenzt bleiben. Sie ist glücklich und rührend zu mir.</p>
+    <closer>
+        <salute>Jetzt muss ich los! Leb wohl, liebe süße <rs ref="#tillich_person_id__1923" type="person">Hannah</rs>! Morgen mehr! Denk lieb an mich. Du hilfst mir damit zu allem!</salute>
+<signed>Dein <rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>
+</closer>
+</div>
+</body>
+<back><listPerson><person xml:id="tillich_person_id__2400">
+                  <persName>Wolfers, Doris</persName>
+                  <note type="bio"><p>Sie war die Frau von Arnold Wolfers.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2094">
+                  <persName>Wolfers, Arnold</persName>
+                  <birth>
+                     <date>1892-06-14</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-07-16</date>
+                  </death>
+                  <occupation>Politikwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
+                  <note type="bio"><p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2948">
+                  <persName>Lommatzsch, Erhard</persName>
+                  <occupation>Romanist und Mediävist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118574167</idno>
+               </person>
+               <person xml:id="tillich_person_id__137">
+                  <persName>Barth, Karl</persName>
+                  <occupation>Theologe;</occupation>
+                  <note type="bio"><p>Er studiere in Bern, Berlin, Tübingen und Marburg.  1909 war er Hilfsprediger der deutschen Gemeinde Genf, wo er Nelly Hoffmann (1893-1976) kennenlernte, die er 1913 heiratete. Seit 1911 war er Pfarrer in Safenwil (Aargau) und hatte eine Nähe zur religiös-sozialen Bewegung. 1919 erscheint B.s Kommentar zum Römerbrief, der insb. in seiner neubearbeiteten Zweitauflage (1922) zu einem Hauptdokument der Dialektischen Theologie wurde. Ruf an die Universität Göttingen im Jahr 1921, 1925-1930 Professor in Münster, ab 1930 in Bonn. Opposition zum Nationalsozialismus und folglich Entlassung. 1934 war er maßgeblicher Verfasser der Barmer Theologischen Erklärung. Seit 1935 in Basel, wo er bis 1962 als Professor wirkte. Bereits 1925 hatte er bei einem Aufenthalt bei den Pestallozis Charlotte von Kirschbaum (1899-1975) kennengelernt, in den Folgejahren entstand eine lebenslange Dreiecksbeziehung. 1940 meldete er sich aus Sorge vor einer deutschen Invasion freiwillig als Soldat im bewaffneten Hilfsdienst. Nach dem Krieg lehrte B. 1946-1947 als Gastprofessor in Bonn und äußerte sich auch in der Nachkriegszeit weiterhin zum politischen Geschehen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__697">
+                  <persName>Goldstein, Kurt</persName>
+                  <occupation>Deutsch-amerikanischer Neurologe und Psychiater</occupation>
+                  <note type="bio"><p>Kurt G. studierte bis 1903 Medizin in Breslau und Heidelberg, wo er promoviert wurde. Nach dem Studium arbeitete er zunächst als klinischer Assistent am Neurologischen Institut Frankfurt/Main sowie in der psychiatrischen Klinik der Universität Heidelberg, bevor er 1906-1914 an die psychiatrischen Klinik Königsberg wechselte, an der dortigen Universität als Privatdozent tätig war und sich schließlich auch habilitierte. Bereits 1905 hatte er Ida Zuckermann geheiratet, mit der er drei Töchter hatte. 1916-1930 arbeitete er an der Universität Frankfurt/Main und als Direktor des Neurologischen Instituts. 1930 wechselte er nach Berlin, wo er bis 1933 blieb. Nach kurzer SA-Haft konnte G. 1933 zuerst nach Amsterdam und 1934 weiter in die USA emigrieren. Im selben Jahr ließ es sich von seiner ersten Frau Ida scheiden und heiratete kurz darauf die Neuropsychiaterin Eva Rothmann. In den USA lehrte und arbeitete er bis 1940 an diversen New Yorker Hochschulen (u.a. Columbia) bzw. Kliniken und war anschließend 1940-1945 an der School of Medicine der Tufts University, Massachusetts, beschäftigt. Nach dem Krieg hatte es bis zu seinem Tod eine Privatpraxis in New York und hatte währenddessen diverse Gastprofessuren (u.a. City College, New School, Brandeis Univ.) inne.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1212">
+                  <persName>Löwenfeld, Günther</persName>
+                  <occupation>Jurist</occupation>
+                  <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1256">
+                  <persName>Mannheim, Julia</persName>
+                  <occupation>Psychoanalytikerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1610">
+                  <persName>Riezler, Kurt</persName>
+                  <birth>
+                     <date>1882-02-11</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1955-09-06</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Diplomat und Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
+                  <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1739">
+                  <persName>Schreiner, Helmuth</persName>
+                  <occupation>Professor für Praktische Theologie (zw. 1931-37 in Rostock); in Münster wurde er 1945 zum kommissarischen Dekan und 1946 zum Professor für Praktische Theologie an der Westfälischen Wilhelms-Universität berufen und gehörte bis zu seiner Emeritierung 1957 zu dem wesentlichen Kräften im Wiederaufbau der Evangelisch-Theologischen Fakultät</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2383">
+                  <persName>Frey, Emmy</persName>
+                  <birth>
+                     <date>1884</date>
+                  </birth>
+                  <death>
+                     <date>1956</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1089666586</idno>
+               </person>
+               <person xml:id="tillich_person_id__1255">
+                  <persName>Mannheim, Karl</persName>
+                  <occupation>Soziologe und Philosoph österreichisch-ungarischer Herkunft, jüdischer Religion</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118577190</idno>
+                  <note type="bio"><p>1911-1916 Studium der Philosophie und Literaturwissenschaft in Budapest, 1918 Promotion zum Dr. phil. 1917/1918 war M. Mitglied im Sonntagskreis um György Lukács und Béla Balázs. 1919 erhielt er zunächst einen Lehrauftrag für Philosophie in Budapest, musste aber im selben Jahr nach der Niederschlagung der ungarischen Räterepublik zunächst nach Wien und anschließend 1920 nach Deutschland emigrieren, wo er schließlich in Heidelberg unterkam und sich 1926 bei Alfred Weber für das Fach Soziologie habilitieren konnte. Bis 1930 lehrte er sodann an der Heidelberger Universität, bevor er 1930-1933 Professor der Soziologie und Nationalökonomie in Frankfurt/Main wurde. 1933 Emigration über die Niederlande nach Großbritannien, wo er über die Universität London u. a. 1933-1945 als außerplanmäßiger Lecturer an der London School of Economics lehren konnte. M. war seit 1921 mit der Psychologin Julia, geb. Károlyné Júlia Láng (1893-1955) verheiratet.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__319">
+                  <placeName>New York</placeName>
+                  <location type="coords">
+                     <geo>40.71427 -74.00597</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5128581/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q60</idno>
+               </place>
+               <place xml:id="tillich_place_id__277">
+                  <placeName>Mannheim</placeName>
+                  <location type="coords">
+                     <geo>49.48910 8.46694</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873891/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2119</idno>
+               </place>
+               </listPlace></back></text>
+</TEI>

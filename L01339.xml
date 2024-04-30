@@ -88,27 +88,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__366">
-                  <placeName>Rheingau</placeName>
-                  <location type="coords">
-                     <geo>50.16889 8.07472</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3220989/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q7907</idno>
-               </place>
-               <place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2802">
-                  <persName>Gain, Friedrich</persName>
-                  <note type="bio"><p>Er hatte einen Doktortitel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__641">
+<back><listPerson><person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
                      <date>1886</date>
@@ -124,5 +104,25 @@
                   <persName>Fritz (geb. Horn), Gertrude</persName>
                   <occupation>(auch Trudchen) Zweite Frau von Alfred Fritz, Ausbildung: Soziale Frauenschule</occupation>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2802">
+                  <persName>Gain, Friedrich</persName>
+                  <note type="bio"><p>Er hatte einen Doktortitel.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__366">
+                  <placeName>Rheingau</placeName>
+                  <location type="coords">
+                     <geo>50.16889 8.07472</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3220989/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7907</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

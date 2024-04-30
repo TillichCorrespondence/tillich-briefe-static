@@ -109,13 +109,41 @@
                <rs ref="#tillich_person_id__363" type="person">E. C.</rs></closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__363">
-                  <persName>Cassirer, Ernst</persName>
-               </person>
-               <person xml:id="tillich_person_id__222">
-                  <persName>Bing, Gertrud</persName>
-                  <occupation>Kunsthistorikerin und Philosophin</occupation>
-                  <note type="bio"><p>Studium der Philosophie, Psychologie und Germanistik in München und Hamburg, wo sie 1921 bei Ernst Cassirer promoviert wurde, der sie sodann auch an die Kulturwissenschaftliche Bibliothek Warburg und Fritz  Saxl vermittelte, wo B. ab 1922 arbeitete, als Bibliothekarin aber auch als Sekretärin Aby Warburgs, den sie 1927-1928 auch nach Italien begleitete. Nach seinem Tod edierte sie seine Gesammelten Schriften. Als stellvertretende Leiterin richtete sie gemeinsam mit Saxl 1933 in London das Warburg Institute ein und emigrierte. 1955 wurde sie die Direktorin des Instituts und, damit einhergehend, Professor of the History of the Classical Tradition an der Londoner Universität.</p></note>
+   <back><listPlace><place xml:id="tillich_place_id__389">
+                  <placeName>Sassnitz (Rügen)</placeName>
+                  <location type="coords">
+                     <geo>54.51570 13.64451</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2841333/</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__516">
+                  <placeName>Leiden</placeName>
+                  <location type="coords">
+                     <geo>52.15833 4.49306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2751773/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q43631</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2875">
+                  <persName>Weinberg, Heinz</persName>
+                  <occupation>Jurist;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127503412</idno>
                </person>
                <person xml:id="tillich_person_id__2874">
                   <persName>Messer, ???</persName>
@@ -129,6 +157,14 @@
                      <date>1979-02-20</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/120843676</idno>
+               </person>
+               <person xml:id="tillich_person_id__1690">
+                  <persName>Saxl, Fritz</persName>
+                  <occupation>Kunsthistoriker, Aby Warburg Bibliothek</occupation>
+                  <note type="bio"><p>Studium der Kunstgeschichte und Archäologie in Wien und Berlin, 1912 Promotion, 1922 Habilitation. Dazwischen Stipendiat in Rom und seit 1913 Mitarbeiter der Bibliothek des Hamburger Warburg Instituts, unterbrochen von der Kriegsteilnahme 1914-1918 (Österreichisch-Ungarische Armee). 1919 Rückkehr nach Hamburg, Seit 1922 dort zunächst Privatdozent, danach ordentlicher Professor für Kunstgeschichte, daneben zusammen mit Gertrud  Bing Co-Leitung der Warburg Bibliothek. Nach dem Tod Aby Warburgs 1929 wurde S. Direktor und war 1933 maßgeblich für die Übersiedlung des Warburg Instituts nach London verantwortlich. Nebenher lehrte er in London weiterhin Kunstgeschichte an der University of London. 1940 wurde er britischer Staatsbürger.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__363">
+                  <persName>Cassirer, Ernst</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -145,15 +181,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1690">
-                  <persName>Saxl, Fritz</persName>
-                  <occupation>Kunsthistoriker, Aby Warburg Bibliothek</occupation>
-                  <note type="bio"><p>Studium der Kunstgeschichte und Archäologie in Wien und Berlin, 1912 Promotion, 1922 Habilitation. Dazwischen Stipendiat in Rom und seit 1913 Mitarbeiter der Bibliothek des Hamburger Warburg Instituts, unterbrochen von der Kriegsteilnahme 1914-1918 (Österreichisch-Ungarische Armee). 1919 Rückkehr nach Hamburg, Seit 1922 dort zunächst Privatdozent, danach ordentlicher Professor für Kunstgeschichte, daneben zusammen mit Gertrud  Bing Co-Leitung der Warburg Bibliothek. Nach dem Tod Aby Warburgs 1929 wurde S. Direktor und war 1933 maßgeblich für die Übersiedlung des Warburg Instituts nach London verantwortlich. Nebenher lehrte er in London weiterhin Kunstgeschichte an der University of London. 1940 wurde er britischer Staatsbürger.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2875">
-                  <persName>Weinberg, Heinz</persName>
-                  <occupation>Jurist;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/127503412</idno>
+               <person xml:id="tillich_person_id__222">
+                  <persName>Bing, Gertrud</persName>
+                  <occupation>Kunsthistorikerin und Philosophin</occupation>
+                  <note type="bio"><p>Studium der Philosophie, Psychologie und Germanistik in München und Hamburg, wo sie 1921 bei Ernst Cassirer promoviert wurde, der sie sodann auch an die Kulturwissenschaftliche Bibliothek Warburg und Fritz  Saxl vermittelte, wo B. ab 1922 arbeitete, als Bibliothekarin aber auch als Sekretärin Aby Warburgs, den sie 1927-1928 auch nach Italien begleitete. Nach seinem Tod edierte sie seine Gesammelten Schriften. Als stellvertretende Leiterin richtete sie gemeinsam mit Saxl 1933 in London das Warburg Institute ein und emigrierte. 1955 wurde sie die Direktorin des Instituts und, damit einhergehend, Professor of the History of the Classical Tradition an der Londoner Universität.</p></note>
                </person>
                <person xml:id="tillich_person_id__2873">
                   <persName>Dingler, Hugo</persName>
@@ -171,37 +202,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11852576X</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__389">
-                  <placeName>Sassnitz (Rügen)</placeName>
-                  <location type="coords">
-                     <geo>54.51570 13.64451</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2841333/</idno>
-               </place>
-               <place xml:id="tillich_place_id__516">
-                  <placeName>Leiden</placeName>
-                  <location type="coords">
-                     <geo>52.15833 4.49306</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2751773/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q43631</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__234">Weinberg, Heinz, Das Geltungsproblem bei Hugo Dingler. Versuch einer Kritik, 1934.</bibl>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__234">Weinberg, Heinz, Das Geltungsproblem bei Hugo Dingler. Versuch einer Kritik, 1934.</bibl>
                </listBibl></back></text>
 </TEI>

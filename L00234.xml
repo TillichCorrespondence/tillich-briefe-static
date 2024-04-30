@@ -100,18 +100,7 @@
             </postscript>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__310">
-                  <persName>Büchsel, Friedrich Hermann Martin</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1945</date>
-                  </death>
-                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
-               </person>
-               <person xml:id="tillich_person_id__2091">
+   <back><listPerson><person xml:id="tillich_person_id__2091">
                   <persName>Witte, Hermann</persName>
                   <birth>
                      <date>1666-12-07</date>
@@ -123,6 +112,17 @@
                      <date>1728-03-24</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

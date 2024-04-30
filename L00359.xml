@@ -109,6 +109,13 @@
                   <idno type="geonames">https://sws.geonames.org/2867714/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
                </place>
+               <place xml:id="tillich_place_id__80">
+                  <placeName>Butterfelde</placeName>
+                  <location type="coords">
+                     <geo>52.87141 14.38608</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
+               </place>
                <place xml:id="tillich_place_id__606">
                   <placeName>Ammersee</placeName>
                   <location type="coords">
@@ -116,13 +123,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2956426/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q265336</idno>
-               </place>
-               <place xml:id="tillich_place_id__80">
-                  <placeName>Butterfelde</placeName>
-                  <location type="coords">
-                     <geo>52.87141 14.38608</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
                </place>
                </listPlace></back></text>
 </TEI>
