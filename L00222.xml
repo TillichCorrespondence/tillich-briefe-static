@@ -297,50 +297,23 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__122">Kant, Immanuel, Kritik der reinen Vernunft, hg. von Jens Timmermann, Hamburg 1998.</bibl>
-               <bibl xml:id="tillich_work_id__271">Medicus, Fritz. J.G. Fichte: Dreizehn vorlesungen gehalten an der Universität Halle. Deutschland: Reuther &amp; Reichard, 1905.</bibl>
-               <bibl xml:id="tillich_work_id__200">Fichte, Johann Gottlieb, Die Wissenschaftslehre, in ihrem allgemeinem Umrisse, Berlin 1810.</bibl>
-               <bibl xml:id="tillich_work_id__284">Ovid, Metamorphosen, I</bibl>
-               <bibl xml:id="tillich_work_id__272">Fichte, Johann Gottlieb, Zweite Einleitung in die Wissenschaftslehre, für Leser, die schon ein philosophisches System haben. In: Sämmtliche Werke. hrsg. v. J. H. Fichte. Bd. 1. Abth. Zur theoretischen Philosophie. Veit und Comp., 1845, 452–518.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1712">
-                  <persName>Schlatter, Adolf</persName>
-                  <birth>
-                     <date>1852-08-16</date>
-                     <settlement>
-                        <placeName>Sankt Gallen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1938-05-19</date>
-                     <settlement>
-                        <placeName>Tübingen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Evangelischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
-               </person>
-               <person xml:id="tillich_person_id__1832">
-                  <persName>Spinoza, Baruch de</persName>
-               </person>
-               <person xml:id="tillich_person_id__586">
-                  <persName>Feuerbach, Ludwig</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__310">
+   <back><listPlace><place xml:id="tillich_place_id__416">
+                  <placeName>Stettin</placeName>
+                  <location type="coords">
+                     <geo>53.42894 14.55302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
+               </place>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__310">
                   <persName>Büchsel, Friedrich Hermann Martin</persName>
                   <birth>
                      <date>1883</date>
@@ -350,6 +323,9 @@
                   </death>
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
+               <person xml:id="tillich_person_id__1832">
+                  <persName>Spinoza, Baruch de</persName>
                </person>
                <person xml:id="tillich_person_id__839">
                   <persName>Hegel, Georg Wilhelm Friedrich</persName>
@@ -367,29 +343,24 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                </person>
-               <person xml:id="tillich_person_id__1020">
-                  <persName>Kant, Immanuel</persName>
-               </person>
                <person xml:id="tillich_person_id__1013">
                   <persName>Kähler, Martin</persName>
                   <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
                </person>
-               <person xml:id="tillich_person_id__1924">
-                  <persName>Tillich, Johannes Oskar</persName>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
-                     <date>1857</date>
+                     <date>1886-08-20</date>
                   </birth>
                   <death>
-                     <date>1937</date>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
                   </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1291">
-                  <persName>Medicus, Fritz</persName>
-                  <occupation>Philosoph</occupation>
-                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__589">
                   <persName>Fichte, Johann Gottlieb</persName>
@@ -407,21 +378,50 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__416">
-                  <placeName>Stettin</placeName>
-                  <location type="coords">
-                     <geo>53.42894 14.55302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
-               </place>
-               <place xml:id="tillich_place_id__293">
-                  <placeName>Misdroy</placeName>
-                  <location type="coords">
-                     <geo>53.92921 14.45097</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__586">
+                  <persName>Feuerbach, Ludwig</persName>
+               </person>
+               <person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1712">
+                  <persName>Schlatter, Adolf</persName>
+                  <birth>
+                     <date>1852-08-16</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1938-05-19</date>
+                     <settlement>
+                        <placeName>Tübingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
+               </person>
+               <person xml:id="tillich_person_id__1020">
+                  <persName>Kant, Immanuel</persName>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__272">Fichte, Johann Gottlieb, Zweite Einleitung in die Wissenschaftslehre, für Leser, die schon ein philosophisches System haben. In: Sämmtliche Werke. hrsg. v. J. H. Fichte. Bd. 1. Abth. Zur theoretischen Philosophie. Veit und Comp., 1845, 452–518.</bibl>
+               <bibl xml:id="tillich_work_id__284">Ovid, Metamorphosen, I</bibl>
+               <bibl xml:id="tillich_work_id__200">Fichte, Johann Gottlieb, Die Wissenschaftslehre, in ihrem allgemeinem Umrisse, Berlin 1810.</bibl>
+               <bibl xml:id="tillich_work_id__122">Kant, Immanuel, Kritik der reinen Vernunft, hg. von Jens Timmermann, Hamburg 1998.</bibl>
+               <bibl xml:id="tillich_work_id__271">Medicus, Fritz. J.G. Fichte: Dreizehn vorlesungen gehalten an der Universität Halle. Deutschland: Reuther &amp; Reichard, 1905.</bibl>
+               </listBibl></back></text>
 </TEI>

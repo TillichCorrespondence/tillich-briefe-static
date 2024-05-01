@@ -88,21 +88,21 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__553">
-                  <placeName>Rügenwaldermünde</placeName>
-                  <location type="coords">
-                     <geo>54.43518 16.37731</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3100640/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q336454</idno>
-               </place>
-               <place xml:id="tillich_place_id__129">
+<back><listPlace><place xml:id="tillich_place_id__129">
                   <placeName>Dölzig</placeName>
                   <location type="coords">
                      <geo>52.90062 14.37630</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3100226/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q5289683</idno>
+               </place>
+               <place xml:id="tillich_place_id__553">
+                  <placeName>Rügenwaldermünde</placeName>
+                  <location type="coords">
+                     <geo>54.43518 16.37731</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3100640/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q336454</idno>
                </place>
                <place xml:id="tillich_place_id__594">
                   <placeName>Stargard</placeName>

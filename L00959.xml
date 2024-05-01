@@ -92,14 +92,7 @@
 <postscript><p><unclear>Schönste</unclear> Grüße Ihre <rs ref="#tillich_person_id__2554" type="person">Hedda Peters</rs><note type="ea">In anderer (Hedda Peters') Handschrift.</note></p></postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__470">
-                  <placeName>Wien</placeName>
-                  <location type="coords">
-                     <geo>48.20820 16.37169</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2761367/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2554">
+<back><listPerson><person xml:id="tillich_person_id__2554">
                   <persName>Peters, Hedda</persName>
                   <birth>
                      <date>1880</date>
@@ -109,40 +102,6 @@
                   </death>
                   <occupation>Kunstsammlerin;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1107803306</idno>
-               </person>
-               <person xml:id="tillich_person_id__688">
-                  <persName>Goesch, Heinrich</persName>
-                  <birth>
-                     <date>1880-07-02</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1931-02-16</date>
-                     <settlement>
-                        <placeName>Konstanz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
-               </person>
-               <person xml:id="tillich_person_id__1355">
-                  <persName>Mozart, Wolfgang Amadeus</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -160,6 +119,40 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1355">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </person>
+               <person xml:id="tillich_person_id__688">
+                  <persName>Goesch, Heinrich</persName>
+                  <birth>
+                     <date>1880-07-02</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1931-02-16</date>
+                     <settlement>
+                        <placeName>Konstanz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__570">
                   <persName>Farris, Erdmuthe</persName>
@@ -181,6 +174,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
                   <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__21">Tillich, Paul, Das System der religiösen Erkenntnis (2. Version), in: Ders., Religion, Kultur, Gesellschaft II (EW XI), hg. von Erdmann Sturm, Berlin/New York 1999, S. 116-174.</bibl>
+               </listPerson><listPlace><place xml:id="tillich_place_id__470">
+                  <placeName>Wien</placeName>
+                  <location type="coords">
+                     <geo>48.20820 16.37169</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2761367/</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__21">Tillich, Paul, Das System der religiösen Erkenntnis (2. Version), in: Ders., Religion, Kultur, Gesellschaft II (EW XI), hg. von Erdmann Sturm, Berlin/New York 1999, S. 116-174.</bibl>
                </listBibl></back></text>
 </TEI>

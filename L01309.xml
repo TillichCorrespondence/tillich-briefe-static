@@ -99,21 +99,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1600">
-                  <persName>Richter, Julius</persName>
-                  <birth>
-                     <date>1862-02-19</date>
-                  </birth>
-                  <death>
-                     <date>1940-03-27</date>
-                     <settlement>
-                        <placeName>Berlin-Steglitz</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Evangelischer Theologe und Missionswissenschaftler</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116512407</idno>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__279">
+<back><listPlace><place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
                   <location type="coords">
                      <geo>50.80904 8.77069</geo>
@@ -137,5 +123,19 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1600">
+                  <persName>Richter, Julius</persName>
+                  <birth>
+                     <date>1862-02-19</date>
+                  </birth>
+                  <death>
+                     <date>1940-03-27</date>
+                     <settlement>
+                        <placeName>Berlin-Steglitz</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe und Missionswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116512407</idno>
+               </person>
+               </listPerson></back></text>
 </TEI>

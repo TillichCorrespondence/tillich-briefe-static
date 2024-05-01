@@ -153,9 +153,9 @@
 
       </body>
    <back><listBibl><bibl xml:id="tillich_work_id__171">Eisenhuth, Heinz Erich, Ontologie und Theologie, Göttingen 1933.</bibl>
-               <bibl xml:id="tillich_work_id__170">Eisenhuth, Heinz Erich, Der Begriff des Irrationalen als philosophisches Problem. Ein Beitrag zur existenzialen Religionsbegründung, Göttingen 1931.</bibl>
                <bibl xml:id="tillich_work_id__173">Pfenningsdorf, Emil (Hg.), Der Erlösungsgedanke. Bericht über den 2. deutschen Theologentag in Frankfurt a. M. (Herbst 1928), Göttingen 1929.</bibl>
                <bibl xml:id="tillich_work_id__172">Eisenhuth, Heinz Erich, Die Entwicklung des Problems der Glaubensgewißheit bei Karl Heim, Göttingen 1928.</bibl>
+               <bibl xml:id="tillich_work_id__170">Eisenhuth, Heinz Erich, Der Begriff des Irrationalen als philosophisches Problem. Ein Beitrag zur existenzialen Religionsbegründung, Göttingen 1931.</bibl>
                </listBibl><listPerson><person xml:id="tillich_person_id__2518">
                   <persName>Ruprecht, Gustav</persName>
                   <birth>
@@ -165,6 +165,24 @@
                      <date>1950</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116709065</idno>
+               </person>
+               <person xml:id="tillich_person_id__1438">
+                  <persName>Otto, Rudolf</persName>
+                  <birth>
+                     <date>1869-09-25</date>
+                     <settlement>
+                        <placeName>Peine</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1937-03-07</date>
+                  </death>
+                  <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
+               </person>
+               <person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
                </person>
                <person xml:id="tillich_person_id__2517">
                   <persName>Eisenhuth, Heinz Erich</persName>
@@ -193,24 +211,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__845">
-                  <persName>Heim, Karl</persName>
-                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1438">
-                  <persName>Otto, Rudolf</persName>
-                  <birth>
-                     <date>1869-09-25</date>
-                     <settlement>
-                        <placeName>Peine</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1937-03-07</date>
-                  </death>
-                  <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>

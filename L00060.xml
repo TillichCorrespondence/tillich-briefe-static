@@ -147,10 +147,6 @@
                   <persName>Dürselen , Paul Rudolf</persName>
                   <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1926">
                   <persName>Tillich, Oskar</persName>
                   <birth>
@@ -196,21 +192,17 @@
                   <persName>Tillich, Marie</persName>
                   <occupation>Großmutter</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__543">
-                  <placeName>Weimar</placeName>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__181">
+                  <placeName>Greifswald</placeName>
                   <location type="coords">
-                     <geo>50.98030 11.32903</geo>
+                     <geo>54.09311 13.38786</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2812482/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067990</idno>
-               </place>
-               <place xml:id="tillich_place_id__213">
-                  <placeName>Hohen Neuendorf</placeName>
-                  <location type="coords">
-                     <geo>52.67631 13.27775</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
+                  <idno type="geonames">https://sws.geonames.org/2917788/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041909</idno>
                </place>
                <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
@@ -220,13 +212,13 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               <place xml:id="tillich_place_id__181">
-                  <placeName>Greifswald</placeName>
+               <place xml:id="tillich_place_id__543">
+                  <placeName>Weimar</placeName>
                   <location type="coords">
-                     <geo>54.09311 13.38786</geo>
+                     <geo>50.98030 11.32903</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2917788/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041909</idno>
+                  <idno type="geonames">https://sws.geonames.org/2812482/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067990</idno>
                </place>
                <place xml:id="tillich_place_id__448">
                   <placeName>Tübingen</placeName>
@@ -235,6 +227,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2820860/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__213">
+                  <placeName>Hohen Neuendorf</placeName>
+                  <location type="coords">
+                     <geo>52.67631 13.27775</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2901588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32059729</idno>
                </place>
                </listPlace><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
                <bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>

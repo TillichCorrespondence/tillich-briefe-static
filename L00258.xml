@@ -170,7 +170,54 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2091">
+<back><listPlace><place xml:id="tillich_place_id__209">
+                  <placeName>Hildesheim</placeName>
+                  <location type="coords">
+                     <geo>52.15077 9.95112</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2904789/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32058340</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__238">
+                  <placeName>Kiel</placeName>
+                  <location type="coords">
+                     <geo>54.32133 10.13489</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
+               </place>
+               <place xml:id="tillich_place_id__414">
+                  <placeName>Stellingen</placeName>
+                  <location type="coords">
+                     <geo>53.59220 9.92870</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2827552/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1621</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2091">
                   <persName>Witte, Hermann</persName>
                   <birth>
                      <date>1666-12-07</date>
@@ -183,17 +230,17 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
                </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
                <person xml:id="tillich_person_id__2147">
                   <persName>Vethake, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__1201">
                   <persName>Loofs, Friedrich</persName>
                   <occupation>Kirchenhistoriker</occupation>
-               </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
                </person>
                <person xml:id="tillich_person_id__1712">
                   <persName>Schlatter, Adolf</persName>
@@ -231,52 +278,5 @@
                   <persName>Van der Smissen, Gilbert</persName>
                   <occupation>Pfarrer und Studienkollege Tillichs</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__209">
-                  <placeName>Hildesheim</placeName>
-                  <location type="coords">
-                     <geo>52.15077 9.95112</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2904789/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32058340</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__238">
-                  <placeName>Kiel</placeName>
-                  <location type="coords">
-                     <geo>54.32133 10.13489</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
-               </place>
-               <place xml:id="tillich_place_id__414">
-                  <placeName>Stellingen</placeName>
-                  <location type="coords">
-                     <geo>53.59220 9.92870</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2827552/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1621</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

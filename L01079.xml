@@ -91,7 +91,15 @@
                 </closer>
             </div>
         </body>
-    <back><listPerson><person xml:id="tillich_person_id__1696">
+    <back><listPlace><place xml:id="tillich_place_id__24">
+                  <placeName>Bad Schönfließ</placeName>
+                  <location type="coords">
+                     <geo>52.96487 14.60667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083158/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q558719</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1696">
                   <persName>Schafft, Hermann</persName>
                   <birth>
                      <date>1883</date>
@@ -135,13 +143,5 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__24">
-                  <placeName>Bad Schönfließ</placeName>
-                  <location type="coords">
-                     <geo>52.96487 14.60667</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083158/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q558719</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

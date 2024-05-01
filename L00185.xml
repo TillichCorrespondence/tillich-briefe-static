@@ -139,12 +139,40 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__131">
+<back><listPlace><place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__241">
+                  <placeName>Korntal</placeName>
+                  <location type="coords">
+                     <geo>48.83139 9.12234</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6557968/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q61663</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__131">
                   <persName>Banzhaf, Friedrich</persName>
-               </person>
-               <person xml:id="tillich_person_id__1468">
-                  <persName>Paulus</persName>
-                  <occupation>Apostel</occupation>
                </person>
                <person xml:id="tillich_person_id__2190">
                   <persName>Spatz, ???</persName>
@@ -168,37 +196,9 @@
                   <persName>Gaiser, ???</persName>
                   <note type="bio"><p>Er stand vermutlich im Kontakt mit der Wingolfsverbindung in Tübingen.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__241">
-                  <placeName>Korntal</placeName>
-                  <location type="coords">
-                     <geo>48.83139 9.12234</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6557968/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q61663</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__1468">
+                  <persName>Paulus</persName>
+                  <occupation>Apostel</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>

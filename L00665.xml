@@ -99,14 +99,6 @@
                   <idno type="geonames">https://sws.geonames.org/2609906/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q5660</idno>
                </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
                <place xml:id="tillich_place_id__563">
                   <placeName>Marienburg</placeName>
                   <location type="coords">
@@ -114,6 +106,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3092472/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q146820</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                <place xml:id="tillich_place_id__564">
                   <placeName>Maria Laach</placeName>

@@ -158,6 +158,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
                   <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
                </person>
+               <person xml:id="tillich_person_id__673">
+                  <persName>Gerich, ???</persName>
+                  <occupation>Er war Paul Tillichs Leibbursch.</occupation>
+               </person>
                <person xml:id="tillich_person_id__310">
                   <persName>Büchsel, Friedrich Hermann Martin</persName>
                   <birth>
@@ -190,10 +194,6 @@
                </person>
                <person xml:id="tillich_person_id__1050">
                   <persName>Kilger, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__673">
-                  <persName>Gerich, ???</persName>
-                  <occupation>Er war Paul Tillichs Leibbursch.</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__208">
                   <placeName>Hersfeld</placeName>

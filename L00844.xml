@@ -113,9 +113,13 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__9">Tillich, Paul, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen 1924, S. 1-22.</bibl>
-               <bibl xml:id="tillich_work_id__174">Tillich, Paul: Selbstanzeige Tillichs von „Kirche und Kultur“, in: Neuigkeiten, J. C. B. Mohr (Paul Siebeck), H. Laupp'sche Buchhandlung 1925, Nr. 3, 35.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listBibl><bibl xml:id="tillich_work_id__174">Tillich, Paul: Selbstanzeige Tillichs von „Kirche und Kultur“, in: Neuigkeiten, J. C. B. Mohr (Paul Siebeck), H. Laupp'sche Buchhandlung 1925, Nr. 3, 35.</bibl>
+               <bibl xml:id="tillich_work_id__9">Tillich, Paul, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen 1924, S. 1-22.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1781">
+                  <persName>Siebeck, Paul</persName>
+                  <occupation>Deutscher Verleger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -132,10 +136,6 @@
                </person>
                <person xml:id="tillich_person_id__2491">
                   <persName>Häberle, L.</persName>
-               </person>
-               <person xml:id="tillich_person_id__1781">
-                  <persName>Siebeck, Paul</persName>
-                  <occupation>Deutscher Verleger</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

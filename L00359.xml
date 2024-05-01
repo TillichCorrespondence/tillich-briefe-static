@@ -101,13 +101,13 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__306">
-                  <placeName>München</placeName>
+<back><listPlace><place xml:id="tillich_place_id__606">
+                  <placeName>Ammersee</placeName>
                   <location type="coords">
-                     <geo>48.13743 11.57549</geo>
+                     <geo>47.99668 11.12716</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2867714/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
+                  <idno type="geonames">https://sws.geonames.org/2956426/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q265336</idno>
                </place>
                <place xml:id="tillich_place_id__80">
                   <placeName>Butterfelde</placeName>
@@ -116,13 +116,13 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3087840/</idno>
                </place>
-               <place xml:id="tillich_place_id__606">
-                  <placeName>Ammersee</placeName>
+               <place xml:id="tillich_place_id__306">
+                  <placeName>München</placeName>
                   <location type="coords">
-                     <geo>47.99668 11.12716</geo>
+                     <geo>48.13743 11.57549</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2956426/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q265336</idno>
+                  <idno type="geonames">https://sws.geonames.org/2867714/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
                </place>
                </listPlace></back></text>
 </TEI>
