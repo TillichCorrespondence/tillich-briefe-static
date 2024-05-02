@@ -127,11 +127,7 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1780">
-                  <persName>Siebeck, Oskar</persName>
-                  <occupation>Deutscher Verleger</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2516">
+   <back><listPerson><person xml:id="tillich_person_id__2516">
                   <persName>Siebeck, Werner</persName>
                   <birth>
                      <date>1891-03-14</date>
@@ -146,6 +142,10 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/138019673</idno>
+               </person>
+               <person xml:id="tillich_person_id__1780">
+                  <persName>Siebeck, Oskar</persName>
+                  <occupation>Deutscher Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

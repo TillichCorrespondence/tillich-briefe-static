@@ -90,6 +90,10 @@ Auch hatte sich die Wiese schon mit einer dünnen Eisdecke bekleidet, welche jed
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1929">
+                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <occupation>Mutter</occupation>
+               </person>
                <person xml:id="tillich_person_id__1926">
                   <persName>Tillich, Oskar</persName>
                   <birth>
@@ -100,10 +104,6 @@ Auch hatte sich die Wiese schon mit einer dünnen Eisdecke bekleidet, welche jed
                   </death>
                   <occupation>Großvater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
-               </person>
-               <person xml:id="tillich_person_id__1929">
-                  <persName>Tillich, Wilhelmina Mathilde</persName>
-                  <occupation>Mutter</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__515">
                   <placeName>Kaliningrad (Königsberg)</placeName>

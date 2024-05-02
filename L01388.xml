@@ -93,10 +93,68 @@
     
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1760">
-                  <persName>Seeberg, Erich</persName>
-                  <occupation>Kirchenhistoriker</occupation>
-                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
+<back><listPerson><person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1255">
+                  <persName>Mannheim, Karl</persName>
+                  <occupation>Ungarischer Soziologe, Gründungsfigur der Wissenssoziologie.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118577190</idno>
+                  <note type="bio"><p>1911-1916 Studium der Philosophie und Literaturwissenschaft in Budapest, 1918 Promotion zum Dr. phil. 1917/1918 war M. Mitglied im Sonntagskreis um György Lukács und Béla Balázs. 1919 erhielt er zunächst einen Lehrauftrag für Philosophie in Budapest, musste aber im selben Jahr nach der Niederschlagung der ungarischen Räterepublik zunächst nach Wien und anschließend 1920 nach Deutschland emigrieren, wo er schließlich in Heidelberg unterkam und sich 1926 bei Alfred Weber für das Fach Soziologie habilitieren konnte. Bis 1930 lehrte er sodann an der Heidelberger Universität, bevor er 1930-1933 Professor der Soziologie und Nationalökonomie in Frankfurt/Main wurde. 1933 Emigration über die Niederlande nach Großbritannien, wo er über die Universität London u. a. 1933-1945 als außerplanmäßiger Lecturer an der London School of Economics lehren konnte. M. war seit 1921 mit der Psychologin Julia, geb. Károlyné Júlia Láng (1893-1955) verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1307">
+                  <persName>Mennicke, Carl August</persName>
+                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119264250</idno>
+                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1562">
+                  <persName>Rathmann, August</persName>
+                  <birth>
+                     <date>1895-01-03</date>
+                  </birth>
+                  <death>
+                     <date>1995-01-05</date>
+                     <settlement>
+                        <placeName>Mönkeberg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
+                  <idno type="gnd">https://explore.gnd.network/gnd/118749196</idno>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
                <person xml:id="tillich_person_id__1845">
                   <persName>Staudinger, Hans</persName>
@@ -116,6 +174,16 @@
                   <idno type="gnd">https://d-nb.info/gnd/118616919</idno>
                   <note type="bio"><p>Studium der Nationalökonomie sowie Soziologie in Heidelberg, wo er 1913 bei Alfred Weber promoviert wurde. Bereits als Student in die SPD eingetreten, bekleidete S. nach dem Ersten Weltkrieg diverse Verwaltungsämter, unter anderem im Reichswirtschaftsministerium (1919-1927) sowie im preußischen Handelsministerium (1927-1932). Daneben mehrere Aufsichtsratposten sowie Lehrtätigkeit an der Deutschen Hochschule für Politik. Nach kurzer Inhaftierung 1933 zunächst Flucht nach Belgien, später Emigration in die USA, wo er ab dem Frühjahr 1934 an der New School for Social Research in New York lehrte. Gemeinsam mit seiner Frau Else sowie mit Paul Tillich und anderen engagierte er sich in diversen Hilfsorganisationen für Emigrierte.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1792">
+                  <persName>Simon, Hugo</persName>
+                  <occupation>Bankier und Mäzen</occupation>
+                  <note type="bio"><p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               </person>
                <person xml:id="tillich_person_id__2401">
                   <persName>Hermelink, Heinrich</persName>
                   <birth>
@@ -134,78 +202,16 @@
                   <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
                   <note type="bio"><p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1562">
-                  <persName>Rathmann, August</persName>
-                  <birth>
-                     <date>1895-01-03</date>
-                  </birth>
-                  <death>
-                     <date>1995-01-05</date>
-                     <settlement>
-                        <placeName>Mönkeberg</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
-                  <idno type="gnd">https://explore.gnd.network/gnd/118749196</idno>
-               </person>
-               <person xml:id="tillich_person_id__1255">
-                  <persName>Mannheim, Karl</persName>
-                  <occupation>Ungarischer Soziologe, Gründungsfigur der Wissenssoziologie.</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118577190</idno>
-                  <note type="bio"><p>1911-1916 Studium der Philosophie und Literaturwissenschaft in Budapest, 1918 Promotion zum Dr. phil. 1917/1918 war M. Mitglied im Sonntagskreis um György Lukács und Béla Balázs. 1919 erhielt er zunächst einen Lehrauftrag für Philosophie in Budapest, musste aber im selben Jahr nach der Niederschlagung der ungarischen Räterepublik zunächst nach Wien und anschließend 1920 nach Deutschland emigrieren, wo er schließlich in Heidelberg unterkam und sich 1926 bei Alfred Weber für das Fach Soziologie habilitieren konnte. Bis 1930 lehrte er sodann an der Heidelberger Universität, bevor er 1930-1933 Professor der Soziologie und Nationalökonomie in Frankfurt/Main wurde. 1933 Emigration über die Niederlande nach Großbritannien, wo er über die Universität London u. a. 1933-1945 als außerplanmäßiger Lecturer an der London School of Economics lehren konnte. M. war seit 1921 mit der Psychologin Julia, geb. Károlyné Júlia Láng (1893-1955) verheiratet.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1723">
                   <persName>Schmidt, Karl Ludwig</persName>
                   <occupation>evangelischer Theologe (Neues Testament)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
                   <note type="bio"><p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p></note>
                </person>
-               <person xml:id="tillich_person_id__1792">
-                  <persName>Simon, Hugo</persName>
-                  <occupation>Bankier und Mäzen</occupation>
-                  <note type="bio"><p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2948">
-                  <persName>Lommatzsch, Erhard</persName>
-                  <occupation>Romanist und Mediävist</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118574167</idno>
+               <person xml:id="tillich_person_id__1760">
+                  <persName>Seeberg, Erich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2652">
                   <persName>Wedemeyer, Hans von</persName>
@@ -217,18 +223,13 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119124947</idno>
                </person>
-               <person xml:id="tillich_person_id__1307">
-                  <persName>Mennicke, Carl August</persName>
-                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119264250</idno>
-                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
+               <person xml:id="tillich_person_id__2948">
+                  <persName>Lommatzsch, Erhard</persName>
+                  <occupation>Romanist und Mediävist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118574167</idno>
                </person>
-               <person xml:id="tillich_person_id__2041">
-                  <persName>Werner, Marie Luise</persName>
-                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
-                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__7">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__66">Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, hg. von Eduard Heimann, Fritz Klatt und Paul Tillich, 1930ff.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__7">
                   <placeName>Ahrenshoop</placeName>
                   <location type="coords">
                      <geo>54.38330 12.43330</geo>
@@ -236,6 +237,5 @@
                   <idno type="geonames">https://sws.geonames.org/6548105/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q402819</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__66">Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, hg. von Eduard Heimann, Fritz Klatt und Paul Tillich, 1930ff.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

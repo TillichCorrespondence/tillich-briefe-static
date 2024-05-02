@@ -131,14 +131,6 @@
                   <idno type="geonames">https://sws.geonames.org/281184/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1218</idno>
                </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                   <location type="coords">
@@ -146,6 +138,13 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__16">
+                  <placeName>Augsburg</placeName>
+                  <location type="coords">
+                     <geo>48.37154 10.89851</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2954172/</idno>
                </place>
                <place xml:id="tillich_place_id__425">
                   <placeName>Sylt</placeName>
@@ -155,16 +154,17 @@
                   <idno type="geonames">https://sws.geonames.org/2824454/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q3107</idno>
                </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
                <place xml:id="tillich_place_id__64">
                   <placeName>Biskaya</placeName>
                   <idno type="geonames">https://sws.geonames.org/2960858/</idno>
-               </place>
-               <place xml:id="tillich_place_id__16">
-                  <placeName>Augsburg</placeName>
-                  <location type="coords">
-                     <geo>48.37154 10.89851</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2954172/</idno>
                </place>
                </listPlace></back></text>
 </TEI>

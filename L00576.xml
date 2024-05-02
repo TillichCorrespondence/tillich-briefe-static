@@ -106,28 +106,21 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__74">
+   <back><listPlace><place xml:id="tillich_place_id__61">
+                  <placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
                   <placeName>Bremen</placeName>
                   <location type="coords">
                      <geo>53.07582 8.80717</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2944388/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               <place xml:id="tillich_place_id__90">
-                  <placeName>Champagne</placeName>
-                  <location type="coords">
-                     <geo>49.00000 4.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3027258/</idno>
-               </place>
-               <place xml:id="tillich_place_id__202">
-                  <placeName>Haselhorst</placeName>
-                  <location type="coords">
-                     <geo>52.54409 13.23743</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2909794/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q266024</idno>
                </place>
                <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
@@ -137,13 +130,12 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               <place xml:id="tillich_place_id__61">
-                  <placeName>Bieuxy</placeName>
+               <place xml:id="tillich_place_id__90">
+                  <placeName>Champagne</placeName>
                   <location type="coords">
-                     <geo>49.44667 3.26139</geo>
+                     <geo>49.00000 4.50000</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+                  <idno type="geonames">https://sws.geonames.org/3027258/</idno>
                </place>
                <place xml:id="tillich_place_id__78">
                   <placeName>Brüssel</placeName>
@@ -152,6 +144,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2800866/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q239</idno>
+               </place>
+               <place xml:id="tillich_place_id__202">
+                  <placeName>Haselhorst</placeName>
+                  <location type="coords">
+                     <geo>52.54409 13.23743</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2909794/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q266024</idno>
                </place>
                <place xml:id="tillich_place_id__410">
                   <placeName>St. Clement</placeName>

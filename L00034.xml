@@ -125,15 +125,7 @@ Hierher nach Hause gekommen, schließe ich den Glück und Segenswünschen von He
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1925">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1930">
-                  <persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1926">
+<back><listPerson><person xml:id="tillich_person_id__1926">
                   <persName>Tillich, Oskar</persName>
                   <birth>
                      <date>1828</date>
@@ -143,6 +135,14 @@ Hierher nach Hause gekommen, schließe ich den Glück und Segenswünschen von He
                   </death>
                   <occupation>Großvater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
+               </person>
+               <person xml:id="tillich_person_id__1930">
+                  <persName>Tillich, Marie</persName>
+                  <occupation>Großmutter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

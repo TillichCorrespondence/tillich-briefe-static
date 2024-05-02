@@ -95,13 +95,13 @@ Herrn Professor<lb/>
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__363">
-                  <persName>Cassirer, Ernst</persName>
-               </person>
-               <person xml:id="tillich_person_id__2875">
+   <back><listPerson><person xml:id="tillich_person_id__2875">
                   <persName>Weinberg, Heinz</persName>
                   <occupation>Jurist;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127503412</idno>
+               </person>
+               <person xml:id="tillich_person_id__363">
+                  <persName>Cassirer, Ernst</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

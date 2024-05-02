@@ -112,23 +112,7 @@
                   <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__306">
-                  <placeName>München</placeName>
-                  <location type="coords">
-                     <geo>48.13743 11.57549</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2867714/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
-               </place>
-               <place xml:id="tillich_place_id__370">
-                  <placeName>Rostock</placeName>
-                  <location type="coords">
-                     <geo>54.08870 12.14049</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2844588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32265522</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
@@ -143,6 +127,22 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2781520/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q21880244</idno>
+               </place>
+               <place xml:id="tillich_place_id__370">
+                  <placeName>Rostock</placeName>
+                  <location type="coords">
+                     <geo>54.08870 12.14049</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2844588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32265522</idno>
+               </place>
+               <place xml:id="tillich_place_id__306">
+                  <placeName>München</placeName>
+                  <location type="coords">
+                     <geo>48.13743 11.57549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2867714/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
                </place>
                </listPlace></back></text>
 </TEI>

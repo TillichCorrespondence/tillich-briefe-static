@@ -99,14 +99,6 @@
                   <idno type="geonames">https://sws.geonames.org/2872155/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32638348</idno>
                </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
                <place xml:id="tillich_place_id__236">
                   <placeName>Kassel</placeName>
                   <location type="coords">
@@ -114,6 +106,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2892518/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2883">
                   <persName>???, Aée</persName>

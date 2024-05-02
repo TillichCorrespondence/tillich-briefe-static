@@ -111,11 +111,11 @@ zu übersenden. Die endgültige Uebernahme der Redaktion der „Wege zur Philo
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2752">
-                  <persName>Reyer, Wilhelm</persName>
-               </person>
-               <person xml:id="tillich_person_id__2735">
+<back><listPerson><person xml:id="tillich_person_id__2735">
                   <persName>Albers, August</persName>
+               </person>
+               <person xml:id="tillich_person_id__2752">
+                  <persName>Reyer, Wilhelm</persName>
                </person>
                </listPerson></back></text>
 </TEI>

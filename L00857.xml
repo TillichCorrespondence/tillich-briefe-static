@@ -94,7 +94,8 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1286">
+<back><listBibl><bibl xml:id="tillich_work_id__11">Danz, Christian/Schüßler, Werner, Paul Tillich in Dresden. Einleitung, in: Dies. (Hg.), Paul Tillich in Dresden. Intellektuellen-Diskurse in der Weimarer Republik, Berlin/Boston 2023, S. 1-7.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1286">
                   <persName>Mayer, Emil Walter</persName>
                </person>
                <person xml:id="tillich_person_id__1678">
@@ -124,6 +125,5 @@
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__11">Danz, Christian/Schüßler, Werner, Paul Tillich in Dresden. Einleitung, in: Dies. (Hg.), Paul Tillich in Dresden. Intellektuellen-Diskurse in der Weimarer Republik, Berlin/Boston 2023, S. 1-7.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

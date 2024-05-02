@@ -183,14 +183,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__605">
-                  <placeName>Schweinfurth</placeName>
-                  <location type="coords">
-                     <geo>51.44714 13.39138</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2834497/</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
+<back><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
@@ -204,6 +197,13 @@
                      <geo>50.05802 10.28801</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2874255/</idno>
+               </place>
+               <place xml:id="tillich_place_id__605">
+                  <placeName>Schweinfurth</placeName>
+                  <location type="coords">
+                     <geo>51.44714 13.39138</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2834497/</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1363">
                   <persName>Müller, Johannes</persName>

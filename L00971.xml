@@ -130,72 +130,10 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__497">
-                  <placeName>Sankt Moritz</placeName>
-                  <location type="coords">
-                     <geo>46.49937 9.84327</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2658813/</idno>
-               </place>
-               <place xml:id="tillich_place_id__174">
-                  <placeName>Genua</placeName>
-                  <location type="coords">
-                     <geo>44.40478 8.94439</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3176219/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33675638</idno>
-               </place>
-               <place xml:id="tillich_place_id__119">
-                  <placeName>Davos</placeName>
-                  <location type="coords">
-                     <geo>46.80429 9.83723</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2661039/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q56528928</idno>
-               </place>
-               <place xml:id="tillich_place_id__260">
-                  <placeName>Leipzig</placeName>
-                  <location type="coords">
-                     <geo>51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
-               </place>
-               <place xml:id="tillich_place_id__480">
-                  <placeName>Zürich</placeName>
-                  <location type="coords">
-                     <geo>47.36667 8.55000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2657896/</idno>
-               </place>
-               <place xml:id="tillich_place_id__251">
-                  <placeName>Laigueglia</placeName>
-                  <location type="coords">
-                     <geo>43.97590 8.15823</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3175239/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q30026464</idno>
-               </place>
-               <place xml:id="tillich_place_id__244">
-                  <placeName>Köln</placeName>
-                  <location type="coords">
-                     <geo>50.93333 6.95000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
-               </place>
-               <place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__520">
-                  <persName>Einstein, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__2353">
-                  <persName>Medicus, Clara</persName>
+<back><listPerson><person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -213,9 +151,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1426">
-                  <persName>Oppenheimer, Franz</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -248,8 +183,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
                </person>
-               <person xml:id="tillich_person_id__719">
-                  <persName>Grisebach, Eberhard</persName>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                <person xml:id="tillich_person_id__2616">
                   <persName>Litt, Theodor</persName>
@@ -269,22 +205,86 @@
                   <idno type="gnd">https://d-nb.info/gnd/118573543</idno>
                   <note type="bio"><p>Er studierte Philosophie an der Universität Bonn. Von 1920 bis 1937 war er an der Universität Leipzig tätig. Er wirkte u. a. als Rektor von 1931 bis 1932.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1291">
-                  <persName>Medicus, Fritz</persName>
-                  <occupation>Philosoph</occupation>
-                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               <person xml:id="tillich_person_id__520">
+                  <persName>Einstein, Albert</persName>
                </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__816">
-                  <persName>Hartmann, Nicolai</persName>
+               <person xml:id="tillich_person_id__719">
+                  <persName>Grisebach, Eberhard</persName>
                </person>
                <person xml:id="tillich_person_id__1792">
                   <persName>Simon, Hugo</persName>
                   <occupation>Bankier und Mäzen</occupation>
                   <note type="bio"><p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p></note>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__1426">
+                  <persName>Oppenheimer, Franz</persName>
+               </person>
+               <person xml:id="tillich_person_id__816">
+                  <persName>Hartmann, Nicolai</persName>
+               </person>
+               <person xml:id="tillich_person_id__2353">
+                  <persName>Medicus, Clara</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               <place xml:id="tillich_place_id__119">
+                  <placeName>Davos</placeName>
+                  <location type="coords">
+                     <geo>46.80429 9.83723</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661039/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q56528928</idno>
+               </place>
+               <place xml:id="tillich_place_id__251">
+                  <placeName>Laigueglia</placeName>
+                  <location type="coords">
+                     <geo>43.97590 8.15823</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3175239/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q30026464</idno>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__497">
+                  <placeName>Sankt Moritz</placeName>
+                  <location type="coords">
+                     <geo>46.49937 9.84327</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2658813/</idno>
+               </place>
+               <place xml:id="tillich_place_id__244">
+                  <placeName>Köln</placeName>
+                  <location type="coords">
+                     <geo>50.93333 6.95000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
+               </place>
+               <place xml:id="tillich_place_id__174">
+                  <placeName>Genua</placeName>
+                  <location type="coords">
+                     <geo>44.40478 8.94439</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3176219/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33675638</idno>
+               </place>
+               <place xml:id="tillich_place_id__480">
+                  <placeName>Zürich</placeName>
+                  <location type="coords">
+                     <geo>47.36667 8.55000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2657896/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

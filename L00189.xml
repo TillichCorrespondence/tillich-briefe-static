@@ -97,11 +97,11 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1311">
-                  <persName>Merrem, Paul</persName>
-               </person>
-               <person xml:id="tillich_person_id__1310">
+<back><listPerson><person xml:id="tillich_person_id__1310">
                   <persName>Merrem, Lucie</persName>
+               </person>
+               <person xml:id="tillich_person_id__1311">
+                  <persName>Merrem, Paul</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

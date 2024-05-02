@@ -93,20 +93,20 @@
 </date>
 </p>
 </div>
-</body><back><listPlace><place xml:id="tillich_place_id__613">
-                  <placeName>Wittenberg</placeName>
-                  <location type="coords">
-                     <geo>51.86610 12.64973</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/7303020/</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
+</body><back><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__613">
+                  <placeName>Wittenberg</placeName>
+                  <location type="coords">
+                     <geo>51.86610 12.64973</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7303020/</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2847">
                   <persName>Jordan, Julius</persName>

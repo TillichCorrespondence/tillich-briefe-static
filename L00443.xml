@@ -97,16 +97,16 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2572">
+<back><listPerson><person xml:id="tillich_person_id__2572">
                   <persName>Many, Erna</persName>
                </person>
                <person xml:id="tillich_person_id__2047">
                   <persName>Wever, Eva</persName>
                   <occupation>Schwägerin Tillichs, später Eva Detert</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

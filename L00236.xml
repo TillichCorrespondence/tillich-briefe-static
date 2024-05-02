@@ -143,9 +143,27 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__268">(Original)Kittel, Rudolf, Biblia Hebraica,  J.C. Hinrichs Buchhandlung in Leipzig, 1906</bibl>
-               <bibl xml:id="tillich_work_id__267">Storm, Theodor, "Das Fest auf Haderslevhuus" Novelle, Berlin : H. Hillger,</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__2245">
+   <back><listPerson><person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__806">
+                  <persName>Häring, Johann Theodor von</persName>
+               </person>
+               <person xml:id="tillich_person_id__2927">
+                  <persName>Kiefer</persName>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__2245">
                   <persName>Wurster, Paul von</persName>
                   <birth>
                      <date>1860-12-06</date>
@@ -163,31 +181,34 @@
                   <idno type="gnd">https://d-nb.info/gnd/117358800</idno>
                   <note type="bio"><p>Er wirkte vor allem in Tübingen.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2244">
-                  <persName>Grill, Julius</persName>
+               <person xml:id="tillich_person_id__2243">
+                  <persName>Hessig, O.</persName>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
                   <birth>
-                     <date>1840</date>
+                     <date>1886</date>
                   </birth>
                   <death>
-                     <date>1930</date>
+                     <date>1963</date>
                   </death>
-                  <occupation>Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116835907</idno>
-                  <note type="bio"><p>Er wirkte vor allem in Tübingen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2212">
-                  <persName>Gräber, ???</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1707">
-                  <persName>Schetelig, Wilhelm</persName>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
                <person xml:id="tillich_person_id__203">
                   <persName>Bertheau, Lorenz</persName>
                   <occupation>Pfarrer</occupation>
                </person>
-               <person xml:id="tillich_person_id__806">
-                  <persName>Häring, Johann Theodor von</persName>
+               <person xml:id="tillich_person_id__1707">
+                  <persName>Schetelig, Wilhelm</persName>
+               </person>
+               <person xml:id="tillich_person_id__2249">
+                  <persName>Pfisterer, Immanuel</persName>
+               </person>
+               <person xml:id="tillich_person_id__1743">
+                  <persName>Schubert, Daniel</persName>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -203,42 +224,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__641">
-                  <persName>Fritz, Alfred</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                  </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2249">
-                  <persName>Pfisterer, Immanuel</persName>
-               </person>
-               <person xml:id="tillich_person_id__1227">
-                  <persName>Lütgert, Wilhelm</persName>
-                  <birth>
-                     <date>1867</date>
-                  </birth>
-                  <death>
-                     <date>1938</date>
-                  </death>
-                  <occupation>Systematischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
-               </person>
-               <person xml:id="tillich_person_id__2243">
-                  <persName>Hessig, O.</persName>
-               </person>
-               <person xml:id="tillich_person_id__1743">
-                  <persName>Schubert, Daniel</persName>
-                  <occupation>Pfarrer</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
                </person>
                <person xml:id="tillich_person_id__2246">
                   <persName>Storm, Theodor</persName>
@@ -256,8 +241,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118618725</idno>
                </person>
-               <person xml:id="tillich_person_id__2927">
-                  <persName>Kiefer</persName>
+               <person xml:id="tillich_person_id__2212">
+                  <persName>Gräber, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__1712">
                   <persName>Schlatter, Adolf</persName>
@@ -276,6 +262,18 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
                </person>
+               <person xml:id="tillich_person_id__2244">
+                  <persName>Grill, Julius</persName>
+                  <birth>
+                     <date>1840</date>
+                  </birth>
+                  <death>
+                     <date>1930</date>
+                  </death>
+                  <occupation>Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116835907</idno>
+                  <note type="bio"><p>Er wirkte vor allem in Tübingen.</p></note>
+               </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__448">
                   <placeName>Tübingen</placeName>
                   <location type="coords">
@@ -283,13 +281,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2820860/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__393">
-                  <placeName>Schwaben</placeName>
-                  <location type="coords">
-                     <geo>48.00000 9.00000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2824481/</idno>
                </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
@@ -299,5 +290,14 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               </listPlace></back></text>
+               <place xml:id="tillich_place_id__393">
+                  <placeName>Schwaben</placeName>
+                  <location type="coords">
+                     <geo>48.00000 9.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2824481/</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__267">Storm, Theodor, "Das Fest auf Haderslevhuus" Novelle, Berlin : H. Hillger,</bibl>
+               <bibl xml:id="tillich_work_id__268">(Original)Kittel, Rudolf, Biblia Hebraica,  J.C. Hinrichs Buchhandlung in Leipzig, 1906</bibl>
+               </listBibl></back></text>
 </TEI>

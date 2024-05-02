@@ -100,10 +100,7 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2461">
-                  <persName>Döring, (Frau)</persName>
-               </person>
-               <person xml:id="tillich_person_id__2460">
+   <back><listPerson><person xml:id="tillich_person_id__2460">
                   <persName>Döring, Hans</persName>
                   <birth>
                      <date>1901</date>
@@ -112,6 +109,9 @@
                      <date>1970</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/130453005</idno>
+               </person>
+               <person xml:id="tillich_person_id__2461">
+                  <persName>Döring, (Frau)</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

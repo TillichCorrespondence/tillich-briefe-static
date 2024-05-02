@@ -87,23 +87,13 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2778">
-                  <persName>M., Nora</persName>
-               </person>
-               <person xml:id="tillich_person_id__2803">
-                  <persName>Kestenberg, ???</persName>
-                  <occupation>Professor;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__352">
-                  <placeName>Polen-Neuendorf</placeName>
+<back><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
-                     <geo>54.33333 18.73333</geo>
+                     <geo>52.52437 13.41053</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3090679/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                <place xml:id="tillich_place_id__569">
                   <placeName>Gera</placeName>
@@ -113,13 +103,12 @@
                   <idno type="geonames">https://sws.geonames.org/2921232/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32029631</idno>
                </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
+               <place xml:id="tillich_place_id__352">
+                  <placeName>Polen-Neuendorf</placeName>
                   <location type="coords">
-                     <geo>52.52437 13.41053</geo>
+                     <geo>54.33333 18.73333</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+                  <idno type="geonames">https://sws.geonames.org/3090679/</idno>
                </place>
                <place xml:id="tillich_place_id__396">
                   <placeName>Schweden</placeName>
@@ -129,5 +118,16 @@
                   <idno type="geonames">https://sws.geonames.org/2661886/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q34</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2778">
+                  <persName>M., Nora</persName>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2803">
+                  <persName>Kestenberg, ???</persName>
+                  <occupation>Professor;</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>
