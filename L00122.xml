@@ -166,7 +166,55 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2289">
+<back><listPerson><person xml:id="tillich_person_id__1712">
+                  <persName>Schlatter, Adolf</persName>
+                  <birth>
+                     <date>1852-08-16</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1938-05-19</date>
+                     <settlement>
+                        <placeName>Tübingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
+               </person>
+               <person xml:id="tillich_person_id__2082">
+                  <persName>Windelband, Wilhelm</persName>
+                  <birth>
+                     <date>1848-05-11</date>
+                     <settlement>
+                        <placeName>Potsdam</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1915-10-24</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
+               </person>
+               <person xml:id="tillich_person_id__2181">
+                  <persName>Hanffstengel , Georg von</persName>
+                  <birth>
+                     <date>1874</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/14373685X</idno>
+                  <note type="bio"><p>Bruder von G. v. Hanffstengel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2289">
                   <persName>Mackensen, Fritz</persName>
                   <birth>
                      <date>1866-04-08</date>
@@ -183,16 +231,21 @@
                   <occupation>Maler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118575910</idno>
                </person>
-               <person xml:id="tillich_person_id__2181">
-                  <persName>Hanffstengel , Georg von</persName>
+               <person xml:id="tillich_person_id__2848">
+                  <persName>Hausrath, Adolf</persName>
                   <birth>
-                     <date>1874</date>
+                     <date>1837-01-13</date>
+                     <settlement>
+                        <placeName>Karlsruhe</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1938</date>
+                     <date>1909-08-02</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/14373685X</idno>
-                  <note type="bio"><p>Bruder von G. v. Hanffstengel.</p></note>
+                  <idno type="gnd">https://d-nb.info/gnd/119059517</idno>
                </person>
                <person xml:id="tillich_person_id__2806">
                   <persName>Hanffstengel, Theodor von</persName>
@@ -212,6 +265,15 @@
                   <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
                   <note type="bio"><p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2155">
+                  <persName>Voget, Hans</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               </person>
                <person xml:id="tillich_person_id__589">
                   <persName>Fichte, Johann Gottlieb</persName>
                   <birth>
@@ -228,34 +290,13 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
                </person>
-               <person xml:id="tillich_person_id__1291">
-                  <persName>Medicus, Fritz</persName>
-                  <occupation>Philosoph</occupation>
-                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
-               </person>
                <person xml:id="tillich_person_id__2182">
                   <persName>Hanffstengel, Otto von</persName>
                   <note type="bio"><p>Bruder von G. v. Hanffstengel.</p></note>
                </person>
-               <person xml:id="tillich_person_id__788">
-                  <persName>Hanffstengel, Gottfried von</persName>
-                  <occupation>Theologe, Jugendfreund</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2082">
-                  <persName>Windelband, Wilhelm</persName>
-                  <birth>
-                     <date>1848-05-11</date>
-                     <settlement>
-                        <placeName>Potsdam</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1915-10-24</date>
-                     <settlement>
-                        <placeName>Heidelberg</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
+               <person xml:id="tillich_person_id__2171">
+                  <persName>Hanffstengel, Karl von</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -272,54 +313,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2155">
-                  <persName>Voget, Hans</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2848">
-                  <persName>Hausrath, Adolf</persName>
-                  <birth>
-                     <date>1837-01-13</date>
-                     <settlement>
-                        <placeName>Karlsruhe</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1909-08-02</date>
-                     <settlement>
-                        <placeName>Heidelberg</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119059517</idno>
-               </person>
-               <person xml:id="tillich_person_id__1712">
-                  <persName>Schlatter, Adolf</persName>
-                  <birth>
-                     <date>1852-08-16</date>
-                     <settlement>
-                        <placeName>Sankt Gallen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1938-05-19</date>
-                     <settlement>
-                        <placeName>Tübingen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Evangelischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
-               </person>
-               <person xml:id="tillich_person_id__2171">
-                  <persName>Hanffstengel, Karl von</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
+               </listPerson><listPlace><place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
                   <location type="coords">
-                     <geo>52.52437 13.41053</geo>
+                     <geo>48.52266 9.05222</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
                </place>
                <place xml:id="tillich_place_id__75">
                   <placeName>Bremervörde</placeName>
@@ -329,14 +329,6 @@
                   <idno type="geonames">https://sws.geonames.org/2944354/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
                </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                   <location type="coords">
@@ -345,8 +337,16 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__161">Schlatter, Adolf, Der Glaube im Neuen Testament. Eine Untersuchung zur neutestamentlichen Theologie. Leiden 1885</bibl>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__207">Hausrath, Adolf, Luthers Leben. Berlin: G. Grote'sche Verlagsbuchhandlung, 1904.</bibl>
+               <bibl xml:id="tillich_work_id__161">Schlatter, Adolf, Der Glaube im Neuen Testament. Eine Untersuchung zur neutestamentlichen Theologie. Leiden 1885</bibl>
                <bibl xml:id="tillich_work_id__29">Windelband, Wilhelm, Einleitung in die Philosophie, Tübingen 1914</bibl>
-               <bibl xml:id="tillich_work_id__207">Hausrath, Adolf, Luthers Leben. Berlin: G. Grote'sche Verlagsbuchhandlung, 1904.</bibl>
                </listBibl></back></text>
 </TEI>

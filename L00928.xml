@@ -119,13 +119,13 @@
          </div>
       </body>
    <back><listBibl><bibl xml:id="tillich_work_id__84">Tillich, Paul, Die Überwindung des Persönlichkeitsideals. Ein Vortrag, in Logos, Band XVI, 1927, S. 68-85</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1781">
-                  <persName>Siebeck, Paul</persName>
-                  <occupation>Deutscher Verleger</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1099">
+               </listBibl><listPerson><person xml:id="tillich_person_id__1099">
                   <persName>Kroner, Richard</persName>
                   <occupation>deutscher Philosoph und Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1781">
+                  <persName>Siebeck, Paul</persName>
+                  <occupation>Deutscher Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

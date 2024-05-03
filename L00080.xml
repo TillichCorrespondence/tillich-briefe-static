@@ -97,13 +97,13 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1925">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2237">
+<back><listPerson><person xml:id="tillich_person_id__2237">
                   <persName>Dürselen, Gustav</persName>
                   <note type="bio"><p>Er war ein Großvater von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

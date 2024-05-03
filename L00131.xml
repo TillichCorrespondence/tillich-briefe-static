@@ -91,16 +91,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__67">
-                  <placeName>Bodensee</placeName>
-                  <idno type="geonames">https://sws.geonames.org/11919717/</idno>
-               </place>
-               <place xml:id="tillich_place_id__252">
+<back><listPlace><place xml:id="tillich_place_id__252">
                   <placeName>Landeck</placeName>
                   <location type="coords">
                      <geo>47.12575 10.56679</geo>
@@ -115,5 +106,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2863758/</idno>
                </place>
-               </listPlace></back></text>
+               <place xml:id="tillich_place_id__67">
+                  <placeName>Bodensee</placeName>
+                  <idno type="geonames">https://sws.geonames.org/11919717/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

@@ -90,22 +90,10 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+<back><listPerson><person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
                <person xml:id="tillich_person_id__2521">
                   <persName>Fouquet, Jean</persName>
@@ -135,24 +123,36 @@
                   <occupation>Kunsthistoriker;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118674129</idno>
                </person>
-               <person xml:id="tillich_person_id__2519">
-                  <persName>Brinkmann, (Frau Prof.)</persName>
-                  <note type="bio"><p>Sie war die Frau von Albert Erich Brinkmann.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
-               </person>
-               <person xml:id="tillich_person_id__1550">
-                  <persName>Raffael</persName>
+               <person xml:id="tillich_person_id__681">
+                  <persName>Giotto di Bondone</persName>
                </person>
                <person xml:id="tillich_person_id__2437">
                   <persName>Jessen, Malla</persName>
                   <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
                </person>
-               <person xml:id="tillich_person_id__681">
-                  <persName>Giotto di Bondone</persName>
+               <person xml:id="tillich_person_id__1550">
+                  <persName>Raffael</persName>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2519">
+                  <persName>Brinkmann, (Frau Prof.)</persName>
+                  <note type="bio"><p>Sie war die Frau von Albert Erich Brinkmann.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

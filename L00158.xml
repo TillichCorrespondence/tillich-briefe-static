@@ -216,65 +216,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__467">
-                  <placeName>Wartburg</placeName>
-                  <location type="coords">
-                     <geo>50.96605 10.30646</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
-               </place>
-               <place xml:id="tillich_place_id__318">
-                  <placeName>Neviges</placeName>
-                  <location type="coords">
-                     <geo>51.30929 7.09051</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2863758/</idno>
-               </place>
-               <place xml:id="tillich_place_id__68">
-                  <placeName>Bonn</placeName>
-                  <location type="coords">
-                     <geo>50.73438 7.09549</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
-               </place>
-               <place xml:id="tillich_place_id__130">
-                  <placeName>Düsseldorf</placeName>
-                  <location type="coords">
-                     <geo>51.22172 6.77616</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2934246/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1718</idno>
-               </place>
-               <place xml:id="tillich_place_id__186">
-                  <placeName>Göttingen</placeName>
-                  <location type="coords">
-                     <geo>51.53443 9.93228</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__30">
-                  <placeName>Barmen (Deutschland)</placeName>
-                  <location type="coords">
-                     <geo>51.27737 7.19802</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2952539/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q153974</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2545">
-                  <persName>Schreiberle, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1874">
+<back><listPerson><person xml:id="tillich_person_id__1874">
                   <persName>Strathmann, Hermann</persName>
                   <birth>
                      <date>1882-08-30</date>
@@ -291,6 +233,26 @@
                   <occupation>Neutestamentler und Politiker (DNVP, CSVD, CSU)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119239221</idno>
                </person>
+               <person xml:id="tillich_person_id__1712">
+                  <persName>Schlatter, Adolf</persName>
+                  <birth>
+                     <date>1852-08-16</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1938-05-19</date>
+                     <settlement>
+                        <placeName>Tübingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
+               </person>
+               <person xml:id="tillich_person_id__2542">
+                  <persName>Bredt, ???</persName>
+               </person>
                <person xml:id="tillich_person_id__2539">
                   <persName>Ohl, Otto</persName>
                   <birth>
@@ -304,69 +266,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/124747612</idno>
                </person>
-               <person xml:id="tillich_person_id__2543">
-                  <persName>Warneck, Johannes</persName>
-                  <birth>
-                     <date>1867</date>
-                  </birth>
-                  <death>
-                     <date>1944</date>
-                  </death>
-                  <occupation>Missionsinspektor;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117142107</idno>
-               </person>
-               <person xml:id="tillich_person_id__203">
-                  <persName>Bertheau, Lorenz</persName>
-                  <occupation>Pfarrer</occupation>
-               </person>
                <person xml:id="tillich_person_id__2537">
                   <persName>Nell, ???</persName>
                   <note type="bio"><p>Er war ein Philister.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2159">
-                  <persName>Nell, W.</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2542">
-                  <persName>Bredt, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2185">
-                  <persName>Meyersieck, Joh.</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
-                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2538">
-                  <persName>Bartels, Johann Heinrich Christian Adolf</persName>
-                  <birth>
-                     <date>1857-09-07</date>
-                  </birth>
-                  <death>
-                     <date>1911-03-13</date>
-                     <settlement>
-                        <placeName>Osten (Cuxhaven)</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/1215952473</idno>
                </person>
                <person xml:id="tillich_person_id__1111">
                   <persName>Kurtz, Howard G.</persName>
@@ -388,22 +290,120 @@
                   <occupation>Missionsinspektor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1028222882</idno>
                </person>
-               <person xml:id="tillich_person_id__1712">
-                  <persName>Schlatter, Adolf</persName>
+               <person xml:id="tillich_person_id__2185">
+                  <persName>Meyersieck, Joh.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
+                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2543">
+                  <persName>Warneck, Johannes</persName>
                   <birth>
-                     <date>1852-08-16</date>
-                     <settlement>
-                        <placeName>Sankt Gallen</placeName>
-                     </settlement>
+                     <date>1867</date>
                   </birth>
                   <death>
-                     <date>1938-05-19</date>
+                     <date>1944</date>
+                  </death>
+                  <occupation>Missionsinspektor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117142107</idno>
+               </person>
+               <person xml:id="tillich_person_id__2538">
+                  <persName>Bartels, Johann Heinrich Christian Adolf</persName>
+                  <birth>
+                     <date>1857-09-07</date>
+                  </birth>
+                  <death>
+                     <date>1911-03-13</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName>Osten (Cuxhaven)</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/1215952473</idno>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2159">
+                  <persName>Nell, W.</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2545">
+                  <persName>Schreiberle, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__130">
+                  <placeName>Düsseldorf</placeName>
+                  <location type="coords">
+                     <geo>51.22172 6.77616</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2934246/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1718</idno>
+               </place>
+               <place xml:id="tillich_place_id__318">
+                  <placeName>Neviges</placeName>
+                  <location type="coords">
+                     <geo>51.30929 7.09051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2863758/</idno>
+               </place>
+               <place xml:id="tillich_place_id__30">
+                  <placeName>Barmen (Deutschland)</placeName>
+                  <location type="coords">
+                     <geo>51.27737 7.19802</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2952539/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q153974</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
+               </place>
+               <place xml:id="tillich_place_id__68">
+                  <placeName>Bonn</placeName>
+                  <location type="coords">
+                     <geo>50.73438 7.09549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
+                  <location type="coords">
+                     <geo>51.53443 9.93228</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

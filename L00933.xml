@@ -106,7 +106,11 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1923">
+<back><listPerson><person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -138,10 +142,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
-               </person>
-               <person xml:id="tillich_person_id__845">
-                  <persName>Heim, Karl</persName>
-                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

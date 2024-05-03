@@ -116,26 +116,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__80">
-                  <persName>Aristoteles</persName>
-                  <birth>
-                     <date>-0384</date>
-                     <settlement>
-                        <placeName>Stagira</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>-0322</date>
-                     <settlement>
-                        <placeName>Chalkide</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118650130</idno>
-               </person>
-               <person xml:id="tillich_person_id__2776">
-                  <persName>Storch, Lotte</persName>
-               </person>
-               <person xml:id="tillich_person_id__1923">
+<back><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -151,6 +132,25 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2776">
+                  <persName>Storch, Lotte</persName>
+               </person>
+               <person xml:id="tillich_person_id__80">
+                  <persName>Aristoteles</persName>
+                  <birth>
+                     <date>-0384</date>
+                     <settlement>
+                        <placeName>Stagira</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>-0322</date>
+                     <settlement>
+                        <placeName>Chalkide</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118650130</idno>
                </person>
                </listPerson></back></text>
 </TEI>

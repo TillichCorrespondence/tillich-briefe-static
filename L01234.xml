@@ -191,35 +191,8 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2507">
-                  <persName>Gehlen, Arnold</persName>
-                  <birth>
-                     <date>1904-01-29</date>
-                     <settlement>
-                        <placeName>Leipzig</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1976-01-30</date>
-                     <settlement>
-                        <placeName>Hamburg</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/11853808X</idno>
-               </person>
-               <person xml:id="tillich_person_id__1020">
-                  <persName>Kant, Immanuel</persName>
-               </person>
-               <person xml:id="tillich_person_id__1577">
-                  <persName>Reinhardt, Karl</persName>
-                  <occupation>Altphilologe</occupation>
-                  <note type="bio"><p>1905-1910 Studium der Klassischen Philologie in Bonn und Berlin, 1910 Promotion in Berlin, 1914 Habilitation in Bonn. 1916-1918 außerordentlicher Professor in Marburg, 1919-1923 ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf an die Universität Frankfurt, wo R., unterbrochen von einigen Jahren an der Universität Leipzig (1942-1946) bis zu seiner Emeritierung 1951 blieb und lehrte. Er war mit Elly Reinhardt (geb. Boessneck) verheiratet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__841">
-                  <persName>Heidegger, Martin</persName>
-               </person>
-               <person xml:id="tillich_person_id__1821">
-                  <persName>Spann, Othmar</persName>
+   <back><listPerson><person xml:id="tillich_person_id__2493">
+                  <persName>Nida, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2475">
                   <persName>Schwietering, Julius</persName>
@@ -237,12 +210,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795805</idno>
                </person>
-               <person xml:id="tillich_person_id__2493">
-                  <persName>Nida, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2492">
-                  <persName>Rosenbusch, Agnes</persName>
-               </person>
                <person xml:id="tillich_person_id__2494">
                   <persName>Schultz, Franz</persName>
                   <birth>
@@ -258,6 +225,39 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795570</idno>
+               </person>
+               <person xml:id="tillich_person_id__1821">
+                  <persName>Spann, Othmar</persName>
+               </person>
+               <person xml:id="tillich_person_id__841">
+                  <persName>Heidegger, Martin</persName>
+               </person>
+               <person xml:id="tillich_person_id__1577">
+                  <persName>Reinhardt, Karl</persName>
+                  <occupation>Altphilologe</occupation>
+                  <note type="bio"><p>1905-1910 Studium der Klassischen Philologie in Bonn und Berlin, 1910 Promotion in Berlin, 1914 Habilitation in Bonn. 1916-1918 außerordentlicher Professor in Marburg, 1919-1923 ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf an die Universität Frankfurt, wo R., unterbrochen von einigen Jahren an der Universität Leipzig (1942-1946) bis zu seiner Emeritierung 1951 blieb und lehrte. Er war mit Elly Reinhardt (geb. Boessneck) verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1020">
+                  <persName>Kant, Immanuel</persName>
+               </person>
+               <person xml:id="tillich_person_id__2492">
+                  <persName>Rosenbusch, Agnes</persName>
+               </person>
+               <person xml:id="tillich_person_id__2507">
+                  <persName>Gehlen, Arnold</persName>
+                  <birth>
+                     <date>1904-01-29</date>
+                     <settlement>
+                        <placeName>Leipzig</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1976-01-30</date>
+                     <settlement>
+                        <placeName>Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/11853808X</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

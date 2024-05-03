@@ -95,28 +95,9 @@
         </postscript>
      </div>
     </body>
-  <back><listPerson><person xml:id="tillich_person_id__2885">
-                  <persName>Leese, Minna Margarethe</persName>
-                  <note type="bio"><p>Sie war die Gattin von Kurt Leese.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1154">
+  <back><listPerson><person xml:id="tillich_person_id__1154">
                   <persName>Leese, Kurt</persName>
                   <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__2020">
                   <persName>Wegener, Carl Richard</persName>
@@ -135,20 +116,42 @@
                   <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__198">
+               <person xml:id="tillich_person_id__2885">
+                  <persName>Leese, Minna Margarethe</persName>
+                  <note type="bio"><p>Sie war die Gattin von Kurt Leese.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__276">Liebert, Arthur, Goethes Platonismus, in: Kant-Studien 37 (1932), S. 1-48.</bibl>
+               <bibl xml:id="tillich_work_id__278">Verfassung der Evangelisch-lutherischen Kirche im Hamburgischen Staate vom 30.5.1923, in: Gesetze, Verordnungen und Mitteilungen aus der Hamburgischen Kirche, 1923, 427-442.</bibl>
+               <bibl xml:id="tillich_work_id__277">Leese, Kurt, Die Krisis und Wende des christlichen Geistes. Studien zum anthropologischen und theologischen Problem der Lebensphilosophie, Berlin 1932.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__289">
+                  <placeName>Mentone</placeName>
+                  <location type="coords">
+                     <geo>43.52543 6.28306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/12319349/</idno>
+               </place>
+               <place xml:id="tillich_place_id__198">
                   <placeName>Hamburg</placeName>
                   <location type="coords">
                      <geo>53.55073 9.99302</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2911298/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
-               </place>
-               <place xml:id="tillich_place_id__289">
-                  <placeName>Mentone</placeName>
-                  <location type="coords">
-                     <geo>43.52543 6.28306</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/12319349/</idno>
                </place>
                <place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
@@ -158,8 +161,5 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__276">Liebert, Arthur, Goethes Platonismus, in: Kant-Studien 37 (1932), S. 1-48.</bibl>
-               <bibl xml:id="tillich_work_id__278">Verfassung der Evangelisch-lutherischen Kirche im Hamburgischen Staate vom 30.5.1923, in: Gesetze, Verordnungen und Mitteilungen aus der Hamburgischen Kirche, 1923, 427-442.</bibl>
-               <bibl xml:id="tillich_work_id__277">Leese, Kurt, Die Krisis und Wende des christlichen Geistes. Studien zum anthropologischen und theologischen Problem der Lebensphilosophie, Berlin 1932.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

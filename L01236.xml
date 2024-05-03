@@ -125,12 +125,12 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2495">
-                  <persName>Gehse, Fritz</persName>
-               </person>
-               <person xml:id="tillich_person_id__1154">
+   <back><listPerson><person xml:id="tillich_person_id__1154">
                   <persName>Leese, Kurt</persName>
                   <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2495">
+                  <persName>Gehse, Fritz</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

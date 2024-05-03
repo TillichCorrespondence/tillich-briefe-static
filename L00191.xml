@@ -122,22 +122,20 @@
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__186">Anders, Fritz, Skizzen aus unserem heutigen Volksleben. Zweite Sammlung, Berlin: Grunow, 1899.</bibl>
-               <bibl xml:id="tillich_work_id__185">Steuernagl, Carl, Hebräische Grammatik mit Paradigmen, Literatur, Übungsstücken und Wortverzeichnis, 2 überarbeitete Auflage, Berlin: Reuther &amp; Reichard, 1905.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__335">
-                  <placeName>Ostfriesland</placeName>
-                  <location type="coords">
-                     <geo>53.33333 7.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2856304/</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
+<back><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__335">
+                  <placeName>Ostfriesland</placeName>
+                  <location type="coords">
+                     <geo>53.33333 7.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2856304/</idno>
                </place>
                <place xml:id="tillich_place_id__111">
                   <placeName>Collinghorst</placeName>
@@ -154,7 +152,13 @@
                   <idno type="geonames">https://sws.geonames.org/2856883/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33158934</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2789">
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__185">Steuernagl, Carl, Hebräische Grammatik mit Paradigmen, Literatur, Übungsstücken und Wortverzeichnis, 2 überarbeitete Auflage, Berlin: Reuther &amp; Reichard, 1905.</bibl>
+               <bibl xml:id="tillich_work_id__186">Anders, Fritz, Skizzen aus unserem heutigen Volksleben. Zweite Sammlung, Berlin: Grunow, 1899.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2157">
+                  <persName>Nickelby, C.</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2789">
                   <persName>Anders, Fritz</persName>
                   <birth>
                      <date>1841-08-31</date>
@@ -182,10 +186,6 @@
                   <occupation>Professor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117241377</idno>
                   <note type="bio"><p>Er hat sich auf die alttestamentliche Forschung spezialisiert.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2157">
-                  <persName>Nickelby, C.</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

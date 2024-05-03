@@ -160,12 +160,12 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1826">
-                  <persName>Spengler, Oswald</persName>
-               </person>
-               <person xml:id="tillich_person_id__574">
+   <back><listPerson><person xml:id="tillich_person_id__574">
                   <persName>Faust, Erich</persName>
                   <occupation>Leitungsposition bei den Röchlinger Eisen- und Stahlwerke</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1826">
+                  <persName>Spengler, Oswald</persName>
                </person>
                <person xml:id="tillich_person_id__757">
                   <persName>Hahl, Margot</persName>

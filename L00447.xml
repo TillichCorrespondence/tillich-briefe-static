@@ -258,74 +258,13 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__270">
-                  <placeName>Lohme</placeName>
-                  <location type="coords">
-                     <geo>54.58313 13.61067</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2876215/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32101560</idno>
-               </place>
-               <place xml:id="tillich_place_id__499">
-                  <placeName>Nowogeorgiewsk</placeName>
-                  <location type="coords">
-                     <geo>52.44461 20.69695</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/764529/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q995207</idno>
-               </place>
-               <place xml:id="tillich_place_id__227">
-                  <placeName>Juvigny (Aisne)</placeName>
-                  <location type="coords">
-                     <geo>49.44762 3.31821</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
-               </place>
-               <place xml:id="tillich_place_id__419">
-                  <placeName>Stubbenkammer</placeName>
-                  <location type="coords">
-                     <geo>54.57325 13.65974</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2825543/</idno>
-               </place>
-               <place xml:id="tillich_place_id__376">
-                  <placeName>Russland</placeName>
-                  <location type="coords">
-                     <geo>60.00000 100.00000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2017370/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q159</idno>
-               </place>
-               <place xml:id="tillich_place_id__325">
-                  <placeName>Nouvron-Vingré</placeName>
-                  <location type="coords">
-                     <geo>49.42826 3.20000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2989951/</idno>
-               </place>
-               <place xml:id="tillich_place_id__112">
-                  <placeName>Coucy-le-Château-Auffrique</placeName>
-                  <location type="coords">
-                     <geo>49.52083 3.32381</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3023363/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q34796877</idno>
-               </place>
-               <place xml:id="tillich_place_id__98">
-                  <placeName>Chauny</placeName>
-                  <location type="coords">
-                     <geo>49.61514 3.21857</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3025860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q269833</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2140">
-                  <persName>Pulkowski, ???</persName>
-                  <birth>
-                     <date>1877</date>
-                  </birth>
-                  <occupation>Divisionsadjudant;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1070597449</idno>
+<back><listPerson><person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__2116">
                   <persName>Zarathustra</persName>
@@ -337,14 +276,25 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118636227</idno>
                </person>
-               <person xml:id="tillich_person_id__1487">
-                  <persName>Pfeiffer, Erich</persName>
-                  <occupation>Hauptmann im 1. WK</occupation>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
-               <person xml:id="tillich_person_id__252">
-                  <persName>Bonin, Henning von</persName>
-                  <occupation>Preußischer Infanteriegeneral</occupation>
-                  <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
+               <person xml:id="tillich_person_id__2140">
+                  <persName>Pulkowski, ???</persName>
+                  <birth>
+                     <date>1877</date>
+                  </birth>
+                  <occupation>Divisionsadjudant;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1070597449</idno>
                </person>
                <person xml:id="tillich_person_id__2139">
                   <persName>Schwartzkopff, Philipp</persName>
@@ -357,28 +307,42 @@
                   <occupation>Oberpräsident;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117361267</idno>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
                <person xml:id="tillich_person_id__1930">
                   <persName>Tillich, Marie</persName>
                   <occupation>Großmutter</occupation>
                </person>
+               <person xml:id="tillich_person_id__252">
+                  <persName>Bonin, Henning von</persName>
+                  <occupation>Preußischer Infanteriegeneral</occupation>
+                  <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1926">
+                  <persName>Tillich, Oskar</persName>
+                  <birth>
+                     <date>1828</date>
+                  </birth>
+                  <death>
+                     <date>1914</date>
+                  </death>
+                  <occupation>Großvater</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
+               </person>
                <person xml:id="tillich_person_id__1742">
                   <persName>Schröder</persName>
                   <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2144">
+                  <persName>Adrienne, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2611">
+                  <persName>Falkenhayn, Erich von</persName>
+                  <birth>
+                     <date>1861-09-11</date>
+                  </birth>
+                  <death>
+                     <date>1922-04-08</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118531875</idno>
                </person>
                <person xml:id="tillich_person_id__2141">
                   <persName>Münchhausen, Börries Albrecht Conon August Heinrich Freiherr von</persName>
@@ -400,50 +364,86 @@
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               <person xml:id="tillich_person_id__1487">
+                  <persName>Pfeiffer, Erich</persName>
+                  <occupation>Hauptmann im 1. WK</occupation>
                </person>
-               <person xml:id="tillich_person_id__2144">
-                  <persName>Adrienne, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1926">
-                  <persName>Tillich, Oskar</persName>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
-                     <date>1828</date>
+                     <date>1886-08-20</date>
                   </birth>
                   <death>
-                     <date>1914</date>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
                   </death>
-                  <occupation>Großvater</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2611">
-                  <persName>Falkenhayn, Erich von</persName>
-                  <birth>
-                     <date>1861-09-11</date>
-                  </birth>
-                  <death>
-                     <date>1922-04-08</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118531875</idno>
-               </person>
-               <person xml:id="tillich_person_id__1924">
-                  <persName>Tillich, Johannes Oskar</persName>
-                  <birth>
-                     <date>1857</date>
-                  </birth>
-                  <death>
-                     <date>1937</date>
-                  </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__33">Münchhausen, Börries von, Die Balladen und ritterlichen Lieder, Berlin 1908.</bibl>
+               </listPerson><listPlace><place xml:id="tillich_place_id__419">
+                  <placeName>Stubbenkammer</placeName>
+                  <location type="coords">
+                     <geo>54.57325 13.65974</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2825543/</idno>
+               </place>
+               <place xml:id="tillich_place_id__325">
+                  <placeName>Nouvron-Vingré</placeName>
+                  <location type="coords">
+                     <geo>49.42826 3.20000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2989951/</idno>
+               </place>
+               <place xml:id="tillich_place_id__112">
+                  <placeName>Coucy-le-Château-Auffrique</placeName>
+                  <location type="coords">
+                     <geo>49.52083 3.32381</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3023363/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q34796877</idno>
+               </place>
+               <place xml:id="tillich_place_id__227">
+                  <placeName>Juvigny (Aisne)</placeName>
+                  <location type="coords">
+                     <geo>49.44762 3.31821</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
+               </place>
+               <place xml:id="tillich_place_id__376">
+                  <placeName>Russland</placeName>
+                  <location type="coords">
+                     <geo>60.00000 100.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2017370/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q159</idno>
+               </place>
+               <place xml:id="tillich_place_id__499">
+                  <placeName>Nowogeorgiewsk</placeName>
+                  <location type="coords">
+                     <geo>52.44461 20.69695</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/764529/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q995207</idno>
+               </place>
+               <place xml:id="tillich_place_id__270">
+                  <placeName>Lohme</placeName>
+                  <location type="coords">
+                     <geo>54.58313 13.61067</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2876215/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32101560</idno>
+               </place>
+               <place xml:id="tillich_place_id__98">
+                  <placeName>Chauny</placeName>
+                  <location type="coords">
+                     <geo>49.61514 3.21857</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3025860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q269833</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__33">Münchhausen, Börries von, Die Balladen und ritterlichen Lieder, Berlin 1908.</bibl>
                </listBibl></back></text>
 </TEI>

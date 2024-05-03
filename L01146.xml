@@ -119,11 +119,7 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__240">Tillich, Paul: Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__2470">
-                  <persName>Sulzbach, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1856">
+   <back><listPerson><person xml:id="tillich_person_id__1856">
                   <persName>Stepun, Fedor</persName>
                   <birth>
                      <date>1884-02-19</date>
@@ -140,6 +136,9 @@
                   <occupation>russisch-deutscher Literat, Soziologe, Philosoph und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11875355X</idno>
                   <note type="bio"><p>Fedor S. wurde in Moskau geboren, wo er auch zur Schule ging. Seine Familie hatte deutsch-litauische Herkunft. 1910 wurde er in Heidelberg im Fach Philosophie promoviert. Nach dem Studium Rückkehr nach Russland, 1922 infolge der Oktoberrevolution zunächst verhaftet, dann ausgewiesen. Seit 1926 lehrte er an der Technischen Hochschule Dresden. 1937 wurde er entlassen und erhielt Schreibverbot. Die Kriegsjahre verbrachte er in Deutschland, ab 1946 lehrte er als Professor für russische Geistesgeschichte an der Universität München. Nachdem frühen Tod seiner ersten Frau hatte Fedor S. im Jahr 1911 Natascha geheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2470">
+                  <persName>Sulzbach, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -172,5 +171,6 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__240">Tillich, Paul: Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
+               </listBibl></back></text>
 </TEI>

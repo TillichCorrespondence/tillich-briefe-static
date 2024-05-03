@@ -119,21 +119,21 @@
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__170">
-                  <placeName>Friedrichshagen</placeName>
-                  <location type="coords">
-                     <geo>52.45052 13.62463</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2924577/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q563528</idno>
-               </place>
-               <place xml:id="tillich_place_id__45">
+               </listPerson><listPlace><place xml:id="tillich_place_id__45">
                   <placeName>Berlin-Pankow</placeName>
                   <location type="coords">
                      <geo>52.56926 13.40186</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2855598/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q4707648</idno>
+               </place>
+               <place xml:id="tillich_place_id__170">
+                  <placeName>Friedrichshagen</placeName>
+                  <location type="coords">
+                     <geo>52.45052 13.62463</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2924577/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q563528</idno>
                </place>
                </listPlace></back></text>
 </TEI>

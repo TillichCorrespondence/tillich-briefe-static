@@ -144,13 +144,13 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__203">
-                  <placeName>Heidelberg (Deutschland)</placeName>
+   <back><listPlace><place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
                   <location type="coords">
-                     <geo>49.40768 8.69079</geo>
+                     <geo>51.53443 9.93228</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2907911/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2966</idno>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
                </place>
                <place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
@@ -168,33 +168,17 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               <place xml:id="tillich_place_id__186">
-                  <placeName>Göttingen</placeName>
+               <place xml:id="tillich_place_id__203">
+                  <placeName>Heidelberg (Deutschland)</placeName>
                   <location type="coords">
-                     <geo>51.53443 9.93228</geo>
+                     <geo>49.40768 8.69079</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+                  <idno type="geonames">https://sws.geonames.org/2907911/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2966</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__788">
-                  <persName>Hanffstengel, Gottfried von</persName>
-                  <occupation>Theologe, Jugendfreund</occupation>
-               </person>
-               <person xml:id="tillich_person_id__42">
-                  <persName>Althaus, Paul</persName>
-                  <birth>
-                     <date>1888-02-04</date>
-                     <settlement>
-                        <placeName>Uetze-Obershagen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1966-05-18</date>
-                     <settlement>
-                        <placeName>Erlangen</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2155">
+                  <persName>Voget, Hans</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2214">
                   <persName>Smend, Rudolf</persName>
@@ -212,8 +196,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117429880</idno>
                </person>
-               <person xml:id="tillich_person_id__1748">
-                  <persName>Schürer, Emil</persName>
+               <person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
                </person>
                <person xml:id="tillich_person_id__2213">
                   <persName>Titius, Arthur</persName>
@@ -231,13 +216,28 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117401110</idno>
                </person>
+               <person xml:id="tillich_person_id__1748">
+                  <persName>Schürer, Emil</persName>
+               </person>
+               <person xml:id="tillich_person_id__42">
+                  <persName>Althaus, Paul</persName>
+                  <birth>
+                     <date>1888-02-04</date>
+                     <settlement>
+                        <placeName>Uetze-Obershagen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1966-05-18</date>
+                     <settlement>
+                        <placeName>Erlangen</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
+               </person>
                <person xml:id="tillich_person_id__2212">
                   <persName>Gräber, ???</persName>
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2155">
-                  <persName>Voget, Hans</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

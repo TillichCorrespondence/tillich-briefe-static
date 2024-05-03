@@ -100,24 +100,12 @@
             <closer><signed><unclear>¿¿¿</unclear></signed></closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2138">
-                  <persName>Heller, Otto</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__343">
+   <back><listPlace><place xml:id="tillich_place_id__343">
                   <placeName>Paris</placeName>
                   <location type="coords">
                      <geo>48.85341 2.34880</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place>
-               <place xml:id="tillich_place_id__271">
-                  <placeName>London</placeName>
-                  <location type="coords">
-                     <geo>51.50853 -0.12574</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2643743/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q84</idno>
                </place>
                <place xml:id="tillich_place_id__369">
                   <placeName>Rom</placeName>
@@ -135,5 +123,17 @@
                   <idno type="geonames">https://sws.geonames.org/2790471/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q51389725</idno>
                </place>
-               </listPlace></back></text>
+               <place xml:id="tillich_place_id__271">
+                  <placeName>London</placeName>
+                  <location type="coords">
+                     <geo>51.50853 -0.12574</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2643743/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q84</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2138">
+                  <persName>Heller, Otto</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

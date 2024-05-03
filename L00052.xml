@@ -130,54 +130,23 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               <place xml:id="tillich_place_id__175">
-                  <placeName>Gießen</placeName>
-                  <location type="coords">
-                     <geo>50.58727 8.67554</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__467">
-                  <placeName>Wartburg</placeName>
-                  <location type="coords">
-                     <geo>50.96605 10.30646</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2221">
+<back><listPerson><person xml:id="tillich_person_id__227">
+                  <persName>Blech, George</persName>
+               </person>
+               <person xml:id="tillich_person_id__2221">
                   <persName>Diehl, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2136">
+                  <persName>Kaumann, E.</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2222">
                   <persName>Stieglitz, ???</persName>
                   <note type="bio"><p>Er war ein Student in Marburg.</p></note>
                </person>
-               <person xml:id="tillich_person_id__227">
-                  <persName>Blech, George</persName>
-               </person>
                <person xml:id="tillich_person_id__2218">
                   <persName>Landmann, F.</persName>
                   <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2136">
-                  <persName>Kaumann, E.</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -197,5 +166,36 @@
                </listPerson><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
                <bibl xml:id="tillich_work_id__98">Neugebauer, Georg, Δι᾽ ἑνὸϛ πάντα – Tillich im Wingolf. In: International Yearbook for Tillich Research 11 (2016), 149–173.</bibl>
                <bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
-               </listBibl></back></text>
+               </listBibl><listPlace><place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__175">
+                  <placeName>Gießen</placeName>
+                  <location type="coords">
+                     <geo>50.58727 8.67554</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

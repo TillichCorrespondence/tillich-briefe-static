@@ -97,29 +97,21 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__565">
-                  <placeName>Kreiensen</placeName>
-                  <location type="coords">
-                     <geo>51.85363 9.96481</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2884482/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q503423</idno>
-               </place>
-               <place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               <place xml:id="tillich_place_id__180">
+<back><listPlace><place xml:id="tillich_place_id__180">
                   <placeName>Goslar</placeName>
                   <location type="coords">
                      <geo>51.90425 10.42766</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2918840/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
+               </place>
+               <place xml:id="tillich_place_id__200">
+                  <placeName>Hannover</placeName>
+                  <location type="coords">
+                     <geo>52.37052 9.73322</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2910831/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32052205</idno>
                </place>
                <place xml:id="tillich_place_id__186">
                   <placeName>Göttingen</placeName>
@@ -129,6 +121,14 @@
                   <idno type="geonames">https://sws.geonames.org/2918632/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
                </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
                <place xml:id="tillich_place_id__275">
                   <placeName>Magdeburg</placeName>
                   <location type="coords">
@@ -136,13 +136,13 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2874545/</idno>
                </place>
-               <place xml:id="tillich_place_id__200">
-                  <placeName>Hannover</placeName>
+               <place xml:id="tillich_place_id__565">
+                  <placeName>Kreiensen</placeName>
                   <location type="coords">
-                     <geo>52.37052 9.73322</geo>
+                     <geo>51.85363 9.96481</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2910831/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32052205</idno>
+                  <idno type="geonames">https://sws.geonames.org/2884482/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q503423</idno>
                </place>
                </listPlace></back></text>
 </TEI>
