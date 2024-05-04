@@ -111,21 +111,21 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__79">
-                  <placeName>Butte-de-Tahure</placeName>
-                  <location type="coords">
-                     <geo>49.25124 4.55834</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2974294/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1221195</idno>
-               </place>
-               <place xml:id="tillich_place_id__365">
+<back><listPlace><place xml:id="tillich_place_id__365">
                   <placeName>Rethel</placeName>
                   <location type="coords">
                      <geo>49.50979 4.36740</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2983891/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q209790</idno>
+               </place>
+               <place xml:id="tillich_place_id__79">
+                  <placeName>Butte-de-Tahure</placeName>
+                  <location type="coords">
+                     <geo>49.25124 4.55834</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2974294/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1221195</idno>
                </place>
                <place xml:id="tillich_place_id__94">
                   <placeName>Charleville-Mézières</placeName>

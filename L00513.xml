@@ -95,21 +95,21 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__266">
-                  <placeName>Lille</placeName>
-                  <location type="coords">
-                     <geo>50.63297 3.05858</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2998324/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q648</idno>
-               </place>
-               <place xml:id="tillich_place_id__94">
+<back><listPlace><place xml:id="tillich_place_id__94">
                   <placeName>Charleville-Mézières</placeName>
                   <location type="coords">
                      <geo>49.76850 4.72487</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3026613/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2960786</idno>
+               </place>
+               <place xml:id="tillich_place_id__266">
+                  <placeName>Lille</placeName>
+                  <location type="coords">
+                     <geo>50.63297 3.05858</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2998324/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q648</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarete</persName>

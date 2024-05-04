@@ -100,12 +100,13 @@
             <closer><signed><unclear>¿¿¿</unclear></signed></closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__343">
-                  <placeName>Paris</placeName>
+   <back><listPlace><place xml:id="tillich_place_id__310">
+                  <placeName>Nancy</placeName>
                   <location type="coords">
-                     <geo>48.85341 2.34880</geo>
+                     <geo>50.46690 4.86746</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2790471/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q51389725</idno>
                </place>
                <place xml:id="tillich_place_id__369">
                   <placeName>Rom</placeName>
@@ -115,13 +116,12 @@
                   <idno type="geonames">https://sws.geonames.org/3169070/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q220</idno>
                </place>
-               <place xml:id="tillich_place_id__310">
-                  <placeName>Nancy</placeName>
+               <place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
                   <location type="coords">
-                     <geo>50.46690 4.86746</geo>
+                     <geo>48.85341 2.34880</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2790471/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q51389725</idno>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
                </place>
                <place xml:id="tillich_place_id__271">
                   <placeName>London</placeName>

@@ -121,30 +121,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__441">
-                  <placeName>Trarbach</placeName>
-                  <location type="coords">
-                     <geo>49.95076 7.11562</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2821690/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33507259</idno>
-               </place>
-               <place xml:id="tillich_place_id__442">
-                  <placeName>Trier</placeName>
-                  <location type="coords">
-                     <geo>49.75565 6.63935</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2821164/</idno>
-               </place>
-               <place xml:id="tillich_place_id__56">
-                  <placeName>Bernkastel</placeName>
-                  <location type="coords">
-                     <geo>49.91602 7.07664</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2949998/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31911076</idno>
-               </place>
-               <place xml:id="tillich_place_id__57">
+<back><listPlace><place xml:id="tillich_place_id__57">
                   <placeName>Bertrich</placeName>
                   <location type="coords">
                      <geo>50.06667 7.03333</geo>
@@ -160,6 +137,14 @@
                   <idno type="geonames">https://sws.geonames.org/2878044/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
                </place>
+               <place xml:id="tillich_place_id__441">
+                  <placeName>Trarbach</placeName>
+                  <location type="coords">
+                     <geo>49.95076 7.11562</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2821690/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33507259</idno>
+               </place>
                <place xml:id="tillich_place_id__110">
                   <placeName>Cochem</placeName>
                   <location type="coords">
@@ -168,16 +153,24 @@
                   <idno type="geonames">https://sws.geonames.org/2939949/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31934490</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1594">
-                  <persName>Rhine, Maria</persName>
-                  <birth>
-                     <date>1895-12-01</date>
-                  </birth>
-                  <death>
-                     <date>1975-09-23</date>
-                  </death>
-                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
+               <place xml:id="tillich_place_id__56">
+                  <placeName>Bernkastel</placeName>
+                  <location type="coords">
+                     <geo>49.91602 7.07664</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2949998/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31911076</idno>
+               </place>
+               <place xml:id="tillich_place_id__442">
+                  <placeName>Trier</placeName>
+                  <location type="coords">
+                     <geo>49.75565 6.63935</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2821164/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__374">
+                  <persName>Christiansen, Hans</persName>
+                  <occupation>Unterhielt wohl eine Art Liasion mit Maria Klein; wird in ihren Briefen von 1913 an Tillich erwähnt</occupation>
                </person>
                <person xml:id="tillich_person_id__2020">
                   <persName>Wegener, Carl Richard</persName>
@@ -201,13 +194,16 @@
                   <occupation>Preußischer Infanteriegeneral</occupation>
                   <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
                </person>
-               <person xml:id="tillich_person_id__374">
-                  <persName>Christiansen, Hans</persName>
-                  <occupation>Unterhielt wohl eine Art Liasion mit Maria Klein; wird in ihren Briefen von 1913 an Tillich erwähnt</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               <person xml:id="tillich_person_id__1594">
+                  <persName>Rhine, Maria</persName>
+                  <birth>
+                     <date>1895-12-01</date>
+                  </birth>
+                  <death>
+                     <date>1975-09-23</date>
+                  </death>
+                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
                </person>
                <person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
@@ -229,6 +225,10 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
                </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -246,7 +246,7 @@
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__74">Troeltsch, Ernst, Über Maßstäbe zur Beurteilung historischer Dinge. Rede zur Kaisersgeburtstagsfeier der Berliner Universität. in: Historische Zeitschrift, Jg. 116. Nr. 1 (1916), S. 1-47.</bibl>
                <bibl xml:id="tillich_work_id__72">Troeltsch, Ernst, Konservativ und Liberal (2). in: Die Christliche Welt. Evangelisches Gemeindeblatt für Gebildete aller Stände, Jg. 30, Nr. 34 (1916), Sp. 659-666.</bibl>
-               <bibl xml:id="tillich_work_id__73">Troeltsch, Ernst, Konservativ und Liberal (3). in: Die Christliche Welt. Evangelisches Gemeindeblatt für Gebildete aller Stände, Jg. 30, Nr. 35 (1916), Sp. 678-683.</bibl>
                <bibl xml:id="tillich_work_id__71">Troeltsch, Ernst, Konservativ und Liberal (1). in: Die Christliche Welt. Evangelisches Gemeindeblatt für Gebildete aller Stände, Jg. 30, Nr. 33 (1916), Sp. 647-651.</bibl>
+               <bibl xml:id="tillich_work_id__73">Troeltsch, Ernst, Konservativ und Liberal (3). in: Die Christliche Welt. Evangelisches Gemeindeblatt für Gebildete aller Stände, Jg. 30, Nr. 35 (1916), Sp. 678-683.</bibl>
                </listBibl></back></text>
 </TEI>

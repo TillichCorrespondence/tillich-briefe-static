@@ -93,17 +93,22 @@
                 </closer>
             </div>
         </body>
-    <back><listPerson><person xml:id="tillich_person_id__1965">
-                  <persName>Ulich, Robert</persName>
+    <back><listPerson><person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
-                     <date>1890-04-21</date>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1977-06-17</date>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
                   </death>
-                  <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler. Ministerialrat im sächsischen Ministerium für Volksbildung</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
-                  <note type="bio"><p>(verheiratet mit Brändström, Elsa)</p></note>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
                <person xml:id="tillich_person_id__271">
                   <persName>Brändström, Elsa</persName>
@@ -123,22 +128,17 @@
                   <idno type="gnd">https://d-nb.info/gnd/118514407</idno>
                   <note type="bio"><p>(hat Ulich Robert als Ehemann)</p></note>
                </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
+               <person xml:id="tillich_person_id__1965">
+                  <persName>Ulich, Robert</persName>
                   <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
+                     <date>1890-04-21</date>
                   </birth>
                   <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
+                     <date>1977-06-17</date>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+                  <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler. Ministerialrat im sächsischen Ministerium für Volksbildung</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
+                  <note type="bio"><p>(verheiratet mit Brändström, Elsa)</p></note>
                </person>
                <person xml:id="tillich_person_id__1209">
                   <persName>Löwe, Adolf</persName>

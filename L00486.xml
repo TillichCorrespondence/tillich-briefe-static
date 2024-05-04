@@ -122,15 +122,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__124">
-                  <placeName>Douaumont</placeName>
-                  <location type="coords">
-                     <geo>49.21139 5.47250</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6437244/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q669097</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2647">
+<back><listPerson><person xml:id="tillich_person_id__2647">
                   <persName>Brandis, Cordt von</persName>
                   <birth>
                      <date>1888-10-04</date>
@@ -175,5 +167,13 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118816543</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__124">
+                  <placeName>Douaumont</placeName>
+                  <location type="coords">
+                     <geo>49.21139 5.47250</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6437244/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q669097</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

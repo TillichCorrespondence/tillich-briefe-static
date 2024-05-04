@@ -141,15 +141,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2821">
+<back><listPerson><person xml:id="tillich_person_id__2821">
                   <persName>Immow, Gertrud</persName>
                </person>
                <person xml:id="tillich_person_id__2782">
@@ -164,5 +156,13 @@
                   <persName>Mengelberg, Nora</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116881666</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

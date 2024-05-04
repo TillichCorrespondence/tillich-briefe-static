@@ -97,8 +97,11 @@
         <p>2) nach dieser Berichtigung dann mit mir in direkte Beratung zu treten, in welcher Weise die Erhaltung der kulturmorphologischen Geistigkeit erreicht werden kann.</p>        
              </div>
     </body>
-  <back><listBibl><bibl xml:id="tillich_work_id__274">Atlas Africanus. Belege zur Morphologie der afrikanischen Kulturen, hg. von Leo Frobenius et al., 1921ff.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__718">
+  <back><listPerson><person xml:id="tillich_person_id__2928">
+                  <persName>von Luschan, Felix</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117319813</idno>
+               </person>
+               <person xml:id="tillich_person_id__718">
                   <persName>Grimme, Adolf</persName>
                   <occupation>Deutscher Kulturpolitiker SPD in der Spätphase der Weimarer Republik und der frühen Bundesrepublik, erster niedersächsischer Kultusminister und Generaldirektor des Nordwestdeutschen Rundfunks (NWDR)</occupation>
                </person>
@@ -118,15 +121,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/12407216X</idno>
                </person>
-               <person xml:id="tillich_person_id__2923">
-                  <persName>Seekirchner, Albert</persName>
-                  <occupation>Ethnologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/125469977</idno>
-                  <note type="bio"><p>Seekirchner fungierte in den 1920er Jahren als wissenschaftlicher Mitarbeiter Leo Frobenius.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__646">
-                  <persName>Frobenius, Leo</persName>
-               </person>
                <person xml:id="tillich_person_id__2925">
                   <persName>Weyersberg, Maria</persName>
                   <birth>
@@ -137,18 +131,6 @@
                   </death>
                   <occupation>Malerin, Ethnologin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128319887</idno>
-               </person>
-               <person xml:id="tillich_person_id__2929">
-                  <persName>von Bode, Wilhelm</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/119034921</idno>
-               </person>
-               <person xml:id="tillich_person_id__2932">
-                  <persName>Schmidt, Wilhelm</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/118608959</idno>
-               </person>
-               <person xml:id="tillich_person_id__2928">
-                  <persName>von Luschan, Felix</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/117319813</idno>
                </person>
                <person xml:id="tillich_person_id__2393">
                   <persName>Schultz, Franz</persName>
@@ -166,6 +148,18 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795570</idno>
                </person>
+               <person xml:id="tillich_person_id__2930">
+                  <persName>Ankermann, Bernhard</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117661813</idno>
+               </person>
+               <person xml:id="tillich_person_id__2929">
+                  <persName>von Bode, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119034921</idno>
+               </person>
+               <person xml:id="tillich_person_id__2932">
+                  <persName>Schmidt, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118608959</idno>
+               </person>
                <person xml:id="tillich_person_id__2926">
                   <persName>Lutz, Joachim</persName>
                   <birth>
@@ -176,6 +170,20 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117331236</idno>
                </person>
+               <person xml:id="tillich_person_id__2923">
+                  <persName>Seekirchner, Albert</persName>
+                  <occupation>Ethnologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/125469977</idno>
+                  <note type="bio"><p>Seekirchner fungierte in den 1920er Jahren als wissenschaftlicher Mitarbeiter Leo Frobenius.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2924">
+                  <persName>Mannsfeld, Elisabeth</persName>
+                  <occupation>Wissenschaftlicher Zeichnerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/126266506</idno>
+               </person>
+               <person xml:id="tillich_person_id__646">
+                  <persName>Frobenius, Leo</persName>
+               </person>
                <person xml:id="tillich_person_id__2922">
                   <persName>Jensen, Adolf Ellegard</persName>
                   <birth>
@@ -185,19 +193,6 @@
                      <date>1965</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118712063</idno>
-               </person>
-               <person xml:id="tillich_person_id__2930">
-                  <persName>Ankermann, Bernhard</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/117661813</idno>
-               </person>
-               <person xml:id="tillich_person_id__2931">
-                  <persName>Graebner, Fritz</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/117551163</idno>
-               </person>
-               <person xml:id="tillich_person_id__2924">
-                  <persName>Mannsfeld, Elisabeth</persName>
-                  <occupation>Wissenschaftlicher Zeichnerin</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/126266506</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -214,7 +209,12 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+               <person xml:id="tillich_person_id__2931">
+                  <persName>Graebner, Fritz</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117551163</idno>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__274">Atlas Africanus. Belege zur Morphologie der afrikanischen Kulturen, hg. von Leo Frobenius et al., 1921ff.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>

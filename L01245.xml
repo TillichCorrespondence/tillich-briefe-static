@@ -93,7 +93,14 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
+<back><listPlace><place xml:id="tillich_place_id__389">
+                  <placeName>Sassnitz (Rügen)</placeName>
+                  <location type="coords">
+                     <geo>54.51570 13.64451</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2841333/</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
@@ -109,13 +116,6 @@
                   <idno type="geonames">https://sws.geonames.org/5128581/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q60</idno>
                </place>
-               <place xml:id="tillich_place_id__389">
-                  <placeName>Sassnitz (Rügen)</placeName>
-                  <location type="coords">
-                     <geo>54.51570 13.64451</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2841333/</idno>
-               </place>
                <place xml:id="tillich_place_id__271">
                   <placeName>London</placeName>
                   <location type="coords">
@@ -124,7 +124,22 @@
                   <idno type="geonames">https://sws.geonames.org/2643743/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q84</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2316">
+               </listPlace><listPerson><person xml:id="tillich_person_id__2423">
+                  <persName>Johnson, Alvin</persName>
+                  <birth>
+                     <date>1874-12-18</date>
+                  </birth>
+                  <death>
+                     <date>1971-07-07</date>
+                     <settlement>
+                        <placeName>New York, NY</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Wirtschaftswissenschaftler;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117164550</idno>
+                  <note type="bio"><p>Er war Initiator der University of Exile an der New School for Social Research.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2316">
                   <persName>Lederer, Emil</persName>
                   <birth>
                      <date>1882-07-22</date>
@@ -140,21 +155,6 @@
                   </death>
                   <occupation>Ökonom; Soziologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119311143</idno>
-               </person>
-               <person xml:id="tillich_person_id__2423">
-                  <persName>Johnson, Alvin</persName>
-                  <birth>
-                     <date>1874-12-18</date>
-                  </birth>
-                  <death>
-                     <date>1971-07-07</date>
-                     <settlement>
-                        <placeName>New York, NY</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Wirtschaftswissenschaftler;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117164550</idno>
-                  <note type="bio"><p>Er war Initiator der University of Exile an der New School for Social Research.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

@@ -124,29 +124,13 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__260">
+<back><listPlace><place xml:id="tillich_place_id__260">
                   <placeName>Leipzig</placeName>
                   <location type="coords">
                      <geo>51.33962 12.37129</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2879139/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
-               </place>
-               <place xml:id="tillich_place_id__545">
-                  <placeName>Ravenstein i. P.</placeName>
-                  <location type="coords">
-                     <geo>53.27466 15.46257</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3082637/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q7968275</idno>
                </place>
                <place xml:id="tillich_place_id__424">
                   <placeName>Swinemünde</placeName>
@@ -156,24 +140,38 @@
                   <idno type="geonames">https://sws.geonames.org/3083955/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q41599</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
-               <bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__545">
+                  <placeName>Ravenstein i. P.</placeName>
+                  <location type="coords">
+                     <geo>53.27466 15.46257</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3082637/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7968275</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1017">
+                  <persName>Kandeler, Marlen</persName>
                </person>
                <person xml:id="tillich_person_id__2729">
                   <persName>Kandeler, Martha</persName>
                </person>
-               <person xml:id="tillich_person_id__2736">
-                  <persName>Wiechel, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1017">
-                  <persName>Kandeler, Marlen</persName>
-               </person>
                <person xml:id="tillich_person_id__2728">
                   <persName>Kandeler, Friedrich</persName>
                   <occupation>Bildhauer; Zeichenlehrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2736">
+                  <persName>Wiechel, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -190,5 +188,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               <bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
+               </listBibl></back></text>
 </TEI>

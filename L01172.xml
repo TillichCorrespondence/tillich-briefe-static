@@ -115,31 +115,40 @@ Ihr</salute>
         </closer>  
      </div>
     </body>
-  <back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__7">
-                  <placeName>Ahrenshoop</placeName>
-                  <location type="coords">
-                     <geo>54.38330 12.43330</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6548105/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q402819</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+  <back><listPerson><person xml:id="tillich_person_id__1489">
+                  <persName>Pfleiderer, Otto</persName>
+               </person>
+               <person xml:id="tillich_person_id__2213">
+                  <persName>Titius, Arthur</persName>
+                  <birth>
+                     <date>1864-07-28</date>
+                     <settlement>
+                        <placeName>Sensburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1936-09-07</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117401110</idno>
+               </person>
+               <person xml:id="tillich_person_id__1760">
+                  <persName>Seeberg, Erich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1602">
+                  <persName>Richter, Werner</persName>
+                  <occupation>Germanist und Ministeriumsmitarbeiter</occupation>
+                  <note type="bio"><p>Studium der Germanistik in Berlin, Basel und Marburg. 1910 Promotion, 1913 Habilitation. Die ersten Kriegsjahre verbrachte R. als Soldat, 1916-1918 war er Gastprofessor in Istanbul, 1919/1920 Professor in Greifswald. 1920-1932 Mitarbeit im Preußischen Kultusministerium als Vertrauter Carl Heinrich Beckers. R. selbst gehörte der DVP an. 1932/1933 wurde er ordentlicher Professor an der Universität Berlin, wo er bereits seit 1921 eine Honorarprofessur innehatte. 1933 wurde er zwangspensioniert, 1939 emigrierte er in die USA, wo er bis zu seiner Rückkehr nach Deutschland im Jahr 1949 am Elmhurst College beschäftigt war. Ab 1949 lehrte er in Bonn, 1955 wurde er emeritiert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__567">
+                  <persName>Fabricius, Cajus</persName>
+                  <occupation>Theologe , Universitätslehrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -167,38 +176,29 @@ Ihr</salute>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1051464404</idno>
                </person>
-               <person xml:id="tillich_person_id__567">
-                  <persName>Fabricius, Cajus</persName>
-                  <occupation>Theologe , Universitätslehrer</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1602">
-                  <persName>Richter, Werner</persName>
-                  <occupation>Germanist und Ministeriumsmitarbeiter</occupation>
-                  <note type="bio"><p>Studium der Germanistik in Berlin, Basel und Marburg. 1910 Promotion, 1913 Habilitation. Die ersten Kriegsjahre verbrachte R. als Soldat, 1916-1918 war er Gastprofessor in Istanbul, 1919/1920 Professor in Greifswald. 1920-1932 Mitarbeit im Preußischen Kultusministerium als Vertrauter Carl Heinrich Beckers. R. selbst gehörte der DVP an. 1932/1933 wurde er ordentlicher Professor an der Universität Berlin, wo er bereits seit 1921 eine Honorarprofessur innehatte. 1933 wurde er zwangspensioniert, 1939 emigrierte er in die USA, wo er bis zu seiner Rückkehr nach Deutschland im Jahr 1949 am Elmhurst College beschäftigt war. Ab 1949 lehrte er in Bonn, 1955 wurde er emeritiert.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2213">
-                  <persName>Titius, Arthur</persName>
-                  <birth>
-                     <date>1864-07-28</date>
-                     <settlement>
-                        <placeName>Sensburg</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1936-09-07</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117401110</idno>
-               </person>
-               <person xml:id="tillich_person_id__1489">
-                  <persName>Pfleiderer, Otto</persName>
-               </person>
-               <person xml:id="tillich_person_id__1760">
-                  <persName>Seeberg, Erich</persName>
-                  <occupation>Kirchenhistoriker</occupation>
-                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__7">
+                  <placeName>Ahrenshoop</placeName>
+                  <location type="coords">
+                     <geo>54.38330 12.43330</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6548105/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q402819</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

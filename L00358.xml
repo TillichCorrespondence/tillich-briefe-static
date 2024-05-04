@@ -134,24 +134,15 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1925">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2227">
-                  <persName>???, Emma</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__170">
+<back><listPlace><place xml:id="tillich_place_id__609">
+                  <placeName>Alt-Buchhorst</placeName>
+                  <location type="coords">
+                     <geo>52.43151 13.84051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2958049/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q110249085</idno>
+               </place>
+               <place xml:id="tillich_place_id__170">
                   <placeName>Friedrichshagen</placeName>
                   <location type="coords">
                      <geo>52.45052 13.62463</geo>
@@ -175,13 +166,22 @@
                   <idno type="geonames">https://sws.geonames.org/3083829/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
                </place>
-               <place xml:id="tillich_place_id__609">
-                  <placeName>Alt-Buchhorst</placeName>
-                  <location type="coords">
-                     <geo>52.43151 13.84051</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2958049/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q110249085</idno>
-               </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2227">
+                  <persName>???, Emma</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

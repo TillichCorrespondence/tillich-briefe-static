@@ -89,20 +89,20 @@ o. Professur an der Universität Frankfurt a.M.
                 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__480">
-                  <placeName>Zürich</placeName>
-                  <location type="coords">
-                     <geo>47.36667 8.55000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2657896/</idno>
-               </place>
-               <place xml:id="tillich_place_id__144">
+<back><listPlace><place xml:id="tillich_place_id__144">
                   <placeName>Niederrad</placeName>
                   <location type="coords">
                      <geo>50.08309 8.62852</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/7290401/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q567307</idno>
+               </place>
+               <place xml:id="tillich_place_id__480">
+                  <placeName>Zürich</placeName>
+                  <location type="coords">
+                     <geo>47.36667 8.55000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2657896/</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

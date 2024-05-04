@@ -165,13 +165,13 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               <place xml:id="tillich_place_id__68">
-                  <placeName>Bonn</placeName>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
-                     <geo>50.73438 7.09549</geo>
+                     <geo>50.11552 8.68417</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
                <place xml:id="tillich_place_id__224">
                   <placeName>Jena</placeName>
@@ -189,13 +189,13 @@
                   <idno type="geonames">https://sws.geonames.org/2911298/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
                </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
+               <place xml:id="tillich_place_id__68">
+                  <placeName>Bonn</placeName>
                   <location type="coords">
-                     <geo>50.11552 8.68417</geo>
+                     <geo>50.73438 7.09549</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
                </place>
                </listPlace><listBibl><bibl xml:id="tillich_work_id__251">Barth, Karl, Briefe des Jahres 1933, hg. von Eberhard Busch, Zürich 2004.</bibl>
                </listBibl></back></text>

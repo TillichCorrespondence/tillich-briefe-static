@@ -157,15 +157,15 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1593">
-                  <persName>Rheindorf, Kurt</persName>
-               </person>
-               <person xml:id="tillich_person_id__1055">
+   <back><listPerson><person xml:id="tillich_person_id__1055">
                   <persName>Kirbach, Hellmuth</persName>
                   <occupation>Dr. phil., Oberschulrat in Bremen</occupation>
                </person>
                <person xml:id="tillich_person_id__719">
                   <persName>Grisebach, Eberhard</persName>
+               </person>
+               <person xml:id="tillich_person_id__1593">
+                  <persName>Rheindorf, Kurt</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

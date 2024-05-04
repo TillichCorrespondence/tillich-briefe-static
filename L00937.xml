@@ -122,14 +122,6 @@
                   <idno type="geonames">https://sws.geonames.org/2879139/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
                </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
                <place xml:id="tillich_place_id__186">
                   <placeName>Göttingen</placeName>
                   <location type="coords">
@@ -146,22 +138,17 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2415">
-                  <persName>Kloppenburg, Heinrich</persName>
-                  <birth>
-                     <date>1903-05-10</date>
-                     <settlement>
-                        <placeName>Elsfleth</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1986-02-18</date>
-                     <settlement>
-                        <placeName>Bremen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116234210</idno>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1783">
+                  <persName>Siegfried, Friedrich Alfred Theodor</persName>
+                  <occupation>Theologe/Freund</occupation>
                </person>
                <person xml:id="tillich_person_id__1837">
                   <persName>Stählin, Wilhelm</persName>
@@ -181,9 +168,22 @@
                   <idno type="gnd">https://d-nb.info/gnd/118752510</idno>
                   <note type="bio"><p>Studium der evangelischen Theologie in Erlangen, Rostock und Berlin, sowie im Anschluss Psychologie in Würzburg. Seit 1910 Pfarrtätigkeit, 1913 Promotion im Fach Psychologie. 1914 gründete S. die Gesellschaft für Religionspsychologie, 1914-1916 wirkte er als Feldgeistlicher in Frankreich und dem Baltikum. 1923 gehörte er zu den Begründern des Berneuchener Kreises sowie der Michaelsbruderschaft 1931. Seit 1926 hatte er eine Professur für Praktische Theologie an der Westfälischen Wilhelms-Universität Münster inne. Die Zeit des Nationalsozialismus erlebte S. in Deutschland. Er schloss sich zeitweise dem Pfarrernotbund an, verließ ihn jedoch wieder und stand sowohl den Deutschen Christen als auch der Bekennenden Kirche kritisch gegenüber. 1945 wurde er zum Bischof der Evangelisch-Lutherischen Kirche in Oldenburg gewählt. Sein kirchenpolitisches Engagement galt insbesondere der Liturgischen Erneuerung sowie dem ökumenischen Dialog.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1783">
-                  <persName>Siegfried, Friedrich Alfred Theodor</persName>
-                  <occupation>Theologe/Freund</occupation>
+               <person xml:id="tillich_person_id__2415">
+                  <persName>Kloppenburg, Heinrich</persName>
+                  <birth>
+                     <date>1903-05-10</date>
+                     <settlement>
+                        <placeName>Elsfleth</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1986-02-18</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116234210</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

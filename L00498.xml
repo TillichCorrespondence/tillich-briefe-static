@@ -226,31 +226,7 @@
 </table>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__456">
-                  <placeName>Vaux-lès-Mouron</placeName>
-                  <location type="coords">
-                     <geo>49.30000 4.78333</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6426152/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1147107</idno>
-               </place>
-               <place xml:id="tillich_place_id__519">
-                  <placeName>Bouconville</placeName>
-                  <location type="coords">
-                     <geo>49.25500 4.76250</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6612952/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q473084</idno>
-               </place>
-               <place xml:id="tillich_place_id__331">
+<back><listPlace><place xml:id="tillich_place_id__331">
                   <placeName>Olizy</placeName>
                   <location type="coords">
                      <geo>49.55670 5.22190</geo>
@@ -264,6 +240,30 @@
                      <geo>49.26829 4.83435</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3035889/</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__519">
+                  <placeName>Bouconville</placeName>
+                  <location type="coords">
+                     <geo>49.25500 4.76250</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6612952/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q473084</idno>
+               </place>
+               <place xml:id="tillich_place_id__456">
+                  <placeName>Vaux-lès-Mouron</placeName>
+                  <location type="coords">
+                     <geo>49.30000 4.78333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6426152/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1147107</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1700">
                   <persName>Schaumann, Leopold</persName>
