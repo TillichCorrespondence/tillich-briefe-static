@@ -87,15 +87,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__260">
-                  <placeName>Leipzig</placeName>
-                  <location type="coords">
-                     <geo>51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1887">
+<back><listPerson><person xml:id="tillich_person_id__1887">
                   <persName>Sydow, Eckart von</persName>
                   <birth>
                      <date>1885</date>
@@ -106,9 +98,6 @@
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                   <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__535">
-                  <persName>Epikur</persName>
                </person>
                <person xml:id="tillich_person_id__2041">
                   <persName>Werner, Marie Luise</persName>
@@ -122,5 +111,16 @@
                   <persName>Mengelberg, Nora</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116881666</idno>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__535">
+                  <persName>Epikur</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

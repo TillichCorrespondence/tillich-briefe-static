@@ -159,14 +159,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__325">
-                  <placeName>Nouvron-Vingré</placeName>
-                  <location type="coords">
-                     <geo>49.42826 3.20000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2989951/</idno>
-               </place>
-               <place xml:id="tillich_place_id__304">
+<back><listPlace><place xml:id="tillich_place_id__304">
                   <placeName>Müggelsee</placeName>
                   <location type="coords">
                      <geo>52.43781 13.64981</geo>
@@ -174,13 +167,12 @@
                   <idno type="geonames">https://sws.geonames.org/2916161/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q694789</idno>
                </place>
-               <place xml:id="tillich_place_id__322">
-                  <placeName>Nogent</placeName>
+               <place xml:id="tillich_place_id__325">
+                  <placeName>Nouvron-Vingré</placeName>
                   <location type="coords">
-                     <geo>48.02940 5.34590</geo>
+                     <geo>49.42826 3.20000</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/6616998/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1325342</idno>
+                  <idno type="geonames">https://sws.geonames.org/2989951/</idno>
                </place>
                <place xml:id="tillich_place_id__432">
                   <placeName>Tartiers02290</placeName>
@@ -190,13 +182,13 @@
                   <idno type="geonames">https://sws.geonames.org/6425259/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q871168</idno>
                </place>
-               <place xml:id="tillich_place_id__61">
-                  <placeName>Bieuxy</placeName>
+               <place xml:id="tillich_place_id__322">
+                  <placeName>Nogent</placeName>
                   <location type="coords">
-                     <geo>49.44667 3.26139</geo>
+                     <geo>48.02940 5.34590</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+                  <idno type="geonames">https://sws.geonames.org/6616998/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1325342</idno>
                </place>
                <place xml:id="tillich_place_id__404">
                   <placeName>Soissons</placeName>
@@ -205,6 +197,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2974389/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q167152</idno>
+               </place>
+               <place xml:id="tillich_place_id__61">
+                  <placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1925">
                   <persName>Tillich, Margarete</persName>
@@ -225,18 +225,6 @@
                <person xml:id="tillich_person_id__1930">
                   <persName>Tillich, Marie</persName>
                   <occupation>Großmutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2322">
-                  <persName>Gronau, Johann Karl Hermann von</persName>
-                  <birth>
-                     <date>1850</date>
-                  </birth>
-                  <death>
-                     <date>1940</date>
-                  </death>
-                  <occupation>General;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/136139418</idno>
-                  <note type="bio"><p>Ab dem 2. August 1914 war er kommandierender General des IV. Reserve-Korps. Sein Spitzname war Hans.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -270,6 +258,18 @@
                   <occupation>Maler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118907832</idno>
                   <note type="bio"><p>Er stammte aus Flandern in den Niederlanden.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2322">
+                  <persName>Gronau, Johann Karl Hermann von</persName>
+                  <birth>
+                     <date>1850</date>
+                  </birth>
+                  <death>
+                     <date>1940</date>
+                  </death>
+                  <occupation>General;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/136139418</idno>
+                  <note type="bio"><p>Ab dem 2. August 1914 war er kommandierender General des IV. Reserve-Korps. Sein Spitzname war Hans.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

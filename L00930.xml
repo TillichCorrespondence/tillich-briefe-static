@@ -91,48 +91,7 @@
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__46">Salomon, Gottfried, et al. (Hg.), Bibliothek der Soziologie und Politik, 3 Bde., Karlsruhe 1926/1927.</bibl>
-               <bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
-               <bibl xml:id="tillich_work_id__43">Salomon, Gottfried/Oppenheimer, Franz, Soziologische Lesestücke, 3 Bde. (Bd. 1: Begriff der Gesellschaft in der allgemeinen Soziologie. Bd. 2: Begriff der Gesellschaft in der deutschen Sozialphilosophie. Bd. 3: Individuum und Gesellschaft), Karlsruhe 1926.</bibl>
-               <bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1954">
-                  <persName>Troeltsch, Ernst</persName>
-                  <birth>
-                     <date>1865-02-17</date>
-                     <settlement>
-                        <placeName>Haunstetten</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1923-02-01</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
-               </person>
-               <person xml:id="tillich_person_id__1791">
-                  <persName>Simmel, Georg</persName>
-               </person>
-               <person xml:id="tillich_person_id__1856">
-                  <persName>Stepun, Fedor</persName>
-                  <birth>
-                     <date>1884-02-19</date>
-                     <settlement>
-                        <placeName>Moskau</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1965-02-23</date>
-                     <settlement>
-                        <placeName>München</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>russisch-deutscher Literat, Soziologe, Philosoph und Politiker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/11875355X</idno>
-                  <note type="bio"><p>Fedor S. wurde in Moskau geboren, wo er auch zur Schule ging. Seine Familie hatte deutsch-litauische Herkunft. 1910 wurde er in Heidelberg im Fach Philosophie promoviert. Nach dem Studium Rückkehr nach Russland, 1922 infolge der Oktoberrevolution zunächst verhaftet, dann ausgewiesen. Seit 1926 lehrte er an der Technischen Hochschule Dresden. 1937 wurde er entlassen und erhielt Schreibverbot. Die Kriegsjahre verbrachte er in Deutschland, ab 1946 lehrte er als Professor für russische Geistesgeschichte an der Universität München. Nachdem frühen Tod seiner ersten Frau hatte Fedor S. im Jahr 1911 Natascha geheiratet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2061">
+<back><listPerson><person xml:id="tillich_person_id__2061">
                   <persName>Wiese, Leopold von</persName>
                   <birth>
                      <date>1876-12-02</date>
@@ -159,10 +118,6 @@
                   <occupation>Soziologe; Historiker;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11696068X</idno>
                </person>
-               <person xml:id="tillich_person_id__846">
-                  <persName>Heimann, Eduard</persName>
-                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
-               </person>
                <person xml:id="tillich_person_id__2316">
                   <persName>Lederer, Emil</persName>
                   <birth>
@@ -179,6 +134,25 @@
                   </death>
                   <occupation>Ökonom; Soziologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119311143</idno>
+               </person>
+               <person xml:id="tillich_person_id__1954">
+                  <persName>Troeltsch, Ernst</persName>
+                  <birth>
+                     <date>1865-02-17</date>
+                     <settlement>
+                        <placeName>Haunstetten</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1923-02-01</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
+               </person>
+               <person xml:id="tillich_person_id__1791">
+                  <persName>Simmel, Georg</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -206,10 +180,36 @@
                   <occupation>Wirtschaftswissenschaftler; Soziologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117448559</idno>
                </person>
+               <person xml:id="tillich_person_id__1856">
+                  <persName>Stepun, Fedor</persName>
+                  <birth>
+                     <date>1884-02-19</date>
+                     <settlement>
+                        <placeName>Moskau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1965-02-23</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>russisch-deutscher Literat, Soziologe, Philosoph und Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11875355X</idno>
+                  <note type="bio"><p>Fedor S. wurde in Moskau geboren, wo er auch zur Schule ging. Seine Familie hatte deutsch-litauische Herkunft. 1910 wurde er in Heidelberg im Fach Philosophie promoviert. Nach dem Studium Rückkehr nach Russland, 1922 infolge der Oktoberrevolution zunächst verhaftet, dann ausgewiesen. Seit 1926 lehrte er an der Technischen Hochschule Dresden. 1937 wurde er entlassen und erhielt Schreibverbot. Die Kriegsjahre verbrachte er in Deutschland, ab 1946 lehrte er als Professor für russische Geistesgeschichte an der Universität München. Nachdem frühen Tod seiner ersten Frau hatte Fedor S. im Jahr 1911 Natascha geheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__846">
+                  <persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               </person>
                <person xml:id="tillich_person_id__1426">
                   <persName>Oppenheimer, Franz</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__198">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__43">Salomon, Gottfried/Oppenheimer, Franz, Soziologische Lesestücke, 3 Bde. (Bd. 1: Begriff der Gesellschaft in der allgemeinen Soziologie. Bd. 2: Begriff der Gesellschaft in der deutschen Sozialphilosophie. Bd. 3: Individuum und Gesellschaft), Karlsruhe 1926.</bibl>
+               <bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
+               <bibl xml:id="tillich_work_id__46">Salomon, Gottfried, et al. (Hg.), Bibliothek der Soziologie und Politik, 3 Bde., Karlsruhe 1926/1927.</bibl>
+               <bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__198">
                   <placeName>Hamburg</placeName>
                   <location type="coords">
                      <geo>53.55073 9.99302</geo>

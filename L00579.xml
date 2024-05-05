@@ -105,14 +105,17 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1931">
+   <back><listPlace><place xml:id="tillich_place_id__33">
+                  <placeName>Belgien</placeName>
+                  <location type="coords">
+                     <geo>50.75000 4.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2802361/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2285">
-                  <persName>Grimm, ???</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er war Feldpfarrer im 1. Weltkrieg.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -133,13 +136,10 @@
                   <persName>Koch, Karl</persName>
                   <occupation>Referent, Bursche von Paul Tillich</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__33">
-                  <placeName>Belgien</placeName>
-                  <location type="coords">
-                     <geo>50.75000 4.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2802361/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__2285">
+                  <persName>Grimm, ???</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er war Feldpfarrer im 1. Weltkrieg.</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

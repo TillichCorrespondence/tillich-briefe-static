@@ -107,7 +107,11 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1874">
+<back><listPerson><person xml:id="tillich_person_id__1763">
+                  <persName>Seeberger, Erhard</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1874">
                   <persName>Strathmann, Hermann</persName>
                   <birth>
                      <date>1882-08-30</date>
@@ -124,25 +128,21 @@
                   <occupation>Neutestamentler und Politiker (DNVP, CSVD, CSU)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119239221</idno>
                </person>
-               <person xml:id="tillich_person_id__1763">
-                  <persName>Seeberger, Erhard</persName>
-                  <occupation>Pfarrer</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__68">
+               </listPerson><listPlace><place xml:id="tillich_place_id__68">
                   <placeName>Bonn</placeName>
                   <location type="coords">
                      <geo>50.73438 7.09549</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2946447/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                </listPlace></back></text>
 </TEI>

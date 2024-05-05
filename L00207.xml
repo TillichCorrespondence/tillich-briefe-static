@@ -100,13 +100,13 @@
             <closer><signed><unclear>¿¿¿</unclear></signed></closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__310">
-                  <placeName>Nancy</placeName>
+   <back><listPlace><place xml:id="tillich_place_id__271">
+                  <placeName>London</placeName>
                   <location type="coords">
-                     <geo>50.46690 4.86746</geo>
+                     <geo>51.50853 -0.12574</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2790471/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q51389725</idno>
+                  <idno type="geonames">https://sws.geonames.org/2643743/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q84</idno>
                </place>
                <place xml:id="tillich_place_id__369">
                   <placeName>Rom</placeName>
@@ -123,13 +123,13 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2988507/</idno>
                </place>
-               <place xml:id="tillich_place_id__271">
-                  <placeName>London</placeName>
+               <place xml:id="tillich_place_id__310">
+                  <placeName>Nancy</placeName>
                   <location type="coords">
-                     <geo>51.50853 -0.12574</geo>
+                     <geo>50.46690 4.86746</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2643743/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q84</idno>
+                  <idno type="geonames">https://sws.geonames.org/2790471/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q51389725</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2138">
                   <persName>Heller, Otto</persName>

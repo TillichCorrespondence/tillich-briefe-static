@@ -134,39 +134,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__609">
-                  <placeName>Alt-Buchhorst</placeName>
-                  <location type="coords">
-                     <geo>52.43151 13.84051</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2958049/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q110249085</idno>
-               </place>
-               <place xml:id="tillich_place_id__170">
-                  <placeName>Friedrichshagen</placeName>
-                  <location type="coords">
-                     <geo>52.45052 13.62463</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2924577/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q563528</idno>
-               </place>
-               <place xml:id="tillich_place_id__293">
-                  <placeName>Misdroy</placeName>
-                  <location type="coords">
-                     <geo>53.92921 14.45097</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
-               </place>
-               <place xml:id="tillich_place_id__416">
-                  <placeName>Stettin</placeName>
-                  <location type="coords">
-                     <geo>53.42894 14.55302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1925">
+<back><listPerson><person xml:id="tillich_person_id__1925">
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
                </person>
@@ -183,5 +151,37 @@
                   <persName>???, Emma</persName>
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               <place xml:id="tillich_place_id__170">
+                  <placeName>Friedrichshagen</placeName>
+                  <location type="coords">
+                     <geo>52.45052 13.62463</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2924577/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q563528</idno>
+               </place>
+               <place xml:id="tillich_place_id__416">
+                  <placeName>Stettin</placeName>
+                  <location type="coords">
+                     <geo>53.42894 14.55302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
+               </place>
+               <place xml:id="tillich_place_id__609">
+                  <placeName>Alt-Buchhorst</placeName>
+                  <location type="coords">
+                     <geo>52.43151 13.84051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2958049/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q110249085</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

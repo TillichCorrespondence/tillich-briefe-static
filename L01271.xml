@@ -91,15 +91,7 @@
                 </closer>
             </div>
         </body>
-    <back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__38">
+    <back><listPlace><place xml:id="tillich_place_id__38">
                   <placeName>Berlin-Friedenau</placeName>
                   <location type="coords">
                      <geo>52.47133 13.32813</geo>
@@ -107,8 +99,15 @@
                   <idno type="geonames">https://sws.geonames.org/2924770/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__159">Otto, Rudolf, Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen, Breslau 1917.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -137,5 +136,6 @@
                   <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__159">Otto, Rudolf, Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen, Breslau 1917.</bibl>
+               </listBibl></back></text>
 </TEI>

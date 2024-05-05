@@ -88,6 +88,9 @@
                   <persName>Apelius, Hildegard</persName>
                   <note type="bio"><p>Sie war eine geborene Erbslöb und die Frau von Wegener.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2804">
+                  <persName>Ilse-Margot</persName>
+               </person>
                <person xml:id="tillich_person_id__2041">
                   <persName>Werner, Marie Luise</persName>
                   <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
@@ -95,9 +98,6 @@
                </person>
                <person xml:id="tillich_person_id__2810">
                   <persName>Dox</persName>
-               </person>
-               <person xml:id="tillich_person_id__2804">
-                  <persName>Ilse-Margot</persName>
                </person>
                </listPerson></back></text>
 </TEI>

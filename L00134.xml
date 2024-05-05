@@ -166,43 +166,13 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__19">
-                  <placeName>Bad Hersfeld</placeName>
-                  <location type="coords">
-                     <geo>50.87197 9.70891</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
-               </place>
-               <place xml:id="tillich_place_id__203">
+<back><listPlace><place xml:id="tillich_place_id__203">
                   <placeName>Heidelberg (Deutschland)</placeName>
                   <location type="coords">
                      <geo>49.40768 8.69079</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2907911/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2966</idno>
-               </place>
-               <place xml:id="tillich_place_id__467">
-                  <placeName>Wartburg</placeName>
-                  <location type="coords">
-                     <geo>50.96605 10.30646</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
-               </place>
-               <place xml:id="tillich_place_id__418">
-                  <placeName>Straßburg</placeName>
-                  <location type="coords">
-                     <geo>49.55239 8.85112</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2826178/</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
@@ -220,20 +190,37 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2190">
-                  <persName>Spatz, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2189">
-                  <persName>Scheurich, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2170">
-                  <persName>???, Daniel</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__204">
+               <place xml:id="tillich_place_id__19">
+                  <placeName>Bad Hersfeld</placeName>
+                  <location type="coords">
+                     <geo>50.87197 9.70891</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
+               </place>
+               <place xml:id="tillich_place_id__418">
+                  <placeName>Straßburg</placeName>
+                  <location type="coords">
+                     <geo>49.55239 8.85112</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2826178/</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__204">
                   <persName>Bertheau, Johannes</persName>
                   <occupation>Lehrer im Johanneum in Hamburg, studierte in Halle</occupation>
                </person>
@@ -264,9 +251,22 @@
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2190">
+                  <persName>Spatz, ???</persName>
+               </person>
                <person xml:id="tillich_person_id__1295">
                   <persName>Meinhof, Heinrich</persName>
                   <occupation>Leibfux von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2170">
+                  <persName>???, Daniel</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2189">
+                  <persName>Scheurich, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1696">
                   <persName>Schafft, Hermann</persName>

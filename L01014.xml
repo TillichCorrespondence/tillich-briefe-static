@@ -112,7 +112,23 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__242">
+<back><listPlace><place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__119">
+                  <placeName>Davos</placeName>
+                  <location type="coords">
+                     <geo>46.80429 9.83723</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661039/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q56528928</idno>
+               </place>
+               <place xml:id="tillich_place_id__242">
                   <placeName>Korsika</placeName>
                   <location type="coords">
                      <geo>49.52004 8.85634</geo>
@@ -127,26 +143,7 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               <place xml:id="tillich_place_id__119">
-                  <placeName>Davos</placeName>
-                  <location type="coords">
-                     <geo>46.80429 9.83723</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2661039/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q56528928</idno>
-               </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2353">
-                  <persName>Medicus, Clara</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -178,6 +175,9 @@
                   <occupation>Diplomat und Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
                   <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2353">
+                  <persName>Medicus, Clara</persName>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__14">Medicus, Fritz, Paul Tillich (Zu seiner Berufung nach Frankfurt), in: Neue Zürcher Zeitung, Nr. 527, vom 19.3.1929.</bibl>
                </listBibl></back></text>

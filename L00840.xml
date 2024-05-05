@@ -114,7 +114,11 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1781">
+                  <persName>Siebeck, Paul</persName>
+                  <occupation>Deutscher Verleger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -131,10 +135,6 @@
                </person>
                <person xml:id="tillich_person_id__2491">
                   <persName>Häberle, L.</persName>
-               </person>
-               <person xml:id="tillich_person_id__1781">
-                  <persName>Siebeck, Paul</persName>
-                  <occupation>Deutscher Verleger</occupation>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__9">Tillich, Paul, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen 1924, S. 1-22.</bibl>
                </listBibl></back></text>

@@ -108,22 +108,6 @@
                   <occupation>Bankier und Finanzwissenschaftler</occupation>
                   <note type="bio"><p>Studium der Rechtswissenschaften, Volkswirtschaft und Philosophie in Freiburg/Breisgau, Heidelberg, Marburg und Berlin, 1912 wurde er zum Dr. jur. promoviert, 1919 zum Dr. phil. 1919-1933 Vorstandsmitglied der Deutschen Effekten- und Wechselbank (vormals Bankhaus L. A. Hahn), 1929-1933 war er zudem Honorarprofessor für Geld- und Kreditwesen an der Universität Frankfurt. 1936 Emigration in die Schweiz, 1939 in die USA, wo er als Dozent an der New School for Sozial Research in New York tätig war. Nach dem Zweiten Weltkrieg kehrte er nach Europa zurück und hielt ab 1950 auch wieder Lehrveranstaltungen in Frankfurt.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2697">
-                  <persName>Stolper, Gustav</persName>
-                  <birth>
-                     <date>1888-07-25</date>
-                     <settlement>
-                        <placeName>Wien</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1947-12-08</date>
-                     <settlement>
-                        <placeName>New York, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/11861858X</idno>
-               </person>
                <person xml:id="tillich_person_id__2456">
                   <persName>Keck, Karl</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116141182</idno>
@@ -161,7 +145,31 @@
                   <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
                   <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+               <person xml:id="tillich_person_id__2697">
+                  <persName>Stolper, Gustav</persName>
+                  <birth>
+                     <date>1888-07-25</date>
+                     <settlement>
+                        <placeName>Wien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1947-12-08</date>
+                     <settlement>
+                        <placeName>New York, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/11861858X</idno>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__88">Rieter, Heinz, Der deutsche Volkswirt 1926 bis 1933. Eine Fallstudie zur publizistischen Umsetzung wirtschaftspolitischer Konzeptionen, in: Albeda, Willem et al., Die Umsetzung wirtschaftspolitischer Grundkonzeptionen in die kontinentaleuropäische Praxis des 19. und 20. Jahrhunderts, II. Teil (Studien zur Entwicklung der ökonomischen Theorie XVII, hg. von Erich W. Streissler), Berlin 1998, S. 95-153.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__540">
+                  <placeName>Hanau</placeName>
+                  <location type="coords">
+                     <geo>50.13423 8.91418</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911007/</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>
@@ -169,13 +177,5 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               <place xml:id="tillich_place_id__540">
-                  <placeName>Hanau</placeName>
-                  <location type="coords">
-                     <geo>50.13423 8.91418</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911007/</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__88">Rieter, Heinz, Der deutsche Volkswirt 1926 bis 1933. Eine Fallstudie zur publizistischen Umsetzung wirtschaftspolitischer Konzeptionen, in: Albeda, Willem et al., Die Umsetzung wirtschaftspolitischer Grundkonzeptionen in die kontinentaleuropäische Praxis des 19. und 20. Jahrhunderts, II. Teil (Studien zur Entwicklung der ökonomischen Theorie XVII, hg. von Erich W. Streissler), Berlin 1998, S. 95-153.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

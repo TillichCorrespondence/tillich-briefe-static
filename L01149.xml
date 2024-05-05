@@ -113,24 +113,7 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__108">
-                  <placeName>Cleinich</placeName>
-                  <location type="coords">
-                     <geo>49.89478 7.18695</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6554341/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q543401</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__240">Tillich, Paul: Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -149,5 +132,22 @@
                   <persName>Lütze, Hermann</persName>
                   <occupation>Pfarrer;</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__108">
+                  <placeName>Cleinich</placeName>
+                  <location type="coords">
+                     <geo>49.89478 7.18695</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6554341/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q543401</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__240">Tillich, Paul: Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
+               </listBibl></back></text>
 </TEI>

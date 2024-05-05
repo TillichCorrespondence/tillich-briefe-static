@@ -104,20 +104,13 @@
 </figure>(xx) Candidat der Theologie</signed></closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__175">
-                  <placeName>Gießen</placeName>
-                  <location type="coords">
-                     <geo>50.58727 8.67554</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2218">
-                  <persName>Landmann, F.</persName>
-                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__673">
+<back><listPerson><person xml:id="tillich_person_id__673">
                   <persName>Gerich, ???</persName>
                   <occupation>Er war Paul Tillichs Leibbursch.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2218">
+                  <persName>Landmann, F.</persName>
+                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -138,5 +131,12 @@
                   <persName>Koch, Karl</persName>
                   <occupation>Referent, Bursche von Paul Tillich</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__175">
+                  <placeName>Gießen</placeName>
+                  <location type="coords">
+                     <geo>50.58727 8.67554</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>
