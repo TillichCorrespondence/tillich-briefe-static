@@ -148,17 +148,9 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2262">
-                  <persName>Gründler, Ernst</persName>
-               </person>
-               <person xml:id="tillich_person_id__1761">
-                  <persName>Seeberg, Reinhold</persName>
-                  <occupation>Systematischer Theologe</occupation>
+   <back><listPerson><person xml:id="tillich_person_id__2212">
+                  <persName>Gräber, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2270">
                   <persName>Weiss, Karl Philipp Bernhard</persName>
@@ -172,6 +164,25 @@
                   <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
                   <note type="bio"><p>Er hat sich auf die neutestamentliche Forschung spezialisiert.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2170">
+                  <persName>???, Daniel</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2263">
+                  <persName>Jäger, Th.</persName>
+               </person>
+               <person xml:id="tillich_person_id__2162">
+                  <persName>Lorenz, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
                <person xml:id="tillich_person_id__2091">
                   <persName>Witte, Hermann</persName>
                   <birth>
@@ -184,6 +195,10 @@
                      <date>1728-03-24</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__1761">
+                  <persName>Seeberg, Reinhold</persName>
+                  <occupation>Systematischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
@@ -224,8 +239,12 @@
                   <idno type="gnd">https://d-nb.info/gnd/118776495</idno>
                   <note type="bio"><p>Er hat sich auf die neutestamentliche und kirchengeschichtliche Forschung spezialisiert.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
+               <person xml:id="tillich_person_id__2271">
+                  <persName>Bromisch, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2262">
+                  <persName>Gründler, Ernst</persName>
                </person>
                <person xml:id="tillich_person_id__310">
                   <persName>Büchsel, Friedrich Hermann Martin</persName>
@@ -237,25 +256,6 @@
                   </death>
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
-               </person>
-               <person xml:id="tillich_person_id__2263">
-                  <persName>Jäger, Th.</persName>
-               </person>
-               <person xml:id="tillich_person_id__2170">
-                  <persName>???, Daniel</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2212">
-                  <persName>Gräber, ???</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2162">
-                  <persName>Lorenz, ???</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2271">
-                  <persName>Bromisch, ???</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__293">
                   <placeName>Misdroy</placeName>

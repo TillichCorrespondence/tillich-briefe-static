@@ -107,14 +107,30 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2145">
-                  <persName>Martel, Rachel</persName>
-                  <note type="bio"><p>Er war im Kontakt mit Paul Tillich im 1. Weltkrieg und korrespondierte mit ihm auf Französisch.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__252">
+<back><listPerson><person xml:id="tillich_person_id__252">
                   <persName>Bonin, Henning von</persName>
                   <occupation>Preußischer Infanteriegeneral</occupation>
                   <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2629">
+                  <persName>Mudra, Bruno von</persName>
+                  <birth>
+                     <date>1851-04-01</date>
+                     <settlement>
+                        <placeName>Bad Muskau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1931-11-21</date>
+                     <settlement>
+                        <placeName>Schwerin- Neu Zippendorf</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117604542</idno>
+               </person>
+               <person xml:id="tillich_person_id__1487">
+                  <persName>Pfeiffer, Erich</persName>
+                  <occupation>Hauptmann im 1. WK</occupation>
                </person>
                <person xml:id="tillich_person_id__2628">
                   <persName>Wild von Hohenborn, Adolf</persName>
@@ -132,25 +148,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118816136</idno>
                </person>
-               <person xml:id="tillich_person_id__1487">
-                  <persName>Pfeiffer, Erich</persName>
-                  <occupation>Hauptmann im 1. WK</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2629">
-                  <persName>Mudra, Bruno von</persName>
-                  <birth>
-                     <date>1851-04-01</date>
-                     <settlement>
-                        <placeName>Bad Muskau</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1931-11-21</date>
-                     <settlement>
-                        <placeName>Schwerin- Neu Zippendorf</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117604542</idno>
+               <person xml:id="tillich_person_id__2145">
+                  <persName>Martel, Rachel</persName>
+                  <note type="bio"><p>Er war im Kontakt mit Paul Tillich im 1. Weltkrieg und korrespondierte mit ihm auf Französisch.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

@@ -107,6 +107,10 @@
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1742">
+                  <persName>Schröder</persName>
+                  <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -125,10 +129,6 @@
                <person xml:id="tillich_person_id__1930">
                   <persName>Tillich, Marie</persName>
                   <occupation>Großmutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1742">
-                  <persName>Schröder</persName>
-                  <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__471">
                   <placeName>Wiesbaden</placeName>

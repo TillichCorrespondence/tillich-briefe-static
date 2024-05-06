@@ -91,42 +91,14 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2558">
-                  <persName>Wagner, (Frau)</persName>
-               </person>
-               <person xml:id="tillich_person_id__2557">
-                  <persName>Beth, Karl</persName>
-                  <birth>
-                     <date>1872-02-12</date>
-                     <settlement>
-                        <placeName>Förderstedt</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1959-09-09</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Philosoph;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116155264</idno>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1923">
+<back><listPlace><place xml:id="tillich_place_id__470">
+                  <placeName>Wien</placeName>
+                  <location type="coords">
+                     <geo>48.20820 16.37169</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2761367/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -146,12 +118,40 @@
                <person xml:id="tillich_person_id__2556">
                   <persName>Wagner, ???</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__470">
-                  <placeName>Wien</placeName>
-                  <location type="coords">
-                     <geo>48.20820 16.37169</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2761367/</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2558">
+                  <persName>Wagner, (Frau)</persName>
+               </person>
+               <person xml:id="tillich_person_id__2557">
+                  <persName>Beth, Karl</persName>
+                  <birth>
+                     <date>1872-02-12</date>
+                     <settlement>
+                        <placeName>Förderstedt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1959-09-09</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Philosoph;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116155264</idno>
+               </person>
+               </listPerson></back></text>
 </TEI>

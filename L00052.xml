@@ -130,13 +130,23 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2218">
+<back><listPerson><person xml:id="tillich_person_id__227">
+                  <persName>Blech, George</persName>
+               </person>
+               <person xml:id="tillich_person_id__2218">
                   <persName>Landmann, F.</persName>
                   <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2222">
+                  <persName>Stieglitz, ???</persName>
+                  <note type="bio"><p>Er war ein Student in Marburg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2136">
                   <persName>Kaumann, E.</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2221">
+                  <persName>Diehl, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -153,17 +163,26 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2221">
-                  <persName>Diehl, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__227">
-                  <persName>Blech, George</persName>
-               </person>
-               <person xml:id="tillich_person_id__2222">
-                  <persName>Stieglitz, ???</persName>
-                  <note type="bio"><p>Er war ein Student in Marburg.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__175">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
+               <bibl xml:id="tillich_work_id__98">Neugebauer, Georg, Δι᾽ ἑνὸϛ πάντα – Tillich im Wingolf. In: International Yearbook for Tillich Research 11 (2016), 149–173.</bibl>
+               <bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__467">
+                  <placeName>Wartburg</placeName>
+                  <location type="coords">
+                     <geo>50.96605 10.30646</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
+               </place>
+               <place xml:id="tillich_place_id__175">
                   <placeName>Gießen</placeName>
                   <location type="coords">
                      <geo>50.58727 8.67554</geo>
@@ -178,24 +197,5 @@
                   <idno type="geonames">https://sws.geonames.org/2820860/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
                </place>
-               <place xml:id="tillich_place_id__467">
-                  <placeName>Wartburg</placeName>
-                  <location type="coords">
-                     <geo>50.96605 10.30646</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3207492/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q151545</idno>
-               </place>
-               <place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
-               <bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
-               <bibl xml:id="tillich_work_id__98">Neugebauer, Georg, Δι᾽ ἑνὸϛ πάντα – Tillich im Wingolf. In: International Yearbook for Tillich Research 11 (2016), 149–173.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

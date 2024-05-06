@@ -111,21 +111,14 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__365">
+<back><listBibl><bibl xml:id="tillich_work_id__53">Tillich, Paul, 2. Kor 4,17f - Auf das Unsichtbare und Ewige sehen, in: Ders., Frühe Predigten (EW VII), hg. von Erdmann Sturm, Berlin/New York 1994, S. 408-411.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__365">
                   <placeName>Rethel</placeName>
                   <location type="coords">
                      <geo>49.50979 4.36740</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2983891/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q209790</idno>
-               </place>
-               <place xml:id="tillich_place_id__79">
-                  <placeName>Butte-de-Tahure</placeName>
-                  <location type="coords">
-                     <geo>49.25124 4.55834</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2974294/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1221195</idno>
                </place>
                <place xml:id="tillich_place_id__94">
                   <placeName>Charleville-Mézières</placeName>
@@ -135,8 +128,15 @@
                   <idno type="geonames">https://sws.geonames.org/3026613/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2960786</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__53">Tillich, Paul, 2. Kor 4,17f - Auf das Unsichtbare und Ewige sehen, in: Ders., Frühe Predigten (EW VII), hg. von Erdmann Sturm, Berlin/New York 1994, S. 408-411.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+               <place xml:id="tillich_place_id__79">
+                  <placeName>Butte-de-Tahure</placeName>
+                  <location type="coords">
+                     <geo>49.25124 4.55834</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2974294/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1221195</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>

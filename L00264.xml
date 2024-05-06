@@ -128,21 +128,21 @@
                   <persName>Van der Smissen, Gilbert</persName>
                   <occupation>Pfarrer und Studienkollege Tillichs</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
                </listPlace></back></text>
 </TEI>

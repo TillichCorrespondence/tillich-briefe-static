@@ -146,20 +146,10 @@
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               <person xml:id="tillich_person_id__438">
+                  <persName>de Man, Hendrik</persName>
+                  <occupation>Belgischer Sozialpsychologe, Theoretiker des Sozialismus, Politiker und Publizist</occupation>
+                  <note type="bio"><p>In Antwerpen geboren, schloss er sich dort bereits in seiner Jugend einer sozialistischen Gruppierung an. Zunächst Studium der Naturwissenschaften und Mathematik in Gent und Brüssel, das er abbrach, um 1905-1909 in Leipzig und Wien Philosophie, Psychologie, Geschichte und Volkswirtschaft zu studieren und mit Promotion abzuschließen. Während des Studiums Mitarbeit an der sozialistischen Leipziger Volkszeitung, seit 1907 war er Internationaler Sekretär der Sozialistischen Jugendinternationale. Nach einem Jahr in England 1910 wurde er, zurück in Belgien, Leiter einer Arbeiterbildungszentrale. Nach dem ersten Weltkrieg lehrte er kurzzeitig Sozialpsychologie an der University of Washington, wurde jedoch aufgrund seines sozialpolitischen Engagements entlassen. Seit dem Ersten Weltkrieg zunehmende Distanzierung von der marxistischen Form des Sozialismus, im Laufe der 1920er endgültige Loslösung und Nähe zum Hofgeismarer Kreis der Jungsozialisten. 1929-1933 Lehrauftrag für Sozialpsychologie und Sozialpädagogik an der Frankfurter Universität, Mitarbeit bei Tillichs Neuen Blättern für den Sozialismus. 1933 emigrierte nach Belgien, 1935 wurde er Arbeitsminister, im Juni 1936 Finanzminister. Seit 1939 Vorsitzender der Belgischen Arbeiterpartei, die er 1940 auflöste. Die Bewertung seiner Kollaborationspolitik ist umstritten. Unter deutscher Herrschaft erhielt er Rede- und Auftrittsverbot, er ging bis 1944 in das unbesetzte Vichy-Frankreich,  anschließend als politischer Flüchtling in die Schweiz. 1946 wurde er in Abwesenheit von einem belgischen Gericht zu 20 Jahren Haft verurteilt. Er starb in der Schweiz bei einem Autounfall.</p></note>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -184,10 +174,20 @@
                   <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
                   <note type="bio"><p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p></note>
                </person>
-               <person xml:id="tillich_person_id__438">
-                  <persName>de Man, Hendrik</persName>
-                  <occupation>Belgischer Sozialpsychologe, Theoretiker des Sozialismus, Politiker und Publizist</occupation>
-                  <note type="bio"><p>In Antwerpen geboren, schloss er sich dort bereits in seiner Jugend einer sozialistischen Gruppierung an. Zunächst Studium der Naturwissenschaften und Mathematik in Gent und Brüssel, das er abbrach, um 1905-1909 in Leipzig und Wien Philosophie, Psychologie, Geschichte und Volkswirtschaft zu studieren und mit Promotion abzuschließen. Während des Studiums Mitarbeit an der sozialistischen Leipziger Volkszeitung, seit 1907 war er Internationaler Sekretär der Sozialistischen Jugendinternationale. Nach einem Jahr in England 1910 wurde er, zurück in Belgien, Leiter einer Arbeiterbildungszentrale. Nach dem ersten Weltkrieg lehrte er kurzzeitig Sozialpsychologie an der University of Washington, wurde jedoch aufgrund seines sozialpolitischen Engagements entlassen. Seit dem Ersten Weltkrieg zunehmende Distanzierung von der marxistischen Form des Sozialismus, im Laufe der 1920er endgültige Loslösung und Nähe zum Hofgeismarer Kreis der Jungsozialisten. 1929-1933 Lehrauftrag für Sozialpsychologie und Sozialpädagogik an der Frankfurter Universität, Mitarbeit bei Tillichs Neuen Blättern für den Sozialismus. 1933 emigrierte nach Belgien, 1935 wurde er Arbeitsminister, im Juni 1936 Finanzminister. Seit 1939 Vorsitzender der Belgischen Arbeiterpartei, die er 1940 auflöste. Die Bewertung seiner Kollaborationspolitik ist umstritten. Unter deutscher Herrschaft erhielt er Rede- und Auftrittsverbot, er ging bis 1944 in das unbesetzte Vichy-Frankreich,  anschließend als politischer Flüchtling in die Schweiz. 1946 wurde er in Abwesenheit von einem belgischen Gericht zu 20 Jahren Haft verurteilt. Er starb in der Schweiz bei einem Autounfall.</p></note>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

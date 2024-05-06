@@ -125,16 +125,7 @@ und erschwerend wirken würde.</p>
 <back><listPerson><person xml:id="tillich_person_id__2752">
                   <persName>Reyer, Wilhelm</persName>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__150">Reyer, Wilhelm, Einführung in die Phänomenologie, Felix Meiner, Leipzig 1920</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__38">
-                  <placeName>Berlin-Friedenau</placeName>
-                  <location type="coords">
-                     <geo>52.47133 13.32813</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2924770/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
-               </place>
-               <place xml:id="tillich_place_id__198">
+               </listPerson><listPlace><place xml:id="tillich_place_id__198">
                   <placeName>Hamburg</placeName>
                   <location type="coords">
                      <geo>53.55073 9.99302</geo>
@@ -142,5 +133,14 @@ und erschwerend wirken würde.</p>
                   <idno type="geonames">https://sws.geonames.org/2911298/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
                </place>
-               </listPlace></back></text>
+               <place xml:id="tillich_place_id__38">
+                  <placeName>Berlin-Friedenau</placeName>
+                  <location type="coords">
+                     <geo>52.47133 13.32813</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2924770/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__150">Reyer, Wilhelm, Einführung in die Phänomenologie, Felix Meiner, Leipzig 1920</bibl>
+               </listBibl></back></text>
 </TEI>

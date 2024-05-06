@@ -100,55 +100,28 @@ Ihr</salute>
                 </closer>
             </div>
         </body>
-    <back><listPlace><place xml:id="tillich_place_id__236">
-                  <placeName>Kassel</placeName>
-                  <location type="coords">
-                     <geo>51.31667 9.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2892518/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
-               </place>
-               <place xml:id="tillich_place_id__260">
-                  <placeName>Leipzig</placeName>
-                  <location type="coords">
-                     <geo>51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1209">
+    <back><listPerson><person xml:id="tillich_person_id__856">
+                  <persName>Heller, Hermann</persName>
+               </person>
+               <person xml:id="tillich_person_id__1562">
+                  <persName>Rathmann, August</persName>
+                  <birth>
+                     <date>1895-01-03</date>
+                  </birth>
+                  <death>
+                     <date>1995-01-05</date>
+                     <settlement>
+                        <placeName>Mönkeberg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
+                  <idno type="gnd">https://explore.gnd.network/gnd/118749196</idno>
+               </person>
+               <person xml:id="tillich_person_id__1209">
                   <persName>Löwe, Adolf</persName>
                   <occupation>deutscher Soziologe und Nationalökonom</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119383292</idno>
                   <note type="bio"><p>1911-1915 Studium der Wirtschafts- wie auch Rechtswissenschaften in München, Berlin und Tübingen. In Tübingen wurde er 1918 zum Dr. iur. promoviert. 1919 heiratete er Beatrice Löwenstein (genannt Bea, *1893). 1919-1924 Tätigkeit im Reichswirtschaftsministerium, 1924-1926 Leiter der internationalen Abteilung des Statistischen Reichsamtes, in dieser Zeit auch mitverantwortlich für die Gründung des Deutschen Instituts für Konjunkturforschung (DIW). 1926 Habilitation in Kiel, damit einhergehend Leitung und Ausbau des Kieler Instituts für Weltwirtschaft (IfW) und Lehrtätigkeit an der Universität. 1931 folgte L. einem Ruf an die Universität Frankfurt/Main, wo er unter anderem seine alten Freunde Max  Horkheimer (aus Schulzeiten) und Tillich (aus Berliner Zeiten und dem Kreis religiöser Sozialisten) wiedertraf. Nachdem er 1933 zunächst beurlaubt und sodann entlassen wurde, emigrierte er im selben Jahr nach England, wo er 1933-1940 an der Universität Manchester tätig war und nebenher an der London School of Economics lehrte. 1940 zweite Emigration in die USA, wo er bis zu seiner Emeritierung 1963 an der New School for Social Research in New York lehrte. Adolf und Beatrice L. hatten zwei Töchter, Rahel Dorothea (tw. auch Dora, 1921-2011), später Rachel Aubrey bzw. in erster Ehe Rüstow, sowie Hanna Ruth (1924-2010), später Hanna Lustig.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1699">
-                  <persName>Schairer, Reinhold</persName>
-                  <occupation>Bildungsexperte und Verbandsfunktionär</occupation>
-                  <note type="bio"><p>Studium der Rechtswissenschaften, Pädagogik und Philosophie in Tübingen, Berlin und Genf, 1914 Promotion. 1920 heiratete er Gerda von Mendelssohn (1888-1971), geb. Schack-Schou, die Witwe des Schriftstellers Erich von Mendelssohn. 1921 war er ein Mitbegründer des Deutschen Studentenwerks sowie der Studienstiftung des Deutschen Volkes, seit 1928 gemeinsam mit Hans  Simons Geschäftsführer der Abraham-Lincoln-Stiftung, zudem Förderer des Kreises um die von Tillich herausgegebenen Neuen Blätter für den Sozialismus. 1934 Emigration via Kopenhagen nach London, ab 1940 in den USA. 1943-1947 Gastprofessor an der New York University. Mitte der 1950er Jahre kehrte er nach Deutschland zurück, nachdem er zuvor unter anderem als Mitarbeiter der Marshallplan-Verwaltung beschäftigt gewesen war (1950-1954). Zuletzt lebte er in Dänemark.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__2497">
                   <persName>Severing, Carl</persName>
@@ -168,17 +141,19 @@ Ihr</salute>
                   <idno type="gnd">https://d-nb.info/gnd/11879678X</idno>
                   <note type="bio"><p>Er arbeitete von 1928 bis 1930 als Reichsinnenminister, von 1930 bis 1932 als preußischer Innenminister und war Förderer der Neuen Blätter für den Sozialismus.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2498">
-                  <persName>Protte, Alfred</persName>
-                  <birth>
-                     <date>1902</date>
-                  </birth>
-                  <death>
-                     <date>1977</date>
-                  </death>
-                  <occupation>Verleger;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1073649849</idno>
-                  <note type="bio"><p>Auf ihn geht der Alfred-Protte-Verlag zurück.</p></note>
+               <person xml:id="tillich_person_id__1059">
+                  <persName>Klatt, Fritz</persName>
+               </person>
+               <person xml:id="tillich_person_id__1699">
+                  <persName>Schairer, Reinhold</persName>
+                  <occupation>Bildungsexperte und Verbandsfunktionär</occupation>
+                  <note type="bio"><p>Studium der Rechtswissenschaften, Pädagogik und Philosophie in Tübingen, Berlin und Genf, 1914 Promotion. 1920 heiratete er Gerda von Mendelssohn (1888-1971), geb. Schack-Schou, die Witwe des Schriftstellers Erich von Mendelssohn. 1921 war er ein Mitbegründer des Deutschen Studentenwerks sowie der Studienstiftung des Deutschen Volkes, seit 1928 gemeinsam mit Hans  Simons Geschäftsführer der Abraham-Lincoln-Stiftung, zudem Förderer des Kreises um die von Tillich herausgegebenen Neuen Blätter für den Sozialismus. 1934 Emigration via Kopenhagen nach London, ab 1940 in den USA. 1943-1947 Gastprofessor an der New York University. Mitte der 1950er Jahre kehrte er nach Deutschland zurück, nachdem er zuvor unter anderem als Mitarbeiter der Marshallplan-Verwaltung beschäftigt gewesen war (1950-1954). Zuletzt lebte er in Dänemark.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1307">
+                  <persName>Mennicke, Carl August</persName>
+                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119264250</idno>
+                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
                </person>
                <person xml:id="tillich_person_id__2499">
                   <persName>Pflug, Hans</persName>
@@ -194,32 +169,57 @@ Ihr</salute>
                   <occupation>Historiker; Journalist; Hochschullehrer; Leiter der Kasseler Volkshochschule;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/132777282</idno>
                </person>
-               <person xml:id="tillich_person_id__856">
-                  <persName>Heller, Hermann</persName>
-               </person>
-               <person xml:id="tillich_person_id__1562">
-                  <persName>Rathmann, August</persName>
+               <person xml:id="tillich_person_id__2498">
+                  <persName>Protte, Alfred</persName>
                   <birth>
-                     <date>1895-01-03</date>
+                     <date>1902</date>
                   </birth>
                   <death>
-                     <date>1995-01-05</date>
+                     <date>1977</date>
+                  </death>
+                  <occupation>Verleger;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1073649849</idno>
+                  <note type="bio"><p>Auf ihn geht der Alfred-Protte-Verlag zurück.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
                      <settlement>
-                        <placeName>Mönkeberg</placeName>
+                        <placeName>Chicago, Ill.</placeName>
                      </settlement>
                   </death>
-                  <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
-                  <idno type="gnd">https://explore.gnd.network/gnd/118749196</idno>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1307">
-                  <persName>Mennicke, Carl August</persName>
-                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119264250</idno>
-                  <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1059">
-                  <persName>Klatt, Fritz</persName>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__66">Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, hg. von Eduard Heimann, Fritz Klatt und Paul Tillich, 1930ff.</bibl>
+               </listPerson><listPlace><place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__236">
+                  <placeName>Kassel</placeName>
+                  <location type="coords">
+                     <geo>51.31667 9.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2892518/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__66">Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, hg. von Eduard Heimann, Fritz Klatt und Paul Tillich, 1930ff.</bibl>
                </listBibl></back></text>
 </TEI>

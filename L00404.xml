@@ -165,7 +165,38 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__643">
+<back><listPlace><place xml:id="tillich_place_id__61">
+                  <placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__643">
                   <persName>Fritz (geb. Horn), Gertrude</persName>
                   <occupation>(auch Trudchen) Zweite Frau von Alfred Fritz, Ausbildung: Soziale Frauenschule</occupation>
                </person>
@@ -174,13 +205,9 @@
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               <person xml:id="tillich_person_id__109">
+                  <persName>Backhaus, Alwin</persName>
+                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
                </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
@@ -225,32 +252,5 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
                </person>
-               <person xml:id="tillich_person_id__109">
-                  <persName>Backhaus, Alwin</persName>
-                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__343">
-                  <placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place>
-               <place xml:id="tillich_place_id__61">
-                  <placeName>Bieuxy</placeName>
-                  <location type="coords">
-                     <geo>49.44667 3.26139</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

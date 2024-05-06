@@ -90,21 +90,13 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
+<back><listPlace><place xml:id="tillich_place_id__224">
+                  <placeName>Jena</placeName>
                   <location type="coords">
-                     <geo>51.05089 13.73832</geo>
+                     <geo>50.92878 11.58990</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+                  <idno type="geonames">https://sws.geonames.org/2895044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
                </place>
                <place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
@@ -114,32 +106,37 @@
                   <idno type="geonames">https://sws.geonames.org/2873759/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
-               <place xml:id="tillich_place_id__224">
-                  <placeName>Jena</placeName>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
-                     <geo>50.92878 11.58990</geo>
+                     <geo>50.11552 8.68417</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2895044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1783">
-                  <persName>Siegfried, Friedrich Alfred Theodor</persName>
-                  <occupation>Theologe/Freund</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1965">
+                  <persName>Ulich, Robert</persName>
                   <birth>
-                     <date>1886-08-20</date>
+                     <date>1890-04-21</date>
                   </birth>
                   <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
+                     <date>1977-06-17</date>
                   </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+                  <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler. Ministerialrat im sächsischen Ministerium für Volksbildung</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
+                  <note type="bio"><p>(verheiratet mit Brändström, Elsa)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1099">
+                  <persName>Kroner, Richard</persName>
+                  <occupation>deutscher Philosoph und Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -158,11 +155,30 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1783">
+                  <persName>Siegfried, Friedrich Alfred Theodor</persName>
+                  <occupation>Theologe/Freund</occupation>
+               </person>
                <person xml:id="tillich_person_id__1723">
                   <persName>Schmidt, Karl Ludwig</persName>
                   <occupation>evangelischer Theologe (Neues Testament)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
                   <note type="bio"><p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
@@ -175,22 +191,6 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1099">
-                  <persName>Kroner, Richard</persName>
-                  <occupation>deutscher Philosoph und Theologe</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1965">
-                  <persName>Ulich, Robert</persName>
-                  <birth>
-                     <date>1890-04-21</date>
-                  </birth>
-                  <death>
-                     <date>1977-06-17</date>
-                  </death>
-                  <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler. Ministerialrat im sächsischen Ministerium für Volksbildung</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
-                  <note type="bio"><p>(verheiratet mit Brändström, Elsa)</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -101,15 +101,7 @@
             </postscript>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__474">
-                  <placeName>Worpswerde</placeName>
-                  <location type="coords">
-                     <geo>53.21930 8.93450</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6552711/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q269174</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -128,5 +120,13 @@
                   <persName>Hanffstengel, Gottfried von</persName>
                   <occupation>Theologe, Jugendfreund</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__474">
+                  <placeName>Worpswerde</placeName>
+                  <location type="coords">
+                     <geo>53.21930 8.93450</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6552711/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q269174</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

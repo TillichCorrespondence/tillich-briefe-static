@@ -111,18 +111,18 @@
 <closer><salute>Viele herzliche Grüße!</salute> Dein treuer <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>.</closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__644">
+<back><listPerson><person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>

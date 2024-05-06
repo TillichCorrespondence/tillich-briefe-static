@@ -90,11 +90,7 @@
         </closer>
      </div>
     </body>
-  <back><listBibl><bibl xml:id="tillich_work_id__283">Mulert, Hermann. Leeses Stellung zum Christentum, in: Die Christliche Welt Jg. 47/3 (4. Februar 1933), Sp. 123-125.</bibl>
-               <bibl xml:id="tillich_work_id__277">Leese, Kurt, Die Krisis und Wende des christlichen Geistes. Studien zum anthropologischen und theologischen Problem der Lebensphilosophie, Berlin 1932.</bibl>
-               <bibl xml:id="tillich_work_id__245">Adorno, Theodor W., Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ihrer Geschichte, Bd. 2. Tübingen 1933</bibl>
-               <bibl xml:id="tillich_work_id__282">Franz, Erich. Krisis des Christentums?, in: Die Christliche Welt Jg. 47/3 (4. Februar 1933), Sp. 119-123.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+  <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -112,9 +108,9 @@
                <person xml:id="tillich_person_id__1049">
                   <persName>Kierkegaard, Sören</persName>
                </person>
-               <person xml:id="tillich_person_id__1154">
-                  <persName>Leese, Kurt</persName>
-                  <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
+               <person xml:id="tillich_person_id__2885">
+                  <persName>Leese, Minna Margarethe</persName>
+                  <note type="bio"><p>Sie war die Gattin von Kurt Leese.</p></note>
                </person>
                <person xml:id="tillich_person_id__15">
                   <persName>Adorno, Theodor W.</persName>
@@ -134,9 +130,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/118500775</idno>
                   <note type="bio"><p>Studium in Frankfurt am Main (Promotion 1924) sowie 1925-1928 bei Alban Berg und Eduard Steuermann in Wien. Habilitierte sich 1931 in Frankfurt am Main bei Paul Tillich. Seit 1934 Aufenthalt in Oxford, 1938 Emigration in die USA, dort u.a. Mitarbeiter des Instituts für Sozialforschung sowie insb. Arbeitsgemeinschaft mit Marx Horkheimer, in deren Rahmen die Dialektik der Aufklärung (1944) entstand. Remigration nach Deutschland 1949, Professor an der Goethe-Universität Frankfurt am Main sowie dem Institut für Sozialforschung.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2885">
-                  <persName>Leese, Minna Margarethe</persName>
-                  <note type="bio"><p>Sie war die Gattin von Kurt Leese.</p></note>
+               <person xml:id="tillich_person_id__1154">
+                  <persName>Leese, Kurt</persName>
+                  <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__277">Leese, Kurt, Die Krisis und Wende des christlichen Geistes. Studien zum anthropologischen und theologischen Problem der Lebensphilosophie, Berlin 1932.</bibl>
+               <bibl xml:id="tillich_work_id__245">Adorno, Theodor W., Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ihrer Geschichte, Bd. 2. Tübingen 1933</bibl>
+               <bibl xml:id="tillich_work_id__283">Mulert, Hermann. Leeses Stellung zum Christentum, in: Die Christliche Welt Jg. 47/3 (4. Februar 1933), Sp. 123-125.</bibl>
+               <bibl xml:id="tillich_work_id__282">Franz, Erich. Krisis des Christentums?, in: Die Christliche Welt Jg. 47/3 (4. Februar 1933), Sp. 119-123.</bibl>
+               </listBibl></back></text>
 </TEI>

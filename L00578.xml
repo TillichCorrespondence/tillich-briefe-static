@@ -110,7 +110,29 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1227">
+   <back><listBibl><bibl xml:id="tillich_work_id__205">Hartmann, Martin, Der Islam. Geschichte - Glaube - Recht: Ein Handbuch, Leipzig 1909.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1201">
+                  <persName>Loofs, Friedrich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2843">
+                  <persName>Hartmann, Martin</persName>
+                  <birth>
+                     <date>1851-12-09</date>
+                     <settlement>
+                        <placeName>Breslau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1918-12-05</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Orientalist;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119120828</idno>
+               </person>
+               <person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
                   <birth>
                      <date>1867</date>
@@ -120,6 +142,10 @@
                   </death>
                   <occupation>Systematischer Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__1295">
+                  <persName>Meinhof, Heinrich</persName>
+                  <occupation>Leibfux von Paul Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -141,27 +167,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/117724742</idno>
                   <note type="bio"><p>Er war ein Schüler von Professor Loofs und der Sohn von Generalsuperintendent Friedrich Winfried Schubart.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1295">
-                  <persName>Meinhof, Heinrich</persName>
-                  <occupation>Leibfux von Paul Tillich</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2843">
-                  <persName>Hartmann, Martin</persName>
-                  <birth>
-                     <date>1851-12-09</date>
-                     <settlement>
-                        <placeName>Breslau</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1918-12-05</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Orientalist;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119120828</idno>
-               </person>
                <person xml:id="tillich_person_id__2287">
                   <persName>Schubart, Friedrich Winfried</persName>
                   <birth>
@@ -177,19 +182,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/132462974</idno>
                   <note type="bio"><p>Er war Generalsuperintendent von Anhalt.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1201">
-                  <persName>Loofs, Friedrich</persName>
-                  <occupation>Kirchenhistoriker</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__427">
+               </listPerson><listPlace><place xml:id="tillich_place_id__427">
                   <placeName>Taillette</placeName>
                   <location type="coords">
                      <geo>49.93056 4.48639</geo>
@@ -205,6 +198,13 @@
                   <idno type="geonames">https://sws.geonames.org/99237/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q796</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__205">Hartmann, Martin, Der Islam. Geschichte - Glaube - Recht: Ein Handbuch, Leipzig 1909.</bibl>
-               </listBibl></back></text>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

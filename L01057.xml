@@ -89,23 +89,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__520">
-                  <placeName>Utrecht</placeName>
-                  <location type="coords">
-                     <geo>52.09083 5.12222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2745912/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q39297398</idno>
-               </place>
-               <place xml:id="tillich_place_id__521">
-                  <placeName>Rotterdam</placeName>
-                  <location type="coords">
-                     <geo>51.92250 4.47917</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2747891/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q34370</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -137,5 +121,21 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__521">
+                  <placeName>Rotterdam</placeName>
+                  <location type="coords">
+                     <geo>51.92250 4.47917</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2747891/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q34370</idno>
+               </place>
+               <place xml:id="tillich_place_id__520">
+                  <placeName>Utrecht</placeName>
+                  <location type="coords">
+                     <geo>52.09083 5.12222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2745912/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q39297398</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

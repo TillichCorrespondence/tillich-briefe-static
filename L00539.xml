@@ -130,7 +130,27 @@
                 </postscript>
             </div>
         </body>
-    <back><listPerson><person xml:id="tillich_person_id__1925">
+    <back><listPerson><person xml:id="tillich_person_id__2192">
+                  <persName>???, Therese</persName>
+                  <occupation>Gemeindeschwester;</occupation>
+                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2712">
+                  <persName>Krüger, ???</persName>
+                  <note type="bio"><p>Es handelt sich vermutlich um den Chorleiter der Bethlehemsgemeinde.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2236">
+                  <persName>???, Else</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2256">
+                  <persName>Wichel , Käthe</persName>
+               </person>
+               <person xml:id="tillich_person_id__1930">
+                  <persName>Tillich, Marie</persName>
+                  <occupation>Großmutter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1925">
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
                </person>
@@ -144,6 +164,9 @@
                   </death>
                   <occupation>Großvater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
+               </person>
+               <person xml:id="tillich_person_id__1310">
+                  <persName>Merrem, Lucie</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -160,43 +183,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2256">
-                  <persName>Wichel , Käthe</persName>
-               </person>
-               <person xml:id="tillich_person_id__2242">
-                  <persName>Schmidt</persName>
-                  <occupation>Pfarrer;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1310">
-                  <persName>Merrem, Lucie</persName>
-               </person>
-               <person xml:id="tillich_person_id__2709">
-                  <persName>Schilling, Paul</persName>
-                  <note type="bio"><p>Er war der Mann von einer Dame namens Else.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1930">
-                  <persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2192">
-                  <persName>???, Therese</persName>
-                  <occupation>Gemeindeschwester;</occupation>
-                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2712">
-                  <persName>Krüger, ???</persName>
-                  <note type="bio"><p>Es handelt sich vermutlich um den Chorleiter der Bethlehemsgemeinde.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2528">
                   <persName>Schmidt, (Frau)</persName>
                   <note type="bio"><p>Sie stand in Kontakt mit Paul Tillichs Mutter und war eventuell die Frau von Pastor Schmidt (P02246).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2230">
-                  <persName>Schilling, Edith</persName>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
@@ -210,9 +199,20 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2236">
-                  <persName>???, Else</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+               <person xml:id="tillich_person_id__2709">
+                  <persName>Schilling, Paul</persName>
+                  <note type="bio"><p>Er war der Mann von einer Dame namens Else.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2230">
+                  <persName>Schilling, Edith</persName>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2242">
+                  <persName>Schmidt</persName>
+                  <occupation>Pfarrer;</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__358">
                   <placeName>Przyjezierze</placeName>
@@ -220,6 +220,14 @@
                      <geo>53.63711 16.61493</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3087839/</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
                </place>
                <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
@@ -236,14 +244,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3083829/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
-               </place>
-               <place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
                </place>
                </listPlace></back></text>
 </TEI>

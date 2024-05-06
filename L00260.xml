@@ -129,6 +129,10 @@
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1982">
+                  <persName>Van der Smissen, Gilbert</persName>
+                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -148,6 +152,10 @@
                   <persName>Heller, Otto</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
+               <person xml:id="tillich_person_id__853">
+                  <persName>Heinzelmann, Gerhard</persName>
+                  <occupation>Syst. Theologe und Wingolfsbruder Tillichs</occupation>
+               </person>
                <person xml:id="tillich_person_id__310">
                   <persName>Büchsel, Friedrich Hermann Martin</persName>
                   <birth>
@@ -158,14 +166,6 @@
                   </death>
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
-               </person>
-               <person xml:id="tillich_person_id__853">
-                  <persName>Heinzelmann, Gerhard</persName>
-                  <occupation>Syst. Theologe und Wingolfsbruder Tillichs</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1982">
-                  <persName>Van der Smissen, Gilbert</persName>
-                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>

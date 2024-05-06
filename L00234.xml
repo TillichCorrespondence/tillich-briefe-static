@@ -100,7 +100,23 @@
             </postscript>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2091">
+   <back><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__416">
+                  <placeName>Stettin</placeName>
+                  <location type="coords">
+                     <geo>53.42894 14.55302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2091">
                   <persName>Witte, Hermann</persName>
                   <birth>
                      <date>1666-12-07</date>
@@ -139,21 +155,5 @@
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__416">
-                  <placeName>Stettin</placeName>
-                  <location type="coords">
-                     <geo>53.42894 14.55302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

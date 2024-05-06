@@ -91,10 +91,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__566">
-                  <persName>F., Caro</persName>
-               </person>
-               <person xml:id="tillich_person_id__2463">
+<back><listPerson><person xml:id="tillich_person_id__2463">
                   <persName>Fuchs, Emil</persName>
                   <birth>
                      <date>1874-05-13</date>
@@ -109,6 +106,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118536567</idno>
+               </person>
+               <person xml:id="tillich_person_id__566">
+                  <persName>F., Caro</persName>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -134,9 +134,9 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1925">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
+<back><listPerson><person xml:id="tillich_person_id__2227">
+                  <persName>???, Emma</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1762">
                   <persName>Seeberger, Elisabeth</persName>
@@ -147,9 +147,9 @@
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
-               <person xml:id="tillich_person_id__2227">
-                  <persName>???, Emma</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+               <person xml:id="tillich_person_id__1925">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__293">
                   <placeName>Misdroy</placeName>

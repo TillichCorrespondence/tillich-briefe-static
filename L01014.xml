@@ -112,13 +112,13 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
+<back><listBibl><bibl xml:id="tillich_work_id__14">Medicus, Fritz, Paul Tillich (Zu seiner Berufung nach Frankfurt), in: Neue Zürcher Zeitung, Nr. 527, vom 19.3.1929.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__242">
+                  <placeName>Korsika</placeName>
                   <location type="coords">
-                     <geo>51.05089 13.73832</geo>
+                     <geo>49.52004 8.85634</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+                  <idno type="geonames">https://sws.geonames.org/2885392/</idno>
                </place>
                <place xml:id="tillich_place_id__119">
                   <placeName>Davos</placeName>
@@ -128,13 +128,6 @@
                   <idno type="geonames">https://sws.geonames.org/2661039/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q56528928</idno>
                </place>
-               <place xml:id="tillich_place_id__242">
-                  <placeName>Korsika</placeName>
-                  <location type="coords">
-                     <geo>49.52004 8.85634</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2885392/</idno>
-               </place>
                <place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
@@ -142,6 +135,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -179,6 +180,5 @@
                <person xml:id="tillich_person_id__2353">
                   <persName>Medicus, Clara</persName>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__14">Medicus, Fritz, Paul Tillich (Zu seiner Berufung nach Frankfurt), in: Neue Zürcher Zeitung, Nr. 527, vom 19.3.1929.</bibl>
-               </listBibl></back></text>
+               </listPerson></back></text>
 </TEI>

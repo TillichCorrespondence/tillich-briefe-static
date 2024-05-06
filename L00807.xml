@@ -160,7 +160,11 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__574">
+   <back><listPerson><person xml:id="tillich_person_id__757">
+                  <persName>Hahl, Margot</persName>
+                  <note type="bio"><p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p></note>
+               </person>
+               <person xml:id="tillich_person_id__574">
                   <persName>Faust, Erich</persName>
                   <occupation>Leitungsposition bei den Röchlinger Eisen- und Stahlwerke</occupation>
                </person>
@@ -178,10 +182,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__757">
-                  <persName>Hahl, Margot</persName>
-                  <note type="bio"><p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p></note>
                </person>
                <person xml:id="tillich_person_id__1826">
                   <persName>Spengler, Oswald</persName>

@@ -106,11 +106,7 @@
             <closer><signed><hi rend="u">Herzl</hi> Dein <rs ref="#tillich_person_id__203" type="person">Lorenz</rs>.</signed></closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1982">
-                  <persName>Van der Smissen, Gilbert</persName>
-                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
-               </person>
-               <person xml:id="tillich_person_id__203">
+   <back><listPerson><person xml:id="tillich_person_id__203">
                   <persName>Bertheau, Lorenz</persName>
                   <occupation>Pfarrer</occupation>
                </person>
@@ -118,6 +114,10 @@
                   <persName>Balke, Hans</persName>
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1982">
+                  <persName>Van der Smissen, Gilbert</persName>
+                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

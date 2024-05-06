@@ -91,23 +91,7 @@
                 </closer>
             </div>
         </body>
-    <back><listPlace><place xml:id="tillich_place_id__355">
-                  <placeName>Porto-Vecchio</placeName>
-                  <location type="coords">
-                     <geo>41.59101 9.27947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2985947/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q241567</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+    <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -139,5 +123,21 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__355">
+                  <placeName>Porto-Vecchio</placeName>
+                  <location type="coords">
+                     <geo>41.59101 9.27947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2985947/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q241567</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

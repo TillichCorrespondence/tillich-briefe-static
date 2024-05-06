@@ -106,7 +106,28 @@
                   <idno type="geonames">https://sws.geonames.org/2944388/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__641">
+               </listPlace><listPerson><person xml:id="tillich_person_id__2355">
+                  <persName>Walker, Gisela</persName>
+                  <note type="bio"><p>Sie war die Patentochter von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2713">
+                  <persName>Pfalzgraf, Erich</persName>
+                  <birth>
+                     <date>1879-11-25</date>
+                     <settlement>
+                        <placeName>Hünfeld</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1937-11-29</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Divisionspfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1035114623</idno>
+               </person>
+               <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
                      <date>1886</date>
@@ -136,27 +157,6 @@
                <person xml:id="tillich_person_id__2707">
                   <persName>Fritz, Eckehardt</persName>
                   <note type="bio"><p>Er war der Sohn von Alfred Fritz und Johanna Fritz. Außerdem war er der Bruder von Paul Tillichs Patentochter Gisela Walker, geborene Fritz.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2713">
-                  <persName>Pfalzgraf, Erich</persName>
-                  <birth>
-                     <date>1879-11-25</date>
-                     <settlement>
-                        <placeName>Hünfeld</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1937-11-29</date>
-                     <settlement>
-                        <placeName>Bremen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Divisionspfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1035114623</idno>
-               </person>
-               <person xml:id="tillich_person_id__2355">
-                  <persName>Walker, Gisela</persName>
-                  <note type="bio"><p>Sie war die Patentochter von Paul Tillich.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -87,17 +87,7 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2807">
-                  <persName>Burger, Fritz</persName>
-                  <occupation>Kunsthistoriker;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1611">
-                  <persName>Rilke, Rainer Maria</persName>
-               </person>
-               <person xml:id="tillich_person_id__1394">
-                  <persName>Nietzsche, Friedrich</persName>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+<back><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
@@ -113,5 +103,15 @@
                   <idno type="geonames">https://sws.geonames.org/3100640/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q336454</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2807">
+                  <persName>Burger, Fritz</persName>
+                  <occupation>Kunsthistoriker;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__1611">
+                  <persName>Rilke, Rainer Maria</persName>
+               </person>
+               </listPerson></back></text>
 </TEI>
