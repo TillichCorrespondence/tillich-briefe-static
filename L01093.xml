@@ -92,7 +92,10 @@
 <postscript><p>Am tollsten sind die Löcher d. alten Burgen <unclear>mit</unclear> Schnee.</p></postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__508">
+<back><listBibl><bibl xml:id="tillich_work_id__60">Lübeckische Blätter. Zeitschrift der Gesellschaft zur Beförderung gemeinnütziger Arbeit, Jg. 73, Nr. 9 (1. März 1931)</bibl>
+               <bibl xml:id="tillich_work_id__19">Tillich, Paul, Religiöse Verwirklichung, Berlin 1930</bibl>
+               <bibl xml:id="tillich_work_id__20">Tillich, Paul, Gläubiger Realismus II, in: Ders., Philosophie und Schicksal. Schriften zur Erkenntnislehre und Existenzphilosophie (GW IV), hg. von Renate Albtecht, Stuttgart 1961, S. 88-106.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__508">
                   <placeName>Niendorf</placeName>
                   <location type="coords">
                      <geo>53.99306 10.82093</geo>
@@ -114,10 +117,7 @@
                   <idno type="geonames">https://sws.geonames.org/2821480/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q321792</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__60">Lübeckische Blätter. Zeitschrift der Gesellschaft zur Beförderung gemeinnütziger Arbeit, Jg. 73, Nr. 9 (1. März 1931)</bibl>
-               <bibl xml:id="tillich_work_id__19">Tillich, Paul, Religiöse Verwirklichung, Berlin 1930</bibl>
-               <bibl xml:id="tillich_work_id__20">Tillich, Paul, Gläubiger Realismus II, in: Ders., Philosophie und Schicksal. Schriften zur Erkenntnislehre und Existenzphilosophie (GW IV), hg. von Renate Albtecht, Stuttgart 1961, S. 88-106.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1923">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>

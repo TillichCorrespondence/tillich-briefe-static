@@ -105,11 +105,16 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2858">
+<back><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2858">
                   <persName>???, Robert</persName>
-               </person>
-               <person xml:id="tillich_person_id__1036">
-                  <persName>Kautzsch, Emil</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -129,17 +134,12 @@
                <person xml:id="tillich_person_id__2235">
                   <persName>Hessel, ???</persName>
                </person>
+               <person xml:id="tillich_person_id__1036">
+                  <persName>Kautzsch, Emil</persName>
+               </person>
                <person xml:id="tillich_person_id__203">
                   <persName>Bertheau, Lorenz</persName>
                   <occupation>Pfarrer</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

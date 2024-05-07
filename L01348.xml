@@ -103,21 +103,21 @@
                   <persName>Apelius, Hildegard</persName>
                   <note type="bio"><p>Sie war eine geborene Erbslöb und die Frau von Wegener.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__594">
-                  <placeName>Stargard</placeName>
-                  <location type="coords">
-                     <geo>53.33672 15.04990</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3084840/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q106268</idno>
-               </place>
-               <place xml:id="tillich_place_id__553">
+               </listPerson><listPlace><place xml:id="tillich_place_id__553">
                   <placeName>Rügenwaldermünde</placeName>
                   <location type="coords">
                      <geo>54.43518 16.37731</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3100640/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q336454</idno>
+               </place>
+               <place xml:id="tillich_place_id__594">
+                  <placeName>Stargard</placeName>
+                  <location type="coords">
+                     <geo>53.33672 15.04990</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3084840/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q106268</idno>
                </place>
                <place xml:id="tillich_place_id__129">
                   <placeName>Dölzig</placeName>

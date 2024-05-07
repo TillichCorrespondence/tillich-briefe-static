@@ -91,15 +91,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__534">
-                  <placeName>Berchtesgaden</placeName>
-                  <location type="coords">
-                     <geo>47.63236 13.00187</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950881/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31910292</idno>
-               </place>
-               <place xml:id="tillich_place_id__327">
+<back><listPlace><place xml:id="tillich_place_id__327">
                   <placeName>Nürnberg</placeName>
                   <location type="coords">
                      <geo>49.45421 11.07752</geo>
@@ -107,20 +99,20 @@
                   <idno type="geonames">https://sws.geonames.org/2861650/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q116874675</idno>
                </place>
+               <place xml:id="tillich_place_id__534">
+                  <placeName>Berchtesgaden</placeName>
+                  <location type="coords">
+                     <geo>47.63236 13.00187</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950881/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31910292</idno>
+               </place>
                <place xml:id="tillich_place_id__23">
                   <placeName>Bad Reichenhall</placeName>
                   <location type="coords">
                      <geo>47.72947 12.87819</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2953371/</idno>
-               </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
                <place xml:id="tillich_place_id__533">
                   <placeName>Königssee</placeName>
@@ -130,10 +122,23 @@
                   <idno type="geonames">https://sws.geonames.org/2885777/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q156715</idno>
                </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1760">
                   <persName>Seeberg, Erich</persName>
                   <occupation>Kirchenhistoriker</occupation>
                   <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -170,11 +175,6 @@
                <person xml:id="tillich_person_id__1761">
                   <persName>Seeberg, Reinhold</persName>
                   <occupation>Systematischer Theologe</occupation>
-               </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
                </listPerson></back></text>
 </TEI>

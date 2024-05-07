@@ -125,24 +125,7 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1852">
-                  <persName>Steinhausen, Hermann</persName>
-                  <birth>
-                     <date>1854-10-07</date>
-                     <settlement>
-                        <placeName>Hoppegarten-Münchehofe</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1928-10-08</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Konsistorialpräsident in Berlin von 1904–1925</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1111512221</idno>
-               </person>
-               <person xml:id="tillich_person_id__2761">
+<back><listPerson><person xml:id="tillich_person_id__2761">
                   <persName>Grillparzer, Franz</persName>
                   <birth>
                      <date>1791-01-15</date>
@@ -159,9 +142,26 @@
                   <occupation>Schriftsteller;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118542192</idno>
                </person>
-               <person xml:id="tillich_person_id__621">
-                  <persName>Frey-Sollberger, Georgy</persName>
-                  <note type="bio"><p>Die Schulfreundin von Tillichs 1920 verstorbener Schwester Johanna war seit 1928 mit dem Schweizer Komponisten und Pianisten Emil Frey (1889-1946) verheiratet.</p></note>
+               <person xml:id="tillich_person_id__2224">
+                  <persName>Dürselen , Paul Rudolf</persName>
+                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1852">
+                  <persName>Steinhausen, Hermann</persName>
+                  <birth>
+                     <date>1854-10-07</date>
+                     <settlement>
+                        <placeName>Hoppegarten-Münchehofe</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1928-10-08</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Konsistorialpräsident in Berlin von 1904–1925</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1111512221</idno>
                </person>
                <person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
@@ -197,9 +197,9 @@
                   <persName>???, Trude</persName>
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2224">
-                  <persName>Dürselen , Paul Rudolf</persName>
-                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               <person xml:id="tillich_person_id__621">
+                  <persName>Frey-Sollberger, Georgy</persName>
+                  <note type="bio"><p>Die Schulfreundin von Tillichs 1920 verstorbener Schwester Johanna war seit 1928 mit dem Schweizer Komponisten und Pianisten Emil Frey (1889-1946) verheiratet.</p></note>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__211">Grillparzer, Friedrich, Des Meeres und der Liebe Wellen: Trauerspiel in fünf Aufzügen. Wien: Daberkow, 1903</bibl>
                </listBibl><listPlace><place xml:id="tillich_place_id__37">

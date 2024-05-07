@@ -96,20 +96,20 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__274">
-                  <placeName>Lübeck</placeName>
-                  <location type="coords">
-                     <geo>53.86893 10.68729</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2875601/</idno>
-               </place>
-               <place xml:id="tillich_place_id__198">
+   <back><listPlace><place xml:id="tillich_place_id__198">
                   <placeName>Hamburg</placeName>
                   <location type="coords">
                      <geo>53.55073 9.99302</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2911298/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
+               </place>
+               <place xml:id="tillich_place_id__274">
+                  <placeName>Lübeck</placeName>
+                  <location type="coords">
+                     <geo>53.86893 10.68729</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2875601/</idno>
                </place>
                <place xml:id="tillich_place_id__530">
                   <placeName>Dortmund</placeName>
@@ -119,7 +119,11 @@
                   <idno type="geonames">https://sws.geonames.org/2935517/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31971850</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
+               </listPlace><listPerson><person xml:id="tillich_person_id__846">
+                  <persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -135,10 +139,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__846">
-                  <persName>Heimann, Eduard</persName>
-                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

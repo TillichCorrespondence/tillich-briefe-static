@@ -119,15 +119,15 @@ Gleichzeitig bitte ich Sie, noch Rezensionsexemplare zu schicken: 1.) an Herrn <
 </hi>
 </p>
 </div>
-</body><back><listPerson><person xml:id="tillich_person_id__2744">
-                  <persName>Quervain, Alfred de</persName>
-               </person>
-               <person xml:id="tillich_person_id__1783">
+</body><back><listPerson><person xml:id="tillich_person_id__1783">
                   <persName>Siegfried, Friedrich Alfred Theodor</persName>
                   <occupation>Theologe/Freund</occupation>
                </person>
                <person xml:id="tillich_person_id__808">
                   <persName>Harnack, Adolf von</persName>
+               </person>
+               <person xml:id="tillich_person_id__2744">
+                  <persName>Quervain, Alfred de</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__224">
                   <placeName>Jena</placeName>

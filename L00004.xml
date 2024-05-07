@@ -125,12 +125,7 @@
                   <idno type="geonames">https://sws.geonames.org/2855598/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q4707648</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1926">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1926">
                   <persName>Tillich, Oskar</persName>
                   <birth>
                      <date>1828</date>
@@ -140,6 +135,11 @@
                   </death>
                   <occupation>Großvater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
                <person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>

@@ -119,63 +119,20 @@
                     <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>.</closer>
             </div>
         </body>
-    <back><listPlace><place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               <place xml:id="tillich_place_id__97">
-                  <placeName>Chaumont</placeName>
-                  <location type="coords">
-                     <geo>48.11121 5.14134</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3025892/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q193880</idno>
-               </place>
-               <place xml:id="tillich_place_id__398">
-                  <placeName>Schönfließ</placeName>
-                  <location type="coords">
-                     <geo>52.96487 14.60667</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083158/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q558719</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1929">
-                  <persName>Tillich, Wilhelmina Mathilde</persName>
-                  <occupation>Mutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2355">
+    <back><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2355">
                   <persName>Walker, Gisela</persName>
                   <note type="bio"><p>Sie war die Patentochter von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2192">
-                  <persName>???, Therese</persName>
-                  <occupation>Gemeindeschwester;</occupation>
-                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                <person xml:id="tillich_person_id__1762">
                   <persName>Seeberger, Elisabeth</persName>
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2192">
+                  <persName>???, Therese</persName>
+                  <occupation>Gemeindeschwester;</occupation>
+                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -196,6 +153,49 @@
                   <persName>Fritz, Eckehardt</persName>
                   <note type="bio"><p>Er war der Sohn von Alfred Fritz und Johanna Fritz. Außerdem war er der Bruder von Paul Tillichs Patentochter Gisela Walker, geborene Fritz.</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
-               </listBibl></back></text>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1929">
+                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <occupation>Mutter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               <place xml:id="tillich_place_id__398">
+                  <placeName>Schönfließ</placeName>
+                  <location type="coords">
+                     <geo>52.96487 14.60667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083158/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q558719</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__97">
+                  <placeName>Chaumont</placeName>
+                  <location type="coords">
+                     <geo>48.11121 5.14134</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3025892/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q193880</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

@@ -87,7 +87,21 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__569">
+<back><listPerson><person xml:id="tillich_person_id__1611">
+                  <persName>Rilke, Rainer Maria</persName>
+               </person>
+               <person xml:id="tillich_person_id__2781">
+                  <persName>Hamsun, Knut</persName>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__569">
                   <placeName>Gera</placeName>
                   <location type="coords">
                      <geo>50.88029 12.08187</geo>
@@ -95,19 +109,5 @@
                   <idno type="geonames">https://sws.geonames.org/2921232/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32029631</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1611">
-                  <persName>Rilke, Rainer Maria</persName>
-               </person>
-               <person xml:id="tillich_person_id__2781">
-                  <persName>Hamsun, Knut</persName>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

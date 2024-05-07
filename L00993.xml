@@ -114,7 +114,11 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/12500814/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
+               </listPlace><listPerson><person xml:id="tillich_person_id__846">
+                  <persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -133,10 +137,6 @@
                </person>
                <person xml:id="tillich_person_id__2681">
                   <persName>???, (Frau)</persName>
-               </person>
-               <person xml:id="tillich_person_id__846">
-                  <persName>Heimann, Eduard</persName>
-                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

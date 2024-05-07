@@ -199,30 +199,33 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__382">
-                  <persName>Clausewitz, Carl von</persName>
+<back><listBibl><bibl xml:id="tillich_work_id__24">Tillich, Paul, Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung, Gütersloh 1912.</bibl>
+               <bibl xml:id="tillich_work_id__23">Tillich, Paul, Der Begriff des übernatürlichen, sein dialektischer Charakter und das Prinzip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher, Königsberg 1915</bibl>
+               <bibl xml:id="tillich_work_id__26">Fichte, Johann Gottlieb, Über den Begriff des wahrhaften Krieges in Bezug auf den Krieg im Jahre 1813, Tübingen 1815.</bibl>
+               <bibl xml:id="tillich_work_id__25">Kant, Immanuel, Zum ewigen Frieden. Ein philosophischer Entwurf, Königsberg 1795.</bibl>
+               <bibl xml:id="tillich_work_id__34">Sturm, Erdmann, An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924), in: International Yearbook for Tillich Research, 10(1), 273-332.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__589">
+                  <persName>Fichte, Johann Gottlieb</persName>
+                  <birth>
+                     <date>1762-05-19</date>
+                     <settlement>
+                        <placeName>Rammenau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1814-01-29</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
                </person>
                <person xml:id="tillich_person_id__1201">
                   <persName>Loofs, Friedrich</persName>
                   <occupation>Kirchenhistoriker</occupation>
                </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1020">
-                  <persName>Kant, Immanuel</persName>
-               </person>
-               <person xml:id="tillich_person_id__1227">
-                  <persName>Lütgert, Wilhelm</persName>
-                  <birth>
-                     <date>1867</date>
-                  </birth>
-                  <death>
-                     <date>1938</date>
-                  </death>
-                  <occupation>Systematischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               <person xml:id="tillich_person_id__382">
+                  <persName>Clausewitz, Carl von</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -255,6 +258,17 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118623761</idno>
                </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
                <person xml:id="tillich_person_id__839">
                   <persName>Hegel, Georg Wilhelm Friedrich</persName>
                   <birth>
@@ -270,6 +284,13 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1020">
+                  <persName>Kant, Immanuel</persName>
                </person>
                <person xml:id="tillich_person_id__1705">
                   <persName>Schelling, Friedrich Wilhelm Joseph</persName>
@@ -287,28 +308,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
                </person>
-               <person xml:id="tillich_person_id__589">
-                  <persName>Fichte, Johann Gottlieb</persName>
-                  <birth>
-                     <date>1762-05-19</date>
-                     <settlement>
-                        <placeName>Rammenau</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1814-01-29</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__23">Tillich, Paul, Der Begriff des übernatürlichen, sein dialektischer Charakter und das Prinzip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher, Königsberg 1915</bibl>
-               <bibl xml:id="tillich_work_id__25">Kant, Immanuel, Zum ewigen Frieden. Ein philosophischer Entwurf, Königsberg 1795.</bibl>
-               <bibl xml:id="tillich_work_id__24">Tillich, Paul, Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung, Gütersloh 1912.</bibl>
-               <bibl xml:id="tillich_work_id__34">Sturm, Erdmann, An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924), in: International Yearbook for Tillich Research, 10(1), 273-332.</bibl>
-               <bibl xml:id="tillich_work_id__26">Fichte, Johann Gottlieb, Über den Begriff des wahrhaften Krieges in Bezug auf den Krieg im Jahre 1813, Tübingen 1815.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__189">
+               </listPerson><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                   <location type="coords">
                      <geo>51.48158 11.97947</geo>

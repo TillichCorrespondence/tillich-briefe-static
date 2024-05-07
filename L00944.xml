@@ -113,14 +113,10 @@
         </closer>
      </div>
     </body>
-  <back><listBibl><bibl xml:id="tillich_work_id__1">Tillich, Paul, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen 1923.</bibl>
-               <bibl xml:id="tillich_work_id__164">Seng, Thomas, Weltanschauung als verlegerische Aufgabe. Der Otto Reichl Verlag 1909-1954. St. Goar 1994</bibl>
+  <back><listBibl><bibl xml:id="tillich_work_id__164">Seng, Thomas, Weltanschauung als verlegerische Aufgabe. Der Otto Reichl Verlag 1909-1954. St. Goar 1994</bibl>
+               <bibl xml:id="tillich_work_id__1">Tillich, Paul, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen 1923.</bibl>
                <bibl xml:id="tillich_work_id__38">Tillich, Paul (Hg.): Kairos. 1ter Band: Zur Geisteslage und Geisteswendung, Darmstadt Otto Reichl Verlag 1926</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1570">
-                  <persName>Reichl, Otto</persName>
-                  <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2518">
+               </listBibl><listPerson><person xml:id="tillich_person_id__2518">
                   <persName>Ruprecht, Gustav</persName>
                   <birth>
                      <date>1860</date>
@@ -130,9 +126,9 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116709065</idno>
                </person>
-               <person xml:id="tillich_person_id__1660">
-                  <persName>Ruprecht, Günther</persName>
-                  <occupation>Ein deutscher Verleger. Er leitete ab 1929 den Göttinger Verlag Vandenhoeck &amp; Ruprecht. Er war eine führende Kraft in der Jungreformatorischen Bewegung im Kirchenkampf innerhalb der Deutschen Evangelischen Kirche (DEK) in der Zeit des Nationalsozialismus</occupation>
+               <person xml:id="tillich_person_id__1570">
+                  <persName>Reichl, Otto</persName>
+                  <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -148,6 +144,10 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1660">
+                  <persName>Ruprecht, Günther</persName>
+                  <occupation>Ein deutscher Verleger. Er leitete ab 1929 den Göttinger Verlag Vandenhoeck &amp; Ruprecht. Er war eine führende Kraft in der Jungreformatorischen Bewegung im Kirchenkampf innerhalb der Deutschen Evangelischen Kirche (DEK) in der Zeit des Nationalsozialismus</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__126">
                   <placeName>Dresden</placeName>

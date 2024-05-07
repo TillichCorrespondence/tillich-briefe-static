@@ -108,6 +108,13 @@
                   <idno type="geonames">https://sws.geonames.org/2643743/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q84</idno>
                </place>
+               <place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place>
                <place xml:id="tillich_place_id__310">
                   <placeName>Nancy</placeName>
                   <location type="coords">
@@ -123,13 +130,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3169070/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q220</idno>
-               </place>
-               <place xml:id="tillich_place_id__343">
-                  <placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2138">
                   <persName>Heller, Otto</persName>

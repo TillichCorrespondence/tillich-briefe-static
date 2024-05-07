@@ -91,12 +91,10 @@
                 </closer>
             </div>
         </body>
-    <back><listPerson><person xml:id="tillich_person_id__1423">
-                  <persName>Oppenheim, Paul</persName>
-                  <occupation>Chemiker und Philosoph</occupation>
-                  <note type="bio"><p>Nach dem Studium der Chemie in Freiburg/Breisgau und Gießen wurde Paul O. 1908 promoviert und übernahm im Anschluss daran die Leitung des familiengeführten Juwelen-Großhandelsgeschäfts ‚N. M. Oppenheim‘. 1926-1933 arbeitete er bei der I. G. Farben. Gemeinsam mit seiner Frau emigrierte er 1933 in ihre Heimatland Belgien. Nach einer Lectorship an der Universität Cambridge (1938) folgte 1939 die Emigration in die USA, wo O. als Privatgelehrter und Spezialist für Wissenschaftstheorie Vortragstätigkeit entfaltete. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1610">
+    <back><listBibl><bibl xml:id="tillich_work_id__80">Sturm, Erdmann, Historische Einleitung zu Tillich, Paul, Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/30), in: Paul Tillich, Frankfurter Vorlesungen (1930-1933) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XVIII), Berlin/Boston 2013, XIX-XLVIII</bibl>
+               <bibl xml:id="tillich_work_id__82">Tillich, Paul, Vorlesung: Griechische Philosophie, Einleitung, in: ders., Frankfurter Vorlesungen (1930-1933) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XVIII), Berlin/Boston 2013, 668-683</bibl>
+               <bibl xml:id="tillich_work_id__81">Tillich, Paul, Vorlesung: Der religiöse Gehalt und die religionsgeschichtliche Bedeutung der griechischen Philosophie, in: ders., Berliner Vorlesungen (1920-1924) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XIII.2), Berlin/New York 2003, 1-198</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1610">
                   <persName>Riezler, Kurt</persName>
                   <birth>
                      <date>1882-02-11</date>
@@ -114,13 +112,28 @@
                   <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
                   <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2395">
+                  <persName>Riezler, Käthe</persName>
+                  <birth>
+                     <date>1885-08-19</date>
+                  </birth>
+                  <death>
+                     <date>1955-09-06</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/116996242</idno>
+                  <note type="bio"><p>Sie war die Tochter von Max Liebermann und die Ehefrau von Kurt Riezler.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1423">
+                  <persName>Oppenheim, Paul</persName>
+                  <occupation>Chemiker und Philosoph</occupation>
+                  <note type="bio"><p>Nach dem Studium der Chemie in Freiburg/Breisgau und Gießen wurde Paul O. 1908 promoviert und übernahm im Anschluss daran die Leitung des familiengeführten Juwelen-Großhandelsgeschäfts ‚N. M. Oppenheim‘. 1926-1933 arbeitete er bei der I. G. Farben. Gemeinsam mit seiner Frau emigrierte er 1933 in ihre Heimatland Belgien. Nach einer Lectorship an der Universität Cambridge (1938) folgte 1939 die Emigration in die USA, wo O. als Privatgelehrter und Spezialist für Wissenschaftstheorie Vortragstätigkeit entfaltete. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941).</p></note>
+               </person>
                <person xml:id="tillich_person_id__1424">
                   <persName>Oppenheim, Gabrielle</persName>
                   <note type="bio"><p>Frau von Paul Oppenheimer. Gemeinsam mit seinem Mann emigriete sie 1933 in ihre Heimatland Belgien. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941). </p></note>
                </person>
-               <person xml:id="tillich_person_id__133">
-                  <persName>Baring, Nina</persName>
-                  <note type="bio"><p>Studium der Philosophie, hörte u.a. Paul Tillich in Dresden.  Arbeitete als Fürsorgerin und als Dozentin an diversen Volkshochschulen. Nach dem Krieg zeitweise Mitwirkung als Übersetzerin Tillichs englischer Arbeiten ins Deutsche.</p></note>
+               <person xml:id="tillich_person_id__1972">
+                  <persName>Usener, Ilse</persName>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -139,19 +152,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1972">
-                  <persName>Usener, Ilse</persName>
-               </person>
-               <person xml:id="tillich_person_id__2395">
-                  <persName>Riezler, Käthe</persName>
-                  <birth>
-                     <date>1885-08-19</date>
-                  </birth>
-                  <death>
-                     <date>1955-09-06</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/116996242</idno>
-                  <note type="bio"><p>Sie war die Tochter von Max Liebermann und die Ehefrau von Kurt Riezler.</p></note>
+               <person xml:id="tillich_person_id__133">
+                  <persName>Baring, Nina</persName>
+                  <note type="bio"><p>Studium der Philosophie, hörte u.a. Paul Tillich in Dresden.  Arbeitete als Fürsorgerin und als Dozentin an diversen Volkshochschulen. Nach dem Krieg zeitweise Mitwirkung als Übersetzerin Tillichs englischer Arbeiten ins Deutsche.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -186,10 +189,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/12136965X</idno>
                   <note type="bio"><p>Karl Hermann U. war der Enkel des Philologen und Religionswissenschaftlers Hermann Carl Useners. Studium der Kunstgeschichte in Marburg, wo er 1929 promoviert wurde. Danach Tätigkeit in Frankfurt am Main und seit 1935 in München, wo er 1940, ein Jahr nach seiner Habilitation, Dozent an der dortigen Universität wurde. 1953 ging er zurück an die Universität Marburg, wo er u.a. Direktor des kunstgeschichtlichen Seminars wurde. In erster Ehe war er mit Ilse Pfennigwerth verheiratet, die in Dresden und Frankfurt bei Tillich studiert hatte.</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__80">Sturm, Erdmann, Historische Einleitung zu Tillich, Paul, Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/30), in: Paul Tillich, Frankfurter Vorlesungen (1930-1933) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XVIII), Berlin/Boston 2013, XIX-XLVIII</bibl>
-               <bibl xml:id="tillich_work_id__82">Tillich, Paul, Vorlesung: Griechische Philosophie, Einleitung, in: ders., Frankfurter Vorlesungen (1930-1933) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XVIII), Berlin/Boston 2013, 668-683</bibl>
-               <bibl xml:id="tillich_work_id__81">Tillich, Paul, Vorlesung: Der religiöse Gehalt und die religionsgeschichtliche Bedeutung der griechischen Philosophie, in: ders., Berliner Vorlesungen (1920-1924) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XIII.2), Berlin/New York 2003, 1-198</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__279">
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
                   <location type="coords">
                      <geo>50.80904 8.77069</geo>

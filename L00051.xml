@@ -95,7 +95,17 @@
 <p>Viele Grüße von <rs ref="#tillich_person_id__2220" type="person">Else Flittner</rs>.</p>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__24">
+<back><listPerson><person xml:id="tillich_person_id__2219">
+                  <persName>Fanerod, Jeanne</persName>
+               </person>
+               <person xml:id="tillich_person_id__2220">
+                  <persName>Flittner, Else</persName>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__24">
                   <placeName>Bad Schönfließ</placeName>
                   <location type="coords">
                      <geo>52.96487 14.60667</geo>
@@ -103,15 +113,5 @@
                   <idno type="geonames">https://sws.geonames.org/3083158/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q558719</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2219">
-                  <persName>Fanerod, Jeanne</persName>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2220">
-                  <persName>Flittner, Else</persName>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

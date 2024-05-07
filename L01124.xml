@@ -183,12 +183,37 @@
                <rs ref="#tillich_place_id__448" type="place">Tübingen</rs>, den </p>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1781">
-                  <persName>Siebeck, Paul</persName>
+   <back><listBibl><bibl xml:id="tillich_work_id__231">Tillich, Paul, Der junge Hegel und das Schicksal Deutschlands, in: Tillich, Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__122">
+                  <placeName>Deutschland</placeName>
+                  <location type="coords">
+                     <geo>51.50000 10.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2921044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q183</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1780">
+                  <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
-               <person xml:id="tillich_person_id__1780">
-                  <persName>Siebeck, Oskar</persName>
+               <person xml:id="tillich_person_id__1781">
+                  <persName>Siebeck, Paul</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
@@ -222,30 +247,5 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__231">Tillich, Paul, Der junge Hegel und das Schicksal Deutschlands, in: Tillich, Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__122">
-                  <placeName>Deutschland</placeName>
-                  <location type="coords">
-                     <geo>51.50000 10.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2921044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q183</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

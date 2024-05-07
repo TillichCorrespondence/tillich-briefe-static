@@ -139,66 +139,22 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__307">
-                  <placeName>Münster</placeName>
-                  <location type="coords">
-                     <geo>51.96236 7.62571</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2867543/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33158887</idno>
-               </place>
-               <place xml:id="tillich_place_id__220">
-                  <placeName>Italien-Sorrento</placeName>
-                  <location type="coords">
-                     <geo>40.62678 14.37771</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3166350/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q30030832</idno>
-               </place>
-               <place xml:id="tillich_place_id__405">
-                  <placeName>Solingen</placeName>
-                  <location type="coords">
-                     <geo>51.17343 7.08450</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2831580/</idno>
-               </place>
-               <place xml:id="tillich_place_id__234">
-                  <placeName>Karlsruhe</placeName>
-                  <location type="coords">
-                     <geo>49.00937 8.40444</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2892794/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1040</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__229">Tillich, Paul, "Philosophie: III. Philosophie und Religion grundsätzlich, in: RGG Bd. 4, 2. Auflage, 1930, Sp. 1227-1233</bibl>
-               <bibl xml:id="tillich_work_id__226">Tillich, Paul, "Offenbarung: V. A. Religionspsychologisch", in RGG Bd. 4, 2. Auflage, 1930, Sp. 664-669</bibl>
-               <bibl xml:id="tillich_work_id__230">Tillich, Paul, "Sozialismus: II. Religiöser Sozialismus", in: RGG 2, Bd. 5, Sp. 637–648, 1931</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__814">
+   <back><listPerson><person xml:id="tillich_person_id__814">
                   <persName>Hartmann, Hans</persName>
                   <occupation>Deutscher evangelischer Pfarrer und Schriftsteller</occupation>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
+               <person xml:id="tillich_person_id__1854">
+                  <persName>Stephan, Horst</persName>
                   <birth>
-                     <date>1886-08-20</date>
+                     <date>1873-08-29</date>
                   </birth>
                   <death>
-                     <date>1965-10-22</date>
+                     <date>1954-01-09</date>
                      <settlement>
-                        <placeName>Chicago, Ill.</placeName>
+                        <placeName>Leipzig</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+                  <idno type="gnd">https://d-nb.info/gnd/117272736</idno>
                </person>
                <person xml:id="tillich_person_id__2309">
                   <persName>Kappes, Heinz</persName>
@@ -218,23 +174,67 @@
                   <idno type="gnd">https://d-nb.info/gnd/128431210</idno>
                   <note type="bio"><p>Er war ein evangelischer Pfarrer, Quäker und Übersetzer. Er galt als religiöser Sozialist.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1854">
-                  <persName>Stephan, Horst</persName>
-                  <birth>
-                     <date>1873-08-29</date>
-                  </birth>
-                  <death>
-                     <date>1954-01-09</date>
-                     <settlement>
-                        <placeName>Leipzig</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117272736</idno>
-               </person>
                <person xml:id="tillich_person_id__1502">
                   <persName>Piper, Otto</persName>
                   <occupation>Deutsch-amerikanischer evangelischer Theologe (Neues Testament und Systematische Theologie)</occupation>
                   <note type="bio"><p>Studium der Theologie in Jena, Marburg und Paris, 1914 erstes theologisches Examen, nach dem freiwilligen Kriegsdienst folgte 1918 das zweite. 1920 wurde er in Göttingen bei Carl Stange zum lic. theol. promoviert und habilitierte sich im Fach Systematische Theologie. 1930 wurde er Nachfolger Karl  Barths an der Universität Münster. P. war zunächst ab 1919 Mitglied der USPD, seit 1922 der SPD. 1933 wurde er aus dem Universitätsdienst entlassen und emigrierte zunächst nach England, wo er an der Universität von Wales lehrte, und schließlich 1937 in die USA, wo er in Princeton lehrte und 1941-1962 auch eine ordentliche Professur (Neues Testament und Systematische Theologie) innehatte. Seine Frau war Elisabeth Piper (1897-1948), geb. Salinger.</p></note>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__220">
+                  <placeName>Italien-Sorrento</placeName>
+                  <location type="coords">
+                     <geo>40.62678 14.37771</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3166350/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q30030832</idno>
+               </place>
+               <place xml:id="tillich_place_id__307">
+                  <placeName>Münster</placeName>
+                  <location type="coords">
+                     <geo>51.96236 7.62571</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2867543/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33158887</idno>
+               </place>
+               <place xml:id="tillich_place_id__405">
+                  <placeName>Solingen</placeName>
+                  <location type="coords">
+                     <geo>51.17343 7.08450</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2831580/</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__234">
+                  <placeName>Karlsruhe</placeName>
+                  <location type="coords">
+                     <geo>49.00937 8.40444</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2892794/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1040</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__229">Tillich, Paul, "Philosophie: III. Philosophie und Religion grundsätzlich, in: RGG Bd. 4, 2. Auflage, 1930, Sp. 1227-1233</bibl>
+               <bibl xml:id="tillich_work_id__230">Tillich, Paul, "Sozialismus: II. Religiöser Sozialismus", in: RGG 2, Bd. 5, Sp. 637–648, 1931</bibl>
+               <bibl xml:id="tillich_work_id__226">Tillich, Paul, "Offenbarung: V. A. Religionspsychologisch", in RGG Bd. 4, 2. Auflage, 1930, Sp. 664-669</bibl>
+               </listBibl></back></text>
 </TEI>

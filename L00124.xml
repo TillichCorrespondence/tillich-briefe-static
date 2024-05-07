@@ -156,67 +156,9 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__474">
-                  <placeName>Worpswerde</placeName>
-                  <location type="coords">
-                     <geo>53.21930 8.93450</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6552711/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q269174</idno>
-               </place>
-               <place xml:id="tillich_place_id__555">
-                  <placeName>Stade</placeName>
-                  <location type="coords">
-                     <geo>53.59337 9.47629</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2829901/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32747857</idno>
-               </place>
-               <place xml:id="tillich_place_id__293">
-                  <placeName>Misdroy</placeName>
-                  <location type="coords">
-                     <geo>53.92921 14.45097</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__75">
-                  <placeName>Bremervörde</placeName>
-                  <location type="coords">
-                     <geo>53.48458 9.14306</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2806">
-                  <persName>Hanffstengel, Theodor von</persName>
-                  <birth>
-                     <date>1844-04-08</date>
-                     <settlement>
-                        <placeName>Bremen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1922-01-05</date>
-                     <settlement>
-                        <placeName>Braunschweig</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
-                  <note type="bio"><p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2171">
-                  <persName>Hanffstengel, Karl von</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+<back><listPerson><person xml:id="tillich_person_id__1033">
+                  <persName>Kattenbusch, Ferdinand</persName>
+                  <occupation>Evangelischer Theologe, Wingolf</occupation>
                </person>
                <person xml:id="tillich_person_id__2082">
                   <persName>Windelband, Wilhelm</persName>
@@ -234,14 +176,14 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
                </person>
-               <person xml:id="tillich_person_id__788">
-                  <persName>Hanffstengel, Gottfried von</persName>
-                  <occupation>Theologe, Jugendfreund</occupation>
-               </person>
                <person xml:id="tillich_person_id__2239">
                   <persName>Elbrechts, ???</persName>
                   <occupation>Theologe;</occupation>
                   <note type="bio"><p>Er wirkte als Candidatus Theologiae in Ostfriesland.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
                </person>
                <person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
@@ -253,10 +195,6 @@
                   </death>
                   <occupation>Systematischer Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
-               </person>
-               <person xml:id="tillich_person_id__1033">
-                  <persName>Kattenbusch, Ferdinand</persName>
-                  <occupation>Evangelischer Theologe, Wingolf</occupation>
                </person>
                <person xml:id="tillich_person_id__2155">
                   <persName>Voget, Hans</persName>
@@ -281,5 +219,67 @@
                   <persName>Bertheau, Lorenz</persName>
                   <occupation>Pfarrer</occupation>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2806">
+                  <persName>Hanffstengel, Theodor von</persName>
+                  <birth>
+                     <date>1844-04-08</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1922-01-05</date>
+                     <settlement>
+                        <placeName>Braunschweig</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
+                  <note type="bio"><p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2171">
+                  <persName>Hanffstengel, Karl von</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__474">
+                  <placeName>Worpswerde</placeName>
+                  <location type="coords">
+                     <geo>53.21930 8.93450</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6552711/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q269174</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               <place xml:id="tillich_place_id__555">
+                  <placeName>Stade</placeName>
+                  <location type="coords">
+                     <geo>53.59337 9.47629</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2829901/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32747857</idno>
+               </place>
+               <place xml:id="tillich_place_id__75">
+                  <placeName>Bremervörde</placeName>
+                  <location type="coords">
+                     <geo>53.48458 9.14306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

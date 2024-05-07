@@ -206,18 +206,7 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__41">
-                  <placeName>Berlin-Lichtenrade</placeName>
-                  <location type="coords">
-                     <geo>52.39844 13.40637</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__827">
-                  <persName>Hauptmann, Gerhart</persName>
-               </person>
-               <person xml:id="tillich_person_id__1705">
+<back><listPerson><person xml:id="tillich_person_id__1705">
                   <persName>Schelling, Friedrich Wilhelm Joseph</persName>
                   <birth>
                      <date>1775-01-27</date>
@@ -237,5 +226,16 @@
                   <persName>Klein, Elisabeth</persName>
                   <occupation>Mutter von Maria Klein (Rhine)</occupation>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__827">
+                  <persName>Hauptmann, Gerhart</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__41">
+                  <placeName>Berlin-Lichtenrade</placeName>
+                  <location type="coords">
+                     <geo>52.39844 13.40637</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

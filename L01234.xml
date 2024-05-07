@@ -191,7 +191,16 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2507">
+   <back><listPerson><person xml:id="tillich_person_id__1821">
+                  <persName>Spann, Othmar</persName>
+               </person>
+               <person xml:id="tillich_person_id__841">
+                  <persName>Heidegger, Martin</persName>
+               </person>
+               <person xml:id="tillich_person_id__2493">
+                  <persName>Nida, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2507">
                   <persName>Gehlen, Arnold</persName>
                   <birth>
                      <date>1904-01-29</date>
@@ -223,8 +232,8 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795570</idno>
                </person>
-               <person xml:id="tillich_person_id__1020">
-                  <persName>Kant, Immanuel</persName>
+               <person xml:id="tillich_person_id__2492">
+                  <persName>Rosenbusch, Agnes</persName>
                </person>
                <person xml:id="tillich_person_id__2475">
                   <persName>Schwietering, Julius</persName>
@@ -241,9 +250,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795805</idno>
-               </person>
-               <person xml:id="tillich_person_id__2493">
-                  <persName>Nida, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -265,16 +271,11 @@
                   <occupation>Altphilologe</occupation>
                   <note type="bio"><p>1905-1910 Studium der Klassischen Philologie in Bonn und Berlin, 1910 Promotion in Berlin, 1914 Habilitation in Bonn. 1916-1918 außerordentlicher Professor in Marburg, 1919-1923 ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf an die Universität Frankfurt, wo R., unterbrochen von einigen Jahren an der Universität Leipzig (1942-1946) bis zu seiner Emeritierung 1951 blieb und lehrte. Er war mit Elly Reinhardt (geb. Boessneck) verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1821">
-                  <persName>Spann, Othmar</persName>
+               <person xml:id="tillich_person_id__1020">
+                  <persName>Kant, Immanuel</persName>
                </person>
-               <person xml:id="tillich_person_id__2492">
-                  <persName>Rosenbusch, Agnes</persName>
-               </person>
-               <person xml:id="tillich_person_id__841">
-                  <persName>Heidegger, Martin</persName>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__87">Heidegger, Martin, Kant und das Problem der Metaphysik, Bonn 1929.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>
@@ -282,6 +283,5 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__87">Heidegger, Martin, Kant und das Problem der Metaphysik, Bonn 1929.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

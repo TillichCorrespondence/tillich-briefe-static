@@ -131,12 +131,12 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1780">
+   <back><listPerson><person xml:id="tillich_person_id__856">
+                  <persName>Heller, Hermann</persName>
+               </person>
+               <person xml:id="tillich_person_id__1780">
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
-               </person>
-               <person xml:id="tillich_person_id__856">
-                  <persName>Heller, Hermann</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

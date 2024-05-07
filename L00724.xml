@@ -87,7 +87,26 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__396">
+<back><listPerson><person xml:id="tillich_person_id__2778">
+                  <persName>M., Nora</persName>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2803">
+                  <persName>Kestenberg, ???</persName>
+                  <occupation>Professor;</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__396">
                   <placeName>Schweden</placeName>
                   <location type="coords">
                      <geo>62.00000 15.00000</geo>
@@ -110,24 +129,5 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3090679/</idno>
                </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2778">
-                  <persName>M., Nora</persName>
-               </person>
-               <person xml:id="tillich_person_id__2803">
-                  <persName>Kestenberg, ???</persName>
-                  <occupation>Professor;</occupation>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

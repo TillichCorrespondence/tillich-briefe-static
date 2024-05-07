@@ -119,8 +119,7 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__64">Tillich, Paul, Die sozialistische Entscheidung, Potsdam 1933</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__2475">
+   <back><listPerson><person xml:id="tillich_person_id__2475">
                   <persName>Schwietering, Julius</persName>
                   <birth>
                      <date>1884-05-24</date>
@@ -167,7 +166,8 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118723154</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__64">Tillich, Paul, Die sozialistische Entscheidung, Potsdam 1933</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>

@@ -94,7 +94,12 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__279">
+<back><listPerson><person xml:id="tillich_person_id__1602">
+                  <persName>Richter, Werner</persName>
+                  <occupation>Germanist und Ministeriumsmitarbeiter</occupation>
+                  <note type="bio"><p>Studium der Germanistik in Berlin, Basel und Marburg. 1910 Promotion, 1913 Habilitation. Die ersten Kriegsjahre verbrachte R. als Soldat, 1916-1918 war er Gastprofessor in Istanbul, 1919/1920 Professor in Greifswald. 1920-1932 Mitarbeit im Preußischen Kultusministerium als Vertrauter Carl Heinrich Beckers. R. selbst gehörte der DVP an. 1932/1933 wurde er ordentlicher Professor an der Universität Berlin, wo er bereits seit 1921 eine Honorarprofessur innehatte. 1933 wurde er zwangspensioniert, 1939 emigrierte er in die USA, wo er bis zu seiner Rückkehr nach Deutschland im Jahr 1949 am Elmhurst College beschäftigt war. Ab 1949 lehrte er in Bonn, 1955 wurde er emeritiert.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
                   <location type="coords">
                      <geo>50.80904 8.77069</geo>
@@ -110,10 +115,5 @@
                   <idno type="geonames">https://sws.geonames.org/2924770/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1602">
-                  <persName>Richter, Werner</persName>
-                  <occupation>Germanist und Ministeriumsmitarbeiter</occupation>
-                  <note type="bio"><p>Studium der Germanistik in Berlin, Basel und Marburg. 1910 Promotion, 1913 Habilitation. Die ersten Kriegsjahre verbrachte R. als Soldat, 1916-1918 war er Gastprofessor in Istanbul, 1919/1920 Professor in Greifswald. 1920-1932 Mitarbeit im Preußischen Kultusministerium als Vertrauter Carl Heinrich Beckers. R. selbst gehörte der DVP an. 1932/1933 wurde er ordentlicher Professor an der Universität Berlin, wo er bereits seit 1921 eine Honorarprofessur innehatte. 1933 wurde er zwangspensioniert, 1939 emigrierte er in die USA, wo er bis zu seiner Rückkehr nach Deutschland im Jahr 1949 am Elmhurst College beschäftigt war. Ab 1949 lehrte er in Bonn, 1955 wurde er emeritiert.</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>
