@@ -87,9 +87,9 @@
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__198">Platon, Phaidros</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1510">
+<back><listPerson><person xml:id="tillich_person_id__1510">
                   <persName>Platon</persName>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__198">Platon, Phaidros</bibl>
+               </listBibl></back></text>
 </TEI>

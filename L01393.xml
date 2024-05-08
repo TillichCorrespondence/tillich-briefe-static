@@ -92,31 +92,12 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__319">
-                  <placeName>New York</placeName>
-                  <location type="coords">
-                     <geo>40.71427 -74.00597</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/5128581/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q60</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__277">
-                  <placeName>Mannheim</placeName>
-                  <location type="coords">
-                     <geo>49.48910 8.46694</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873891/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2119</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1696">
+<back><listPerson><person xml:id="tillich_person_id__2955">
+                  <persName>Zurhellen-Pfleiderer, Else</persName>
+                  <occupation>Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11702676X</idno>
+               </person>
+               <person xml:id="tillich_person_id__1696">
                   <persName>Schafft, Hermann</persName>
                   <birth>
                      <date>1883</date>
@@ -128,10 +109,46 @@
                   <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
                   <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
                </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               <person xml:id="tillich_person_id__2383">
+                  <persName>Frey, Emmy</persName>
+                  <birth>
+                     <date>1884</date>
+                  </birth>
+                  <death>
+                     <date>1956</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1089666586</idno>
+               </person>
+               <person xml:id="tillich_person_id__1256">
+                  <persName>Mannheim, Julia</persName>
+                  <occupation>Psychoanalytikerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2959">
+                  <persName>???, Eva</persName>
+               </person>
+            <person xml:id="tillich_person_id__1739">
+                  <persName>Schreiner, Helmuth</persName>
+                  <occupation>Professor für Praktische Theologie (zw. 1931-37 in Rostock); in Münster wurde er 1945 zum kommissarischen Dekan und 1946 zum Professor für Praktische Theologie an der Westfälischen Wilhelms-Universität berufen und gehörte bis zu seiner Emeritierung 1957 zu dem wesentlichen Kräften im Wiederaufbau der Evangelisch-Theologischen Fakultät</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2958">
+                  <persName>Goma</persName>
+               </person>
+               <person xml:id="tillich_person_id__137">
+                  <persName>Barth, Karl</persName>
+                  <occupation>Theologe;</occupation>
+                  <note type="bio"><p>Er studiere in Bern, Berlin, Tübingen und Marburg.  1909 war er Hilfsprediger der deutschen Gemeinde Genf, wo er Nelly Hoffmann (1893-1976) kennenlernte, die er 1913 heiratete. Seit 1911 war er Pfarrer in Safenwil (Aargau) und hatte eine Nähe zur religiös-sozialen Bewegung. 1919 erscheint B.s Kommentar zum Römerbrief, der insb. in seiner neubearbeiteten Zweitauflage (1922) zu einem Hauptdokument der Dialektischen Theologie wurde. Ruf an die Universität Göttingen im Jahr 1921, 1925-1930 Professor in Münster, ab 1930 in Bonn. Opposition zum Nationalsozialismus und folglich Entlassung. 1934 war er maßgeblicher Verfasser der Barmer Theologischen Erklärung. Seit 1935 in Basel, wo er bis 1962 als Professor wirkte. Bereits 1925 hatte er bei einem Aufenthalt bei den Pestallozis Charlotte von Kirschbaum (1899-1975) kennengelernt, in den Folgejahren entstand eine lebenslange Dreiecksbeziehung. 1940 meldete er sich aus Sorge vor einer deutschen Invasion freiwillig als Soldat im bewaffneten Hilfsdienst. Nach dem Krieg lehrte B. 1946-1947 als Gastprofessor in Bonn und äußerte sich auch in der Nachkriegszeit weiterhin zum politischen Geschehen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2094">
                   <persName>Wolfers, Arnold</persName>
@@ -148,47 +165,16 @@
                   <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
                   <note type="bio"><p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2955">
-                  <persName>Zurhellen-Pfleiderer, Else</persName>
-                  <occupation>Schriftstellerin</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/11702676X</idno>
-               </person>
                <person xml:id="tillich_person_id__2400">
                   <persName>Wolfers, Doris</persName>
                   <note type="bio"><p>Sie war die Frau von Arnold Wolfers.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2948">
-                  <persName>Lommatzsch, Erhard</persName>
-                  <occupation>Romanist und Mediävist</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118574167</idno>
-               </person>
-               <person xml:id="tillich_person_id__697">
-                  <persName>Goldstein, Kurt</persName>
-                  <occupation>Deutsch-amerikanischer Neurologe und Psychiater</occupation>
-                  <note type="bio"><p>Kurt G. studierte bis 1903 Medizin in Breslau und Heidelberg, wo er promoviert wurde. Nach dem Studium arbeitete er zunächst als klinischer Assistent am Neurologischen Institut Frankfurt/Main sowie in der psychiatrischen Klinik der Universität Heidelberg, bevor er 1906-1914 an die psychiatrischen Klinik Königsberg wechselte, an der dortigen Universität als Privatdozent tätig war und sich schließlich auch habilitierte. Bereits 1905 hatte er Ida Zuckermann geheiratet, mit der er drei Töchter hatte. 1916-1930 arbeitete er an der Universität Frankfurt/Main und als Direktor des Neurologischen Instituts. 1930 wechselte er nach Berlin, wo er bis 1933 blieb. Nach kurzer SA-Haft konnte G. 1933 zuerst nach Amsterdam und 1934 weiter in die USA emigrieren. Im selben Jahr ließ es sich von seiner ersten Frau Ida scheiden und heiratete kurz darauf die Neuropsychiaterin Eva Rothmann. In den USA lehrte und arbeitete er bis 1940 an diversen New Yorker Hochschulen (u.a. Columbia) bzw. Kliniken und war anschließend 1940-1945 an der School of Medicine der Tufts University, Massachusetts, beschäftigt. Nach dem Krieg hatte es bis zu seinem Tod eine Privatpraxis in New York und hatte währenddessen diverse Gastprofessuren (u.a. City College, New School, Brandeis Univ.) inne.</p></note>
                </person>
                <person xml:id="tillich_person_id__2957">
                   <persName>Niebuhr, H. Richard</persName>
                   <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119066998</idno>
                </person>
-               <person xml:id="tillich_person_id__137">
-                  <persName>Barth, Karl</persName>
-                  <occupation>Theologe;</occupation>
-                  <note type="bio"><p>Er studiere in Bern, Berlin, Tübingen und Marburg.  1909 war er Hilfsprediger der deutschen Gemeinde Genf, wo er Nelly Hoffmann (1893-1976) kennenlernte, die er 1913 heiratete. Seit 1911 war er Pfarrer in Safenwil (Aargau) und hatte eine Nähe zur religiös-sozialen Bewegung. 1919 erscheint B.s Kommentar zum Römerbrief, der insb. in seiner neubearbeiteten Zweitauflage (1922) zu einem Hauptdokument der Dialektischen Theologie wurde. Ruf an die Universität Göttingen im Jahr 1921, 1925-1930 Professor in Münster, ab 1930 in Bonn. Opposition zum Nationalsozialismus und folglich Entlassung. 1934 war er maßgeblicher Verfasser der Barmer Theologischen Erklärung. Seit 1935 in Basel, wo er bis 1962 als Professor wirkte. Bereits 1925 hatte er bei einem Aufenthalt bei den Pestallozis Charlotte von Kirschbaum (1899-1975) kennengelernt, in den Folgejahren entstand eine lebenslange Dreiecksbeziehung. 1940 meldete er sich aus Sorge vor einer deutschen Invasion freiwillig als Soldat im bewaffneten Hilfsdienst. Nach dem Krieg lehrte B. 1946-1947 als Gastprofessor in Bonn und äußerte sich auch in der Nachkriegszeit weiterhin zum politischen Geschehen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2956">
-                  <persName>Berber, Fritz</persName>
-                  <occupation>Jurist</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118655698</idno>
-               </person>
-               <person xml:id="tillich_person_id__2958">
-                  <persName>Goma</persName>
-               </person>
-               <person xml:id="tillich_person_id__2959">
-                  <persName>???, Eva</persName>
-               </person>
-            <person xml:id="tillich_person_id__1928">
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -202,50 +188,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1212">
-                  <persName>Löwenfeld, Günther</persName>
-                  <occupation>Jurist</occupation>
-                  <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1256">
-                  <persName>Mannheim, Julia</persName>
-                  <occupation>Psychoanalytikerin</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1610">
-                  <persName>Riezler, Kurt</persName>
-                  <birth>
-                     <date>1882-02-11</date>
-                     <settlement>
-                        <placeName>München</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1955-09-06</date>
-                     <settlement>
-                        <placeName>München</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Diplomat und Philosoph</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
-                  <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__641">
-                  <persName>Fritz, Alfred</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                  </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -269,19 +211,25 @@
                   <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
                   <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1739">
-                  <persName>Schreiner, Helmuth</persName>
-                  <occupation>Professor für Praktische Theologie (zw. 1931-37 in Rostock); in Münster wurde er 1945 zum kommissarischen Dekan und 1946 zum Professor für Praktische Theologie an der Westfälischen Wilhelms-Universität berufen und gehörte bis zu seiner Emeritierung 1957 zu dem wesentlichen Kräften im Wiederaufbau der Evangelisch-Theologischen Fakultät</occupation>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
-               <person xml:id="tillich_person_id__2383">
-                  <persName>Frey, Emmy</persName>
-                  <birth>
-                     <date>1884</date>
-                  </birth>
-                  <death>
-                     <date>1956</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/1089666586</idno>
+               <person xml:id="tillich_person_id__697">
+                  <persName>Goldstein, Kurt</persName>
+                  <occupation>Deutsch-amerikanischer Neurologe und Psychiater</occupation>
+                  <note type="bio"><p>Kurt G. studierte bis 1903 Medizin in Breslau und Heidelberg, wo er promoviert wurde. Nach dem Studium arbeitete er zunächst als klinischer Assistent am Neurologischen Institut Frankfurt/Main sowie in der psychiatrischen Klinik der Universität Heidelberg, bevor er 1906-1914 an die psychiatrischen Klinik Königsberg wechselte, an der dortigen Universität als Privatdozent tätig war und sich schließlich auch habilitierte. Bereits 1905 hatte er Ida Zuckermann geheiratet, mit der er drei Töchter hatte. 1916-1930 arbeitete er an der Universität Frankfurt/Main und als Direktor des Neurologischen Instituts. 1930 wechselte er nach Berlin, wo er bis 1933 blieb. Nach kurzer SA-Haft konnte G. 1933 zuerst nach Amsterdam und 1934 weiter in die USA emigrieren. Im selben Jahr ließ es sich von seiner ersten Frau Ida scheiden und heiratete kurz darauf die Neuropsychiaterin Eva Rothmann. In den USA lehrte und arbeitete er bis 1940 an diversen New Yorker Hochschulen (u.a. Columbia) bzw. Kliniken und war anschließend 1940-1945 an der School of Medicine der Tufts University, Massachusetts, beschäftigt. Nach dem Krieg hatte es bis zu seinem Tod eine Privatpraxis in New York und hatte währenddessen diverse Gastprofessuren (u.a. City College, New School, Brandeis Univ.) inne.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1212">
+                  <persName>Löwenfeld, Günther</persName>
+                  <occupation>Jurist</occupation>
+                  <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
                <person xml:id="tillich_person_id__1255">
                   <persName>Mannheim, Karl</persName>
@@ -289,6 +237,58 @@
                   <idno type="gnd">https://d-nb.info/gnd/118577190</idno>
                   <note type="bio"><p>1911-1916 Studium der Philosophie und Literaturwissenschaft in Budapest, 1918 Promotion zum Dr. phil. 1917/1918 war M. Mitglied im Sonntagskreis um György Lukács und Béla Balázs. 1919 erhielt er zunächst einen Lehrauftrag für Philosophie in Budapest, musste aber im selben Jahr nach der Niederschlagung der ungarischen Räterepublik zunächst nach Wien und anschließend 1920 nach Deutschland emigrieren, wo er schließlich in Heidelberg unterkam und sich 1926 bei Alfred Weber für das Fach Soziologie habilitieren konnte. Bis 1930 lehrte er sodann an der Heidelberger Universität, bevor er 1930-1933 Professor der Soziologie und Nationalökonomie in Frankfurt/Main wurde. 1933 Emigration über die Niederlande nach Großbritannien, wo er über die Universität London u. a. 1933-1945 als außerplanmäßiger Lecturer an der London School of Economics lehren konnte. M. war seit 1921 mit der Psychologin Julia, geb. Károlyné Júlia Láng (1893-1955) verheiratet.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2948">
+                  <persName>Lommatzsch, Erhard</persName>
+                  <occupation>Romanist und Mediävist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118574167</idno>
+               </person>
+               <person xml:id="tillich_person_id__1610">
+                  <persName>Riezler, Kurt</persName>
+                  <birth>
+                     <date>1882-02-11</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1955-09-06</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Diplomat und Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
+                  <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2956">
+                  <persName>Berber, Fritz</persName>
+                  <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118655698</idno>
+               </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__286">Tillich, Paul. The Religious Situation, transl. by H. Richard Niebuhr (dt. Die religiöse Lage der Gegenwart), New York 1932.</bibl>
-            </listBibl></back></text>
+            </listBibl><listPlace><place xml:id="tillich_place_id__319">
+                  <placeName>New York</placeName>
+                  <location type="coords">
+                     <geo>40.71427 -74.00597</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5128581/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q60</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__277">
+                  <placeName>Mannheim</placeName>
+                  <location type="coords">
+                     <geo>49.48910 8.46694</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873891/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2119</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

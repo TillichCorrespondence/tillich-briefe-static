@@ -112,6 +112,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1521">
+                  <persName>Pollock, Friedrich</persName>
+                  <occupation>Soziologe, Ökonom</occupation>
+                  <note type="bio"><p>Bereits als Jugendlicher lernte er Max  Horkheimer kennen, mit dem gemeinsam er zeitlebens in Arbeitsteilung und engster Freundschaft zusammenlebte. Ab 1919 Studium der Nationalökonomie und nebenher Philosophie in München, Freiburg und Frankfurt/Main, 1923 Promotion. P. war von Beginn an am Frankfurter Institut für Sozialforschung beschäftigt, hauptsächlich im administrativen Bereich. 1933 Emigration, zunächst nach Genf, 1934 weiter in die USA, wo das übersiedelte Institut in New York in den Räumen der Columbia Universität unterkam. P. war in den Folgejahren weiterhin für die Finanzen und Administration des Instituts zuständig. 1935 heiratete er die geschiedene gebürtige Französin Andrée Marx (1898-1939), geb. Woog, die er bereits seit Jugendtagen kannte. 1950 ging P. zurück nach Deutschland, 1959 zog er gemeinsam mit Horkheimer ins schweizerische Montagnola.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -126,11 +131,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1521">
-                  <persName>Pollock, Friedrich</persName>
-                  <occupation>Soziologe, Ökonom</occupation>
-                  <note type="bio"><p>Bereits als Jugendlicher lernte er Max  Horkheimer kennen, mit dem gemeinsam er zeitlebens in Arbeitsteilung und engster Freundschaft zusammenlebte. Ab 1919 Studium der Nationalökonomie und nebenher Philosophie in München, Freiburg und Frankfurt/Main, 1923 Promotion. P. war von Beginn an am Frankfurter Institut für Sozialforschung beschäftigt, hauptsächlich im administrativen Bereich. 1933 Emigration, zunächst nach Genf, 1934 weiter in die USA, wo das übersiedelte Institut in New York in den Räumen der Columbia Universität unterkam. P. war in den Folgejahren weiterhin für die Finanzen und Administration des Instituts zuständig. 1935 heiratete er die geschiedene gebürtige Französin Andrée Marx (1898-1939), geb. Woog, die er bereits seit Jugendtagen kannte. 1950 ging P. zurück nach Deutschland, 1959 zog er gemeinsam mit Horkheimer ins schweizerische Montagnola.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__268">
                   <placeName>Lissabon</placeName>

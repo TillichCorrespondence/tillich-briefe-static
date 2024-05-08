@@ -115,11 +115,7 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__877">
-                  <persName>Hensmann, Amos</persName>
-                  <occupation>Pfarrer;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2169">
+   <back><listPerson><person xml:id="tillich_person_id__2169">
                   <persName>Struckmaier, ???</persName>
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
@@ -145,6 +141,10 @@
                <person xml:id="tillich_person_id__2175">
                   <persName>Müller, ???</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__877">
+                  <persName>Hensmann, Amos</persName>
+                  <occupation>Pfarrer;</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>

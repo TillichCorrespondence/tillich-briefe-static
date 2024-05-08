@@ -117,9 +117,7 @@
             </postscript>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__9">Tillich, Paul, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen 1924, S. 1-22.</bibl>
-               <bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__143">
+   <back><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>
@@ -127,7 +125,9 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__9">Tillich, Paul, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen 1924, S. 1-22.</bibl>
+               <bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>

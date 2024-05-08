@@ -95,20 +95,23 @@
       
      </div>
     </body>
-  <back><listPerson><person xml:id="tillich_person_id__169">
-                  <persName>Becker, Carl Heinrich</persName>
-                  <occupation>Deutscher Orientalist und Politiker, Kultusminister 1921 und 1925-30</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2621">
-                  <persName>???, Ehrhard</persName>
-               </person>
-               <person xml:id="tillich_person_id__1571">
-                  <persName>Reichwein, Adolf</persName>
-               </person>
-               <person xml:id="tillich_person_id__2620">
-                  <persName>Rosenbaum, (Frau)</persName>
-               </person>
-               <person xml:id="tillich_person_id__1923">
+  <back><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__230">
+                  <placeName>Kampen</placeName>
+                  <location type="coords">
+                     <geo>54.95411 8.34171</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -125,8 +128,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1516">
-                  <persName>Poelchau, Harald</persName>
+               <person xml:id="tillich_person_id__169">
+                  <persName>Becker, Carl Heinrich</persName>
+                  <occupation>Deutscher Orientalist und Politiker, Kultusminister 1921 und 1925-30</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1763">
+                  <persName>Seeberger, Erhard</persName>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -146,25 +154,17 @@
                <person xml:id="tillich_person_id__2688">
                   <persName>Rothschild, ???</persName>
                </person>
-               <person xml:id="tillich_person_id__1763">
-                  <persName>Seeberger, Erhard</persName>
-                  <occupation>Pfarrer</occupation>
+               <person xml:id="tillich_person_id__2620">
+                  <persName>Rosenbaum, (Frau)</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__230">
-                  <placeName>Kampen</placeName>
-                  <location type="coords">
-                     <geo>54.95411 8.34171</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__1516">
+                  <persName>Poelchau, Harald</persName>
+               </person>
+               <person xml:id="tillich_person_id__2621">
+                  <persName>???, Ehrhard</persName>
+               </person>
+               <person xml:id="tillich_person_id__1571">
+                  <persName>Reichwein, Adolf</persName>
+               </person>
+               </listPerson></back></text>
 </TEI>

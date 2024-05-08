@@ -119,9 +119,21 @@
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1930">
-                  <persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
@@ -135,17 +147,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1696">
-                  <persName>Schafft, Hermann</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1959</date>
-                  </death>
-                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
-                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               <person xml:id="tillich_person_id__1930">
+                  <persName>Tillich, Marie</persName>
+                  <occupation>Großmutter</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -166,25 +170,12 @@
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__61">
-                  <placeName>Bieuxy</placeName>
+               </listPerson><listPlace><place xml:id="tillich_place_id__275">
+                  <placeName>Magdeburg</placeName>
                   <location type="coords">
-                     <geo>49.44667 3.26139</geo>
+                     <geo>52.12773 11.62916</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
-               </place>
-               <place xml:id="tillich_place_id__432">
-                  <placeName>Tartiers02290</placeName>
-                  <location type="coords">
-                     <geo>49.43306 3.23889</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6425259/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q871168</idno>
+                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
                </place>
                <place xml:id="tillich_place_id__33">
                   <placeName>Belgien</placeName>
@@ -194,13 +185,6 @@
                   <idno type="geonames">https://sws.geonames.org/2802361/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31</idno>
                </place>
-               <place xml:id="tillich_place_id__275">
-                  <placeName>Magdeburg</placeName>
-                  <location type="coords">
-                     <geo>52.12773 11.62916</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
-               </place>
                <place xml:id="tillich_place_id__161">
                   <placeName>Frankreich</placeName>
                   <location type="coords">
@@ -209,6 +193,14 @@
                   <idno type="geonames">https://sws.geonames.org/3017382/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q142</idno>
                </place>
+               <place xml:id="tillich_place_id__61">
+                  <placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place>
                <place xml:id="tillich_place_id__8">
                   <placeName>Aisne</placeName>
                   <location type="coords">
@@ -216,6 +208,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3038375/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q3093</idno>
+               </place>
+               <place xml:id="tillich_place_id__432">
+                  <placeName>Tartiers02290</placeName>
+                  <location type="coords">
+                     <geo>49.43306 3.23889</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6425259/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q871168</idno>
                </place>
                </listPlace></back></text>
 </TEI>

@@ -196,16 +196,23 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2916">
-                  <persName>Vethake, Wilhelm</persName>
+   <back><listPerson><person xml:id="tillich_person_id__2161">
+                  <persName>Gaul, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2341">
+                  <persName>Heydemeyer, ???</persName>
+                  <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2215">
+                  <persName>Ritter, Rudi</persName>
                </person>
                <person xml:id="tillich_person_id__2157">
                   <persName>Nickelby, C.</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1205">
-                  <persName>Lotz, Ernst</persName>
-                  <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
+               <person xml:id="tillich_person_id__2340">
+                  <persName>Fritsch, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2208">
                   <persName>Kremer, ???</persName>
@@ -215,20 +222,6 @@
                </person>
                <person xml:id="tillich_person_id__1050">
                   <persName>Kilger, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__2215">
-                  <persName>Ritter, Rudi</persName>
-               </person>
-               <person xml:id="tillich_person_id__2161">
-                  <persName>Gaul, ???</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2341">
-                  <persName>Heydemeyer, ???</persName>
-                  <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2340">
-                  <persName>Fritsch, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2147">
                   <persName>Vethake, Hans</persName>
@@ -256,13 +249,20 @@
                <person xml:id="tillich_person_id__2342">
                   <persName>Schafft, Sepp</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__136">
-                  <placeName>Erlangen</placeName>
+               <person xml:id="tillich_person_id__2916">
+                  <persName>Vethake, Wilhelm</persName>
+               </person>
+               <person xml:id="tillich_person_id__1205">
+                  <persName>Lotz, Ernst</persName>
+                  <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__370">
+                  <placeName>Rostock</placeName>
                   <location type="coords">
-                     <geo>49.59099 11.00783</geo>
+                     <geo>54.08870 12.14049</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
+                  <idno type="geonames">https://sws.geonames.org/2844588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32265522</idno>
                </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
@@ -280,13 +280,13 @@
                   <idno type="geonames">https://sws.geonames.org/2867543/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33158887</idno>
                </place>
-               <place xml:id="tillich_place_id__370">
-                  <placeName>Rostock</placeName>
+               <place xml:id="tillich_place_id__136">
+                  <placeName>Erlangen</placeName>
                   <location type="coords">
-                     <geo>54.08870 12.14049</geo>
+                     <geo>49.59099 11.00783</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2844588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32265522</idno>
+                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
                </place>
                </listPlace></back></text>
 </TEI>

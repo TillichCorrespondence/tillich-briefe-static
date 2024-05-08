@@ -151,15 +151,15 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1611">
+<back><listPerson><person xml:id="tillich_person_id__2828">
+                  <persName>Tillich, Karl</persName>
+                  <note type="bio"><p>Er war ein Vetter von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1611">
                   <persName>Rilke, Rainer Maria</persName>
                </person>
                <person xml:id="tillich_person_id__921">
                   <persName>Holbein der Jüngere, Hans</persName>
-               </person>
-               <person xml:id="tillich_person_id__2828">
-                  <persName>Tillich, Karl</persName>
-                  <note type="bio"><p>Er war ein Vetter von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2020">
                   <persName>Wegener, Carl Richard</persName>

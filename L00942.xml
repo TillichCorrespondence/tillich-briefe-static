@@ -111,7 +111,9 @@
         </closer>
      </div>
     </body>
-  <back><listPlace><place xml:id="tillich_place_id__126">
+  <back><listBibl><bibl xml:id="tillich_work_id__68">Tillich, Paul, Dogmatik-Vorlesung (Dresden 1925-1927) (=EW XIV), Berlin et al. 2005.</bibl>
+               <bibl xml:id="tillich_work_id__69">Tillich, Paul, Systematic Theology, 3 Volumes, Chicago 1951/1957/1963</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__126">
                   <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>
@@ -119,9 +121,7 @@
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__69">Tillich, Paul, Systematic Theology, 3 Volumes, Chicago 1951/1957/1963</bibl>
-               <bibl xml:id="tillich_work_id__68">Tillich, Paul, Dogmatik-Vorlesung (Dresden 1925-1927) (=EW XIV), Berlin et al. 2005.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>

@@ -106,10 +106,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2776">
-                  <persName>Storch, Lotte</persName>
-               </person>
-               <person xml:id="tillich_person_id__641">
+<back><listPerson><person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
                      <date>1886</date>
@@ -124,6 +121,9 @@
                <person xml:id="tillich_person_id__705">
                   <persName>Gottschow, Albert</persName>
                   <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2776">
+                  <persName>Storch, Lotte</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__74">
                   <placeName>Bremen</placeName>

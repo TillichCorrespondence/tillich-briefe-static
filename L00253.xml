@@ -164,21 +164,22 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__186">
+   <back><listBibl><bibl xml:id="tillich_work_id__275">Kant, Immanuel. Der Streit der Fakultäten. Deutschland: Nicolovius, 1798.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__186">
                   <placeName>Göttingen</placeName>
                   <location type="coords">
                      <geo>51.53443 9.93228</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2918632/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
                <place xml:id="tillich_place_id__75">
                   <placeName>Bremervörde</placeName>
@@ -208,6 +209,10 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
                </person>
+               <person xml:id="tillich_person_id__1761">
+                  <persName>Seeberg, Reinhold</persName>
+                  <occupation>Systematischer Theologe</occupation>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -226,10 +231,5 @@
                <person xml:id="tillich_person_id__1020">
                   <persName>Kant, Immanuel</persName>
                </person>
-               <person xml:id="tillich_person_id__1761">
-                  <persName>Seeberg, Reinhold</persName>
-                  <occupation>Systematischer Theologe</occupation>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__275">Kant, Immanuel. Der Streit der Fakultäten. Deutschland: Nicolovius, 1798.</bibl>
-               </listBibl></back></text>
+               </listPerson></back></text>
 </TEI>

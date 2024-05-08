@@ -90,11 +90,11 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__171">
-                  <placeName>Front</placeName>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__742">
+<back><listPerson><person xml:id="tillich_person_id__742">
                   <persName>Hartz, Karl</persName>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__171">
+                  <placeName>Front</placeName>
+               </place>
+               </listPlace></back></text>
 </TEI>

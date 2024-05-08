@@ -89,14 +89,37 @@
 </p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2824">
+<back><listPerson><person xml:id="tillich_person_id__2822">
+                  <persName>Brahms, Johannes</persName>
+                  <occupation>Komponist;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2820">
+                  <persName>Massys, Quentin</persName>
+               </person>
+               <person xml:id="tillich_person_id__2824">
                   <persName>Chopin, Frederic</persName>
+               </person>
+               <person xml:id="tillich_person_id__2823">
+                  <persName>Egli, ???</persName>
+                  <occupation>Maler;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__705">
+                  <persName>Gottschow, Albert</persName>
+                  <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1355">
+                  <persName>Mozart, Wolfgang Amadeus</persName>
+               </person>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
                </person>
                <person xml:id="tillich_person_id__2776">
                   <persName>Storch, Lotte</persName>
                </person>
-               <person xml:id="tillich_person_id__2820">
-                  <persName>Massys, Quentin</persName>
+               <person xml:id="tillich_person_id__173">
+                  <persName>Beethoven, Ludwig van</persName>
                </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
@@ -110,31 +133,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2822">
-                  <persName>Brahms, Johannes</persName>
-                  <occupation>Komponist;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1355">
-                  <persName>Mozart, Wolfgang Amadeus</persName>
-               </person>
                <person xml:id="tillich_person_id__2821">
                   <persName>Immow, Gertrud</persName>
-               </person>
-               <person xml:id="tillich_person_id__173">
-                  <persName>Beethoven, Ludwig van</persName>
-               </person>
-               <person xml:id="tillich_person_id__705">
-                  <persName>Gottschow, Albert</persName>
-                  <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2823">
-                  <persName>Egli, ???</persName>
-                  <occupation>Maler;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2041">
-                  <persName>Werner, Marie Luise</persName>
-                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
-                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__260">
                   <placeName>Leipzig</placeName>

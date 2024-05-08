@@ -107,15 +107,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2145">
-                  <persName>Martel, Rachel</persName>
-                  <note type="bio"><p>Er war im Kontakt mit Paul Tillich im 1. Weltkrieg und korrespondierte mit ihm auf Französisch.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1487">
-                  <persName>Pfeiffer, Erich</persName>
-                  <occupation>Hauptmann im 1. WK</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2628">
+<back><listPerson><person xml:id="tillich_person_id__2628">
                   <persName>Wild von Hohenborn, Adolf</persName>
                   <birth>
                      <date>1860-06-08</date>
@@ -131,20 +123,14 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118816136</idno>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               <person xml:id="tillich_person_id__2145">
+                  <persName>Martel, Rachel</persName>
+                  <note type="bio"><p>Er war im Kontakt mit Paul Tillich im 1. Weltkrieg und korrespondierte mit ihm auf Französisch.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__252">
+                  <persName>Bonin, Henning von</persName>
+                  <occupation>Preußischer Infanteriegeneral</occupation>
+                  <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
                </person>
                <person xml:id="tillich_person_id__2629">
                   <persName>Mudra, Bruno von</persName>
@@ -162,26 +148,40 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117604542</idno>
                </person>
-               <person xml:id="tillich_person_id__252">
-                  <persName>Bonin, Henning von</persName>
-                  <occupation>Preußischer Infanteriegeneral</occupation>
-                  <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
+               <person xml:id="tillich_person_id__1487">
+                  <persName>Pfeiffer, Erich</persName>
+                  <occupation>Hauptmann im 1. WK</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__94">
-                  <placeName>Charleville-Mézières</placeName>
-                  <location type="coords">
-                     <geo>49.76850 4.72487</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3026613/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2960786</idno>
-               </place>
-               <place xml:id="tillich_place_id__266">
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__266">
                   <placeName>Lille</placeName>
                   <location type="coords">
                      <geo>50.63297 3.05858</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2998324/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q648</idno>
+               </place>
+               <place xml:id="tillich_place_id__94">
+                  <placeName>Charleville-Mézières</placeName>
+                  <location type="coords">
+                     <geo>49.76850 4.72487</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3026613/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2960786</idno>
                </place>
                </listPlace></back></text>
 </TEI>

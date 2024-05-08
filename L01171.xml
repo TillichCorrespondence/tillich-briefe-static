@@ -91,31 +91,13 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__401">
-                  <placeName>Sils Maria/Engadin</placeName>
-                  <location type="coords">
-                     <geo>46.42886 9.76364</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2658641/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q22624696</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2384">
-                  <persName>Mislin, Hans</persName>
-                  <birth>
-                     <date>1907-05-24</date>
-                     <settlement>
-                        <placeName>Basel</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1993-03-24</date>
-                     <settlement>
-                        <placeName>Morcote</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Professor;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119154714</idno>
-                  <note type="bio"><p>Er engagierte sich 1935 gegen den Faschismus und war später Professor der Zoologie.</p></note>
+<back><listBibl><bibl xml:id="tillich_work_id__22">Tillich, Paul, Der deutsche Idealismus und das proletarische Schicksal, in: Ders., Religion, Kultur, Gesellschaft II (EW XI), hg. von Erdmann Sturm, Berlin/New York 1999, S. 453-461.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2385">
+                  <persName>Mislin, Mutter von Herrn Mislin</persName>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -138,8 +120,23 @@
                   <persName>Frey, Emil</persName>
                   <occupation>Schweizer Komponist und Pianist</occupation>
                </person>
-               <person xml:id="tillich_person_id__2385">
-                  <persName>Mislin, Mutter von Herrn Mislin</persName>
+               <person xml:id="tillich_person_id__2384">
+                  <persName>Mislin, Hans</persName>
+                  <birth>
+                     <date>1907-05-24</date>
+                     <settlement>
+                        <placeName>Basel</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1993-03-24</date>
+                     <settlement>
+                        <placeName>Morcote</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Professor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119154714</idno>
+                  <note type="bio"><p>Er engagierte sich 1935 gegen den Faschismus und war später Professor der Zoologie.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -164,10 +161,13 @@
                   <persName>Boller, Salome</persName>
                   <note type="bio"><p>Tillich hatte B. bei einem früheren Schweizaufenthalt in der Unterkunft der Familie Salis kennengelernt.</p></note>
                </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__22">Tillich, Paul, Der deutsche Idealismus und das proletarische Schicksal, in: Ders., Religion, Kultur, Gesellschaft II (EW XI), hg. von Erdmann Sturm, Berlin/New York 1999, S. 453-461.</bibl>
-               </listBibl></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__401">
+                  <placeName>Sils Maria/Engadin</placeName>
+                  <location type="coords">
+                     <geo>46.42886 9.76364</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2658641/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q22624696</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>
