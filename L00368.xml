@@ -201,17 +201,21 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1061">
+<back><listPerson><person xml:id="tillich_person_id__376">
+                  <persName>Christiansen, Anna</persName>
+                  <occupation>Wohl ebenfalls Schwester von Hans C.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__375">
+                  <persName>Christiansen, Martha</persName>
+                  <occupation>Wohl Schwester von Hans C.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1061">
                   <persName>Klein, Ernst August Ferdinand</persName>
                   <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
                </person>
                <person xml:id="tillich_person_id__1062">
                   <persName>Klein, Lisa</persName>
                   <occupation>Schwester von Maria Klein (Rhine)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__376">
-                  <persName>Christiansen, Anna</persName>
-                  <occupation>Wohl ebenfalls Schwester von Hans C.</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -231,10 +235,6 @@
                <person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
                   <occupation>Mutter von Maria Klein (Rhine)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__375">
-                  <persName>Christiansen, Martha</persName>
-                  <occupation>Wohl Schwester von Hans C.</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__41">
                   <placeName>Berlin-Lichtenrade</placeName>

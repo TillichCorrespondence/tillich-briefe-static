@@ -154,9 +154,21 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1013">
-                  <persName>Kähler, Martin</persName>
-                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
+<back><listPerson><person xml:id="tillich_person_id__839">
+                  <persName>Hegel, Georg Wilhelm Friedrich</persName>
+                  <birth>
+                     <date>1770-08-27</date>
+                     <settlement>
+                        <placeName>Stuttgart</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1831-11-14</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                </person>
                <person xml:id="tillich_person_id__2221">
                   <persName>Diehl, ???</persName>
@@ -177,28 +189,16 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
                </person>
+               <person xml:id="tillich_person_id__1013">
+                  <persName>Kähler, Martin</persName>
+                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
+               </person>
                <person xml:id="tillich_person_id__2771">
                   <persName>Kalweit, ???</persName>
                   <occupation>Theologe;</occupation>
                </person>
                <person xml:id="tillich_person_id__1050">
                   <persName>Kilger, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__839">
-                  <persName>Hegel, Georg Wilhelm Friedrich</persName>
-                  <birth>
-                     <date>1770-08-27</date>
-                     <settlement>
-                        <placeName>Stuttgart</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1831-11-14</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__467">
                   <placeName>Wartburg</placeName>

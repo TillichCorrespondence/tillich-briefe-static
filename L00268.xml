@@ -180,87 +180,33 @@
             </postscript>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__190">Lütgert, Wilhelm, Die johanneische Christologie, in: Beiträge zur Förderung christlicher Theologie, 3. Jg. (1899), 1. Heft, Gütersloh: C. Bertelsmann.</bibl>
-               <bibl xml:id="tillich_work_id__264">Ernst Wilhelm Möller: Lehrbuch der Kirchengeschichte (Hg. Hans von Schubert), Tübingen, 1902.</bibl>
-               <bibl xml:id="tillich_work_id__260">Schlatter, Adolf, Zur Topographie und Geschichte Palästinas, Stuttgart 1893.</bibl>
-               <bibl xml:id="tillich_work_id__261">Weizsäcker, Carl Heinrich, Das apostolische Zeitalter der christlichen Kirchen, Freiburg i.Br. 1892.</bibl>
-               <bibl xml:id="tillich_work_id__270">Tillich, Paul. Welche Bedeutung hat der Gegensatz von monistischer und dualistischer Weltanschauung für die christliche Religion?, in: GW I: Frühe Werke, hrsg. v. Gert Hummel/Doris Lax, Berlin/New York, 1998, 20–153.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1696">
-                  <persName>Schafft, Hermann</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1959</date>
-                  </death>
-                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
-                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2290">
-                  <persName>Makrina, ???</persName>
-                  <birth>
-                     <date>0327</date>
-                  </birth>
-                  <death>
-                     <date>0380</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118813757</idno>
-                  <note type="bio"><p>Sie war eine geweihte Jungfrau und die ältere Schwester von Basilius dem Großen, Gregor von Nyssa und Peter von Sebaste. Sie war eine ähnlich herausragende geistliche Persönlichkeit wie ihre Brüder, deren Lebensweg sie stark beeinflusste.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1340">
-                  <persName>Möller, Wilhelm</persName>
-               </person>
-               <person xml:id="tillich_person_id__1291">
-                  <persName>Medicus, Fritz</persName>
-                  <occupation>Philosoph</occupation>
-                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2282">
-                  <persName>???, Sepp</persName>
-                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
+   <back><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__1743">
                   <persName>Schubert, Daniel</persName>
                   <occupation>Pfarrer</occupation>
                </person>
-               <person xml:id="tillich_person_id__2284">
-                  <persName>???, Wenzel</persName>
+               <person xml:id="tillich_person_id__2282">
+                  <persName>???, Sepp</persName>
                   <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
                </person>
-               <person xml:id="tillich_person_id__925">
-                  <persName>Holtzmann, Heinrich Julius</persName>
+               <person xml:id="tillich_person_id__2195">
+                  <persName>Häfele, ???</persName>
+                  <note type="bio"><p>Er war ein Mitstudent von Paul Tillich in Halle.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2918">
-                  <persName>Hans von Schubert</persName>
+               <person xml:id="tillich_person_id__2283">
+                  <persName>Bakel, Hendrik Anton van</persName>
                   <birth>
-                     <date>1859-12-12</date>
-                     <settlement>
-                        <placeName>Dresden</placeName>
-                     </settlement>
+                     <date>1874</date>
                   </birth>
                   <death>
-                     <date>1931-05-06</date>
-                     <settlement>
-                        <placeName>Heidelberg</placeName>
-                     </settlement>
+                     <date>1948</date>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/104066598</idno>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+                  <occupation>Rektor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127695842</idno>
+                  <note type="bio"><p>Er war Rektor der Magnificus-Universität von Amsterdam.</p></note>
                </person>
                <person xml:id="tillich_person_id__2281">
                   <persName>Weizsäcker, Carl Heinrich</persName>
@@ -280,36 +226,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/117308110</idno>
                   <note type="bio"><p>Er hat sich auf die neutestamentliche Forschung spezialisiert und gilt als Vertreter der Liberalen Theologie.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2195">
-                  <persName>Häfele, ???</persName>
-                  <note type="bio"><p>Er war ein Mitstudent von Paul Tillich in Halle.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__310">
-                  <persName>Büchsel, Friedrich Hermann Martin</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1945</date>
-                  </death>
-                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1227">
-                  <persName>Lütgert, Wilhelm</persName>
-                  <birth>
-                     <date>1867</date>
-                  </birth>
-                  <death>
-                     <date>1938</date>
-                  </death>
-                  <occupation>Systematischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
-               </person>
                <person xml:id="tillich_person_id__1712">
                   <persName>Schlatter, Adolf</persName>
                   <birth>
@@ -327,25 +243,99 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
                </person>
-               <person xml:id="tillich_person_id__2283">
-                  <persName>Bakel, Hendrik Anton van</persName>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
                   <birth>
-                     <date>1874</date>
+                     <date>1867</date>
                   </birth>
                   <death>
-                     <date>1948</date>
+                     <date>1938</date>
                   </death>
-                  <occupation>Rektor;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/127695842</idno>
-                  <note type="bio"><p>Er war Rektor der Magnificus-Universität von Amsterdam.</p></note>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__293">
-                  <placeName>Misdroy</placeName>
-                  <location type="coords">
-                     <geo>53.92921 14.45097</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               <person xml:id="tillich_person_id__2290">
+                  <persName>Makrina, ???</persName>
+                  <birth>
+                     <date>0327</date>
+                  </birth>
+                  <death>
+                     <date>0380</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118813757</idno>
+                  <note type="bio"><p>Sie war eine geweihte Jungfrau und die ältere Schwester von Basilius dem Großen, Gregor von Nyssa und Peter von Sebaste. Sie war eine ähnlich herausragende geistliche Persönlichkeit wie ihre Brüder, deren Lebensweg sie stark beeinflusste.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2918">
+                  <persName>Hans von Schubert</persName>
+                  <birth>
+                     <date>1859-12-12</date>
+                     <settlement>
+                        <placeName>Dresden</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1931-05-06</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/104066598</idno>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__925">
+                  <persName>Holtzmann, Heinrich Julius</persName>
+               </person>
+               <person xml:id="tillich_person_id__310">
+                  <persName>Büchsel, Friedrich Hermann Martin</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1945</date>
+                  </death>
+                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+               </person>
+               <person xml:id="tillich_person_id__2284">
+                  <persName>???, Wenzel</persName>
+                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1340">
+                  <persName>Möller, Wilhelm</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__216">
+                  <placeName>Homberg</placeName>
                </place>
                <place xml:id="tillich_place_id__236">
                   <placeName>Kassel</placeName>
@@ -355,8 +345,18 @@
                   <idno type="geonames">https://sws.geonames.org/2892518/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
                </place>
-               <place xml:id="tillich_place_id__216">
-                  <placeName>Homberg</placeName>
+               <place xml:id="tillich_place_id__293">
+                  <placeName>Misdroy</placeName>
+                  <location type="coords">
+                     <geo>53.92921 14.45097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__264">Ernst Wilhelm Möller: Lehrbuch der Kirchengeschichte (Hg. Hans von Schubert), Tübingen, 1902.</bibl>
+               <bibl xml:id="tillich_work_id__190">Lütgert, Wilhelm, Die johanneische Christologie, in: Beiträge zur Förderung christlicher Theologie, 3. Jg. (1899), 1. Heft, Gütersloh: C. Bertelsmann.</bibl>
+               <bibl xml:id="tillich_work_id__270">Tillich, Paul. Welche Bedeutung hat der Gegensatz von monistischer und dualistischer Weltanschauung für die christliche Religion?, in: GW I: Frühe Werke, hrsg. v. Gert Hummel/Doris Lax, Berlin/New York, 1998, 20–153.</bibl>
+               <bibl xml:id="tillich_work_id__260">Schlatter, Adolf, Zur Topographie und Geschichte Palästinas, Stuttgart 1893.</bibl>
+               <bibl xml:id="tillich_work_id__261">Weizsäcker, Carl Heinrich, Das apostolische Zeitalter der christlichen Kirchen, Freiburg i.Br. 1892.</bibl>
+               </listBibl></back></text>
 </TEI>

@@ -91,31 +91,27 @@
 <back><listPerson><person xml:id="tillich_person_id__1886">
                   <persName>Sydow, Gertrud von</persName>
                </person>
-               <person xml:id="tillich_person_id__228">
-                  <persName>Bloch, Ernst</persName>
-                  <occupation>Deutscher Philosoph</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1735">
-                  <persName>Scholz, Heinrich</persName>
-                  <occupation>deutscher Logiker, Philosoph und evangelischer Theologe</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2814">
-                  <persName>Ziegler, ???</persName>
-                  <occupation>Philosoph;</occupation>
-               </person>
                <person xml:id="tillich_person_id__1703">
                   <persName>Scheler, Max</persName>
-               </person>
-               <person xml:id="tillich_person_id__2810">
-                  <persName>Dox</persName>
                </person>
                <person xml:id="tillich_person_id__2437">
                   <persName>Jessen, Malla</persName>
                   <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1735">
+                  <persName>Scholz, Heinrich</persName>
+                  <occupation>deutscher Logiker, Philosoph und evangelischer Theologe</occupation>
+               </person>
                <person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2810">
+                  <persName>Dox</persName>
+               </person>
+               <person xml:id="tillich_person_id__2814">
+                  <persName>Ziegler, ???</persName>
+                  <occupation>Philosoph;</occupation>
                </person>
                <person xml:id="tillich_person_id__2816">
                   <persName>Stern, ???</persName>
@@ -136,6 +132,10 @@
                   </death>
                   <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
+               </person>
+               <person xml:id="tillich_person_id__228">
+                  <persName>Bloch, Ernst</persName>
+                  <occupation>Deutscher Philosoph</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -134,7 +134,11 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2483">
+               </listPlace><listPerson><person xml:id="tillich_person_id__2482">
+                  <persName>Riedel, Margarete</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1279754710</idno>
+               </person>
+               <person xml:id="tillich_person_id__2483">
                   <persName>Küntzel, Georg</persName>
                   <birth>
                      <date>1870</date>
@@ -143,10 +147,6 @@
                      <date>1945</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116591730</idno>
-               </person>
-               <person xml:id="tillich_person_id__2482">
-                  <persName>Riedel, Margarete</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/1279754710</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

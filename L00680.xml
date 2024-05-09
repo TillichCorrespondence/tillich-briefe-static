@@ -122,26 +122,26 @@ philosophisches Unternehmen unter dem Titel „<rs ref="#tillich_work_id__146" t
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2751">
+<back><listBibl><bibl xml:id="tillich_work_id__146">Werner, Alfred, Philosophische Reihe, München, Rösl.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2751">
                   <persName>Werner, Alfred</persName>
                   <occupation>Philosoph; Herausgeber;</occupation>
                   <note type="bio"><p>Er war Herausgeber der sogenannten "Philosophischen Reihe".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1294">
+                  <persName>Meiner, Felix</persName>
+               </person>
+               <person xml:id="tillich_person_id__1376">
+                  <persName>Natorp, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__1826">
+                  <persName>Spengler, Oswald</persName>
                </person>
                <person xml:id="tillich_person_id__2750">
                   <persName>Verlag Rösl &amp; Cie., ???</persName>
                   <occupation>Institution;</occupation>
                </person>
-               <person xml:id="tillich_person_id__1826">
-                  <persName>Spengler, Oswald</persName>
-               </person>
-               <person xml:id="tillich_person_id__1376">
-                  <persName>Natorp, Paul</persName>
-               </person>
-               <person xml:id="tillich_person_id__1294">
-                  <persName>Meiner, Felix</persName>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__146">Werner, Alfred, Philosophische Reihe, München, Rösl.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__306">
+               </listPerson><listPlace><place xml:id="tillich_place_id__306">
                   <placeName>München</placeName>
                   <location type="coords">
                      <geo>48.13743 11.57549</geo>

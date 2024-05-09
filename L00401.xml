@@ -89,18 +89,7 @@
 <closer><salute>Es grüßt Dich herzlich.</salute>Dein tr. <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs>.</signed></closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2049">
-                  <persName>Wever, Mathilde</persName>
-                  <occupation>Mutter von Greti</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2050">
-                  <persName>Wever, Wolf</persName>
-               </person>
-               <person xml:id="tillich_person_id__2296">
+<back><listPerson><person xml:id="tillich_person_id__2296">
                   <persName>Neumeister, Eckhardt</persName>
                   <occupation>Geheimrat; Medizinalrat;</occupation>
                </person>
@@ -108,13 +97,28 @@
                   <persName>Tillich, Marie</persName>
                   <occupation>Großmutter</occupation>
                </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2049">
+                  <persName>Wever, Mathilde</persName>
+                  <occupation>Mutter von Greti</occupation>
+               </person>
                <person xml:id="tillich_person_id__1742">
                   <persName>Schröder</persName>
                   <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
                </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               <person xml:id="tillich_person_id__2050">
+                  <persName>Wever, Wolf</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -131,19 +135,30 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__641">
-                  <persName>Fritz, Alfred</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                  </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__440">
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__466">
+                  <placeName>Warschau</placeName>
+                  <location type="coords">
+                     <geo>52.22977 21.01178</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/756135/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q270</idno>
+               </place>
+               <place xml:id="tillich_place_id__464">
+                  <placeName>Vézaponin</placeName>
+                  <location type="coords">
+                     <geo>49.45969 3.22826</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2969480/</idno>
+               </place>
+               <place xml:id="tillich_place_id__440">
                   <placeName>Toruń</placeName>
                   <location type="coords">
                      <geo>53.01449 18.60145</geo>
@@ -158,21 +173,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6446494/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
-               </place>
-               <place xml:id="tillich_place_id__466">
-                  <placeName>Warschau</placeName>
-                  <location type="coords">
-                     <geo>52.22977 21.01178</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/756135/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q270</idno>
-               </place>
-               <place xml:id="tillich_place_id__464">
-                  <placeName>Vézaponin</placeName>
-                  <location type="coords">
-                     <geo>49.45969 3.22826</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2969480/</idno>
                </place>
                </listPlace></back></text>
 </TEI>

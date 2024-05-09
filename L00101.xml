@@ -136,10 +136,74 @@
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__190">Lütgert, Wilhelm, Die johanneische Christologie, in: Beiträge zur Förderung christlicher Theologie, 3. Jg. (1899), 1. Heft, Gütersloh: C. Bertelsmann.</bibl>
-               <bibl xml:id="tillich_work_id__188">Lütgert, Wilhelm, Die Kennzeichen des Geistes Gottes, in: Ders., Gottes Sohn und Gottes Geist. Vorträge zur Christologie und zur Lehre vom Geiste Gottes, Leipzig: A. Deichert, 1905, S. 71–86.</bibl>
-               <bibl xml:id="tillich_work_id__189">Martin Kähler: Unser Streit um die Bibel: Vorläufiges zur Verständigung und Beruhigung für "Bibelverehrer", von einem der ihrigen. Leipzig 1895.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1227">
+<back><listPlace><place xml:id="tillich_place_id__578">
+                  <placeName>Kirchheim</placeName>
+                  <location type="coords">
+                     <geo>48.64683 9.45378</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2890473/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32065270</idno>
+               </place>
+               <place xml:id="tillich_place_id__215">
+                  <placeName>Holzgerlingen</placeName>
+                  <location type="coords">
+                     <geo>48.63969 9.01149</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2899880/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32060149</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__420">
+                  <placeName>Stuttgart</placeName>
+                  <location type="coords">
+                     <geo>48.78232 9.17702</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2825297/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32749678</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2082">
+                  <persName>Windelband, Wilhelm</persName>
+                  <birth>
+                     <date>1848-05-11</date>
+                     <settlement>
+                        <placeName>Potsdam</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1915-10-24</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
+               </person>
+               <person xml:id="tillich_person_id__1012">
+                  <persName>Kähler, Ernst</persName>
+               </person>
+               <person xml:id="tillich_person_id__2272">
+                  <persName>Fritz, ???</persName>
+                  <note type="bio"><p>Sie war die Schwester von Alfred Fritz.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
                   <birth>
                      <date>1867</date>
@@ -149,6 +213,9 @@
                   </death>
                   <occupation>Systematischer Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__2790">
+                  <persName>Schrügle, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -169,75 +236,8 @@
                   <persName>Nell, W.</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1012">
-                  <persName>Kähler, Ernst</persName>
-               </person>
-               <person xml:id="tillich_person_id__2082">
-                  <persName>Windelband, Wilhelm</persName>
-                  <birth>
-                     <date>1848-05-11</date>
-                     <settlement>
-                        <placeName>Potsdam</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1915-10-24</date>
-                     <settlement>
-                        <placeName>Heidelberg</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
-               </person>
-               <person xml:id="tillich_person_id__641">
-                  <persName>Fritz, Alfred</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                  </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2272">
-                  <persName>Fritz, ???</persName>
-                  <note type="bio"><p>Sie war die Schwester von Alfred Fritz.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2790">
-                  <persName>Schrügle, ???</persName>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__215">
-                  <placeName>Holzgerlingen</placeName>
-                  <location type="coords">
-                     <geo>48.63969 9.01149</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2899880/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32060149</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__578">
-                  <placeName>Kirchheim</placeName>
-                  <location type="coords">
-                     <geo>48.64683 9.45378</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2890473/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32065270</idno>
-               </place>
-               <place xml:id="tillich_place_id__420">
-                  <placeName>Stuttgart</placeName>
-                  <location type="coords">
-                     <geo>48.78232 9.17702</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2825297/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32749678</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__190">Lütgert, Wilhelm, Die johanneische Christologie, in: Beiträge zur Förderung christlicher Theologie, 3. Jg. (1899), 1. Heft, Gütersloh: C. Bertelsmann.</bibl>
+               <bibl xml:id="tillich_work_id__188">Lütgert, Wilhelm, Die Kennzeichen des Geistes Gottes, in: Ders., Gottes Sohn und Gottes Geist. Vorträge zur Christologie und zur Lehre vom Geiste Gottes, Leipzig: A. Deichert, 1905, S. 71–86.</bibl>
+               <bibl xml:id="tillich_work_id__189">Martin Kähler: Unser Streit um die Bibel: Vorläufiges zur Verständigung und Beruhigung für "Bibelverehrer", von einem der ihrigen. Leipzig 1895.</bibl>
+               </listBibl></back></text>
 </TEI>

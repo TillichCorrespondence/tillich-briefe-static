@@ -107,7 +107,10 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1924">
+<back><listPerson><person xml:id="tillich_person_id__500">
+                  <persName>Dürselen-Grüning, Anneliese</persName>
+               </person>
+               <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
@@ -121,9 +124,6 @@
                </person>
                <person xml:id="tillich_person_id__2831">
                   <persName>???, Ilse</persName>
-               </person>
-               <person xml:id="tillich_person_id__500">
-                  <persName>Dürselen-Grüning, Anneliese</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__607">
                   <placeName>Braunlage</placeName>

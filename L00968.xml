@@ -91,7 +91,15 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__143">
+<back><listPlace><place xml:id="tillich_place_id__272">
+                  <placeName>Lugano</placeName>
+                  <location type="coords">
+                     <geo>46.01008 8.96004</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2659836/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7024</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>
@@ -99,13 +107,12 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               <place xml:id="tillich_place_id__272">
-                  <placeName>Lugano</placeName>
+               <place xml:id="tillich_place_id__472">
+                  <placeName>Wippershain</placeName>
                   <location type="coords">
-                     <geo>46.01008 8.96004</geo>
+                     <geo>50.83140 9.77148</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2659836/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q7024</idno>
+                  <idno type="geonames">https://sws.geonames.org/2807590/</idno>
                </place>
                <place xml:id="tillich_place_id__174">
                   <placeName>Genua</placeName>
@@ -130,13 +137,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__472">
-                  <placeName>Wippershain</placeName>
-                  <location type="coords">
-                     <geo>50.83140 9.77148</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2807590/</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>

@@ -370,19 +370,7 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1061">
-                  <persName>Klein, Ernst August Ferdinand</persName>
-                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1063">
-                  <persName>Klein, Elisabeth</persName>
-                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2760">
-                  <persName>Klein, Peter</persName>
-                  <note type="bio"><p>Er war der jüngere Bruder von Maria Klein bzw. Maria Rhine.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__181">
+<back><listPlace><place xml:id="tillich_place_id__181">
                   <placeName>Greifswald</placeName>
                   <location type="coords">
                      <geo>54.09311 13.38786</geo>
@@ -406,5 +394,17 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2760">
+                  <persName>Klein, Peter</persName>
+                  <note type="bio"><p>Er war der jüngere Bruder von Maria Klein bzw. Maria Rhine.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1061">
+                  <persName>Klein, Ernst August Ferdinand</persName>
+                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1063">
+                  <persName>Klein, Elisabeth</persName>
+                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>

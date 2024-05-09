@@ -147,6 +147,13 @@
                   <idno type="geonames">https://sws.geonames.org/2879139/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
                </place>
+               <place xml:id="tillich_place_id__23">
+                  <placeName>Bad Reichenhall</placeName>
+                  <location type="coords">
+                     <geo>47.72947 12.87819</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953371/</idno>
+               </place>
                <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
@@ -154,13 +161,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__23">
-                  <placeName>Bad Reichenhall</placeName>
-                  <location type="coords">
-                     <geo>47.72947 12.87819</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2953371/</idno>
                </place>
                </listPlace><listBibl><bibl xml:id="tillich_work_id__104">Tillich, Paul, Nichtkirchliche Religionen, in: GW V, 13-31.</bibl>
                </listBibl></back></text>

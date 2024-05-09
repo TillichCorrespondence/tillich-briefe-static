@@ -144,12 +144,12 @@
                   <idno type="gnd">https://d-nb.info/gnd/11737380X</idno>
                   <note type="bio"><p>In seiner Forschung widmete er sich insbesondere der politischen Soziologie.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2490">
+                  <persName>Sulzbach, Maria</persName>
+               </person>
                <person xml:id="tillich_person_id__1780">
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2490">
-                  <persName>Sulzbach, Maria</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

@@ -112,12 +112,7 @@
         </closer>  
      </div>
     </body>
-  <back><listBibl><bibl xml:id="tillich_work_id__105">Seeberg, Erich, Luthers Theologie. Motive und Ideen I. Die Gottesanschauung, Göttingen 1929</bibl>
-               <bibl xml:id="tillich_work_id__106">Tillich, Paul, Vorlesung zur Geschichtsphilosophie, Frankfurt Wintersemester 1929/1930, in: EW XV, S. 1-118.</bibl>
-               <bibl xml:id="tillich_work_id__107">Seeberg, Erich, Wirklichkeit und Geist im Deutschland von heute, Leipzig 1919</bibl>
-               <bibl xml:id="tillich_work_id__108">Tillich, Paul, Philosophie der Macht (zwei Manuskripte), in: EW XI/2, S. 226-232 und S. 233-247</bibl>
-               <bibl xml:id="tillich_work_id__87">Heidegger, Martin, Kant und das Problem der Metaphysik, Bonn 1929.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__230">
+  <back><listPlace><place xml:id="tillich_place_id__230">
                   <placeName>Kampen</placeName>
                   <location type="coords">
                      <geo>54.95411 8.34171</geo>
@@ -140,7 +135,17 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2953371/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__87">Heidegger, Martin, Kant und das Problem der Metaphysik, Bonn 1929.</bibl>
+               <bibl xml:id="tillich_work_id__108">Tillich, Paul, Philosophie der Macht (zwei Manuskripte), in: EW XI/2, S. 226-232 und S. 233-247</bibl>
+               <bibl xml:id="tillich_work_id__107">Seeberg, Erich, Wirklichkeit und Geist im Deutschland von heute, Leipzig 1919</bibl>
+               <bibl xml:id="tillich_work_id__105">Seeberg, Erich, Luthers Theologie. Motive und Ideen I. Die Gottesanschauung, Göttingen 1929</bibl>
+               <bibl xml:id="tillich_work_id__106">Tillich, Paul, Vorlesung zur Geschichtsphilosophie, Frankfurt Wintersemester 1929/1930, in: EW XV, S. 1-118.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1760">
+                  <persName>Seeberg, Erich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -156,11 +161,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1760">
-                  <persName>Seeberg, Erich</persName>
-                  <occupation>Kirchenhistoriker</occupation>
-                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

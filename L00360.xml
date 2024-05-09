@@ -206,7 +206,10 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1063">
+<back><listPerson><person xml:id="tillich_person_id__827">
+                  <persName>Hauptmann, Gerhart</persName>
+               </person>
+               <person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
                   <occupation>Mutter von Maria Klein (Rhine)</occupation>
                </person>
@@ -225,9 +228,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
-               </person>
-               <person xml:id="tillich_person_id__827">
-                  <persName>Hauptmann, Gerhart</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__41">
                   <placeName>Berlin-Lichtenrade</placeName>

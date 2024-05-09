@@ -113,20 +113,13 @@
                 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__164">
-                  <placeName>Freiburg</placeName>
+<back><listPlace><place xml:id="tillich_place_id__179">
+                  <placeName>Gorlice</placeName>
                   <location type="coords">
-                     <geo>47.99590 7.85222</geo>
+                     <geo>49.65563 21.16035</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2925177/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
-               </place>
-               <place xml:id="tillich_place_id__378">
-                  <placeName>Rüdesheim am Rhein</placeName>
-                  <location type="coords">
-                     <geo>49.97890 7.92442</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2843395/</idno>
+                  <idno type="geonames">https://sws.geonames.org/771804/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q947521</idno>
                </place>
                <place xml:id="tillich_place_id__431">
                   <placeName>Tarnow</placeName>
@@ -136,6 +129,14 @@
                   <idno type="geonames">https://sws.geonames.org/757026/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q106281</idno>
                </place>
+               <place xml:id="tillich_place_id__164">
+                  <placeName>Freiburg</placeName>
+                  <location type="coords">
+                     <geo>47.99590 7.85222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925177/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
+               </place>
                <place xml:id="tillich_place_id__172">
                   <placeName>Galizien</placeName>
                   <location type="coords">
@@ -144,21 +145,12 @@
                   <idno type="geonames">https://sws.geonames.org/562153/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q180086</idno>
                </place>
-               <place xml:id="tillich_place_id__63">
-                  <placeName>Bingerbrück</placeName>
+               <place xml:id="tillich_place_id__378">
+                  <placeName>Rüdesheim am Rhein</placeName>
                   <location type="coords">
-                     <geo>49.96612 7.88476</geo>
+                     <geo>49.97890 7.92442</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2948821/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q863777</idno>
-               </place>
-               <place xml:id="tillich_place_id__179">
-                  <placeName>Gorlice</placeName>
-                  <location type="coords">
-                     <geo>49.65563 21.16035</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/771804/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q947521</idno>
+                  <idno type="geonames">https://sws.geonames.org/2843395/</idno>
                </place>
                <place xml:id="tillich_place_id__61">
                   <placeName>Bieuxy</placeName>
@@ -167,6 +159,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6446494/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place>
+               <place xml:id="tillich_place_id__63">
+                  <placeName>Bingerbrück</placeName>
+                  <location type="coords">
+                     <geo>49.96612 7.88476</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2948821/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q863777</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>

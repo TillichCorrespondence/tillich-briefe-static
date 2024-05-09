@@ -93,10 +93,7 @@
 </date>
 </p>
 </div>
-</body><back><listPerson><person xml:id="tillich_person_id__2847">
-                  <persName>Jordan, Julius</persName>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__613">
+</body><back><listPlace><place xml:id="tillich_place_id__613">
                   <placeName>Wittenberg</placeName>
                   <location type="coords">
                      <geo>51.86610 12.64973</geo>
@@ -111,4 +108,7 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace></back></text></TEI>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2847">
+                  <persName>Jordan, Julius</persName>
+               </person>
+               </listPerson></back></text></TEI>

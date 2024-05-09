@@ -168,6 +168,17 @@
                   <persName>Klein, Ernst August Ferdinand</persName>
                   <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
                </person>
+               <person xml:id="tillich_person_id__1594">
+                  <persName>Rhine, Maria</persName>
+                  <birth>
+                     <date>1895-12-01</date>
+                  </birth>
+                  <death>
+                     <date>1975-09-23</date>
+                  </death>
+                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
+               </person>
                <person xml:id="tillich_person_id__1062">
                   <persName>Klein, Lisa</persName>
                   <occupation>Schwester von Maria Klein (Rhine)</occupation>
@@ -186,17 +197,6 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1594">
-                  <persName>Rhine, Maria</persName>
-                  <birth>
-                     <date>1895-12-01</date>
-                  </birth>
-                  <death>
-                     <date>1975-09-23</date>
-                  </death>
-                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -90,7 +90,10 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__515">
+<back><listPerson><person xml:id="tillich_person_id__2830">
+                  <persName>Kleedehe, ???</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__515">
                   <placeName>Kaliningrad (Königsberg)</placeName>
                   <location type="coords">
                      <geo>54.70649 20.51095</geo>
@@ -98,8 +101,5 @@
                   <idno type="geonames">https://sws.geonames.org/554234/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1829</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2830">
-                  <persName>Kleedehe, ???</persName>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

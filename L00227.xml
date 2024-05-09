@@ -130,43 +130,40 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2271">
+   <back><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2271">
                   <persName>Bromisch, ???</persName>
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2215">
                   <persName>Ritter, Rudi</persName>
                </person>
-               <person xml:id="tillich_person_id__2241">
-                  <persName>Hüpfer, ???</persName>
-               </person>
                <person xml:id="tillich_person_id__1738">
                   <persName>Schreiber, Hans</persName>
                </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1377">
-                  <persName>Naumann, Friedrich</persName>
-               </person>
-               <person xml:id="tillich_person_id__2915">
-                  <persName>Weiß, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2212">
-                  <persName>Gräber, ???</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
+               <person xml:id="tillich_person_id__2241">
+                  <persName>Hüpfer, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1591">
                   <persName>Rhein, Christoph</persName>
                   <occupation>Pfarrer in Berlin, Verfasser einer der ersten Dissertation zu „Paul Tillich – Philosoph und Theologe“, Eine Einführung in sein Denken, Evangelisches Verlagswerk, Stuttgart 1957.</occupation>
                </person>
+               <person xml:id="tillich_person_id__2212">
+                  <persName>Gräber, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2915">
+                  <persName>Weiß, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1377">
+                  <persName>Naumann, Friedrich</persName>
+               </person>
                <person xml:id="tillich_person_id__2242">
                   <persName>Schmidt</persName>
                   <occupation>Pfarrer;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -187,6 +184,9 @@
                   <persName>Balke, Hans</persName>
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>

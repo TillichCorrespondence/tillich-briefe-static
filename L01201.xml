@@ -147,14 +147,6 @@
                   <idno type="geonames">https://sws.geonames.org/2895044/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
                </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
                <place xml:id="tillich_place_id__198">
                   <placeName>Hamburg</placeName>
                   <location type="coords">
@@ -171,16 +163,25 @@
                   <idno type="geonames">https://sws.geonames.org/2946447/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1723">
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__251">Barth, Karl, Briefe des Jahres 1933, hg. von Eberhard Busch, Zürich 2004.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__137">
+                  <persName>Barth, Karl</persName>
+                  <occupation>Theologe;</occupation>
+                  <note type="bio"><p>Er studiere in Bern, Berlin, Tübingen und Marburg.  1909 war er Hilfsprediger der deutschen Gemeinde Genf, wo er Nelly Hoffmann (1893-1976) kennenlernte, die er 1913 heiratete. Seit 1911 war er Pfarrer in Safenwil (Aargau) und hatte eine Nähe zur religiös-sozialen Bewegung. 1919 erscheint B.s Kommentar zum Römerbrief, der insb. in seiner neubearbeiteten Zweitauflage (1922) zu einem Hauptdokument der Dialektischen Theologie wurde. Ruf an die Universität Göttingen im Jahr 1921, 1925-1930 Professor in Münster, ab 1930 in Bonn. Opposition zum Nationalsozialismus und folglich Entlassung. 1934 war er maßgeblicher Verfasser der Barmer Theologischen Erklärung. Seit 1935 in Basel, wo er bis 1962 als Professor wirkte. Bereits 1925 hatte er bei einem Aufenthalt bei den Pestallozis Charlotte von Kirschbaum (1899-1975) kennengelernt, in den Folgejahren entstand eine lebenslange Dreiecksbeziehung. 1940 meldete er sich aus Sorge vor einer deutschen Invasion freiwillig als Soldat im bewaffneten Hilfsdienst. Nach dem Krieg lehrte B. 1946-1947 als Gastprofessor in Bonn und äußerte sich auch in der Nachkriegszeit weiterhin zum politischen Geschehen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1723">
                   <persName>Schmidt, Karl Ludwig</persName>
                   <occupation>evangelischer Theologe (Neues Testament)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
                   <note type="bio"><p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__137">
-                  <persName>Barth, Karl</persName>
-                  <occupation>Theologe;</occupation>
-                  <note type="bio"><p>Er studiere in Bern, Berlin, Tübingen und Marburg.  1909 war er Hilfsprediger der deutschen Gemeinde Genf, wo er Nelly Hoffmann (1893-1976) kennenlernte, die er 1913 heiratete. Seit 1911 war er Pfarrer in Safenwil (Aargau) und hatte eine Nähe zur religiös-sozialen Bewegung. 1919 erscheint B.s Kommentar zum Römerbrief, der insb. in seiner neubearbeiteten Zweitauflage (1922) zu einem Hauptdokument der Dialektischen Theologie wurde. Ruf an die Universität Göttingen im Jahr 1921, 1925-1930 Professor in Münster, ab 1930 in Bonn. Opposition zum Nationalsozialismus und folglich Entlassung. 1934 war er maßgeblicher Verfasser der Barmer Theologischen Erklärung. Seit 1935 in Basel, wo er bis 1962 als Professor wirkte. Bereits 1925 hatte er bei einem Aufenthalt bei den Pestallozis Charlotte von Kirschbaum (1899-1975) kennengelernt, in den Folgejahren entstand eine lebenslange Dreiecksbeziehung. 1940 meldete er sich aus Sorge vor einer deutschen Invasion freiwillig als Soldat im bewaffneten Hilfsdienst. Nach dem Krieg lehrte B. 1946-1947 als Gastprofessor in Bonn und äußerte sich auch in der Nachkriegszeit weiterhin zum politischen Geschehen.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -197,6 +198,5 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__251">Barth, Karl, Briefe des Jahres 1933, hg. von Eberhard Busch, Zürich 2004.</bibl>
-               </listBibl></back></text>
+               </listPerson></back></text>
 </TEI>

@@ -118,8 +118,7 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__230">Tillich, Paul, "Sozialismus: II. Religiöser Sozialismus", in: RGG 2, Bd. 5, Sp. 637–648, 1931</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -138,7 +137,8 @@
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__352">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__230">Tillich, Paul, "Sozialismus: II. Religiöser Sozialismus", in: RGG 2, Bd. 5, Sp. 637–648, 1931</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__352">
                   <placeName>Polen-Neuendorf</placeName>
                   <location type="coords">
                      <geo>54.33333 18.73333</geo>

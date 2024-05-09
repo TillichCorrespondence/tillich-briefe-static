@@ -107,15 +107,15 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__506">
+<back><listPerson><person xml:id="tillich_person_id__1807">
+                  <persName>Soden, Hans Freiherr von</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__506">
                   <placeName>Breslau</placeName>
                   <location type="coords">
                      <geo>51.10000 17.03333</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3081368/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1807">
-                  <persName>Soden, Hans Freiherr von</persName>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

@@ -103,8 +103,16 @@
 <p><rs ref="#tillich_person_id__2787" type="person">Franz Balke</rs></p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2787">
-                  <persName>Balke, Franz</persName>
+<back><listPerson><person xml:id="tillich_person_id__2770">
+                  <persName>Balke, Paul</persName>
+                  <birth>
+                     <date>1871-06-17</date>
+                     <settlement>
+                        <placeName>Saalfeld/Saale</placeName>
+                     </settlement>
+                  </birth>
+                  <idno type="gnd">https://d-nb.info/gnd/1068177888</idno>
+                  <note type="bio"><p>Er war der Bruder von Hans Balke.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -125,16 +133,8 @@
                   <persName>Heim, Karl</persName>
                   <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
                </person>
-               <person xml:id="tillich_person_id__2770">
-                  <persName>Balke, Paul</persName>
-                  <birth>
-                     <date>1871-06-17</date>
-                     <settlement>
-                        <placeName>Saalfeld/Saale</placeName>
-                     </settlement>
-                  </birth>
-                  <idno type="gnd">https://d-nb.info/gnd/1068177888</idno>
-                  <note type="bio"><p>Er war der Bruder von Hans Balke.</p></note>
+               <person xml:id="tillich_person_id__2787">
+                  <persName>Balke, Franz</persName>
                </person>
                <person xml:id="tillich_person_id__128">
                   <persName>Balke, Hans</persName>

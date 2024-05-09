@@ -93,13 +93,13 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__81">
-                  <placeName>Cambrai</placeName>
+<back><listPlace><place xml:id="tillich_place_id__266">
+                  <placeName>Lille</placeName>
                   <location type="coords">
-                     <geo>50.17596 3.23472</geo>
+                     <geo>50.63297 3.05858</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3029030/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q181285</idno>
+                  <idno type="geonames">https://sws.geonames.org/2998324/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q648</idno>
                </place>
                <place xml:id="tillich_place_id__454">
                   <placeName>Valenciennes</placeName>
@@ -109,13 +109,13 @@
                   <idno type="geonames">https://sws.geonames.org/2971041/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q163795</idno>
                </place>
-               <place xml:id="tillich_place_id__266">
-                  <placeName>Lille</placeName>
+               <place xml:id="tillich_place_id__81">
+                  <placeName>Cambrai</placeName>
                   <location type="coords">
-                     <geo>50.63297 3.05858</geo>
+                     <geo>50.17596 3.23472</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2998324/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q648</idno>
+                  <idno type="geonames">https://sws.geonames.org/3029030/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q181285</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__310">
                   <persName>Büchsel, Friedrich Hermann Martin</persName>
