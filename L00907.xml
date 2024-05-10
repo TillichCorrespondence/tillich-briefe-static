@@ -122,7 +122,26 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2574">
+<back><listPerson><person xml:id="tillich_person_id__2577">
+                  <persName>Baker, Josephine</persName>
+                  <birth>
+                     <date>1906-06-03</date>
+                     <settlement>
+                        <placeName>Saint Louis, Mo.</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1975-04-12</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118506099</idno>
+               </person>
+               <person xml:id="tillich_person_id__2513">
+                  <persName>???, Nora</persName>
+               </person>
+               <person xml:id="tillich_person_id__2574">
                   <persName>Corot, Jean-Baptiste Camille</persName>
                   <birth>
                      <date>1796-07-16</date>
@@ -137,6 +156,19 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118522256</idno>
+               </person>
+               <person xml:id="tillich_person_id__2575">
+                  <persName>Cezanne, Paul</persName>
+                  <birth>
+                     <date>1839</date>
+                  </birth>
+                  <death>
+                     <date>1906</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118519964</idno>
+               </person>
+               <person xml:id="tillich_person_id__1343">
+                  <persName>Monet, Claude</persName>
                </person>
                <person xml:id="tillich_person_id__2436">
                   <persName>Hamburger, Hans</persName>
@@ -156,36 +188,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/116422521</idno>
                   <note type="bio"><p>Er lebte Mitte der 1920er in Köln. Zu dieser Zeit war er mit Paul Tillich bekannt. Sie trafen sich auch 1926 in Paris.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2575">
-                  <persName>Cezanne, Paul</persName>
-                  <birth>
-                     <date>1839</date>
-                  </birth>
-                  <death>
-                     <date>1906</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118519964</idno>
-               </person>
-               <person xml:id="tillich_person_id__1343">
-                  <persName>Monet, Claude</persName>
-               </person>
                <person xml:id="tillich_person_id__2576">
                   <persName>Maupassant, Guy de</persName>
                   <birth>
@@ -201,25 +203,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118579207</idno>
-               </person>
-               <person xml:id="tillich_person_id__2577">
-                  <persName>Baker, Josephine</persName>
-                  <birth>
-                     <date>1906-06-03</date>
-                     <settlement>
-                        <placeName>Saint Louis, Mo.</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1975-04-12</date>
-                     <settlement>
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118506099</idno>
-               </person>
-               <person xml:id="tillich_person_id__2513">
-                  <persName>???, Nora</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -239,6 +222,23 @@
                <person xml:id="tillich_person_id__2437">
                   <persName>Jessen, Malla</persName>
                   <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__343">
                   <placeName>Paris</placeName>

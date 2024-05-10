@@ -91,7 +91,15 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPlace><place xml:id="tillich_place_id__507">
+                  <placeName>Travemünde</placeName>
+                  <location type="coords">
+                     <geo>53.96304 10.87090</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2821480/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q321792</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -128,13 +136,5 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__507">
-                  <placeName>Travemünde</placeName>
-                  <location type="coords">
-                     <geo>53.96304 10.87090</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2821480/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q321792</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

@@ -90,7 +90,14 @@
 <postscript><p><pb n="2"/>unser Hotel<note type="ea">Notiz Tillichs auf der Kartenfront, dazu ein enstprechender Pfeil zu einem Gebäude auf dem Kartenmotiv.</note></p></postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPlace><place xml:id="tillich_place_id__445">
+                  <placeName>Trouville sur Mer</placeName>
+                  <location type="coords">
+                     <geo>49.36595 0.08004</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2971555/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -122,12 +129,5 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__445">
-                  <placeName>Trouville sur Mer</placeName>
-                  <location type="coords">
-                     <geo>49.36595 0.08004</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2971555/</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

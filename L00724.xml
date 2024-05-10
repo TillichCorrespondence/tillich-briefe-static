@@ -87,12 +87,13 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__352">
-                  <placeName>Polen-Neuendorf</placeName>
+<back><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
-                     <geo>54.33333 18.73333</geo>
+                     <geo>52.52437 13.41053</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3090679/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                <place xml:id="tillich_place_id__396">
                   <placeName>Schweden</placeName>
@@ -102,6 +103,13 @@
                   <idno type="geonames">https://sws.geonames.org/2661886/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q34</idno>
                </place>
+               <place xml:id="tillich_place_id__352">
+                  <placeName>Polen-Neuendorf</placeName>
+                  <location type="coords">
+                     <geo>54.33333 18.73333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3090679/</idno>
+               </place>
                <place xml:id="tillich_place_id__569">
                   <placeName>Gera</placeName>
                   <location type="coords">
@@ -109,14 +117,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2921232/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32029631</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2778">
                   <persName>M., Nora</persName>

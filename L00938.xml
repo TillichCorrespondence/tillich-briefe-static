@@ -112,41 +112,7 @@
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__31">Goetz, Bruno, Das göttliche Gesicht, Leipzig 1927.</bibl>
-               <bibl xml:id="tillich_work_id__27">Goetz, Bruno, Das Reich ohne Raum, Potsdam 1919. Erweiterte Ausgabe: Das Reich ohne Raum. Eine Chronik wunderlicher Begebenheiten. Neue unverstümmelte Ausgabe, Konstanz 1925.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2609">
-                  <persName>Ruckteschell, Elisabeth von</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                     <settlement>
-                        <placeName>Zürich</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Malerin;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/139305041</idno>
-                  <note type="bio"><p>Sie war die Ehefrau von Bruno Goetz.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__691">
+<back><listPerson><person xml:id="tillich_person_id__691">
                   <persName>Goetz, Bruno</persName>
                   <birth>
                      <date>1885-11-06</date>
@@ -163,10 +129,20 @@
                   <occupation>Deutschbaltischer Dichter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119192330</idno>
                </person>
-               <person xml:id="tillich_person_id__2606">
-                  <persName>Hattemer, Lotte</persName>
-                  <occupation>Lehrerin; Kommunengründerin;</occupation>
-                  <note type="bio"><p>Sie war Mitbegründerin des Monte Verità in Ascona.</p></note>
+               <person xml:id="tillich_person_id__2609">
+                  <persName>Ruckteschell, Elisabeth von</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                     <settlement>
+                        <placeName>Zürich</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Malerin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139305041</idno>
+                  <note type="bio"><p>Sie war die Ehefrau von Bruno Goetz.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -183,5 +159,29 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2606">
+                  <persName>Hattemer, Lotte</persName>
+                  <occupation>Lehrerin; Kommunengründerin;</occupation>
+                  <note type="bio"><p>Sie war Mitbegründerin des Monte Verità in Ascona.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__27">Goetz, Bruno, Das Reich ohne Raum, Potsdam 1919. Erweiterte Ausgabe: Das Reich ohne Raum. Eine Chronik wunderlicher Begebenheiten. Neue unverstümmelte Ausgabe, Konstanz 1925.</bibl>
+               <bibl xml:id="tillich_work_id__31">Goetz, Bruno, Das göttliche Gesicht, Leipzig 1927.</bibl>
+               </listBibl></back></text>
 </TEI>

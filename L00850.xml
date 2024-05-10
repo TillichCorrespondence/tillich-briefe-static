@@ -151,13 +151,13 @@
             <fw><hi rend="u">H. 3 d L 1.</hi></fw>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
+   <back><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
-                     <geo>51.05089 13.73832</geo>
+                     <geo>52.52437 13.41053</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                <place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
@@ -167,19 +167,15 @@
                   <idno type="geonames">https://sws.geonames.org/2873759/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
                   <location type="coords">
-                     <geo>52.52437 13.41053</geo>
+                     <geo>51.05089 13.73832</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2457">
-                  <persName>Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung, ???</persName>
-                  <occupation>Institution;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2465">
+               </listPlace><listPerson><person xml:id="tillich_person_id__2465">
                   <persName>Nägel, Adolph</persName>
                   <birth>
                      <date>1875</date>
@@ -193,6 +189,10 @@
                   <occupation>Rektor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119534061</idno>
                   <note type="bio"><p>Er wirkte als Rektor der Technischen Hochschule Dresden von 1923 bis 1925 und wiederum von 1928 bis 1929.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2457">
+                  <persName>Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung, ???</persName>
+                  <occupation>Institution;</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

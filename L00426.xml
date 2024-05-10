@@ -85,23 +85,7 @@
 <closer>Dein <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>.</closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__435">
-                  <placeName>Tergnier</placeName>
-                  <location type="coords">
-                     <geo>49.65607 3.30107</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2973146/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q378973</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2322">
+<back><listPerson><person xml:id="tillich_person_id__2322">
                   <persName>Gronau, Johann Karl Hermann von</persName>
                   <birth>
                      <date>1850</date>
@@ -145,5 +129,21 @@
                   <occupation>Hauptmann;</occupation>
                   <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__435">
+                  <placeName>Tergnier</placeName>
+                  <location type="coords">
+                     <geo>49.65607 3.30107</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2973146/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q378973</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

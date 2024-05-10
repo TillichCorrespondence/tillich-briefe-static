@@ -96,7 +96,15 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1924">
+<back><listPlace><place xml:id="tillich_place_id__423">
+                  <placeName>Sulden</placeName>
+                  <location type="coords">
+                     <geo>46.52715 10.58905</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3166437/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q536016</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
@@ -125,13 +133,5 @@
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
                <bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__423">
-                  <placeName>Sulden</placeName>
-                  <location type="coords">
-                     <geo>46.52715 10.58905</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3166437/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q536016</idno>
-               </place>
-               </listPlace></back></text>
+               </listBibl></back></text>
 </TEI>

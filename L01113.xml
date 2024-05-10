@@ -101,13 +101,13 @@
                   <idno type="geonames">https://sws.geonames.org/2759821/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33421377</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1548">
-                  <persName>Radbruch, Gustav</persName>
-               </person>
-               <person xml:id="tillich_person_id__1979">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1979">
                   <persName>Van de Water, Adrianus Pieter</persName>
                   <occupation>Theologe</occupation>
                   <note type="bio"><p>seit 1930 Direktor der Schule für Philosophie in Amersfoort (International School voor Wijsbegeerte).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1548">
+                  <persName>Radbruch, Gustav</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

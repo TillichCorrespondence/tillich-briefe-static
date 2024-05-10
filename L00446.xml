@@ -141,14 +141,10 @@
 <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>. </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__227">
-                  <placeName>Juvigny (Aisne)</placeName>
-                  <location type="coords">
-                     <geo>49.44762 3.31821</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1227">
+<back><listPerson><person xml:id="tillich_person_id__1717">
+                  <persName>Schleiermacher, Friedrich Daniel Ernst</persName>
+               </person>
+               <person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
                   <birth>
                      <date>1867</date>
@@ -190,8 +186,12 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
                </person>
-               <person xml:id="tillich_person_id__1717">
-                  <persName>Schleiermacher, Friedrich Daniel Ernst</persName>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__227">
+                  <placeName>Juvigny (Aisne)</placeName>
+                  <location type="coords">
+                     <geo>49.44762 3.31821</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

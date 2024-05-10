@@ -172,10 +172,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2885071/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__719">
-                  <persName>Grisebach, Eberhard</persName>
-               </person>
-               <person xml:id="tillich_person_id__1055">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1055">
                   <persName>Kirbach, Hellmuth</persName>
                   <occupation>Dr. phil., Oberschulrat in Bremen</occupation>
                </person>
@@ -196,6 +193,9 @@
                </person>
                <person xml:id="tillich_person_id__1593">
                   <persName>Rheindorf, Kurt</persName>
+               </person>
+               <person xml:id="tillich_person_id__719">
+                  <persName>Grisebach, Eberhard</persName>
                </person>
                </listPerson></back></text>
 </TEI>
