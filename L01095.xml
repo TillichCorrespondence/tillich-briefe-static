@@ -90,23 +90,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__230">
-                  <placeName>Kampen</placeName>
-                  <location type="coords">
-                     <geo>54.95411 8.34171</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
-               </place>
-               <place xml:id="tillich_place_id__180">
-                  <placeName>Goslar</placeName>
-                  <location type="coords">
-                     <geo>51.90425 10.42766</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -138,5 +122,21 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__230">
+                  <placeName>Kampen</placeName>
+                  <location type="coords">
+                     <geo>54.95411 8.34171</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
+               </place>
+               <place xml:id="tillich_place_id__180">
+                  <placeName>Goslar</placeName>
+                  <location type="coords">
+                     <geo>51.90425 10.42766</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918840/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

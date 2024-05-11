@@ -104,9 +104,6 @@
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
-               <person xml:id="tillich_person_id__1310">
-                  <persName>Merrem, Lucie</persName>
-               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -125,6 +122,9 @@
                <person xml:id="tillich_person_id__800">
                   <persName>Harder, Erich</persName>
                   <occupation>Pfarrer;</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1310">
+                  <persName>Merrem, Lucie</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__293">
                   <placeName>Misdroy</placeName>

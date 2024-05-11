@@ -165,132 +165,13 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__35">
-                  <placeName>Bergedorf bei Hamburg</placeName>
+   <back><listPlace><place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
                   <location type="coords">
-                     <geo>53.48462 10.22904</geo>
+                     <geo>51.33962 12.37129</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/7290243/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1637</idno>
-               </place>
-               <place xml:id="tillich_place_id__186">
-                  <placeName>Göttingen</placeName>
-                  <location type="coords">
-                     <geo>51.53443 9.93228</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
-               </place>
-               <place xml:id="tillich_place_id__397">
-                  <placeName>Schweiz</placeName>
-                  <location type="coords">
-                     <geo>47.00016 8.01427</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2658434/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q39</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               <place xml:id="tillich_place_id__50">
-                  <placeName>Berlin-Wannsee</placeName>
-                  <location type="coords">
-                     <geo>52.41915 13.15531</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2814196/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1949</idno>
-               </place>
-               <place xml:id="tillich_place_id__52">
-                  <placeName>Berlin-Zehlendorf-West</placeName>
-                  <location type="coords">
-                     <geo>52.43333 13.25000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2805059/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q324402</idno>
-               </place>
-               <place xml:id="tillich_place_id__238">
-                  <placeName>Kiel</placeName>
-                  <location type="coords">
-                     <geo>54.32133 10.13489</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
-               </place>
-               <place xml:id="tillich_place_id__224">
-                  <placeName>Jena</placeName>
-                  <location type="coords">
-                     <geo>50.92878 11.58990</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2895044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
-               </place>
-               <place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               <place xml:id="tillich_place_id__136">
-                  <placeName>Erlangen</placeName>
-                  <location type="coords">
-                     <geo>49.59099 11.00783</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__198">
-                  <placeName>Hamburg</placeName>
-                  <location type="coords">
-                     <geo>53.55073 9.99302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911298/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
-               </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__40">
-                  <placeName>Berlin-Halensee</placeName>
-                  <location type="coords">
-                     <geo>52.49005 13.29602</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911559/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q651009</idno>
-               </place>
-               <place xml:id="tillich_place_id__370">
-                  <placeName>Rostock</placeName>
-                  <location type="coords">
-                     <geo>54.08870 12.14049</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2844588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32265522</idno>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
                </place>
                <place xml:id="tillich_place_id__51">
                   <placeName>Berlin-Wilmersdorf</placeName>
@@ -300,6 +181,101 @@
                   <idno type="geonames">https://sws.geonames.org/2808473/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q693628</idno>
                </place>
+               <place xml:id="tillich_place_id__50">
+                  <placeName>Berlin-Wannsee</placeName>
+                  <location type="coords">
+                     <geo>52.41915 13.15531</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2814196/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1949</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               <place xml:id="tillich_place_id__238">
+                  <placeName>Kiel</placeName>
+                  <location type="coords">
+                     <geo>54.32133 10.13489</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__40">
+                  <placeName>Berlin-Halensee</placeName>
+                  <location type="coords">
+                     <geo>52.49005 13.29602</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911559/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q651009</idno>
+               </place>
+               <place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
+                  <location type="coords">
+                     <geo>51.53443 9.93228</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+               </place>
+               <place xml:id="tillich_place_id__52">
+                  <placeName>Berlin-Zehlendorf-West</placeName>
+                  <location type="coords">
+                     <geo>52.43333 13.25000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2805059/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q324402</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__198">
+                  <placeName>Hamburg</placeName>
+                  <location type="coords">
+                     <geo>53.55073 9.99302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911298/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__224">
+                  <placeName>Jena</placeName>
+                  <location type="coords">
+                     <geo>50.92878 11.58990</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2895044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
+               </place>
+               <place xml:id="tillich_place_id__136">
+                  <placeName>Erlangen</placeName>
+                  <location type="coords">
+                     <geo>49.59099 11.00783</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
+               </place>
                <place xml:id="tillich_place_id__236">
                   <placeName>Kassel</placeName>
                   <location type="coords">
@@ -308,100 +284,46 @@
                   <idno type="geonames">https://sws.geonames.org/2892518/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
                </place>
-               <place xml:id="tillich_place_id__260">
-                  <placeName>Leipzig</placeName>
+               <place xml:id="tillich_place_id__35">
+                  <placeName>Bergedorf bei Hamburg</placeName>
                   <location type="coords">
-                     <geo>51.33962 12.37129</geo>
+                     <geo>53.48462 10.22904</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+                  <idno type="geonames">https://sws.geonames.org/7290243/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1637</idno>
+               </place>
+               <place xml:id="tillich_place_id__370">
+                  <placeName>Rostock</placeName>
+                  <location type="coords">
+                     <geo>54.08870 12.14049</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2844588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32265522</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__397">
+                  <placeName>Schweiz</placeName>
+                  <location type="coords">
+                     <geo>47.00016 8.01427</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2658434/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q39</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2356">
                   <persName>Herrmann, Christian</persName>
                   <occupation>Philosoph; Pädagoge;</occupation>
                   <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
                </person>
-               <person xml:id="tillich_person_id__846">
-                  <persName>Heimann, Eduard</persName>
-                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1291">
-                  <persName>Medicus, Fritz</persName>
-                  <occupation>Philosoph</occupation>
-                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__904">
-                  <persName>Hirsch, Emanuel</persName>
-                  <birth>
-                     <date>1888-06-14</date>
-                     <settlement>
-                        <placeName>Bentwisch</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1972-07-17</date>
-                     <settlement>
-                        <placeName>Göttingen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Systematischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
-               </person>
-               <person xml:id="tillich_person_id__1924">
-                  <persName>Tillich, Johannes Oskar</persName>
-                  <birth>
-                     <date>1857</date>
-                  </birth>
-                  <death>
-                     <date>1937</date>
-                  </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1033">
-                  <persName>Kattenbusch, Ferdinand</persName>
-                  <occupation>Evangelischer Theologe, Wingolf</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1723">
-                  <persName>Schmidt, Karl Ludwig</persName>
-                  <occupation>evangelischer Theologe (Neues Testament)</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
-                  <note type="bio"><p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__42">
-                  <persName>Althaus, Paul</persName>
-                  <birth>
-                     <date>1888-02-04</date>
-                     <settlement>
-                        <placeName>Uetze-Obershagen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1966-05-18</date>
-                     <settlement>
-                        <placeName>Erlangen</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
-               </person>
-               <person xml:id="tillich_person_id__2443">
-                  <persName>Janentzky, Christian</persName>
-                  <birth>
-                     <date>1886-01-29</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1968-08-27</date>
-                     <settlement>
-                        <placeName>Dresden</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Literaturwissenschaftler; Bibliotheksdirektor;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117078190</idno>
-                  <note type="bio"><p>Er wirkte als Direktor der Bibliothek der TH Dresden.</p></note>
+               <person xml:id="tillich_person_id__1099">
+                  <persName>Kroner, Richard</persName>
+                  <occupation>deutscher Philosoph und Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -417,6 +339,63 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1154">
+                  <persName>Leese, Kurt</persName>
+                  <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2447">
+                  <persName>Thurmann, Theodor</persName>
+                  <birth>
+                     <date>1882</date>
+                  </birth>
+                  <death>
+                     <date>[nach 1953]</date>
+                  </death>
+                  <occupation>Verwaltungsjurist;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/133789152</idno>
+                  <note type="bio"><p>Als Verwaltungsjurist wirkte er vor allem in Berlin.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1209">
+                  <persName>Löwe, Adolf</persName>
+                  <occupation>deutscher Soziologe und Nationalökonom</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119383292</idno>
+                  <note type="bio"><p>1911-1915 Studium der Wirtschafts- wie auch Rechtswissenschaften in München, Berlin und Tübingen. In Tübingen wurde er 1918 zum Dr. iur. promoviert. 1919 heiratete er Beatrice Löwenstein (genannt Bea, *1893). 1919-1924 Tätigkeit im Reichswirtschaftsministerium, 1924-1926 Leiter der internationalen Abteilung des Statistischen Reichsamtes, in dieser Zeit auch mitverantwortlich für die Gründung des Deutschen Instituts für Konjunkturforschung (DIW). 1926 Habilitation in Kiel, damit einhergehend Leitung und Ausbau des Kieler Instituts für Weltwirtschaft (IfW) und Lehrtätigkeit an der Universität. 1931 folgte L. einem Ruf an die Universität Frankfurt/Main, wo er unter anderem seine alten Freunde Max  Horkheimer (aus Schulzeiten) und Tillich (aus Berliner Zeiten und dem Kreis religiöser Sozialisten) wiedertraf. Nachdem er 1933 zunächst beurlaubt und sodann entlassen wurde, emigrierte er im selben Jahr nach England, wo er 1933-1940 an der Universität Manchester tätig war und nebenher an der London School of Economics lehrte. 1940 zweite Emigration in die USA, wo er bis zu seiner Emeritierung 1963 an der New School for Social Research in New York lehrte. Adolf und Beatrice L. hatten zwei Töchter, Rahel Dorothea (tw. auch Dora, 1921-2011), später Rachel Aubrey bzw. in erster Ehe Rüstow, sowie Hanna Ruth (1924-2010), später Hanna Lustig.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2706">
+                  <persName>Thomas, Friedrich Wilhelm</persName>
+                  <birth>
+                     <date>1864-03-24</date>
+                     <settlement>
+                        <placeName>Steinigtwolmsdorf</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1929-01-06</date>
+                     <settlement>
+                        <placeName>Gera</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1270440098</idno>
+               </person>
+               <person xml:id="tillich_person_id__1856">
+                  <persName>Stepun, Fedor</persName>
+                  <birth>
+                     <date>1884-02-19</date>
+                     <settlement>
+                        <placeName>Moskau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1965-02-23</date>
+                     <settlement>
+                        <placeName>München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>russisch-deutscher Literat, Soziologe, Philosoph und Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11875355X</idno>
+                  <note type="bio"><p>Fedor S. wurde in Moskau geboren, wo er auch zur Schule ging. Seine Familie hatte deutsch-litauische Herkunft. 1910 wurde er in Heidelberg im Fach Philosophie promoviert. Nach dem Studium Rückkehr nach Russland, 1922 infolge der Oktoberrevolution zunächst verhaftet, dann ausgewiesen. Seit 1926 lehrte er an der Technischen Hochschule Dresden. 1937 wurde er entlassen und erhielt Schreibverbot. Die Kriegsjahre verbrachte er in Deutschland, ab 1946 lehrte er als Professor für russische Geistesgeschichte an der Universität München. Nachdem frühen Tod seiner ersten Frau hatte Fedor S. im Jahr 1911 Natascha geheiratet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1438">
                   <persName>Otto, Rudolf</persName>
@@ -444,103 +423,33 @@
                   <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
                   <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1854">
-                  <persName>Stephan, Horst</persName>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
                   <birth>
-                     <date>1873-08-29</date>
-                  </birth>
-                  <death>
-                     <date>1954-01-09</date>
+                     <date>1888-06-14</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117272736</idno>
-               </person>
-               <person xml:id="tillich_person_id__2278">
-                  <persName>Büchsel, Hermann Martin Friedrich</persName>
-                  <note type="bio"><p>Er war ein Bruder von Hermann Martin Friedrich Büchsel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2706">
-                  <persName>Thomas, Friedrich Wilhelm</persName>
-                  <birth>
-                     <date>1864-03-24</date>
-                     <settlement>
-                        <placeName>Steinigtwolmsdorf</placeName>
+                        <placeName>Bentwisch</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1929-01-06</date>
+                     <date>1972-07-17</date>
                      <settlement>
-                        <placeName>Gera</placeName>
+                        <placeName>Göttingen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer; Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1270440098</idno>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
                </person>
-               <person xml:id="tillich_person_id__2447">
-                  <persName>Thurmann, Theodor</persName>
-                  <birth>
-                     <date>1882</date>
-                  </birth>
-                  <death>
-                     <date>[nach 1953]</date>
-                  </death>
-                  <occupation>Verwaltungsjurist;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/133789152</idno>
-                  <note type="bio"><p>Als Verwaltungsjurist wirkte er vor allem in Berlin.</p></note>
+               <person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
                </person>
-               <person xml:id="tillich_person_id__2094">
-                  <persName>Wolfers, Arnold</persName>
-                  <birth>
-                     <date>1892-06-14</date>
-                     <settlement>
-                        <placeName>Sankt Gallen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1968-07-16</date>
-                  </death>
-                  <occupation>Politikwissenschaftler</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
-                  <note type="bio"><p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__856">
-                  <persName>Heller, Hermann</persName>
-               </person>
-               <person xml:id="tillich_person_id__1760">
-                  <persName>Seeberg, Erich</persName>
-                  <occupation>Kirchenhistoriker</occupation>
-                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1154">
-                  <persName>Leese, Kurt</persName>
-                  <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__445">
-                  <persName>Deißmann, Adolf</persName>
-               </person>
-               <person xml:id="tillich_person_id__1856">
-                  <persName>Stepun, Fedor</persName>
-                  <birth>
-                     <date>1884-02-19</date>
-                     <settlement>
-                        <placeName>Moskau</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1965-02-23</date>
-                     <settlement>
-                        <placeName>München</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>russisch-deutscher Literat, Soziologe, Philosoph und Politiker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/11875355X</idno>
-                  <note type="bio"><p>Fedor S. wurde in Moskau geboren, wo er auch zur Schule ging. Seine Familie hatte deutsch-litauische Herkunft. 1910 wurde er in Heidelberg im Fach Philosophie promoviert. Nach dem Studium Rückkehr nach Russland, 1922 infolge der Oktoberrevolution zunächst verhaftet, dann ausgewiesen. Seit 1926 lehrte er an der Technischen Hochschule Dresden. 1937 wurde er entlassen und erhielt Schreibverbot. Die Kriegsjahre verbrachte er in Deutschland, ab 1946 lehrte er als Professor für russische Geistesgeschichte an der Universität München. Nachdem frühen Tod seiner ersten Frau hatte Fedor S. im Jahr 1911 Natascha geheiratet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1099">
-                  <persName>Kroner, Richard</persName>
-                  <occupation>deutscher Philosoph und Theologe</occupation>
+               <person xml:id="tillich_person_id__1723">
+                  <persName>Schmidt, Karl Ludwig</persName>
+                  <occupation>evangelischer Theologe (Neues Testament)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
+                  <note type="bio"><p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p></note>
                </person>
                <person xml:id="tillich_person_id__2442">
                   <persName>Stoevesandt, Erika Opelt</persName>
@@ -560,14 +469,105 @@
                   <idno type="gnd">https://d-nb.info/gnd/1120268079</idno>
                   <note type="bio"><p>Sie war eine deutsche Pädagogin und Schulgründerin in Bremen.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1209">
-                  <persName>Löwe, Adolf</persName>
-                  <occupation>deutscher Soziologe und Nationalökonom</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119383292</idno>
-                  <note type="bio"><p>1911-1915 Studium der Wirtschafts- wie auch Rechtswissenschaften in München, Berlin und Tübingen. In Tübingen wurde er 1918 zum Dr. iur. promoviert. 1919 heiratete er Beatrice Löwenstein (genannt Bea, *1893). 1919-1924 Tätigkeit im Reichswirtschaftsministerium, 1924-1926 Leiter der internationalen Abteilung des Statistischen Reichsamtes, in dieser Zeit auch mitverantwortlich für die Gründung des Deutschen Instituts für Konjunkturforschung (DIW). 1926 Habilitation in Kiel, damit einhergehend Leitung und Ausbau des Kieler Instituts für Weltwirtschaft (IfW) und Lehrtätigkeit an der Universität. 1931 folgte L. einem Ruf an die Universität Frankfurt/Main, wo er unter anderem seine alten Freunde Max  Horkheimer (aus Schulzeiten) und Tillich (aus Berliner Zeiten und dem Kreis religiöser Sozialisten) wiedertraf. Nachdem er 1933 zunächst beurlaubt und sodann entlassen wurde, emigrierte er im selben Jahr nach England, wo er 1933-1940 an der Universität Manchester tätig war und nebenher an der London School of Economics lehrte. 1940 zweite Emigration in die USA, wo er bis zu seiner Emeritierung 1963 an der New School for Social Research in New York lehrte. Adolf und Beatrice L. hatten zwei Töchter, Rahel Dorothea (tw. auch Dora, 1921-2011), später Rachel Aubrey bzw. in erster Ehe Rüstow, sowie Hanna Ruth (1924-2010), später Hanna Lustig.</p></note>
+               <person xml:id="tillich_person_id__445">
+                  <persName>Deißmann, Adolf</persName>
                </person>
                <person xml:id="tillich_person_id__320">
                   <persName>Bultmann, Rudolf</persName>
+               </person>
+               <person xml:id="tillich_person_id__2094">
+                  <persName>Wolfers, Arnold</persName>
+                  <birth>
+                     <date>1892-06-14</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-07-16</date>
+                  </death>
+                  <occupation>Politikwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
+                  <note type="bio"><p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2443">
+                  <persName>Janentzky, Christian</persName>
+                  <birth>
+                     <date>1886-01-29</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-08-27</date>
+                     <settlement>
+                        <placeName>Dresden</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Literaturwissenschaftler; Bibliotheksdirektor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117078190</idno>
+                  <note type="bio"><p>Er wirkte als Direktor der Bibliothek der TH Dresden.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__856">
+                  <persName>Heller, Hermann</persName>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1760">
+                  <persName>Seeberg, Erich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+                  <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2278">
+                  <persName>Büchsel, Hermann Martin Friedrich</persName>
+                  <note type="bio"><p>Er war ein Bruder von Hermann Martin Friedrich Büchsel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1854">
+                  <persName>Stephan, Horst</persName>
+                  <birth>
+                     <date>1873-08-29</date>
+                  </birth>
+                  <death>
+                     <date>1954-01-09</date>
+                     <settlement>
+                        <placeName>Leipzig</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117272736</idno>
+               </person>
+               <person xml:id="tillich_person_id__846">
+                  <persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1033">
+                  <persName>Kattenbusch, Ferdinand</persName>
+                  <occupation>Evangelischer Theologe, Wingolf</occupation>
+               </person>
+               <person xml:id="tillich_person_id__42">
+                  <persName>Althaus, Paul</persName>
+                  <birth>
+                     <date>1888-02-04</date>
+                     <settlement>
+                        <placeName>Uetze-Obershagen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1966-05-18</date>
+                     <settlement>
+                        <placeName>Erlangen</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
                </listBibl></back></text>

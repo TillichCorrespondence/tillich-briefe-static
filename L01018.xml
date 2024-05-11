@@ -96,41 +96,46 @@
 <postscript><p>Grüße alle Marburger!!</p></postscript>
             </div>
         </body>
-    <back><listPerson><person xml:id="tillich_person_id__827">
-                  <persName>Hauptmann, Gerhart</persName>
-               </person>
-               <person xml:id="tillich_person_id__1424">
-                  <persName>Oppenheim, Gabrielle</persName>
-                  <note type="bio"><p>Frau von Paul Oppenheimer. Gemeinsam mit seinem Mann emigriete sie 1933 in ihre Heimatland Belgien. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941). </p></note>
-               </person>
-               <person xml:id="tillich_person_id__2395">
-                  <persName>Riezler, Käthe</persName>
+    <back><listPerson><person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
-                     <date>1885-08-19</date>
+                     <date>1886-08-20</date>
                   </birth>
                   <death>
-                     <date>1955-09-06</date>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/116996242</idno>
-                  <note type="bio"><p>Sie war die Tochter von Max Liebermann und die Ehefrau von Kurt Riezler.</p></note>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2489">
-                  <persName>Sulzbach, Walter</persName>
+               <person xml:id="tillich_person_id__2490">
+                  <persName>Sulzbach, Maria</persName>
+               </person>
+               <person xml:id="tillich_person_id__664">
+                  <persName>Gelb, Adhémar</persName>
+               </person>
+               <person xml:id="tillich_person_id__2509">
+                  <persName>Prinzhorn, (Frau)</persName>
+               </person>
+               <person xml:id="tillich_person_id__2510">
+                  <persName>May, Ernst</persName>
                   <birth>
-                     <date>1889-02-21</date>
+                     <date>1886-07-27</date>
                      <settlement>
                         <placeName>Frankfurt am Main</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1969-04-17</date>
+                     <date>1970-09-11</date>
                      <settlement>
-                        <placeName>Küssnacht am Rigi</placeName>
+                        <placeName>Hamburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Bankier; Soziologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/11737380X</idno>
-                  <note type="bio"><p>In seiner Forschung widmete er sich insbesondere der politischen Soziologie.</p></note>
+                  <occupation>Architekt;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118732218</idno>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -149,12 +154,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2509">
-                  <persName>Prinzhorn, (Frau)</persName>
-               </person>
-               <person xml:id="tillich_person_id__1578">
-                  <persName>Reinhardt , Elly</persName>
-                  <note type="bio"><p>Frau von Karl Reinhardt</p></note>
+               <person xml:id="tillich_person_id__1424">
+                  <persName>Oppenheim, Gabrielle</persName>
+                  <note type="bio"><p>Frau von Paul Oppenheimer. Gemeinsam mit seinem Mann emigriete sie 1933 in ihre Heimatland Belgien. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941). </p></note>
                </person>
                <person xml:id="tillich_person_id__1610">
                   <persName>Riezler, Kurt</persName>
@@ -179,62 +181,68 @@
                   <occupation>Altphilologe</occupation>
                   <note type="bio"><p>1905-1910 Studium der Klassischen Philologie in Bonn und Berlin, 1910 Promotion in Berlin, 1914 Habilitation in Bonn. 1916-1918 außerordentlicher Professor in Marburg, 1919-1923 ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf an die Universität Frankfurt, wo R., unterbrochen von einigen Jahren an der Universität Leipzig (1942-1946) bis zu seiner Emeritierung 1951 blieb und lehrte. Er war mit Elly Reinhardt (geb. Boessneck) verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
+               <person xml:id="tillich_person_id__1578">
+                  <persName>Reinhardt , Elly</persName>
+                  <note type="bio"><p>Frau von Karl Reinhardt</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1177">
+                  <persName>Liebermann, Max</persName>
+                  <occupation>Maler, herausragender Vertreter des Impressionismus in Deutschland, Vater von Käthe Riezler, Schwiegervater von Kurt Riezler</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2396">
+                  <persName>Gelb, Nelly</persName>
+                  <note type="bio"><p>Sie war die Frau von Adhémar Gelb und die Tochter von Max Alvary.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2395">
+                  <persName>Riezler, Käthe</persName>
                   <birth>
-                     <date>1886-08-20</date>
+                     <date>1885-08-19</date>
                   </birth>
                   <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
+                     <date>1955-09-06</date>
                   </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1570">
-                  <persName>Reichl, Otto</persName>
-                  <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2510">
-                  <persName>May, Ernst</persName>
-                  <birth>
-                     <date>1886-07-27</date>
-                     <settlement>
-                        <placeName>Frankfurt am Main</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1970-09-11</date>
-                     <settlement>
-                        <placeName>Hamburg</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Architekt;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118732218</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/116996242</idno>
+                  <note type="bio"><p>Sie war die Tochter von Max Liebermann und die Ehefrau von Kurt Riezler.</p></note>
                </person>
                <person xml:id="tillich_person_id__1423">
                   <persName>Oppenheim, Paul</persName>
                   <occupation>Chemiker und Philosoph</occupation>
                   <note type="bio"><p>Nach dem Studium der Chemie in Freiburg/Breisgau und Gießen wurde Paul O. 1908 promoviert und übernahm im Anschluss daran die Leitung des familiengeführten Juwelen-Großhandelsgeschäfts ‚N. M. Oppenheim‘. 1926-1933 arbeitete er bei der I. G. Farben. Gemeinsam mit seiner Frau emigrierte er 1933 in ihre Heimatland Belgien. Nach einer Lectorship an der Universität Cambridge (1938) folgte 1939 die Emigration in die USA, wo O. als Privatgelehrter und Spezialist für Wissenschaftstheorie Vortragstätigkeit entfaltete. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941).</p></note>
                </person>
-               <person xml:id="tillich_person_id__2396">
-                  <persName>Gelb, Nelly</persName>
-                  <note type="bio"><p>Sie war die Frau von Adhémar Gelb und die Tochter von Max Alvary.</p></note>
+               <person xml:id="tillich_person_id__2489">
+                  <persName>Sulzbach, Walter</persName>
+                  <birth>
+                     <date>1889-02-21</date>
+                     <settlement>
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969-04-17</date>
+                     <settlement>
+                        <placeName>Küssnacht am Rigi</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Bankier; Soziologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11737380X</idno>
+                  <note type="bio"><p>In seiner Forschung widmete er sich insbesondere der politischen Soziologie.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1177">
-                  <persName>Liebermann, Max</persName>
-                  <occupation>Maler, herausragender Vertreter des Impressionismus in Deutschland, Vater von Käthe Riezler, Schwiegervater von Kurt Riezler</occupation>
+               <person xml:id="tillich_person_id__827">
+                  <persName>Hauptmann, Gerhart</persName>
                </person>
-               <person xml:id="tillich_person_id__664">
-                  <persName>Gelb, Adhémar</persName>
+               <person xml:id="tillich_person_id__1570">
+                  <persName>Reichl, Otto</persName>
+                  <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
                </person>
-               <person xml:id="tillich_person_id__2490">
-                  <persName>Sulzbach, Maria</persName>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+               </listPerson><listPlace><place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
                      <geo>50.11552 8.68417</geo>
@@ -249,14 +257,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
                </listPlace></back></text>
 </TEI>

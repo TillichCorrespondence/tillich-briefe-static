@@ -121,46 +121,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2192">
-                  <persName>???, Therese</persName>
-                  <occupation>Gemeindeschwester;</occupation>
-                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2259">
-                  <persName>???, Adolf</persName>
-                  <note type="bio"><p>Er wird als Onkel von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2783">
-                  <persName>Held, Käthe</persName>
-               </person>
-               <person xml:id="tillich_person_id__800">
-                  <persName>Harder, Erich</persName>
-                  <occupation>Pfarrer;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2253">
-                  <persName>Lepsius, Johannes</persName>
-                  <birth>
-                     <date>1858-12-15</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1926-02-03</date>
-                     <settlement>
-                        <placeName>Meran</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/11694580X</idno>
-               </person>
-               <person xml:id="tillich_person_id__2785">
-                  <persName>Heimbach, (Familie)</persName>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -177,6 +138,22 @@
                </person>
                <person xml:id="tillich_person_id__2784">
                   <persName>Hessling, (Frau)</persName>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2729">
+                  <persName>Kandeler, Martha</persName>
+               </person>
+               <person xml:id="tillich_person_id__2192">
+                  <persName>???, Therese</persName>
+                  <occupation>Gemeindeschwester;</occupation>
+                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2783">
+                  <persName>Held, Käthe</persName>
                </person>
                <person xml:id="tillich_person_id__2769">
                   <persName>Conrad, Paul</persName>
@@ -195,25 +172,48 @@
                   <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117697311</idno>
                </person>
-               <person xml:id="tillich_person_id__2729">
-                  <persName>Kandeler, Martha</persName>
+               <person xml:id="tillich_person_id__2785">
+                  <persName>Heimbach, (Familie)</persName>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__2254">
                   <persName>Höfer, ???</persName>
                   <occupation>Prediger;</occupation>
                   <note type="bio"><p>Er wirkte als Hilfsprediger bei Johannes Tillich um 1905.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2253">
+                  <persName>Lepsius, Johannes</persName>
+                  <birth>
+                     <date>1858-12-15</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1926-02-03</date>
+                     <settlement>
+                        <placeName>Meran</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/11694580X</idno>
+               </person>
                <person xml:id="tillich_person_id__2085">
                   <persName>Winkler, Toni</persName>
                   <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               <person xml:id="tillich_person_id__800">
+                  <persName>Harder, Erich</persName>
+                  <occupation>Pfarrer;</occupation>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
-               <bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               <person xml:id="tillich_person_id__2259">
+                  <persName>???, Adolf</persName>
+                  <note type="bio"><p>Er wird als Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               <bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
                </listBibl><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">

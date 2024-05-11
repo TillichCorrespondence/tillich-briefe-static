@@ -95,11 +95,11 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1050">
-                  <persName>Kilger, Albert</persName>
-               </person>
-               <person xml:id="tillich_person_id__2190">
+<back><listPerson><person xml:id="tillich_person_id__2190">
                   <persName>Spatz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1050">
+                  <persName>Kilger, Albert</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

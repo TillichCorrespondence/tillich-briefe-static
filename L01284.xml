@@ -92,10 +92,7 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1648">
-                  <persName>Rosenzweig, Franz</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -125,6 +122,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
+               </person>
+               <person xml:id="tillich_person_id__1648">
+                  <persName>Rosenzweig, Franz</persName>
                </person>
                <person xml:id="tillich_person_id__2872">
                   <persName>Glatzer, Nahum Norbert</persName>

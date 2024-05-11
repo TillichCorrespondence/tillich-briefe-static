@@ -98,7 +98,20 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__189">
+   <back><listPerson><person xml:id="tillich_person_id__2091">
+                  <persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                   <location type="coords">
                      <geo>51.48158 11.97947</geo>
@@ -113,18 +126,5 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2891122/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2091">
-                  <persName>Witte, Hermann</persName>
-                  <birth>
-                     <date>1666-12-07</date>
-                     <settlement>
-                        <placeName>Riga-Daugavgriva</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1728-03-24</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

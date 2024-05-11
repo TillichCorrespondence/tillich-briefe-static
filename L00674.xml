@@ -134,6 +134,9 @@ richten bitte, u.<expan>nd</expan> hoffe auf weitere gedeihliche Zusammenarbeit.
                </listPlace><listPerson><person xml:id="tillich_person_id__2735">
                   <persName>Albers, August</persName>
                </person>
+               <person xml:id="tillich_person_id__2752">
+                  <persName>Reyer, Wilhelm</persName>
+               </person>
                <person xml:id="tillich_person_id__2135">
                   <persName>Rickert, Heinrich</persName>
                   <birth>
@@ -151,9 +154,6 @@ richten bitte, u.<expan>nd</expan> hoffe auf weitere gedeihliche Zusammenarbeit.
                   <occupation>Philosoph;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
                   <note type="bio"><p>Er spezialisierte sich auf den Neukantianismus.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2752">
-                  <persName>Reyer, Wilhelm</persName>
                </person>
                </listPerson></back></text>
 </profileDesc></teiHeader></TEI>

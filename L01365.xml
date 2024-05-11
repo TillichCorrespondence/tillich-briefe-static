@@ -126,7 +126,14 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__705">
+<back><listPerson><person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2838">
+                  <persName>Gelau, Hanno</persName>
+               </person>
+               <person xml:id="tillich_person_id__705">
                   <persName>Gottschow, Albert</persName>
                   <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
                </person>
@@ -138,13 +145,6 @@
                <person xml:id="tillich_person_id__2039">
                   <persName>Werner, Louise</persName>
                   <occupation>Mutter von Hannah Tillich</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2838">
-                  <persName>Gelau, Hanno</persName>
-               </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

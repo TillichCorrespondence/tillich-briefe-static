@@ -143,13 +143,39 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__169">
+   <back><listPlace><place xml:id="tillich_place_id__6">
+                  <placeName>Agay</placeName>
+                  <location type="coords">
+                     <geo>43.43248 6.85564</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3038640/</idno>
+               </place>
+               <place xml:id="tillich_place_id__68">
+                  <placeName>Bonn</placeName>
+                  <location type="coords">
+                     <geo>50.73438 7.09549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__470">
+                  <placeName>Wien</placeName>
+                  <location type="coords">
+                     <geo>48.20820 16.37169</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2761367/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__169">
                   <persName>Becker, Carl Heinrich</persName>
                   <occupation>Deutscher Orientalist und Politiker, Kultusminister 1921 und 1925-30</occupation>
-               </person>
-               <person xml:id="tillich_person_id__718">
-                  <persName>Grimme, Adolf</persName>
-                  <occupation>Deutscher Kulturpolitiker SPD in der Spätphase der Weimarer Republik und der frühen Bundesrepublik, erster niedersächsischer Kultusminister und Generaldirektor des Nordwestdeutschen Rundfunks (NWDR)</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -166,41 +192,15 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
+               <person xml:id="tillich_person_id__718">
+                  <persName>Grimme, Adolf</persName>
+                  <occupation>Deutscher Kulturpolitiker SPD in der Spätphase der Weimarer Republik und der frühen Bundesrepublik, erster niedersächsischer Kultusminister und Generaldirektor des Nordwestdeutschen Rundfunks (NWDR)</occupation>
+               </person>
                <person xml:id="tillich_person_id__931">
                   <persName>Horkheimer, Max</persName>
                   <occupation>Sozialphilosoph</occupation>
                   <note type="bio"><p>1911 zunächst Beginn einer Handelslehre, um die Fabrik seines Vaters übernehmen zu können, wo er ab 1916 auch arbeitet. 1917/1918 Kriegsteilnahme, 1919 holt er das Abitur nach und studiert bis 1922 Philosophie, Psychologie und Nationalökonomie in München, Freiburg/Breisgau und Frankfurt/Main. 1922 wird er in Frankfurt bei Hans Cornelius promoviert, 1925 habilitiert er sich, 1926 wird er Privatdozent in Frankfurt. 1930 wird er mit Unterstützung Tillichs ordentlicher Professor für Sozialphilosophie und kann dadurch die Leitung des Frankfurter Instituts für Sozialforschung übernehmen. 1933 Emigration nach Genf, 1934 weiter in die USA, wo er die Institutsarbeit in den Räumen der Columbia University fortsetzen kann. 1940 wird er US-Staatsbürger, 1941 Umzug von New York nach Kalifornien, wo er in den Folgejahren zusammen mit Theodor W.  Adorno die Dialektik der Aufklärung verfasst. 1949 Rückkehr nach Frankfurt/Main, wo er wieder als Ordinarius für Sozialphilosophie lehren kann und mit der Wiedereröffnung des IfS in Frankfurt im Folgejahr neben Adorno die prägende Gestalt der ‚Frankfurter Schule‘ wird. 1951-1953 ist er zudem Direktor der Frankfurter Universität, hält in den kommenden Jahren (1954-1959) aber auch Vorlesungen in Chicago. 1959 zieht er gemeinsam mit seinem Freund Friedrich  Pollock nach Montagnola in der Schweiz. </p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__68">
-                  <placeName>Bonn</placeName>
-                  <location type="coords">
-                     <geo>50.73438 7.09549</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
-               </place>
-               <place xml:id="tillich_place_id__470">
-                  <placeName>Wien</placeName>
-                  <location type="coords">
-                     <geo>48.20820 16.37169</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2761367/</idno>
-               </place>
-               <place xml:id="tillich_place_id__6">
-                  <placeName>Agay</placeName>
-                  <location type="coords">
-                     <geo>43.43248 6.85564</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3038640/</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__19">Tillich, Paul, Religiöse Verwirklichung, Berlin 1930</bibl>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__19">Tillich, Paul, Religiöse Verwirklichung, Berlin 1930</bibl>
                </listBibl></back></text>
 </TEI>

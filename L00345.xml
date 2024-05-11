@@ -180,18 +180,7 @@
 </p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1594">
-                  <persName>Rhine, Maria</persName>
-                  <birth>
-                     <date>1895-12-01</date>
-                  </birth>
-                  <death>
-                     <date>1975-09-23</date>
-                  </death>
-                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
-               </person>
-               <person xml:id="tillich_person_id__1061">
+<back><listPerson><person xml:id="tillich_person_id__1061">
                   <persName>Klein, Ernst August Ferdinand</persName>
                   <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
                </person>
@@ -203,28 +192,39 @@
                   <persName>Christiansen, Anna</persName>
                   <occupation>Wohl ebenfalls Schwester von Hans C.</occupation>
                </person>
-               <person xml:id="tillich_person_id__1063">
-                  <persName>Klein, Elisabeth</persName>
-                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
-               </person>
                <person xml:id="tillich_person_id__374">
                   <persName>Christiansen, Hans</persName>
                   <occupation>Unterhielt wohl eine Art Liasion mit Maria Klein; wird in ihren Briefen von 1913 an Tillich erwähnt</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+               <person xml:id="tillich_person_id__1594">
+                  <persName>Rhine, Maria</persName>
+                  <birth>
+                     <date>1895-12-01</date>
+                  </birth>
+                  <death>
+                     <date>1975-09-23</date>
+                  </death>
+                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
+               </person>
+               <person xml:id="tillich_person_id__1063">
+                  <persName>Klein, Elisabeth</persName>
+                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__80">
+                  <placeName>Butterfelde</placeName>
+                  <location type="coords">
+                     <geo>52.87141 14.38608</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__80">
-                  <placeName>Butterfelde</placeName>
-                  <location type="coords">
-                     <geo>52.87141 14.38608</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
                </place>
                <place xml:id="tillich_place_id__41">
                   <placeName>Berlin-Lichtenrade</placeName>

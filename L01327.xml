@@ -84,39 +84,7 @@
 <p>Zwar habe ich seit meinem letzten Brief an Dich nichts von Dir hören können, da ich seit 8 Tagen keine Post mehr bekommen habe; heut fahre ich nach <rs ref="#tillich_place_id__37" type="place">Berlin</rs>, sitze im Speisewagen und ärgere den Kellner durch Nicht-Essen und denke über meinen Vortrag nach, zu dem ich übermorgen nach <rs ref="#tillich_place_id__306" type="place">München</rs> und <rs ref="#tillich_place_id__570" type="place">Braunau</rs> fahre „Bildung und Masse“. Und da ich nicht weiß, wann ich wieder zum Schreiben komme – Nun habe ich vom Meer Abschied genommen, fast ganz genesen; es war das erste Mal, daß es mir etwas angetan hat und es war das Mal, das mir seine Größe am gewaltigsten offenbart hat: Ist das nicht ein Symbol unsers Daseins, <sic>daß</sic> von den letzten, tiefsten Gewalten, von dem Größten und Herrlichsten unsere Brust wund wird. – Ich habe mich in <rs ref="#tillich_place_id__370" type="place">Rostock</rs> mit meinem alten Freunde dem Theologieprofessor <rs ref="#tillich_person_id__310" type="person">Büchsel</rs> getroffen; es war sehr wichtig für mich. Allerhand Gerüchte über meine Ehe und Freundschaften durch<pb n="2"/>schwirren die theologischen Kreise. Das aber bedeutet Ausschluß? Ich habe richtig gestellt unter viel Schwierigkeiten und fand dann viel feines Verstehen und die Schwingungen der alten Gemeinschaft. Wo „das Heilige“ lebt, ist Gemeinschaft möglich; wo es aufhört, stirbt sie. Wie wird es mit <rs ref="#tillich_person_id__2020" type="person">Wegener</rs> werden? Noch glaube ich nicht, daß es aufhört; aber in diesem Glauben ist viel Angst. – Ich fürchte mich selbst davor; man hat mir gesagt, in meinem Gesicht wäre zuweilen ein Zug, scharf und doch auseinanderfallend, der nichts mit Heiligkeit zu tun hätte. Zwei sagten es mir, jeder von sich aus; es war mir eine Bußpredigt, wie das Bildnis des Dorian Gray, Hannah bewahre mich vor diesem Abgrund, der einzige, in dem ich nicht untergehen will; denn er ist Sumpf und nicht Meer – – – Du kannst es! </p>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__306">
-                  <placeName>München</placeName>
-                  <location type="coords">
-                     <geo>48.13743 11.57549</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2867714/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
-               </place>
-               <place xml:id="tillich_place_id__370">
-                  <placeName>Rostock</placeName>
-                  <location type="coords">
-                     <geo>54.08870 12.14049</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2844588/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32265522</idno>
-               </place>
-               <place xml:id="tillich_place_id__570">
-                  <placeName>Braunau</placeName>
-                  <location type="coords">
-                     <geo>48.25628 13.04343</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2781520/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q21880244</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2020">
+<back><listPerson><person xml:id="tillich_person_id__2020">
                   <persName>Wegener, Carl Richard</persName>
                   <birth>
                      <date>1883-08-03</date>
@@ -144,5 +112,37 @@
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__570">
+                  <placeName>Braunau</placeName>
+                  <location type="coords">
+                     <geo>48.25628 13.04343</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2781520/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q21880244</idno>
+               </place>
+               <place xml:id="tillich_place_id__370">
+                  <placeName>Rostock</placeName>
+                  <location type="coords">
+                     <geo>54.08870 12.14049</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2844588/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32265522</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__306">
+                  <placeName>München</placeName>
+                  <location type="coords">
+                     <geo>48.13743 11.57549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2867714/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

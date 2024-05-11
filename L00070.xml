@@ -101,10 +101,7 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2723">
-                  <persName>Fuchs, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__1924">
+<back><listPerson><person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857</date>
@@ -119,6 +116,9 @@
                <person xml:id="tillich_person_id__2224">
                   <persName>Dürselen , Paul Rudolf</persName>
                   <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2723">
+                  <persName>Fuchs, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

@@ -91,21 +91,10 @@
                 </closer>
             </div>
         </body>
-    <back><listPlace><place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__570">
+    <back><listPerson><person xml:id="tillich_person_id__570">
                   <persName>Farris, Erdmuthe</persName>
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
-               </person>
-               <person xml:id="tillich_person_id__2511">
-                  <persName>???, Helena</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -139,5 +128,16 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2511">
+                  <persName>???, Helena</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

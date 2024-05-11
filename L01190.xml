@@ -96,9 +96,6 @@
                   <occupation>Kirchenhistoriker</occupation>
                   <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2564">
-                  <persName>Kallen, ???</persName>
-               </person>
                <person xml:id="tillich_person_id__2020">
                   <persName>Wegener, Carl Richard</persName>
                   <birth>
@@ -119,6 +116,23 @@
                <person xml:id="tillich_person_id__2607">
                   <persName>Tessen</persName>
                </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -138,22 +152,8 @@
                   <persName>T., Lisy</persName>
                   <occupation>Fotographin;</occupation>
                </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               <person xml:id="tillich_person_id__2564">
+                  <persName>Kallen, ???</persName>
                </person>
                </listPerson></back></text>
 </TEI>

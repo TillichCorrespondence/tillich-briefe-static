@@ -94,6 +94,14 @@
                   <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
                   <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2039">
+                  <persName>Werner, Louise</persName>
+                  <occupation>Mutter von Hannah Tillich</occupation>
+               </person>
                <person xml:id="tillich_person_id__1887">
                   <persName>Sydow, Eckart von</persName>
                   <birth>
@@ -106,21 +114,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                   <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2850">
-                  <persName>Sydow, Minchen</persName>
-                  <note type="bio"><p>Sie war die Tochter von Eckhart von Sydow.</p></note>
-               </person>
                <person xml:id="tillich_person_id__757">
                   <persName>Hahl, Margot</persName>
                   <note type="bio"><p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p></note>
                </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2039">
-                  <persName>Werner, Louise</persName>
-                  <occupation>Mutter von Hannah Tillich</occupation>
+               <person xml:id="tillich_person_id__2850">
+                  <persName>Sydow, Minchen</persName>
+                  <note type="bio"><p>Sie war die Tochter von Eckhart von Sydow.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

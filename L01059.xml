@@ -89,15 +89,44 @@
 <postscript><p><pb n="2"/>Vormittag <rs ref="#tillich_place_id__121" type="place">Haag</rs> mit ganz herrlichem Museum. Heut Abend Vortrag <rs ref="#tillich_place_id__516" type="place">Leiden</rs>, morgen <rs ref="#tillich_place_id__523" type="place">Delft</rs>.</p></postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2662">
-                  <persName>Vermeer, Jan</persName>
+<back><listPlace><place xml:id="tillich_place_id__516">
+                  <placeName>Leiden</placeName>
+                  <location type="coords">
+                     <geo>52.15833 4.49306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2751773/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q43631</idno>
+               </place>
+               <place xml:id="tillich_place_id__121">
+                  <placeName>Den Haag</placeName>
+                  <location type="coords">
+                     <geo>52.07667 4.29861</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2747373/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q36600</idno>
+               </place>
+               <place xml:id="tillich_place_id__523">
+                  <placeName>Delft</placeName>
+                  <location type="coords">
+                     <geo>52.00667 4.35556</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2757345/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q690</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
                   <birth>
-                     <date>1632-10-31</date>
+                     <date>1886-08-20</date>
                   </birth>
                   <death>
-                     <date>1675-12-15</date>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118626590</idno>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -116,44 +145,15 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
+               <person xml:id="tillich_person_id__2662">
+                  <persName>Vermeer, Jan</persName>
                   <birth>
-                     <date>1886-08-20</date>
+                     <date>1632-10-31</date>
                   </birth>
                   <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
+                     <date>1675-12-15</date>
                   </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+                  <idno type="gnd">https://d-nb.info/gnd/118626590</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__121">
-                  <placeName>Den Haag</placeName>
-                  <location type="coords">
-                     <geo>52.07667 4.29861</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2747373/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q36600</idno>
-               </place>
-               <place xml:id="tillich_place_id__523">
-                  <placeName>Delft</placeName>
-                  <location type="coords">
-                     <geo>52.00667 4.35556</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2757345/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q690</idno>
-               </place>
-               <place xml:id="tillich_place_id__516">
-                  <placeName>Leiden</placeName>
-                  <location type="coords">
-                     <geo>52.15833 4.49306</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2751773/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q43631</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>
