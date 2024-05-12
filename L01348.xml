@@ -88,21 +88,28 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__553">
+<back><listPerson><person xml:id="tillich_person_id__643">
+                  <persName>Fritz (geb. Horn), Gertrude</persName>
+                  <occupation>(auch Trudchen) Zweite Frau von Alfred Fritz, Ausbildung: Soziale Frauenschule</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2809">
+                  <persName>Apelius, Hildegard</persName>
+                  <note type="bio"><p>Sie war eine geborene Erbslöb und die Frau von Wegener.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2811">
+                  <persName>???, Alfred</persName>
+               </person>
+               <person xml:id="tillich_person_id__2047">
+                  <persName>Wever, Eva</persName>
+                  <occupation>Schwägerin Tillichs, später Eva Detert</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__553">
                   <placeName>Rügenwaldermünde</placeName>
                   <location type="coords">
                      <geo>54.43518 16.37731</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3100640/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q336454</idno>
-               </place>
-               <place xml:id="tillich_place_id__594">
-                  <placeName>Stargard</placeName>
-                  <location type="coords">
-                     <geo>53.33672 15.04990</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3084840/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q106268</idno>
                </place>
                <place xml:id="tillich_place_id__129">
                   <placeName>Dölzig</placeName>
@@ -112,20 +119,13 @@
                   <idno type="geonames">https://sws.geonames.org/3100226/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q5289683</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2047">
-                  <persName>Wever, Eva</persName>
-                  <occupation>Schwägerin Tillichs, später Eva Detert</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2809">
-                  <persName>Apelius, Hildegard</persName>
-                  <note type="bio"><p>Sie war eine geborene Erbslöb und die Frau von Wegener.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2811">
-                  <persName>???, Alfred</persName>
-               </person>
-               <person xml:id="tillich_person_id__643">
-                  <persName>Fritz (geb. Horn), Gertrude</persName>
-                  <occupation>(auch Trudchen) Zweite Frau von Alfred Fritz, Ausbildung: Soziale Frauenschule</occupation>
-               </person>
-               </listPerson></back></text>
+               <place xml:id="tillich_place_id__594">
+                  <placeName>Stargard</placeName>
+                  <location type="coords">
+                     <geo>53.33672 15.04990</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3084840/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q106268</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

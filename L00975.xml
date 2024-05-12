@@ -148,9 +148,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2659383/</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__119">Tillich, Paul, Die protestantische Verkündigung und der Mensch der Gegenwart, in: ders., Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I (=GW VII), 70-83.</bibl>
-               <bibl xml:id="tillich_work_id__118">Jehle, Frank, Die Aarauer Konferenz (1897-1939). Spiegel der evangelischen Theologiegeschichte, Zürich 2020.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -169,5 +167,7 @@
                   <persName>Bäschlin, Franz</persName>
                   <occupation>Aktuar des Zentralkommitees der Aarauer Studentenkonferenz</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__118">Jehle, Frank, Die Aarauer Konferenz (1897-1939). Spiegel der evangelischen Theologiegeschichte, Zürich 2020.</bibl>
+               <bibl xml:id="tillich_work_id__119">Tillich, Paul, Die protestantische Verkündigung und der Mensch der Gegenwart, in: ders., Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I (=GW VII), 70-83.</bibl>
+               </listBibl></back></text>
 </TEI>

@@ -142,6 +142,54 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/121447316</idno>
                </person>
+               <person xml:id="tillich_person_id__1205">
+                  <persName>Lotz, Ernst</persName>
+                  <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2344">
+                  <persName>Schornbaum, ???</persName>
+                  <birth>
+                     <date>1875-03-07</date>
+                     <settlement>
+                        <placeName>Thundorf i. UFr.</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1953-01-18</date>
+                     <settlement>
+                        <placeName>Nürnberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/116922923</idno>
+               </person>
+               <person xml:id="tillich_person_id__2347">
+                  <persName>Weber, Hans Emil</persName>
+                  <birth>
+                     <date>1882-03-08</date>
+                     <settlement>
+                        <placeName>Mönchengladbach</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1950-06-13</date>
+                     <settlement>
+                        <placeName>Bonn</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117163228</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2348">
+                  <persName>Hopfmüller, ???</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1951</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118909991</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
+               </person>
                <person xml:id="tillich_person_id__2345">
                   <persName>Grießhammer, ???</persName>
                </person>
@@ -171,62 +219,14 @@
                   <idno type="gnd">https://d-nb.info/gnd/1034730894</idno>
                   <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
                </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2346">
                   <persName>Rupprecht, ???</persName>
                   <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2348">
-                  <persName>Hopfmüller, ???</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1951</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118909991</idno>
-                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2347">
-                  <persName>Weber, Hans Emil</persName>
-                  <birth>
-                     <date>1882-03-08</date>
-                     <settlement>
-                        <placeName>Mönchengladbach</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1950-06-13</date>
-                     <settlement>
-                        <placeName>Bonn</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117163228</idno>
-                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1205">
-                  <persName>Lotz, Ernst</persName>
-                  <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2344">
-                  <persName>Schornbaum, ???</persName>
-                  <birth>
-                     <date>1875-03-07</date>
-                     <settlement>
-                        <placeName>Thundorf i. UFr.</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1953-01-18</date>
-                     <settlement>
-                        <placeName>Nürnberg</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/116922923</idno>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>

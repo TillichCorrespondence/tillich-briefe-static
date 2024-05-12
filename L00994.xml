@@ -126,13 +126,20 @@ Ihr
                   <idno type="geonames">https://sws.geonames.org/2867543/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33158887</idno>
                </place>
-               <place xml:id="tillich_place_id__47">
-                  <placeName>Berlin-Spandau</placeName>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
-                     <geo>52.55110 13.19921</geo>
+                     <geo>50.11552 8.68417</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/7290252/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q569827</idno>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__175">
+                  <placeName>Gießen</placeName>
+                  <location type="coords">
+                     <geo>50.58727 8.67554</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
                </place>
                <place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
@@ -150,22 +157,38 @@ Ihr
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
+               <place xml:id="tillich_place_id__47">
+                  <placeName>Berlin-Spandau</placeName>
                   <location type="coords">
-                     <geo>50.11552 8.68417</geo>
+                     <geo>52.55110 13.19921</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+                  <idno type="geonames">https://sws.geonames.org/7290252/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q569827</idno>
                </place>
-               <place xml:id="tillich_place_id__175">
-                  <placeName>Gießen</placeName>
-                  <location type="coords">
-                     <geo>50.58727 8.67554</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+               </listPlace><listPerson><person xml:id="tillich_person_id__2702">
+                  <persName>Sturm, Erdmann</persName>
+                  <birth>
+                     <date>1937</date>
+                  </birth>
+                  <idno type="gnd">https://d-nb.info/gnd/108334279</idno>
+               </person>
+               <person xml:id="tillich_person_id__2469">
+                  <persName>Cordier, Leopold</persName>
+                  <birth>
+                     <date>1887</date>
+                  </birth>
+                  <death>
+                     <date>1939</date>
+                  </death>
+                  <occupation>Professor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/137432534</idno>
+                  <note type="bio"><p>Er wirkte von 1926 bis 1939 als Professor für Praktische Theologie in Gießen. Er stand der Berneuchener Bewegung nahe.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1780">
+                  <persName>Siebeck, Oskar</persName>
+                  <occupation>Deutscher Verleger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -179,40 +202,6 @@ Ihr
                   <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1617">
-                  <persName>Ritter, Karl Bernhard</persName>
-               </person>
-               <person xml:id="tillich_person_id__1739">
-                  <persName>Schreiner, Helmuth</persName>
-                  <occupation>Professor für Praktische Theologie (zw. 1931-37 in Rostock); in Münster wurde er 1945 zum kommissarischen Dekan und 1946 zum Professor für Praktische Theologie an der Westfälischen Wilhelms-Universität berufen und gehörte bis zu seiner Emeritierung 1957 zu dem wesentlichen Kräften im Wiederaufbau der Evangelisch-Theologischen Fakultät</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1602">
-                  <persName>Richter, Werner</persName>
-                  <occupation>Germanist und Ministeriumsmitarbeiter</occupation>
-                  <note type="bio"><p>Studium der Germanistik in Berlin, Basel und Marburg. 1910 Promotion, 1913 Habilitation. Die ersten Kriegsjahre verbrachte R. als Soldat, 1916-1918 war er Gastprofessor in Istanbul, 1919/1920 Professor in Greifswald. 1920-1932 Mitarbeit im Preußischen Kultusministerium als Vertrauter Carl Heinrich Beckers. R. selbst gehörte der DVP an. 1932/1933 wurde er ordentlicher Professor an der Universität Berlin, wo er bereits seit 1921 eine Honorarprofessur innehatte. 1933 wurde er zwangspensioniert, 1939 emigrierte er in die USA, wo er bis zu seiner Rückkehr nach Deutschland im Jahr 1949 am Elmhurst College beschäftigt war. Ab 1949 lehrte er in Bonn, 1955 wurde er emeritiert.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1751">
-                  <persName>Schüßler, Werner</persName>
-               </person>
-               <person xml:id="tillich_person_id__1756">
-                  <persName>Schweitzer, Carl Gunther</persName>
-                  <occupation>Pastor an der Potsdamer Garnisonkirche, Wingolf und Berneuchener Bewegung</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2466">
-                  <persName>Seeberg, Margot</persName>
-                  <birth>
-                     <date>1892</date>
-                  </birth>
-                  <death>
-                     <date>1983</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/1052278809</idno>
-                  <note type="bio"><p>Sie war die Frau von Erich Seeberg.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1780">
-                  <persName>Siebeck, Oskar</persName>
-                  <occupation>Deutscher Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__1837">
                   <persName>Stählin, Wilhelm</persName>
@@ -232,10 +221,54 @@ Ihr
                   <idno type="gnd">https://d-nb.info/gnd/118752510</idno>
                   <note type="bio"><p>Studium der evangelischen Theologie in Erlangen, Rostock und Berlin, sowie im Anschluss Psychologie in Würzburg. Seit 1910 Pfarrtätigkeit, 1913 Promotion im Fach Psychologie. 1914 gründete S. die Gesellschaft für Religionspsychologie, 1914-1916 wirkte er als Feldgeistlicher in Frankreich und dem Baltikum. 1923 gehörte er zu den Begründern des Berneuchener Kreises sowie der Michaelsbruderschaft 1931. Seit 1926 hatte er eine Professur für Praktische Theologie an der Westfälischen Wilhelms-Universität Münster inne. Die Zeit des Nationalsozialismus erlebte S. in Deutschland. Er schloss sich zeitweise dem Pfarrernotbund an, verließ ihn jedoch wieder und stand sowohl den Deutschen Christen als auch der Bekennenden Kirche kritisch gegenüber. 1945 wurde er zum Bischof der Evangelisch-Lutherischen Kirche in Oldenburg gewählt. Sein kirchenpolitisches Engagement galt insbesondere der Liturgischen Erneuerung sowie dem ökumenischen Dialog.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2468">
+                  <persName>Seeberg, Bengt</persName>
+                  <birth>
+                     <date>1914-02-04</date>
+                     <settlement>
+                        <placeName>Greifswald</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1944-11-12</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/12546889X</idno>
+                  <note type="bio"><p>Er war der Sohn von Erich Seeberg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1756">
+                  <persName>Schweitzer, Carl Gunther</persName>
+                  <occupation>Pastor an der Potsdamer Garnisonkirche, Wingolf und Berneuchener Bewegung</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2466">
+                  <persName>Seeberg, Margot</persName>
+                  <birth>
+                     <date>1892</date>
+                  </birth>
+                  <death>
+                     <date>1983</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1052278809</idno>
+                  <note type="bio"><p>Sie war die Frau von Erich Seeberg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1602">
+                  <persName>Richter, Werner</persName>
+                  <occupation>Germanist und Ministeriumsmitarbeiter</occupation>
+                  <note type="bio"><p>Studium der Germanistik in Berlin, Basel und Marburg. 1910 Promotion, 1913 Habilitation. Die ersten Kriegsjahre verbrachte R. als Soldat, 1916-1918 war er Gastprofessor in Istanbul, 1919/1920 Professor in Greifswald. 1920-1932 Mitarbeit im Preußischen Kultusministerium als Vertrauter Carl Heinrich Beckers. R. selbst gehörte der DVP an. 1932/1933 wurde er ordentlicher Professor an der Universität Berlin, wo er bereits seit 1921 eine Honorarprofessur innehatte. 1933 wurde er zwangspensioniert, 1939 emigrierte er in die USA, wo er bis zu seiner Rückkehr nach Deutschland im Jahr 1949 am Elmhurst College beschäftigt war. Ab 1949 lehrte er in Bonn, 1955 wurde er emeritiert.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1760">
                   <persName>Seeberg, Erich</persName>
                   <occupation>Kirchenhistoriker</occupation>
                   <note type="bio"><p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1617">
+                  <persName>Ritter, Karl Bernhard</persName>
+               </person>
+               <person xml:id="tillich_person_id__1739">
+                  <persName>Schreiner, Helmuth</persName>
+                  <occupation>Professor für Praktische Theologie (zw. 1931-37 in Rostock); in Münster wurde er 1945 zum kommissarischen Dekan und 1946 zum Professor für Praktische Theologie an der Westfälischen Wilhelms-Universität berufen und gehörte bis zu seiner Emeritierung 1957 zu dem wesentlichen Kräften im Wiederaufbau der Evangelisch-Theologischen Fakultät</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1751">
+                  <persName>Schüßler, Werner</persName>
                </person>
                <person xml:id="tillich_person_id__2701">
                   <persName>Hermann, Rudolf</persName>
@@ -253,43 +286,10 @@ Ihr
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119063689</idno>
                </person>
-               <person xml:id="tillich_person_id__2469">
-                  <persName>Cordier, Leopold</persName>
-                  <birth>
-                     <date>1887</date>
-                  </birth>
-                  <death>
-                     <date>1939</date>
-                  </death>
-                  <occupation>Professor;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/137432534</idno>
-                  <note type="bio"><p>Er wirkte von 1926 bis 1939 als Professor für Praktische Theologie in Gießen. Er stand der Berneuchener Bewegung nahe.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2468">
-                  <persName>Seeberg, Bengt</persName>
-                  <birth>
-                     <date>1914-02-04</date>
-                     <settlement>
-                        <placeName>Greifswald</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1944-11-12</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/12546889X</idno>
-                  <note type="bio"><p>Er war der Sohn von Erich Seeberg.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2702">
-                  <persName>Sturm, Erdmann</persName>
-                  <birth>
-                     <date>1937</date>
-                  </birth>
-                  <idno type="gnd">https://d-nb.info/gnd/108334279</idno>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__101">Tillich, Paul, Dogmatik. Marburger Vorlesung von 1925, hg. von W. Schüßler, Düsseldorf 1986.</bibl>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__102">Tillich, Paul, Natur und Sakrament, in: Ders., Religiöse Verwirklichung, Berlin 1930, 142-167.293-295.</bibl>
                <bibl xml:id="tillich_work_id__99">Wiebel, Arnold (Hg.), Rudolf Hermann - Erich Seeberg. Briefwechsel 1920-1945, Frankfurt/Main 2003.</bibl>
-               <bibl xml:id="tillich_work_id__102">Tillich, Paul, Natur und Sakrament, in: Ders., Religiöse Verwirklichung, Berlin 1930, 142-167.293-295.</bibl>
-               <bibl xml:id="tillich_work_id__68">Tillich, Paul, Dogmatik-Vorlesung (Dresden 1925-1927) (=EW XIV), Berlin et al. 2005.</bibl>
                <bibl xml:id="tillich_work_id__100">Pfennigsdorf, Emil (Hg.), Der Erlösungsgedanke. Bericht über den 2. deutschen Theologentag in Frankfurt a. M. (Deutsche Theologie, 2. Bd.), Göttingen 1929.</bibl>
+               <bibl xml:id="tillich_work_id__68">Tillich, Paul, Dogmatik-Vorlesung (Dresden 1925-1927) (=EW XIV), Berlin et al. 2005.</bibl>
+               <bibl xml:id="tillich_work_id__101">Tillich, Paul, Dogmatik. Marburger Vorlesung von 1925, hg. von W. Schüßler, Düsseldorf 1986.</bibl>
                </listBibl></back></text>
 </TEI>

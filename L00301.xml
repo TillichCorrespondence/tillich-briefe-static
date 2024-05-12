@@ -117,12 +117,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2128">
-                  <persName>Zschorsch, Gertrud</persName>
-                  <occupation>Hamburger Kunstgewerbeschule?</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/128013141</idno>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__549">
+<back><listPlace><place xml:id="tillich_place_id__549">
                   <placeName>Nauen</placeName>
                   <location type="coords">
                      <geo>52.60701 12.87374</geo>
@@ -138,5 +133,10 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2128">
+                  <persName>Zschorsch, Gertrud</persName>
+                  <occupation>Hamburger Kunstgewerbeschule?</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/128013141</idno>
+               </person>
+               </listPerson></back></text>
 </TEI>

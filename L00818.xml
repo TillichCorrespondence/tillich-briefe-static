@@ -96,10 +96,9 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__306">
-                  <persName>Buber, Martin</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listBibl><bibl xml:id="tillich_work_id__37">Willbrandt, Robert von/Löwe, Adolf/Salomon, Gottfried (Hg.), Wirtschaft und Gesellschaft. Beiträge zur Oekonomik und Soziologie der Gegenwart (Festschrift Franz Oppenheimer), Frankfurt a. M. 1924</bibl>
+               <bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -117,6 +116,9 @@
                <person xml:id="tillich_person_id__1426">
                   <persName>Oppenheimer, Franz</persName>
                </person>
+               <person xml:id="tillich_person_id__306">
+                  <persName>Buber, Martin</persName>
+               </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
@@ -125,7 +127,5 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
-               <bibl xml:id="tillich_work_id__37">Willbrandt, Robert von/Löwe, Adolf/Salomon, Gottfried (Hg.), Wirtschaft und Gesellschaft. Beiträge zur Oekonomik und Soziologie der Gegenwart (Festschrift Franz Oppenheimer), Frankfurt a. M. 1924</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

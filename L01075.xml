@@ -164,7 +164,22 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__650">
+   <back><listBibl><bibl xml:id="tillich_work_id__124">Tillich, Paul, Was ist religiöser Sozialismus? Rundfunkvortrag beim "Deutschlandsender" am 22. Juli 1930.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__479">
+                  <placeName>Zethau</placeName>
+                  <location type="coords">
+                     <geo>50.77640 13.38339</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2804693/</idno>
+               </place>
+               <place xml:id="tillich_place_id__127">
+                  <placeName>Dresden Neustadt</placeName>
+                  <location type="coords">
+                     <geo>51.07553 13.76259</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/12500814/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__650">
                   <persName>Gabriel, Erich</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
@@ -185,20 +200,5 @@
                <person xml:id="tillich_person_id__1560">
                   <persName>Rathenau, Walter</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__127">
-                  <placeName>Dresden Neustadt</placeName>
-                  <location type="coords">
-                     <geo>51.07553 13.76259</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/12500814/</idno>
-               </place>
-               <place xml:id="tillich_place_id__479">
-                  <placeName>Zethau</placeName>
-                  <location type="coords">
-                     <geo>50.77640 13.38339</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2804693/</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__124">Tillich, Paul, Was ist religiöser Sozialismus? Rundfunkvortrag beim "Deutschlandsender" am 22. Juli 1930.</bibl>
-               </listBibl></back></text>
+               </listPerson></back></text>
 </TEI>

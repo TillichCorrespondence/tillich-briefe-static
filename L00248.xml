@@ -194,7 +194,60 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPlace><place xml:id="tillich_place_id__186">
+                  <placeName>Göttingen</placeName>
+                  <location type="coords">
+                     <geo>51.53443 9.93228</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
+               </place>
+               <place xml:id="tillich_place_id__628">
+                  <placeName>Hofgeismar</placeName>
+                  <location type="coords">
+                     <geo>51.49607 9.38500</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2902559/</idno>
+               </place>
+               <place xml:id="tillich_place_id__623">
+                  <placeName>Witzenhausen</placeName>
+                  <location type="coords">
+                     <geo>51.34103 9.85540</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2807184/</idno>
+               </place>
+               <place xml:id="tillich_place_id__136">
+                  <placeName>Erlangen</placeName>
+                  <location type="coords">
+                     <geo>49.59099 11.00783</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2142">
+                  <persName>Tielking, ???</persName>
+                  <note type="bio"><p>Er war Mitglied der Wingolfsverbindung in Göttingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -227,35 +280,36 @@
                   <idno type="gnd">https://d-nb.info/gnd/116971886</idno>
                   <note type="bio"><p>Er lebte und wirkte in Norddeutschland.</p></note>
                </person>
-               <person xml:id="tillich_person_id__788">
-                  <persName>Hanffstengel, Gottfried von</persName>
-                  <occupation>Theologe, Jugendfreund</occupation>
-               </person>
                <person xml:id="tillich_person_id__853">
                   <persName>Heinzelmann, Gerhard</persName>
                   <occupation>Syst. Theologe und Wingolfsbruder Tillichs</occupation>
                </person>
-               <person xml:id="tillich_person_id__2142">
-                  <persName>Tielking, ???</persName>
-                  <note type="bio"><p>Er war Mitglied der Wingolfsverbindung in Göttingen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1227">
-                  <persName>Lütgert, Wilhelm</persName>
-                  <birth>
-                     <date>1867</date>
-                  </birth>
-                  <death>
-                     <date>1938</date>
-                  </death>
-                  <occupation>Systematischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
-               </person>
-               <person xml:id="tillich_person_id__2377">
-                  <persName>Hukmann, ???</persName>
+               <person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
                </person>
                <person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2213">
+                  <persName>Titius, Arthur</persName>
+                  <birth>
+                     <date>1864-07-28</date>
+                     <settlement>
+                        <placeName>Sensburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1936-09-07</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117401110</idno>
+               </person>
+               <person xml:id="tillich_person_id__2377">
+                  <persName>Hukmann, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1020">
                   <persName>Kant, Immanuel</persName>
@@ -275,62 +329,8 @@
                <person xml:id="tillich_person_id__1050">
                   <persName>Kilger, Albert</persName>
                </person>
-               <person xml:id="tillich_person_id__2213">
-                  <persName>Titius, Arthur</persName>
-                  <birth>
-                     <date>1864-07-28</date>
-                     <settlement>
-                        <placeName>Sensburg</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1936-09-07</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117401110</idno>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__279">Kant, Immanuel. Critik der practischen Vernunft. Riga 1788.</bibl>
-               <bibl xml:id="tillich_work_id__275">Kant, Immanuel. Der Streit der Fakultäten. Deutschland: Nicolovius, 1798.</bibl>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__275">Kant, Immanuel. Der Streit der Fakultäten. Deutschland: Nicolovius, 1798.</bibl>
                <bibl xml:id="tillich_work_id__280">Immanuel Kant, Prolegomena zu einer jeden künftigen Metaphysik, die als Wissenschaft wird auftreten können, Riga 1783</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__628">
-                  <placeName>Hofgeismar</placeName>
-                  <location type="coords">
-                     <geo>51.49607 9.38500</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2902559/</idno>
-               </place>
-               <place xml:id="tillich_place_id__186">
-                  <placeName>Göttingen</placeName>
-                  <location type="coords">
-                     <geo>51.53443 9.93228</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2918632/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__136">
-                  <placeName>Erlangen</placeName>
-                  <location type="coords">
-                     <geo>49.59099 11.00783</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2929567/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
-               </place>
-               <place xml:id="tillich_place_id__623">
-                  <placeName>Witzenhausen</placeName>
-                  <location type="coords">
-                     <geo>51.34103 9.85540</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2807184/</idno>
-               </place>
-               </listPlace></back></text>
+               <bibl xml:id="tillich_work_id__279">Kant, Immanuel. Critik der practischen Vernunft. Riga 1788.</bibl>
+               </listBibl></back></text>
 </TEI>

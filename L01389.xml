@@ -90,7 +90,62 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1845">
+                  <persName>Staudinger, Hans</persName>
+                  <birth>
+                     <date>1889-08-16</date>
+                     <settlement>
+                        <placeName>Worms</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1980-02-25</date>
+                     <settlement>
+                        <placeName>New York, NY</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker der Sozialdemokratischen Partei Deutschlands (SPD) und Wirtschaftswissenschaftler sowie von 1929 bis 1932 Staatssekretär im preußischen Handelsministerium.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118616919</idno>
+                  <note type="bio"><p>Studium der Nationalökonomie sowie Soziologie in Heidelberg, wo er 1913 bei Alfred Weber promoviert wurde. Bereits als Student in die SPD eingetreten, bekleidete S. nach dem Ersten Weltkrieg diverse Verwaltungsämter, unter anderem im Reichswirtschaftsministerium (1919-1927) sowie im preußischen Handelsministerium (1927-1932). Daneben mehrere Aufsichtsratposten sowie Lehrtätigkeit an der Deutschen Hochschule für Politik. Nach kurzer Inhaftierung 1933 zunächst Flucht nach Belgien, später Emigration in die USA, wo er ab dem Frühjahr 1934 an der New School for Social Research in New York lehrte. Gemeinsam mit seiner Frau Else sowie mit Paul Tillich und anderen engagierte er sich in diversen Hilfsorganisationen für Emigrierte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1209">
+                  <persName>Löwe, Adolf</persName>
+                  <occupation>deutscher Soziologe und Nationalökonom</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119383292</idno>
+                  <note type="bio"><p>1911-1915 Studium der Wirtschafts- wie auch Rechtswissenschaften in München, Berlin und Tübingen. In Tübingen wurde er 1918 zum Dr. iur. promoviert. 1919 heiratete er Beatrice Löwenstein (genannt Bea, *1893). 1919-1924 Tätigkeit im Reichswirtschaftsministerium, 1924-1926 Leiter der internationalen Abteilung des Statistischen Reichsamtes, in dieser Zeit auch mitverantwortlich für die Gründung des Deutschen Instituts für Konjunkturforschung (DIW). 1926 Habilitation in Kiel, damit einhergehend Leitung und Ausbau des Kieler Instituts für Weltwirtschaft (IfW) und Lehrtätigkeit an der Universität. 1931 folgte L. einem Ruf an die Universität Frankfurt/Main, wo er unter anderem seine alten Freunde Max  Horkheimer (aus Schulzeiten) und Tillich (aus Berliner Zeiten und dem Kreis religiöser Sozialisten) wiedertraf. Nachdem er 1933 zunächst beurlaubt und sodann entlassen wurde, emigrierte er im selben Jahr nach England, wo er 1933-1940 an der Universität Manchester tätig war und nebenher an der London School of Economics lehrte. 1940 zweite Emigration in die USA, wo er bis zu seiner Emeritierung 1963 an der New School for Social Research in New York lehrte. Adolf und Beatrice L. hatten zwei Töchter, Rahel Dorothea (tw. auch Dora, 1921-2011), später Rachel Aubrey bzw. in erster Ehe Rüstow, sowie Hanna Ruth (1924-2010), später Hanna Lustig.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__846">
+                  <persName>Heimann, Eduard</persName>
+                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1212">
+                  <persName>Löwenfeld, Günther</persName>
+                  <occupation>Jurist</occupation>
+                  <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -111,75 +166,33 @@
                   <idno type="gnd">https://d-nb.info/gnd/119264250</idno>
                   <note type="bio"><p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p></note>
                </person>
-               <person xml:id="tillich_person_id__2948">
-                  <persName>Lommatzsch, Erhard</persName>
-                  <occupation>Romanist und Mediävist</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118574167</idno>
-               </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1498">
-                  <persName>Pincus, Lily</persName>
-                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
-                  <note type="bio"><p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1209">
-                  <persName>Löwe, Adolf</persName>
-                  <occupation>deutscher Soziologe und Nationalökonom</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119383292</idno>
-                  <note type="bio"><p>1911-1915 Studium der Wirtschafts- wie auch Rechtswissenschaften in München, Berlin und Tübingen. In Tübingen wurde er 1918 zum Dr. iur. promoviert. 1919 heiratete er Beatrice Löwenstein (genannt Bea, *1893). 1919-1924 Tätigkeit im Reichswirtschaftsministerium, 1924-1926 Leiter der internationalen Abteilung des Statistischen Reichsamtes, in dieser Zeit auch mitverantwortlich für die Gründung des Deutschen Instituts für Konjunkturforschung (DIW). 1926 Habilitation in Kiel, damit einhergehend Leitung und Ausbau des Kieler Instituts für Weltwirtschaft (IfW) und Lehrtätigkeit an der Universität. 1931 folgte L. einem Ruf an die Universität Frankfurt/Main, wo er unter anderem seine alten Freunde Max  Horkheimer (aus Schulzeiten) und Tillich (aus Berliner Zeiten und dem Kreis religiöser Sozialisten) wiedertraf. Nachdem er 1933 zunächst beurlaubt und sodann entlassen wurde, emigrierte er im selben Jahr nach England, wo er 1933-1940 an der Universität Manchester tätig war und nebenher an der London School of Economics lehrte. 1940 zweite Emigration in die USA, wo er bis zu seiner Emeritierung 1963 an der New School for Social Research in New York lehrte. Adolf und Beatrice L. hatten zwei Töchter, Rahel Dorothea (tw. auch Dora, 1921-2011), später Rachel Aubrey bzw. in erster Ehe Rüstow, sowie Hanna Ruth (1924-2010), später Hanna Lustig.</p></note>
+               <person xml:id="tillich_person_id__1499">
+                  <persName>Pincus, Fritz</persName>
+                  <occupation>Mitbesitzer Haus auf dem Küssel</occupation>
                </person>
                <person xml:id="tillich_person_id__570">
                   <persName>Farris, Erdmuthe</persName>
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               <person xml:id="tillich_person_id__2948">
+                  <persName>Lommatzsch, Erhard</persName>
+                  <occupation>Romanist und Mediävist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118574167</idno>
                </person>
-               <person xml:id="tillich_person_id__1845">
-                  <persName>Staudinger, Hans</persName>
-                  <birth>
-                     <date>1889-08-16</date>
-                     <settlement>
-                        <placeName>Worms</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1980-02-25</date>
-                     <settlement>
-                        <placeName>New York, NY</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Politiker der Sozialdemokratischen Partei Deutschlands (SPD) und Wirtschaftswissenschaftler sowie von 1929 bis 1932 Staatssekretär im preußischen Handelsministerium.</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118616919</idno>
-                  <note type="bio"><p>Studium der Nationalökonomie sowie Soziologie in Heidelberg, wo er 1913 bei Alfred Weber promoviert wurde. Bereits als Student in die SPD eingetreten, bekleidete S. nach dem Ersten Weltkrieg diverse Verwaltungsämter, unter anderem im Reichswirtschaftsministerium (1919-1927) sowie im preußischen Handelsministerium (1927-1932). Daneben mehrere Aufsichtsratposten sowie Lehrtätigkeit an der Deutschen Hochschule für Politik. Nach kurzer Inhaftierung 1933 zunächst Flucht nach Belgien, später Emigration in die USA, wo er ab dem Frühjahr 1934 an der New School for Social Research in New York lehrte. Gemeinsam mit seiner Frau Else sowie mit Paul Tillich und anderen engagierte er sich in diversen Hilfsorganisationen für Emigrierte.</p></note>
+               <person xml:id="tillich_person_id__445">
+                  <persName>Deißmann, Adolf</persName>
+               </person>
+               <person xml:id="tillich_person_id__1498">
+                  <persName>Pincus, Lily</persName>
+                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
+                  <note type="bio"><p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p></note>
                </person>
                <person xml:id="tillich_person_id__1723">
                   <persName>Schmidt, Karl Ludwig</persName>
                   <occupation>evangelischer Theologe (Neues Testament)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
                   <note type="bio"><p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__445">
-                  <persName>Deißmann, Adolf</persName>
                </person>
                <person xml:id="tillich_person_id__2406">
                   <persName>Hirzel, Stephan</persName>
@@ -199,19 +212,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/1038829402</idno>
                   <note type="bio"><p>Er war Mitbegründer des Kunst-Dienstes der evangelischen Kirche. Er baute unter anderem das "Haus auf dem Küssel".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1499">
-                  <persName>Pincus, Fritz</persName>
-                  <occupation>Mitbesitzer Haus auf dem Küssel</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1212">
-                  <persName>Löwenfeld, Günther</persName>
-                  <occupation>Jurist</occupation>
-                  <note type="bio"><p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1211">
-                  <persName>Löwenfeld, Claire</persName>
-                  <occupation>Diätetikerin</occupation>
-               </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
@@ -230,11 +230,20 @@
                   <idno type="gnd">https://d-nb.info/gnd/118577190</idno>
                   <note type="bio"><p>1911-1916 Studium der Philosophie und Literaturwissenschaft in Budapest, 1918 Promotion zum Dr. phil. 1917/1918 war M. Mitglied im Sonntagskreis um György Lukács und Béla Balázs. 1919 erhielt er zunächst einen Lehrauftrag für Philosophie in Budapest, musste aber im selben Jahr nach der Niederschlagung der ungarischen Räterepublik zunächst nach Wien und anschließend 1920 nach Deutschland emigrieren, wo er schließlich in Heidelberg unterkam und sich 1926 bei Alfred Weber für das Fach Soziologie habilitieren konnte. Bis 1930 lehrte er sodann an der Heidelberger Universität, bevor er 1930-1933 Professor der Soziologie und Nationalökonomie in Frankfurt/Main wurde. 1933 Emigration über die Niederlande nach Großbritannien, wo er über die Universität London u. a. 1933-1945 als außerplanmäßiger Lecturer an der London School of Economics lehren konnte. M. war seit 1921 mit der Psychologin Julia, geb. Károlyné Júlia Láng (1893-1955) verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__846">
-                  <persName>Heimann, Eduard</persName>
-                  <occupation>deutscher Wirtschafts- und Sozialwissenschaftler; Er zählte zu den führenden religiösen Sozialisten um den Theologen Paul Tillich (Uni Hamburg, New York)</occupation>
+               <person xml:id="tillich_person_id__1211">
+                  <persName>Löwenfeld, Claire</persName>
+                  <occupation>Diätetikerin</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__356">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__63">Tillich, Paul, Das Wohnen, der Raum und die Zeit. Rede anläßlich der Einweihungsfeier des Hauses auf dem Küssel in Potsdam, in: Die Form, Jg. 8 (1933), S. 11f.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__356">
                   <placeName>Potsdam</placeName>
                   <location type="coords">
                      <geo>52.39886 13.06566</geo>
@@ -250,14 +259,5 @@
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__63">Tillich, Paul, Das Wohnen, der Raum und die Zeit. Rede anläßlich der Einweihungsfeier des Hauses auf dem Küssel in Potsdam, in: Die Form, Jg. 8 (1933), S. 11f.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

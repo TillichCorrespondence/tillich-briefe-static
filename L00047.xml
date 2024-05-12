@@ -108,6 +108,10 @@
                   <persName>Gerich, ???</persName>
                   <occupation>Er war Paul Tillichs Leibbursch.</occupation>
                </person>
+               <person xml:id="tillich_person_id__2218">
+                  <persName>Landmann, F.</persName>
+                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -126,10 +130,6 @@
                <person xml:id="tillich_person_id__1074">
                   <persName>Koch, Karl</persName>
                   <occupation>Referent, Bursche von Paul Tillich</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2218">
-                  <persName>Landmann, F.</persName>
-                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__175">
                   <placeName>Gießen</placeName>

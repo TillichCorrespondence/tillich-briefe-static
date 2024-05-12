@@ -129,15 +129,7 @@
   </p>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__41">
-                  <placeName>Berlin-Lichtenrade</placeName>
-                  <location type="coords">
-                     <geo>52.39844 13.40637</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1063">
+<back><listPerson><person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
                   <occupation>Mutter von Maria Klein (Rhine)</occupation>
                </person>
@@ -145,5 +137,13 @@
                   <persName>Lahusen, Friedrich</persName>
                   <occupation>Generalsuperintendent</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__41">
+                  <placeName>Berlin-Lichtenrade</placeName>
+                  <location type="coords">
+                     <geo>52.39844 13.40637</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

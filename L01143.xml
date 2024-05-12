@@ -118,13 +118,13 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
+   <back><listPlace><place xml:id="tillich_place_id__203">
+                  <placeName>Heidelberg (Deutschland)</placeName>
                   <location type="coords">
-                     <geo>50.11552 8.68417</geo>
+                     <geo>49.40768 8.69079</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+                  <idno type="geonames">https://sws.geonames.org/2907911/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2966</idno>
                </place>
                <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
@@ -134,13 +134,13 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               <place xml:id="tillich_place_id__203">
-                  <placeName>Heidelberg (Deutschland)</placeName>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
-                     <geo>49.40768 8.69079</geo>
+                     <geo>50.11552 8.68417</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2907911/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2966</idno>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1780">
                   <persName>Siebeck, Oskar</persName>

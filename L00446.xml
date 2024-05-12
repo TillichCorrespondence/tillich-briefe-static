@@ -141,7 +141,25 @@
 <signed><rs ref="#tillich_person_id__1928" type="person">Paul</rs></signed>. </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPlace><place xml:id="tillich_place_id__227">
+                  <placeName>Juvigny (Aisne)</placeName>
+                  <location type="coords">
+                     <geo>49.44762 3.31821</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -175,23 +193,5 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
                </person>
-               <person xml:id="tillich_person_id__1227">
-                  <persName>Lütgert, Wilhelm</persName>
-                  <birth>
-                     <date>1867</date>
-                  </birth>
-                  <death>
-                     <date>1938</date>
-                  </death>
-                  <occupation>Systematischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__227">
-                  <placeName>Juvigny (Aisne)</placeName>
-                  <location type="coords">
-                     <geo>49.44762 3.31821</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

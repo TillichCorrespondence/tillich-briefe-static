@@ -111,32 +111,7 @@
          </div>
 
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__116">Spitta, Walter, Die Insel des Todes, in: Zeitwende, Jg. 6, H. 2 (Dezember 1930), S. 540-544.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__223">
-                  <placeName>Jade</placeName>
-                  <location type="coords">
-                     <geo>53.36123 8.25355</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2895482/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q835271</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2455">
-                  <persName>Spitta, Walter</persName>
-                  <birth>
-                     <date>1903-10-05</date>
-                     <settlement>
-                        <placeName>Bremen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1945-01-26</date>
-                     <settlement>
-                        <placeName>Nakło nad Notecia̜</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/122188918</idno>
-               </person>
-               <person xml:id="tillich_person_id__1923">
+   <back><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
                   <birth>
                      <date>1896-05-17</date>
@@ -171,5 +146,30 @@
                <person xml:id="tillich_person_id__1516">
                   <persName>Poelchau, Harald</persName>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2455">
+                  <persName>Spitta, Walter</persName>
+                  <birth>
+                     <date>1903-10-05</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-01-26</date>
+                     <settlement>
+                        <placeName>Nakło nad Notecia̜</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/122188918</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__223">
+                  <placeName>Jade</placeName>
+                  <location type="coords">
+                     <geo>53.36123 8.25355</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2895482/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q835271</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__116">Spitta, Walter, Die Insel des Todes, in: Zeitwende, Jg. 6, H. 2 (Dezember 1930), S. 540-544.</bibl>
+               </listBibl></back></text>
 </TEI>

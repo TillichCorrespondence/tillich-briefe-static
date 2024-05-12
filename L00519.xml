@@ -120,17 +120,83 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__644">
+<back><listPlace><place xml:id="tillich_place_id__416">
+                  <placeName>Stettin</placeName>
+                  <location type="coords">
+                     <geo>53.42894 14.55302</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
+               </place>
+               <place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               <place xml:id="tillich_place_id__9">
+                  <placeName>Aisnetal</placeName>
+                  <location type="coords">
+                     <geo>49.50000 3.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3038375/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3093</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__80">
+                  <placeName>Butterfelde</placeName>
+                  <location type="coords">
+                     <geo>52.87141 14.38608</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
+               </place>
+               <place xml:id="tillich_place_id__406">
+                  <placeName>Somme</placeName>
+                  <location type="coords">
+                     <geo>49.93141 2.27639</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2974304/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q12770</idno>
+               </place>
+               <place xml:id="tillich_place_id__459">
+                  <placeName>Verdun</placeName>
+                  <location type="coords">
+                     <geo>49.15964 5.38290</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2969958/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q154748</idno>
+               </place>
+               <place xml:id="tillich_place_id__13">
+                  <placeName>Argonnen</placeName>
+                  <location type="coords">
+                     <geo>49.50000 5.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3036990/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
-               <person xml:id="tillich_person_id__1930">
-                  <persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
@@ -163,79 +229,13 @@
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1924">
-                  <persName>Tillich, Johannes Oskar</persName>
-                  <birth>
-                     <date>1857</date>
-                  </birth>
-                  <death>
-                     <date>1937</date>
-                  </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               <person xml:id="tillich_person_id__1930">
+                  <persName>Tillich, Marie</persName>
+                  <occupation>Großmutter</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               <place xml:id="tillich_place_id__406">
-                  <placeName>Somme</placeName>
-                  <location type="coords">
-                     <geo>49.93141 2.27639</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2974304/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q12770</idno>
-               </place>
-               <place xml:id="tillich_place_id__416">
-                  <placeName>Stettin</placeName>
-                  <location type="coords">
-                     <geo>53.42894 14.55302</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083829/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q393</idno>
-               </place>
-               <place xml:id="tillich_place_id__13">
-                  <placeName>Argonnen</placeName>
-                  <location type="coords">
-                     <geo>49.50000 5.00000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3036990/</idno>
-               </place>
-               <place xml:id="tillich_place_id__459">
-                  <placeName>Verdun</placeName>
-                  <location type="coords">
-                     <geo>49.15964 5.38290</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2969958/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q154748</idno>
-               </place>
-               <place xml:id="tillich_place_id__80">
-                  <placeName>Butterfelde</placeName>
-                  <location type="coords">
-                     <geo>52.87141 14.38608</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__9">
-                  <placeName>Aisnetal</placeName>
-                  <location type="coords">
-                     <geo>49.50000 3.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3038375/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3093</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

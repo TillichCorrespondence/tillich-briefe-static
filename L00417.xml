@@ -121,21 +121,21 @@
 <closer><salute>Es grüsst Sie herzlich Ihr dankbar ergebener</salute> <signed><rs ref="#tillich_person_id__1928" type="person">P. Tillich</rs>.</signed></closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__8">
-                  <placeName>Aisne</placeName>
-                  <location type="coords">
-                     <geo>49.50000 3.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3038375/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3093</idno>
-               </place>
-               <place xml:id="tillich_place_id__61">
+<back><listPlace><place xml:id="tillich_place_id__61">
                   <placeName>Bieuxy</placeName>
                   <location type="coords">
                      <geo>49.44667 3.26139</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6446494/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place>
+               <place xml:id="tillich_place_id__8">
+                  <placeName>Aisne</placeName>
+                  <location type="coords">
+                     <geo>49.50000 3.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3038375/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3093</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

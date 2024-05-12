@@ -112,9 +112,28 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__644">
+<back><listPerson><person xml:id="tillich_person_id__2198">
+                  <persName>Banzhaf, ???</persName>
+                  <note type="bio"><p>Er war der Bruder von Friedrich Banzhaf.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1310">
+                  <persName>Merrem, Lucie</persName>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
                <person xml:id="tillich_person_id__2242">
                   <persName>Schmidt</persName>
@@ -139,40 +158,21 @@
                   <persName>Meinhof, Heinrich</persName>
                   <occupation>Leibfux von Paul Tillich</occupation>
                </person>
-               <person xml:id="tillich_person_id__1310">
-                  <persName>Merrem, Lucie</persName>
-               </person>
-               <person xml:id="tillich_person_id__2198">
-                  <persName>Banzhaf, ???</persName>
-                  <note type="bio"><p>Er war der Bruder von Friedrich Banzhaf.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1924">
-                  <persName>Tillich, Johannes Oskar</persName>
-                  <birth>
-                     <date>1857</date>
-                  </birth>
-                  <death>
-                     <date>1937</date>
-                  </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__293">
+               </listPerson><listPlace><place xml:id="tillich_place_id__293">
                   <placeName>Misdroy</placeName>
                   <location type="coords">
                      <geo>53.92921 14.45097</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3091961/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
+               </place>
+               <place xml:id="tillich_place_id__424">
+                  <placeName>Swinemünde</placeName>
+                  <location type="coords">
+                     <geo>53.91053 14.24712</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083955/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q41599</idno>
                </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
@@ -182,13 +182,13 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               <place xml:id="tillich_place_id__424">
-                  <placeName>Swinemünde</placeName>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
                   <location type="coords">
-                     <geo>53.91053 14.24712</geo>
+                     <geo>48.52266 9.05222</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3083955/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q41599</idno>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
                </place>
                </listPlace></back></text>
 </TEI>

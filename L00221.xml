@@ -136,13 +136,28 @@
                mit sich bringt, ich gehe dem Trubel nicht aus dem Wege. Augenblicklich gibt <rs ref="#tillich_person_id__203" type="person">Lorenz</rs> meinem kleinen Bruder <rs ref="#tillich_person_id__2171" type="person">Salem</rs> lateinische Stunde.<note type="ea">Der vorliegende Brief endet an dieser Stelle und wurde erst später versandt. Vgl. <rs type="letter" ref="L00221">Brief von Gottfried von Hanffstengel an Paul Tillich vom 23. Oktober 1907</rs>.</note></p>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__203">
-                  <persName>Bertheau, Lorenz</persName>
-                  <occupation>Pfarrer</occupation>
+   <back><listPerson><person xml:id="tillich_person_id__833">
+                  <persName>Hebbel, Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__2171">
                   <persName>Hanffstengel, Karl von</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1963</date>
+                  </death>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1775">
                   <persName>Shakespeare, William</persName>
@@ -167,27 +182,19 @@
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
                </person>
-               <person xml:id="tillich_person_id__833">
-                  <persName>Hebbel, Friedrich</persName>
-               </person>
                <person xml:id="tillich_person_id__2154">
                   <persName>Stosch, Martin</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
-               <person xml:id="tillich_person_id__641">
-                  <persName>Fritz, Alfred</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                  </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__263">Shakespeare, William. Shakespeare's Hamlet, english und deutsch: Neu übersetzt und erläutert von Max Moltke. Deutschland: n.p., 1869.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__198">
+               </listPerson><listPlace><place xml:id="tillich_place_id__75">
+                  <placeName>Bremervörde</placeName>
+                  <location type="coords">
+                     <geo>53.48458 9.14306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
+               </place>
+               <place xml:id="tillich_place_id__198">
                   <placeName>Hamburg</placeName>
                   <location type="coords">
                      <geo>53.55073 9.99302</geo>
@@ -203,13 +210,6 @@
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
-               <place xml:id="tillich_place_id__75">
-                  <placeName>Bremervörde</placeName>
-                  <location type="coords">
-                     <geo>53.48458 9.14306</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
-               </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__263">Shakespeare, William. Shakespeare's Hamlet, english und deutsch: Neu übersetzt und erläutert von Max Moltke. Deutschland: n.p., 1869.</bibl>
+               </listBibl></back></text>
 </TEI>
