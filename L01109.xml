@@ -99,9 +99,11 @@
         </closer>      
      </div>
     </body>
-  <back><listBibl><bibl xml:id="tillich_work_id__266">Stählin, Wilhelm, "Kirche und humanistische Gesellschaft". Zu Paul Tillichs Vortrag. In: Neuwerk, Jg. 13 (1931/1932), S. 112-117.</bibl>
-               <bibl xml:id="tillich_work_id__265">Tillich, Paul, Kirche und humanistische Gesellschaft. Vortrag, gehalten auf der Berneuchener Arbeitskonferenz in Pätzig, am 5. Oktober 1930. In: Neuwerk, Jg. 13 (1931/1932), S. 4-18.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1837">
+  <back><listPerson><person xml:id="tillich_person_id__1756">
+                  <persName>Schweitzer, Carl Gunther</persName>
+                  <occupation>Pastor an der Potsdamer Garnisonkirche, Wingolf und Berneuchener Bewegung</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1837">
                   <persName>Stählin, Wilhelm</persName>
                   <birth>
                      <date>1883-09-24</date>
@@ -119,6 +121,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/118752510</idno>
                   <note type="bio"><p>Studium der evangelischen Theologie in Erlangen, Rostock und Berlin, sowie im Anschluss Psychologie in Würzburg. Seit 1910 Pfarrtätigkeit, 1913 Promotion im Fach Psychologie. 1914 gründete S. die Gesellschaft für Religionspsychologie, 1914-1916 wirkte er als Feldgeistlicher in Frankreich und dem Baltikum. 1923 gehörte er zu den Begründern des Berneuchener Kreises sowie der Michaelsbruderschaft 1931. Seit 1926 hatte er eine Professur für Praktische Theologie an der Westfälischen Wilhelms-Universität Münster inne. Die Zeit des Nationalsozialismus erlebte S. in Deutschland. Er schloss sich zeitweise dem Pfarrernotbund an, verließ ihn jedoch wieder und stand sowohl den Deutschen Christen als auch der Bekennenden Kirche kritisch gegenüber. 1945 wurde er zum Bischof der Evangelisch-Lutherischen Kirche in Oldenburg gewählt. Sein kirchenpolitisches Engagement galt insbesondere der Liturgischen Erneuerung sowie dem ökumenischen Dialog.</p></note>
                </person>
+               <person xml:id="tillich_person_id__1739">
+                  <persName>Schreiner, Helmuth</persName>
+                  <occupation>Professor für Praktische Theologie (zw. 1931-37 in Rostock); in Münster wurde er 1945 zum kommissarischen Dekan und 1946 zum Professor für Praktische Theologie an der Westfälischen Wilhelms-Universität berufen und gehörte bis zu seiner Emeritierung 1957 zu dem wesentlichen Kräften im Wiederaufbau der Evangelisch-Theologischen Fakultät</occupation>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -134,15 +140,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1739">
-                  <persName>Schreiner, Helmuth</persName>
-                  <occupation>Professor für Praktische Theologie (zw. 1931-37 in Rostock); in Münster wurde er 1945 zum kommissarischen Dekan und 1946 zum Professor für Praktische Theologie an der Westfälischen Wilhelms-Universität berufen und gehörte bis zu seiner Emeritierung 1957 zu dem wesentlichen Kräften im Wiederaufbau der Evangelisch-Theologischen Fakultät</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1756">
-                  <persName>Schweitzer, Carl Gunther</persName>
-                  <occupation>Pastor an der Potsdamer Garnisonkirche, Wingolf und Berneuchener Bewegung</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__126">
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__266">Stählin, Wilhelm, "Kirche und humanistische Gesellschaft". Zu Paul Tillichs Vortrag. In: Neuwerk, Jg. 13 (1931/1932), S. 112-117.</bibl>
+               <bibl xml:id="tillich_work_id__265">Tillich, Paul, Kirche und humanistische Gesellschaft. Vortrag, gehalten auf der Berneuchener Arbeitskonferenz in Pätzig, am 5. Oktober 1930. In: Neuwerk, Jg. 13 (1931/1932), S. 4-18.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__126">
                   <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>

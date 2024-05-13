@@ -94,12 +94,12 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1678">
+<back><listPerson><person xml:id="tillich_person_id__1286">
+                  <persName>Mayer, Emil Walter</persName>
+               </person>
+               <person xml:id="tillich_person_id__1678">
                   <persName>Salomon, Gottfried</persName>
                   <occupation>Ein deutsch-amerikanischer Soziologe und Nationalökonom</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1286">
-                  <persName>Mayer, Emil Walter</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

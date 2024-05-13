@@ -94,20 +94,20 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__180">
+<back><listPlace><place xml:id="tillich_place_id__188">
+                  <placeName>Halberstadt</placeName>
+                  <location type="coords">
+                     <geo>51.89562 11.05622</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911665/</idno>
+               </place>
+               <place xml:id="tillich_place_id__180">
                   <placeName>Goslar</placeName>
                   <location type="coords">
                      <geo>51.90425 10.42766</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2918840/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32038334</idno>
-               </place>
-               <place xml:id="tillich_place_id__188">
-                  <placeName>Halberstadt</placeName>
-                  <location type="coords">
-                     <geo>51.89562 11.05622</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911665/</idno>
                </place>
                <place xml:id="tillich_place_id__360">
                   <placeName>Quedlinburg</placeName>

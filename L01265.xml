@@ -90,21 +90,21 @@
 <postscript><p><pb n="2"/>4 km entfernt<note type="ea">Auf der Kartenfront unter der Motivbeschreibung notiert.</note></p></postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__77">
-                  <placeName>Brest</placeName>
-                  <location type="coords">
-                     <geo>48.39029 -4.48628</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3030300/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q12193</idno>
-               </place>
-               <place xml:id="tillich_place_id__257">
+<back><listPlace><place xml:id="tillich_place_id__257">
                   <placeName>Le Palais</placeName>
                   <location type="coords">
                      <geo>47.34630 -3.15583</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3003045/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q128745</idno>
+               </place>
+               <place xml:id="tillich_place_id__77">
+                  <placeName>Brest</placeName>
+                  <location type="coords">
+                     <geo>48.39029 -4.48628</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3030300/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q12193</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>

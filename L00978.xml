@@ -115,7 +115,18 @@
             </postscript>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPlace><place xml:id="tillich_place_id__55">
+                  <placeName>Bern</placeName>
+                  <location type="coords">
+                     <geo>46.94809 7.44744</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661552/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1729">
+                  <persName>Schneeberger, Friedrich</persName>
+                  <occupation>Pfarrer und Verfasser von Volkstheaterstücken</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -146,16 +157,5 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118651692</idno>
                </person>
-               <person xml:id="tillich_person_id__1729">
-                  <persName>Schneeberger, Friedrich</persName>
-                  <occupation>Pfarrer und Verfasser von Volkstheaterstücken</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__55">
-                  <placeName>Bern</placeName>
-                  <location type="coords">
-                     <geo>46.94809 7.44744</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2661552/</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

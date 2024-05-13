@@ -122,7 +122,11 @@
          </div>
       </body>
    <back><listBibl><bibl xml:id="tillich_work_id__125">Nietzsche, Friedrich, Also sprach Zarathustra. 4. Bd., Leipzig, 1891.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1594">
+               </listBibl><listPerson><person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1594">
                   <persName>Rhine, Maria</persName>
                   <birth>
                      <date>1895-12-01</date>
@@ -139,10 +143,6 @@
                </person>
                <person xml:id="tillich_person_id__1394">
                   <persName>Nietzsche, Friedrich</persName>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

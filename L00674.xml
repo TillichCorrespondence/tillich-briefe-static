@@ -123,7 +123,15 @@ richten bitte, u.<expan>nd</expan> hoffe auf weitere gedeihliche Zusammenarbeit.
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2752">
+<back><listPlace><place xml:id="tillich_place_id__553">
+                  <placeName>Rügenwaldermünde</placeName>
+                  <location type="coords">
+                     <geo>54.43518 16.37731</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3100640/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q336454</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2752">
                   <persName>Reyer, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2735">
@@ -147,13 +155,5 @@ richten bitte, u.<expan>nd</expan> hoffe auf weitere gedeihliche Zusammenarbeit.
                   <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
                   <note type="bio"><p>Er spezialisierte sich auf den Neukantianismus.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__553">
-                  <placeName>Rügenwaldermünde</placeName>
-                  <location type="coords">
-                     <geo>54.43518 16.37731</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3100640/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q336454</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </profileDesc></teiHeader></TEI>

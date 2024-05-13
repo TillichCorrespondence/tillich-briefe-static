@@ -95,11 +95,11 @@
 <p>Viele Grüße von <rs ref="#tillich_person_id__2220" type="person">Else Flittner</rs>.</p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2219">
-                  <persName>Fanerod, Jeanne</persName>
-               </person>
-               <person xml:id="tillich_person_id__2220">
+<back><listPerson><person xml:id="tillich_person_id__2220">
                   <persName>Flittner, Else</persName>
+               </person>
+               <person xml:id="tillich_person_id__2219">
+                  <persName>Fanerod, Jeanne</persName>
                </person>
                <person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>

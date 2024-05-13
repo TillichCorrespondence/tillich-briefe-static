@@ -98,14 +98,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2657896/</idno>
                </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
                <place xml:id="tillich_place_id__144">
                   <placeName>Niederrad</placeName>
                   <location type="coords">
@@ -113,6 +105,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/7290401/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q567307</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2421">
                   <persName>Gerullis, Georg</persName>

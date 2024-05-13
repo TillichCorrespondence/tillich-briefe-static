@@ -120,7 +120,8 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listBibl><bibl xml:id="tillich_work_id__86">Tillich, Paul, Die religiöse Lage der Gegenwart, Berlin 1926.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -143,6 +144,5 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__86">Tillich, Paul, Die religiöse Lage der Gegenwart, Berlin 1926.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

@@ -103,21 +103,8 @@
                   ermittelt werden.</note></signed>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__688">
-                  <persName>Goesch, Heinrich</persName>
-                  <birth>
-                     <date>1880-07-02</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1931-02-16</date>
-                     <settlement>
-                        <placeName>Konstanz</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
+<back><listPerson><person xml:id="tillich_person_id__1972">
+                  <persName>Usener, Ilse</persName>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -135,9 +122,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1972">
-                  <persName>Usener, Ilse</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -158,6 +142,22 @@
                   <persName>Farris, Erdmuthe</persName>
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__688">
+                  <persName>Goesch, Heinrich</persName>
+                  <birth>
+                     <date>1880-07-02</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1931-02-16</date>
+                     <settlement>
+                        <placeName>Konstanz</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>

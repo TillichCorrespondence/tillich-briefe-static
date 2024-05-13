@@ -101,34 +101,34 @@
 <lb/> Paul hat das <unclear>¿¿¿</unclear><lb/>Kurz!</p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2528">
-                  <persName>Schmidt, (Frau)</persName>
-                  <note type="bio"><p>Sie stand in Kontakt mit Paul Tillichs Mutter und war eventuell die Frau von Pastor Schmidt (P02246).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2085">
+<back><listPerson><person xml:id="tillich_person_id__2085">
                   <persName>Winkler, Toni</persName>
                   <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2528">
+                  <persName>Schmidt, (Frau)</persName>
+                  <note type="bio"><p>Sie stand in Kontakt mit Paul Tillichs Mutter und war eventuell die Frau von Pastor Schmidt (P02246).</p></note>
                </person>
                <person xml:id="tillich_person_id__570">
                   <persName>Farris, Erdmuthe</persName>
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__170">
-                  <placeName>Friedrichshagen</placeName>
-                  <location type="coords">
-                     <geo>52.45052 13.62463</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2924577/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q563528</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__170">
+                  <placeName>Friedrichshagen</placeName>
+                  <location type="coords">
+                     <geo>52.45052 13.62463</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2924577/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q563528</idno>
                </place>
                </listPlace></back></text>
 </TEI>

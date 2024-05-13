@@ -105,7 +105,10 @@
 <p>Grüße D. Frau u. Sohn u. <rs ref="#tillich_person_id__1295" type="person">Lbfx</rs>.</p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__2261">
+                  <persName>???, Gerty</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -123,9 +126,6 @@
                <person xml:id="tillich_person_id__1295">
                   <persName>Meinhof, Heinrich</persName>
                   <occupation>Leibfux von Paul Tillich</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2261">
-                  <persName>???, Gerty</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>

@@ -99,7 +99,30 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2411">
+   <back><listPlace><place xml:id="tillich_place_id__530">
+                  <placeName>Dortmund</placeName>
+                  <location type="coords">
+                     <geo>51.51494 7.46600</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935517/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31971850</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__275">
+                  <placeName>Magdeburg</placeName>
+                  <location type="coords">
+                     <geo>52.12773 11.62916</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2411">
                   <persName>Bienert, Friedrich</persName>
                   <occupation>Großindustrieller; Sammler; Mäzen;</occupation>
                   <note type="bio"><p>Er war der Sohn von Ida und Erwin Bienert.</p></note>
@@ -159,28 +182,5 @@
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__275">
-                  <placeName>Magdeburg</placeName>
-                  <location type="coords">
-                     <geo>52.12773 11.62916</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
-               </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__530">
-                  <placeName>Dortmund</placeName>
-                  <location type="coords">
-                     <geo>51.51494 7.46600</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935517/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31971850</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

@@ -119,21 +119,31 @@ Gleichzeitig bitte ich Sie, noch Rezensionsexemplare zu schicken: 1.) an Herrn <
 </hi>
 </p>
 </div>
-</body><back><listPlace><place xml:id="tillich_place_id__224">
-                  <placeName>Jena</placeName>
-                  <location type="coords">
-                     <geo>50.92878 11.58990</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2895044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
-               </place>
-               <place xml:id="tillich_place_id__38">
+</body><back><listPerson><person xml:id="tillich_person_id__808">
+                  <persName>Harnack, Adolf von</persName>
+               </person>
+               <person xml:id="tillich_person_id__2744">
+                  <persName>Quervain, Alfred de</persName>
+               </person>
+               <person xml:id="tillich_person_id__1783">
+                  <persName>Siegfried, Friedrich Alfred Theodor</persName>
+                  <occupation>Theologe/Freund</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__38">
                   <placeName>Berlin-Friedenau</placeName>
                   <location type="coords">
                      <geo>52.47133 13.32813</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2924770/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q692390</idno>
+               </place>
+               <place xml:id="tillich_place_id__224">
+                  <placeName>Jena</placeName>
+                  <location type="coords">
+                     <geo>50.92878 11.58990</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2895044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
                </place>
                <place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
@@ -143,14 +153,4 @@ Gleichzeitig bitte ich Sie, noch Rezensionsexemplare zu schicken: 1.) an Herrn <
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2744">
-                  <persName>Quervain, Alfred de</persName>
-               </person>
-               <person xml:id="tillich_person_id__1783">
-                  <persName>Siegfried, Friedrich Alfred Theodor</persName>
-                  <occupation>Theologe/Freund</occupation>
-               </person>
-               <person xml:id="tillich_person_id__808">
-                  <persName>Harnack, Adolf von</persName>
-               </person>
-               </listPerson></back></text></TEI>
+               </listPlace></back></text></TEI>

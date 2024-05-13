@@ -91,6 +91,9 @@
 <back><listPerson><person xml:id="tillich_person_id__1394">
                   <persName>Nietzsche, Friedrich</persName>
                </person>
+               <person xml:id="tillich_person_id__2804">
+                  <persName>Ilse-Margot</persName>
+               </person>
                <person xml:id="tillich_person_id__904">
                   <persName>Hirsch, Emanuel</persName>
                   <birth>
@@ -107,9 +110,6 @@
                   </death>
                   <occupation>Systematischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
-               </person>
-               <person xml:id="tillich_person_id__2804">
-                  <persName>Ilse-Margot</persName>
                </person>
                <person xml:id="tillich_person_id__2041">
                   <persName>Werner, Marie Luise</persName>

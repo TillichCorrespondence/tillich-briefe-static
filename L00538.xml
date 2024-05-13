@@ -118,16 +118,7 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__114">Nietzsche, Friedrich, Der Wille zur Macht. Versuch einer Umwerthung aller Werthe, hg. von Peter Gast/Elisabeth Förster-Nietzsche, Leipzig 1906.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1062">
-                  <persName>Klein, Lisa</persName>
-                  <occupation>Schwester von Maria Klein (Rhine)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1061">
-                  <persName>Klein, Ernst August Ferdinand</persName>
-                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1594">
+   <back><listPerson><person xml:id="tillich_person_id__1594">
                   <persName>Rhine, Maria</persName>
                   <birth>
                      <date>1895-12-01</date>
@@ -141,6 +132,10 @@
                <person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
                   <occupation>Mutter von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1061">
+                  <persName>Klein, Ernst August Ferdinand</persName>
+                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
                </person>
                <person xml:id="tillich_person_id__1394">
                   <persName>Nietzsche, Friedrich</persName>
@@ -164,6 +159,10 @@
                   <persName>Wever, Wilhelm</persName>
                   <occupation>Vater von Greti, Domänenpächter</occupation>
                </person>
+               <person xml:id="tillich_person_id__1062">
+                  <persName>Klein, Lisa</persName>
+                  <occupation>Schwester von Maria Klein (Rhine)</occupation>
+               </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__80">
                   <placeName>Butterfelde</placeName>
                   <location type="coords">
@@ -171,5 +170,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3087840/</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__114">Nietzsche, Friedrich, Der Wille zur Macht. Versuch einer Umwerthung aller Werthe, hg. von Peter Gast/Elisabeth Förster-Nietzsche, Leipzig 1906.</bibl>
+               </listBibl></back></text>
 </TEI>

@@ -139,14 +139,6 @@
                   <idno type="geonames">https://sws.geonames.org/2757345/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q690</idno>
                </place>
-               <place xml:id="tillich_place_id__121">
-                  <placeName>Den Haag</placeName>
-                  <location type="coords">
-                     <geo>52.07667 4.29861</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2747373/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q36600</idno>
-               </place>
                <place xml:id="tillich_place_id__516">
                   <placeName>Leiden</placeName>
                   <location type="coords">
@@ -154,6 +146,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2751773/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q43631</idno>
+               </place>
+               <place xml:id="tillich_place_id__121">
+                  <placeName>Den Haag</placeName>
+                  <location type="coords">
+                     <geo>52.07667 4.29861</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2747373/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q36600</idno>
                </place>
                </listPlace></back></text>
 </TEI>
