@@ -15,6 +15,15 @@
                 </button>
                 <div class="collapse navbar-collapse " id="navbarNav">
                     <ul class="navbar-nav ms-auto">
+                        <!-- <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Projekt</a>
+                            <ul class="dropdown-menu">
+                                <li class="nav-item dropdown-submenu">
+                                    <a class="nav-link" href="editionsrichtlinien.html">Editionsrichtlinien</a>
+                                </li>
+                            </ul>
+                        </li>
+                        -->
                         <li class="nav-item">
                             <a class="nav-link" href="toc.html">Briefe</a>
                         </li>
