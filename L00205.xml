@@ -170,24 +170,22 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1696">
-                  <persName>Schafft, Hermann</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1959</date>
-                  </death>
-                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
-                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+   <back><listPerson><person xml:id="tillich_person_id__1468">
+                  <persName>Paulus</persName>
+                  <occupation>Apostel</occupation>
                </person>
-               <person xml:id="tillich_person_id__981">
-                  <persName>Jesus</persName>
+               <person xml:id="tillich_person_id__2232">
+                  <persName>Hanffstengel, ???</persName>
+                  <note type="bio"><p>Sie war die Mutter von G. v. Hanffstengel.</p></note>
                </person>
-               <person xml:id="tillich_person_id__788">
-                  <persName>Hanffstengel, Gottfried von</persName>
-                  <occupation>Theologe, Jugendfreund</occupation>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2806">
                   <persName>Hanffstengel, Theodor von</persName>
@@ -207,33 +205,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
                   <note type="bio"><p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2232">
-                  <persName>Hanffstengel, ???</persName>
-                  <note type="bio"><p>Sie war die Mutter von G. v. Hanffstengel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1205">
-                  <persName>Lotz, Ernst</persName>
-                  <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
-               </person>
                <person xml:id="tillich_person_id__2154">
                   <persName>Stosch, Martin</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1227">
-                  <persName>Lütgert, Wilhelm</persName>
-                  <birth>
-                     <date>1867</date>
-                  </birth>
-                  <death>
-                     <date>1938</date>
-                  </death>
-                  <occupation>Systematischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               <person xml:id="tillich_person_id__877">
+                  <persName>Hensmann, Amos</persName>
+                  <occupation>Pfarrer;</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -254,19 +232,49 @@
                   <persName>Van der Smissen, Wilm</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
-               <person xml:id="tillich_person_id__877">
-                  <persName>Hensmann, Amos</persName>
-                  <occupation>Pfarrer;</occupation>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
                </person>
-               <person xml:id="tillich_person_id__203">
-                  <persName>Bertheau, Lorenz</persName>
-                  <occupation>Pfarrer</occupation>
+               <person xml:id="tillich_person_id__981">
+                  <persName>Jesus</persName>
                </person>
-               <person xml:id="tillich_person_id__1468">
-                  <persName>Paulus</persName>
-                  <occupation>Apostel</occupation>
+               <person xml:id="tillich_person_id__1205">
+                  <persName>Lotz, Ernst</persName>
+                  <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__189">
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               <person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__75">
+                  <placeName>Bremervörde</placeName>
+                  <location type="coords">
+                     <geo>53.48458 9.14306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                   <location type="coords">
                      <geo>51.48158 11.97947</geo>
@@ -289,14 +297,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6552711/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q269174</idno>
-               </place>
-               <place xml:id="tillich_place_id__75">
-                  <placeName>Bremervörde</placeName>
-                  <location type="coords">
-                     <geo>53.48458 9.14306</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
                </place>
                </listPlace></back></text>
 </TEI>

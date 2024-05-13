@@ -121,21 +121,21 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__548">
+<back><listPlace><place xml:id="tillich_place_id__548">
                   <placeName>Danzig</placeName>
                   <location type="coords">
                      <geo>54.35227 18.64912</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3099434/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1792</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>

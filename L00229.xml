@@ -160,33 +160,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
                </person>
-               <person xml:id="tillich_person_id__1748">
-                  <persName>Schürer, Emil</persName>
-               </person>
-               <person xml:id="tillich_person_id__2214">
-                  <persName>Smend, Rudolf</persName>
-                  <birth>
-                     <date>1851-11-05</date>
-                     <settlement>
-                        <placeName>Lengerich (Kreis Steinfurt)</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1913-12-27</date>
-                     <settlement>
-                        <placeName>Ballenstedt</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/117429880</idno>
-               </person>
-               <person xml:id="tillich_person_id__788">
-                  <persName>Hanffstengel, Gottfried von</persName>
-                  <occupation>Theologe, Jugendfreund</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2212">
-                  <persName>Gräber, ???</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
-               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -222,21 +195,48 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117401110</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               <place xml:id="tillich_place_id__203">
+               <person xml:id="tillich_person_id__2214">
+                  <persName>Smend, Rudolf</persName>
+                  <birth>
+                     <date>1851-11-05</date>
+                     <settlement>
+                        <placeName>Lengerich (Kreis Steinfurt)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1913-12-27</date>
+                     <settlement>
+                        <placeName>Ballenstedt</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/117429880</idno>
+               </person>
+               <person xml:id="tillich_person_id__1748">
+                  <persName>Schürer, Emil</persName>
+               </person>
+               <person xml:id="tillich_person_id__2212">
+                  <persName>Gräber, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__203">
                   <placeName>Heidelberg (Deutschland)</placeName>
                   <location type="coords">
                      <geo>49.40768 8.69079</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2907911/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2966</idno>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>

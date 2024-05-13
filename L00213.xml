@@ -151,27 +151,30 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2085">
+   <back><listPerson><person xml:id="tillich_person_id__2150">
+                  <persName>Meyer zu Stieghorst, ???</persName>
+                  <note type="bio"><p>Er war ein Schulkamerade von Paul Tillichs Studienkollege Hans Schreiber</p></note>
+               </person>
+               <person xml:id="tillich_person_id__264">
+                  <persName>Bousset, Wilhelm</persName>
+               </person>
+               <person xml:id="tillich_person_id__2211">
+                  <persName>Wendelmuth, (Frau)</persName>
+               </person>
+               <person xml:id="tillich_person_id__2085">
                   <persName>Winkler, Toni</persName>
                   <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               <person xml:id="tillich_person_id__2147">
+                  <persName>Vethake, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__1982">
                   <persName>Van der Smissen, Gilbert</persName>
                   <occupation>Pfarrer und Studienkollege Tillichs</occupation>
                </person>
-               <person xml:id="tillich_person_id__2150">
-                  <persName>Meyer zu Stieghorst, ???</persName>
-                  <note type="bio"><p>Er war ein Schulkamerade von Paul Tillichs Studienkollege Hans Schreiber</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2211">
-                  <persName>Wendelmuth, (Frau)</persName>
-               </person>
-               <person xml:id="tillich_person_id__2147">
-                  <persName>Vethake, Hans</persName>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
@@ -185,10 +188,14 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
-               <person xml:id="tillich_person_id__264">
-                  <persName>Bousset, Wilhelm</persName>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__333">
+               </listPerson><listPlace><place xml:id="tillich_place_id__60">
+                  <placeName>Bielefeld</placeName>
+                  <location type="coords">
+                     <geo>52.02113 8.53500</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2949188/</idno>
+               </place>
+               <place xml:id="tillich_place_id__333">
                   <placeName>Osnabrück</placeName>
                   <location type="coords">
                      <geo>52.27264 8.04980</geo>
@@ -204,20 +211,6 @@
                   <idno type="geonames">https://sws.geonames.org/3091961/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
                </place>
-               <place xml:id="tillich_place_id__60">
-                  <placeName>Bielefeld</placeName>
-                  <location type="coords">
-                     <geo>52.02113 8.53500</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2949188/</idno>
-               </place>
-               <place xml:id="tillich_place_id__473">
-                  <placeName>Wittlage</placeName>
-                  <location type="coords">
-                     <geo>52.32127 8.36978</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2807244/</idno>
-               </place>
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                   <location type="coords">
@@ -225,6 +218,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2911522/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__187">
+                  <placeName>Gütersloh</placeName>
+                  <location type="coords">
+                     <geo>51.90693 8.37853</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2913366/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q11042201</idno>
                </place>
                <place xml:id="tillich_place_id__74">
                   <placeName>Bremen</placeName>
@@ -234,13 +235,12 @@
                   <idno type="geonames">https://sws.geonames.org/2944388/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
                </place>
-               <place xml:id="tillich_place_id__187">
-                  <placeName>Gütersloh</placeName>
+               <place xml:id="tillich_place_id__473">
+                  <placeName>Wittlage</placeName>
                   <location type="coords">
-                     <geo>51.90693 8.37853</geo>
+                     <geo>52.32127 8.36978</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2913366/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q11042201</idno>
+                  <idno type="geonames">https://sws.geonames.org/2807244/</idno>
                </place>
                </listPlace></back></text>
 </TEI>

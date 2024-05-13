@@ -106,15 +106,7 @@
             </postscript>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__839">
+   <back><listPerson><person xml:id="tillich_person_id__839">
                   <persName>Hegel, Georg Wilhelm Friedrich</persName>
                   <birth>
                      <date>1770-08-27</date>
@@ -149,5 +141,13 @@
                   <persName>Löwith, Karl</persName>
                   <occupation>Philosoph</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

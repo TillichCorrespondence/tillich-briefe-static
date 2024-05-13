@@ -108,8 +108,8 @@
 <back><listPerson><person xml:id="tillich_person_id__2235">
                   <persName>Hessel, ???</persName>
                </person>
-               <person xml:id="tillich_person_id__1036">
-                  <persName>Kautzsch, Emil</persName>
+               <person xml:id="tillich_person_id__2858">
+                  <persName>???, Robert</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -130,8 +130,8 @@
                   <persName>Bertheau, Lorenz</persName>
                   <occupation>Pfarrer</occupation>
                </person>
-               <person xml:id="tillich_person_id__2858">
-                  <persName>???, Robert</persName>
+               <person xml:id="tillich_person_id__1036">
+                  <persName>Kautzsch, Emil</persName>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>

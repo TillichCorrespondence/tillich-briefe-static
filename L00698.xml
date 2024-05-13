@@ -122,7 +122,8 @@ und erschwerend wirken würde.</p>
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__38">
+<back><listBibl><bibl xml:id="tillich_work_id__150">Reyer, Wilhelm, Einführung in die Phänomenologie, Felix Meiner, Leipzig 1920</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__38">
                   <placeName>Berlin-Friedenau</placeName>
                   <location type="coords">
                      <geo>52.47133 13.32813</geo>
@@ -138,8 +139,7 @@ und erschwerend wirken würde.</p>
                   <idno type="geonames">https://sws.geonames.org/2911298/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__150">Reyer, Wilhelm, Einführung in die Phänomenologie, Felix Meiner, Leipzig 1920</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__2752">
+               </listPlace><listPerson><person xml:id="tillich_person_id__2752">
                   <persName>Reyer, Wilhelm</persName>
                </person>
                </listPerson></back></text>

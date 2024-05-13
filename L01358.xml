@@ -89,21 +89,21 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__553">
+<back><listPlace><place xml:id="tillich_place_id__553">
                   <placeName>Rügenwaldermünde</placeName>
                   <location type="coords">
                      <geo>54.43518 16.37731</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3100640/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q336454</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2776">
                   <persName>Storch, Lotte</persName>

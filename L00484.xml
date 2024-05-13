@@ -105,39 +105,7 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__514">
-                  <placeName>Müggelsee</placeName>
-                  <location type="coords">
-                     <geo>52.43781 13.64981</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2916161/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q694789</idno>
-               </place>
-               <place xml:id="tillich_place_id__459">
-                  <placeName>Verdun</placeName>
-                  <location type="coords">
-                     <geo>49.15964 5.38290</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2969958/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q154748</idno>
-               </place>
-               <place xml:id="tillich_place_id__513">
-                  <placeName>Ardennen</placeName>
-                  <location type="coords">
-                     <geo>50.16667 5.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2803095/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q151985</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -160,5 +128,37 @@
                   <persName>Tillich, Marie</persName>
                   <occupation>Großmutter</occupation>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__514">
+                  <placeName>Müggelsee</placeName>
+                  <location type="coords">
+                     <geo>52.43781 13.64981</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2916161/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q694789</idno>
+               </place>
+               <place xml:id="tillich_place_id__513">
+                  <placeName>Ardennen</placeName>
+                  <location type="coords">
+                     <geo>50.16667 5.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2803095/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q151985</idno>
+               </place>
+               <place xml:id="tillich_place_id__459">
+                  <placeName>Verdun</placeName>
+                  <location type="coords">
+                     <geo>49.15964 5.38290</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2969958/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q154748</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

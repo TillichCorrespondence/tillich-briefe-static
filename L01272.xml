@@ -94,22 +94,21 @@
                 <postscript><p>beste Grüsse an Ihre <rs ref="#tillich_person_id__2759" type="person">Schwester</rs></p></postscript>
             </div>
         </body>
-    <back><listBibl><bibl xml:id="tillich_work_id__160">Otto, Rudolf, Die Gnadenreligion Indiens und das Christentum. Vergleich und Unterscheidung, Gotha 1930</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               <place xml:id="tillich_place_id__306">
+    <back><listPlace><place xml:id="tillich_place_id__306">
                   <placeName>München</placeName>
                   <location type="coords">
                      <geo>48.13743 11.57549</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2867714/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32664319</idno>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
                </place>
                <place xml:id="tillich_place_id__369">
                   <placeName>Rom</placeName>
@@ -119,22 +118,19 @@
                   <idno type="geonames">https://sws.geonames.org/3169070/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q220</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1438">
+                  <persName>Otto, Rudolf</persName>
                   <birth>
-                     <date>1896-05-17</date>
+                     <date>1869-09-25</date>
                      <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
+                        <placeName>Peine</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
+                     <date>1937-03-07</date>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+                  <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
                </person>
                <person xml:id="tillich_person_id__2938">
                   <persName>Ferrara, Francesca</persName>
@@ -164,23 +160,27 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1029992940</idno>
                </person>
-               <person xml:id="tillich_person_id__1438">
-                  <persName>Otto, Rudolf</persName>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
-                     <date>1869-09-25</date>
+                     <date>1896-05-17</date>
                      <settlement>
-                        <placeName>Peine</placeName>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1937-03-07</date>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
                   </death>
-                  <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
                <person xml:id="tillich_person_id__2759">
                   <persName>Ottmer, Johanne</persName>
                   <note type="bio"><p>Sie war eine geborene Otto und die Schwester von Rudolf Otto. 1899 heiratete sie Ernst Ottmer, der jedoch bereits 1904 verstarb. Seitdem lebte sie überwiegend bei ihrem Bruder und kümmerte sich um seinen Haushalt.</p></note>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__160">Otto, Rudolf, Die Gnadenreligion Indiens und das Christentum. Vergleich und Unterscheidung, Gotha 1930</bibl>
+               </listBibl></back></text>
 </TEI>

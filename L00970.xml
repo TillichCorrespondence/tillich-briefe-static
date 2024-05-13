@@ -103,45 +103,7 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__174">
-                  <placeName>Genua</placeName>
-                  <location type="coords">
-                     <geo>44.40478 8.94439</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3176219/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33675638</idno>
-               </place>
-               <place xml:id="tillich_place_id__251">
-                  <placeName>Laigueglia</placeName>
-                  <location type="coords">
-                     <geo>43.97590 8.15823</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3175239/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q30026464</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
-               </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -172,5 +134,43 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__251">
+                  <placeName>Laigueglia</placeName>
+                  <location type="coords">
+                     <geo>43.97590 8.15823</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3175239/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q30026464</idno>
+               </place>
+               <place xml:id="tillich_place_id__174">
+                  <placeName>Genua</placeName>
+                  <location type="coords">
+                     <geo>44.40478 8.94439</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3176219/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33675638</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

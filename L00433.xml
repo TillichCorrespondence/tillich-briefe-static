@@ -393,16 +393,56 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__285">
-                  <placeName>Marnuit</placeName>
-               </place>
-               <place xml:id="tillich_place_id__344">
-                  <placeName>Pasly02200</placeName>
+<back><listPlace><place xml:id="tillich_place_id__91">
+                  <placeName>Champs02670</placeName>
                   <location type="coords">
-                     <geo>49.40167 3.29631</geo>
+                     <geo>49.54083 3.25428</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2988421/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1020383</idno>
+                  <idno type="geonames">https://sws.geonames.org/3027028/</idno>
+               </place>
+               <place xml:id="tillich_place_id__457">
+                  <placeName>Vauxrezis02200</placeName>
+                  <location type="coords">
+                     <geo>49.41405 3.27964</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2970327/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49369925</idno>
+               </place>
+               <place xml:id="tillich_place_id__61">
+                  <placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place>
+               <place xml:id="tillich_place_id__248">
+                  <placeName>Laffaux</placeName>
+                  <location type="coords">
+                     <geo>49.44869 3.42642</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3009461/</idno>
+               </place>
+               <place xml:id="tillich_place_id__300">
+                  <placeName>Montécouvé (Juvigny)</placeName>
+                  <location type="coords">
+                     <geo>49.44762 3.31821</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
+               </place>
+               <place xml:id="tillich_place_id__113">
+                  <placeName>Crécy-au-Mont</placeName>
+                  <location type="coords">
+                     <geo>49.48857 3.32416</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3022625/</idno>
+               </place>
+               <place xml:id="tillich_place_id__428">
+                  <placeName>Tancourt02200</placeName>
+                  <location type="coords">
+                     <geo>49.41740 3.26977</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/12318197/</idno>
                </place>
                <place xml:id="tillich_place_id__100">
                   <placeName>Chavigny02880</placeName>
@@ -418,33 +458,12 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2999029/</idno>
                </place>
-               <place xml:id="tillich_place_id__248">
-                  <placeName>Laffaux</placeName>
+               <place xml:id="tillich_place_id__353">
+                  <placeName>Pont-Saint-Mard02380</placeName>
                   <location type="coords">
-                     <geo>49.44869 3.42642</geo>
+                     <geo>49.50000 3.28333</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3009461/</idno>
-               </place>
-               <place xml:id="tillich_place_id__113">
-                  <placeName>Crécy-au-Mont</placeName>
-                  <location type="coords">
-                     <geo>49.48857 3.32416</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3022625/</idno>
-               </place>
-               <place xml:id="tillich_place_id__300">
-                  <placeName>Montécouvé (Juvigny)</placeName>
-                  <location type="coords">
-                     <geo>49.44762 3.31821</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3011999/</idno>
-               </place>
-               <place xml:id="tillich_place_id__91">
-                  <placeName>Champs02670</placeName>
-                  <location type="coords">
-                     <geo>49.54083 3.25428</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3027028/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2986108/</idno>
                </place>
                <place xml:id="tillich_place_id__486">
                   <placeName>Épagny02290</placeName>
@@ -461,13 +480,13 @@
                   <idno type="geonames">https://sws.geonames.org/2970327/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q49369925</idno>
                </place>
-               <place xml:id="tillich_place_id__457">
-                  <placeName>Vauxrezis02200</placeName>
+               <place xml:id="tillich_place_id__344">
+                  <placeName>Pasly02200</placeName>
                   <location type="coords">
-                     <geo>49.41405 3.27964</geo>
+                     <geo>49.40167 3.29631</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2970327/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q49369925</idno>
+                  <idno type="geonames">https://sws.geonames.org/2988421/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1020383</idno>
                </place>
                <place xml:id="tillich_place_id__432">
                   <placeName>Tartiers02290</placeName>
@@ -477,27 +496,8 @@
                   <idno type="geonames">https://sws.geonames.org/6425259/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q871168</idno>
                </place>
-               <place xml:id="tillich_place_id__428">
-                  <placeName>Tancourt02200</placeName>
-                  <location type="coords">
-                     <geo>49.41740 3.26977</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/12318197/</idno>
-               </place>
-               <place xml:id="tillich_place_id__353">
-                  <placeName>Pont-Saint-Mard02380</placeName>
-                  <location type="coords">
-                     <geo>49.50000 3.28333</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2986108/</idno>
-               </place>
-               <place xml:id="tillich_place_id__61">
-                  <placeName>Bieuxy</placeName>
-                  <location type="coords">
-                     <geo>49.44667 3.26139</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               <place xml:id="tillich_place_id__285">
+                  <placeName>Marnuit</placeName>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>

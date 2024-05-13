@@ -362,67 +362,7 @@
                 </closer>
             </div>
         </body>
-    <back><listPlace><place xml:id="tillich_place_id__68">
-                  <placeName>Bonn</placeName>
-                  <location type="coords">
-                     <geo>50.73438 7.09549</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
-               </place>
-               <place xml:id="tillich_place_id__74">
-                  <placeName>Bremen</placeName>
-                  <location type="coords">
-                     <geo>53.07582 8.80717</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__839">
-                  <persName>Hegel, Georg Wilhelm Friedrich</persName>
-                  <birth>
-                     <date>1770-08-27</date>
-                     <settlement>
-                        <placeName>Stuttgart</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1831-11-14</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
-               </person>
-               <person xml:id="tillich_person_id__1228">
-                  <persName>Luther, Martin</persName>
-                  <birth>
-                     <date>1483-11-10</date>
-                     <settlement>
-                        <placeName>Eisleben</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1546-02-18</date>
-                     <settlement>
-                        <placeName>Eisleben</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118575449</idno>
-               </person>
-               <person xml:id="tillich_person_id__1291">
-                  <persName>Medicus, Fritz</persName>
-                  <occupation>Philosoph</occupation>
-                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__690">
-                  <persName>Goethe, Johann Wolfgang von</persName>
-               </person>
-               <person xml:id="tillich_person_id__1705">
+    <back><listPerson><person xml:id="tillich_person_id__1705">
                   <persName>Schelling, Friedrich Wilhelm Joseph</persName>
                   <birth>
                      <date>1775-01-27</date>
@@ -437,6 +377,32 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
+               </person>
+               <person xml:id="tillich_person_id__1438">
+                  <persName>Otto, Rudolf</persName>
+                  <birth>
+                     <date>1869-09-25</date>
+                     <settlement>
+                        <placeName>Peine</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1937-03-07</date>
+                  </death>
+                  <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
+               </person>
+               <person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -453,19 +419,40 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1438">
-                  <persName>Otto, Rudolf</persName>
+               <person xml:id="tillich_person_id__690">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </person>
+               <person xml:id="tillich_person_id__589">
+                  <persName>Fichte, Johann Gottlieb</persName>
                   <birth>
-                     <date>1869-09-25</date>
+                     <date>1762-05-19</date>
                      <settlement>
-                        <placeName>Peine</placeName>
+                        <placeName>Rammenau</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1937-03-07</date>
+                     <date>1814-01-29</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
                   </death>
-                  <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
+               </person>
+               <person xml:id="tillich_person_id__1228">
+                  <persName>Luther, Martin</persName>
+                  <birth>
+                     <date>1483-11-10</date>
+                     <settlement>
+                        <placeName>Eisleben</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1546-02-18</date>
+                     <settlement>
+                        <placeName>Eisleben</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118575449</idno>
                </person>
                <person xml:id="tillich_person_id__904">
                   <persName>Hirsch, Emanuel</persName>
@@ -484,28 +471,41 @@
                   <occupation>Systematischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
                </person>
-               <person xml:id="tillich_person_id__589">
-                  <persName>Fichte, Johann Gottlieb</persName>
+               <person xml:id="tillich_person_id__839">
+                  <persName>Hegel, Georg Wilhelm Friedrich</persName>
                   <birth>
-                     <date>1762-05-19</date>
+                     <date>1770-08-27</date>
                      <settlement>
-                        <placeName>Rammenau</placeName>
+                        <placeName>Stuttgart</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1814-01-29</date>
+                     <date>1831-11-14</date>
                      <settlement>
                         <placeName>Berlin</placeName>
                      </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                </person>
-               <person xml:id="tillich_person_id__1394">
-                  <persName>Nietzsche, Friedrich</persName>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__159">Otto, Rudolf, Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen, Breslau 1917.</bibl>
-               <bibl xml:id="tillich_work_id__239">Hirsch, Emanuel, Liebe und Persönlichkeit in, in: Der Geisteskampf der Gegenwart, Monatsschrift für christliche Bildung und Weltanschauung, 54. Jg. (1910), Heft 5, Nr. 17, Sp.167-169 1918, 108-110.</bibl>
-               <bibl xml:id="tillich_work_id__237">Hirsch, Emanuel, Luthers Gottesanschauung, Göttingen 1918.</bibl>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__237">Hirsch, Emanuel, Luthers Gottesanschauung, Göttingen 1918.</bibl>
                <bibl xml:id="tillich_work_id__201">Schelling, Friedrich Wilhelm Joseph, Philosophische Untersuchungen über das Wesen der menschlichen Freiheit, München 1809.</bibl>
-               </listBibl></back></text>
+               <bibl xml:id="tillich_work_id__239">Hirsch, Emanuel, Liebe und Persönlichkeit in, in: Der Geisteskampf der Gegenwart, Monatsschrift für christliche Bildung und Weltanschauung, 54. Jg. (1910), Heft 5, Nr. 17, Sp.167-169 1918, 108-110.</bibl>
+               <bibl xml:id="tillich_work_id__159">Otto, Rudolf, Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen, Breslau 1917.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__74">
+                  <placeName>Bremen</placeName>
+                  <location type="coords">
+                     <geo>53.07582 8.80717</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24879</idno>
+               </place>
+               <place xml:id="tillich_place_id__68">
+                  <placeName>Bonn</placeName>
+                  <location type="coords">
+                     <geo>50.73438 7.09549</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2946447/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

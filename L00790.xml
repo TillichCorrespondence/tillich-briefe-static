@@ -143,14 +143,14 @@ Gleichzeitig bitte ich Sie, noch Rezensionsexemplare zu schicken: 1.) an Herrn <
                   <idno type="geonames">https://sws.geonames.org/2895044/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__808">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1783">
+                  <persName>Siegfried, Friedrich Alfred Theodor</persName>
+                  <occupation>Theologe/Freund</occupation>
+               </person>
+               <person xml:id="tillich_person_id__808">
                   <persName>Harnack, Adolf von</persName>
                </person>
                <person xml:id="tillich_person_id__2744">
                   <persName>Quervain, Alfred de</persName>
-               </person>
-               <person xml:id="tillich_person_id__1783">
-                  <persName>Siegfried, Friedrich Alfred Theodor</persName>
-                  <occupation>Theologe/Freund</occupation>
                </person>
                </listPerson></back></text></TEI>

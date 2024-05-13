@@ -132,37 +132,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
-               </person>
-               <person xml:id="tillich_person_id__1794">
-                  <persName>Simons, Hans</persName>
-                  <occupation>Jurist, Politikwissenschaftler und Ministerialbeamter</occupation>
-                  <note type="bio"><p>Studium der Rechts- und Staatswissenschaften in Berlin, München, Tübingen und Bonn. Im Krieg wurde er als Soldat 1917 schwer verwundet und arbeitete im Anschluss als Verwaltungsbeamter. Nach Kriegsende Mitbegründung der Deutschen Liga für Völkerbund. 1920 nahm er sein Studium in Königsberg wieder auf und wurde im Folgejahr promoviert. Er arbeitete zunächst als Geschäftsführer der Deutschen Hochschule für Politik, bevor er 1922 ins Reichsministerium des Inneren und 1923 ins preußische Innenministerium wechselte. 1925-1929 war er als Professor und Direktor wieder an der Deutschen Hochschule für Politik beschäftigt, ab 1927 zudem als Ministerialbeamter wieder im preußischen Innenministerium. Mitglied der SPD und Mitarbeiter der von Tillich herausgegebenen Neuen Blätter für den Sozialismus. Nach dem Preußenschlag 1932 wurde er zunächst suspendiert, 1933 endgültig entlassen. Er ging zunächst in die Schweiz und nahm 1934 einen Ruf der New School for Social Research in New York an, als deren Dekan (Politik- und Sozialwissenschaftliche Fakultät) er 1943-1950 und als deren Präsident er 1950-1960 fungierte.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2513">
-                  <persName>???, Nora</persName>
-               </person>
-               <person xml:id="tillich_person_id__2515">
+<back><listPerson><person xml:id="tillich_person_id__2515">
                   <persName>Bondi, Felix</persName>
                   <birth>
                      <date>1860</date>
@@ -204,6 +174,36 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
                </person>
+               <person xml:id="tillich_person_id__2513">
+                  <persName>???, Nora</persName>
+               </person>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               </person>
+               <person xml:id="tillich_person_id__1794">
+                  <persName>Simons, Hans</persName>
+                  <occupation>Jurist, Politikwissenschaftler und Ministerialbeamter</occupation>
+                  <note type="bio"><p>Studium der Rechts- und Staatswissenschaften in Berlin, München, Tübingen und Bonn. Im Krieg wurde er als Soldat 1917 schwer verwundet und arbeitete im Anschluss als Verwaltungsbeamter. Nach Kriegsende Mitbegründung der Deutschen Liga für Völkerbund. 1920 nahm er sein Studium in Königsberg wieder auf und wurde im Folgejahr promoviert. Er arbeitete zunächst als Geschäftsführer der Deutschen Hochschule für Politik, bevor er 1922 ins Reichsministerium des Inneren und 1923 ins preußische Innenministerium wechselte. 1925-1929 war er als Professor und Direktor wieder an der Deutschen Hochschule für Politik beschäftigt, ab 1927 zudem als Ministerialbeamter wieder im preußischen Innenministerium. Mitglied der SPD und Mitarbeiter der von Tillich herausgegebenen Neuen Blätter für den Sozialismus. Nach dem Preußenschlag 1932 wurde er zunächst suspendiert, 1933 endgültig entlassen. Er ging zunächst in die Schweiz und nahm 1934 einen Ruf der New School for Social Research in New York an, als deren Dekan (Politik- und Sozialwissenschaftliche Fakultät) er 1943-1950 und als deren Präsident er 1950-1960 fungierte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
                <person xml:id="tillich_person_id__2008">
                   <persName>von Sydow, Eckart</persName>
                   <birth>
@@ -215,15 +215,7 @@
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__130">
+               </listPerson><listPlace><place xml:id="tillich_place_id__130">
                   <placeName>Düsseldorf</placeName>
                   <location type="coords">
                      <geo>51.22172 6.77616</geo>
@@ -237,6 +229,14 @@
                      <geo>48.85341 2.34880</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
                </listPlace></back></text>
 </TEI>

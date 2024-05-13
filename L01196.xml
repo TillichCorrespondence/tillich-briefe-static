@@ -125,8 +125,7 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__250">Windelband, Wilhelm: Lehrbuch der Geschichte der Philosophie, Tübingen: Mohr, 1916</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1780">
+   <back><listPerson><person xml:id="tillich_person_id__1780">
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
@@ -161,5 +160,6 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__250">Windelband, Wilhelm: Lehrbuch der Geschichte der Philosophie, Tübingen: Mohr, 1916</bibl>
+               </listBibl></back></text>
 </TEI>

@@ -96,15 +96,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__306">
+<back><listPerson><person xml:id="tillich_person_id__306">
                   <persName>Buber, Martin</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
@@ -125,7 +117,15 @@
                <person xml:id="tillich_person_id__1426">
                   <persName>Oppenheimer, Franz</persName>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
-               <bibl xml:id="tillich_work_id__37">Willbrandt, Robert von/Löwe, Adolf/Salomon, Gottfried (Hg.), Wirtschaft und Gesellschaft. Beiträge zur Oekonomik und Soziologie der Gegenwart (Festschrift Franz Oppenheimer), Frankfurt a. M. 1924</bibl>
+               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__37">Willbrandt, Robert von/Löwe, Adolf/Salomon, Gottfried (Hg.), Wirtschaft und Gesellschaft. Beiträge zur Oekonomik und Soziologie der Gegenwart (Festschrift Franz Oppenheimer), Frankfurt a. M. 1924</bibl>
+               <bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
                </listBibl></back></text>
 </TEI>

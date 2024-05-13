@@ -91,27 +91,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1167">
-                  <persName>Leonardo da Vinci</persName>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -137,6 +117,26 @@
                   <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/120957221</idno>
                   <note type="bio"><p>Studium in Moskau und Marburg. Nach seiner Promotion 1914 über Fichtes Ethik wurde er 1917 Professor an der Universität Moskau. 1922 wurde er aus der Sowjetunion ausgewiesen und emigrierte zuerst nach Berlin und 1924 nach Paris, wo er am orthodox-theologischen Institut angestellt wurde und sich in der ökumenischen Bewegung engagierte. Nach dem Einmarsch der Deutschen emigrierte V. in die Schweiz, wo er bis zu seinem Tod lebte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1167">
+                  <persName>Leonardo da Vinci</persName>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__343">
                   <placeName>Paris</placeName>

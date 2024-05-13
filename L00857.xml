@@ -94,15 +94,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1286">
+<back><listPerson><person xml:id="tillich_person_id__1286">
                   <persName>Mayer, Emil Walter</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
@@ -125,5 +117,13 @@
                   <occupation>Ein deutsch-amerikanischer Soziologe und Nationalökonom</occupation>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__11">Danz, Christian/Schüßler, Werner, Paul Tillich in Dresden. Einleitung, in: Dies. (Hg.), Paul Tillich in Dresden. Intellektuellen-Diskurse in der Weimarer Republik, Berlin/Boston 2023, S. 1-7.</bibl>
-               </listBibl></back></text>
+               </listBibl><listPlace><place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

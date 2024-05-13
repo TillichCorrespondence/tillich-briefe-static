@@ -91,21 +91,21 @@
          </div>
 
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               <place xml:id="tillich_place_id__556">
+   <back><listPlace><place xml:id="tillich_place_id__556">
                   <placeName>Meißen</placeName>
                   <location type="coords">
                      <geo>51.16158 13.47370</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2872155/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32638348</idno>
+               </place>
+               <place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
                <place xml:id="tillich_place_id__236">
                   <placeName>Kassel</placeName>

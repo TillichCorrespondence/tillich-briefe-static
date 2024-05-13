@@ -99,14 +99,7 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__275">
-                  <placeName>Magdeburg</placeName>
-                  <location type="coords">
-                     <geo>52.12773 11.62916</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -124,5 +117,12 @@
                <person xml:id="tillich_person_id__2425">
                   <persName>Schümer, Anja</persName>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__275">
+                  <placeName>Magdeburg</placeName>
+                  <location type="coords">
+                     <geo>52.12773 11.62916</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2874545/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

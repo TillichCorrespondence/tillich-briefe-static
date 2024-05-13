@@ -119,13 +119,13 @@
                   <persName>Gottschow, Erna</persName>
                   <note type="bio"><p>Sie war eine Verwandte von Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__705">
-                  <persName>Gottschow, Albert</persName>
-                  <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
-               </person>
                <person xml:id="tillich_person_id__2039">
                   <persName>Werner, Louise</persName>
                   <occupation>Mutter von Hannah Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__705">
+                  <persName>Gottschow, Albert</persName>
+                  <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__74">
                   <placeName>Bremen</placeName>

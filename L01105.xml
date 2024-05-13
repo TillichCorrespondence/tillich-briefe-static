@@ -115,99 +115,7 @@
       
      </div>
     </body>
-  <back><listPerson><person xml:id="tillich_person_id__2640">
-                  <persName>Rückert, Hanns</persName>
-                  <birth>
-                     <date>1901-09-18</date>
-                  </birth>
-                  <death>
-                     <date>1974-01-03</date>
-                  </death>
-                  <occupation>Professor für Kirchengeschichte;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116673567</idno>
-                  <note type="bio"><p>Er wirkte ab 1928 als Professor für Kirchengeschichte in Leipzig und ab 1931 in Tübingen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2401">
-                  <persName>Hermelink, Heinrich</persName>
-                  <birth>
-                     <date>1877-07-30</date>
-                     <settlement>
-                        <placeName>Mulki</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1958-02-11</date>
-                     <settlement>
-                        <placeName>München-Obermenzing</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe (Kirchengeschichte)</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
-                  <note type="bio"><p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2651">
-                  <persName>Dreß, Walter</persName>
-                  <birth>
-                     <date>1904</date>
-                  </birth>
-                  <death>
-                     <date>1979</date>
-                  </death>
-                  <occupation>Privatdozent für Kirchengeschichte;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118680722</idno>
-                  <note type="bio"><p>Er war ein Schwager und Freund Dietrich Bonhoeffers. Ab 1929 wirkte er als Privatdozent für Kirchengeschichte in Berlin. Von 1930-1933 wirkte er als Professor an der Lutherakademie in Dorpat. 1935 kam es zum Bruch mit seinem Lehrer E. Seeberg wegen des von R. Seeberg verfassten Gutachtens zu den Thesen der Reichsbewegung der Deutschen Christen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1180">
-                  <persName>Lietzmann, Hans</persName>
-                  <birth>
-                     <date>1875-03-02</date>
-                     <settlement>
-                        <placeName>Düsseldorf</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1942-06-25</date>
-                     <settlement>
-                        <placeName>Locarno</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Evangelischer Theologe, Kirchenhistoriker, Hochschullehrer</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118572865</idno>
-               </person>
-               <person xml:id="tillich_person_id__1965">
-                  <persName>Ulich, Robert</persName>
-                  <birth>
-                     <date>1890-04-21</date>
-                  </birth>
-                  <death>
-                     <date>1977-06-17</date>
-                  </death>
-                  <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler. Ministerialrat im sächsischen Ministerium für Volksbildung</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
-                  <note type="bio"><p>(verheiratet mit Brändström, Elsa)</p></note>
-               </person>
-               <person xml:id="tillich_person_id__260">
-                  <persName>Borton, Hugh</persName>
-                  <occupation>Haverford College</occupation>
-               </person>
-               <person xml:id="tillich_person_id__515">
+  <back><listPerson><person xml:id="tillich_person_id__515">
                   <persName>Ehrenström, Nils</persName>
                   <occupation>Theologe (Ökumenik)</occupation>
                   <note type="bio"><p>1926 schloss er sein Studium an der Universität Uppsala ab und arbeitete 25 Jahre lang als Repräsentant der Schwedischen Kirche am Ökumenischen Institut in Genf. 1955-1969 hatte er eine Professur für Ökumenik an der Boston University inne. Nach seiner Emeritierung zog er zurück nach Genf, wo er bis zu seinem Tod lebte.</p></note>
@@ -245,26 +153,39 @@
                   <idno type="gnd">https://d-nb.info/gnd/133273830</idno>
                   <note type="bio"><p>Er lebte und wirkte in Königsberg.</p></note>
                </person>
-               <person xml:id="tillich_person_id__904">
-                  <persName>Hirsch, Emanuel</persName>
+               <person xml:id="tillich_person_id__1965">
+                  <persName>Ulich, Robert</persName>
                   <birth>
-                     <date>1888-06-14</date>
+                     <date>1890-04-21</date>
+                  </birth>
+                  <death>
+                     <date>1977-06-17</date>
+                  </death>
+                  <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler. Ministerialrat im sächsischen Ministerium für Volksbildung</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
+                  <note type="bio"><p>(verheiratet mit Brändström, Elsa)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2401">
+                  <persName>Hermelink, Heinrich</persName>
+                  <birth>
+                     <date>1877-07-30</date>
                      <settlement>
-                        <placeName>Bentwisch</placeName>
+                        <placeName>Mulki</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1972-07-17</date>
+                     <date>1958-02-11</date>
                      <settlement>
-                        <placeName>Göttingen</placeName>
+                        <placeName>München-Obermenzing</placeName>
                      </settlement>
                   </death>
-                  <occupation>Systematischer Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+                  <occupation>Theologe (Kirchengeschichte)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
+                  <note type="bio"><p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p></note>
                </person>
-               <person xml:id="tillich_person_id__189">
-                  <persName>Berger, Charles Edward</persName>
-                  <occupation>Reverend in St. Anne und All Saints´ Church in Chevy Chase (Washington)</occupation>
+               <person xml:id="tillich_person_id__260">
+                  <persName>Borton, Hugh</persName>
+                  <occupation>Haverford College</occupation>
                </person>
                <person xml:id="tillich_person_id__2127">
                   <persName>Zscharnack, Leopold</persName>
@@ -284,6 +205,22 @@
                   <idno type="gnd">https://d-nb.info/gnd/117015067</idno>
                   <note type="bio"><p>Er wirkte ab 1922 als Professor für Kirchengeschichte in Breslau. Ab 1925 lebte und wirkte er in Königsberg.</p></note>
                </person>
+               <person xml:id="tillich_person_id__189">
+                  <persName>Berger, Charles Edward</persName>
+                  <occupation>Reverend in St. Anne und All Saints´ Church in Chevy Chase (Washington)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2640">
+                  <persName>Rückert, Hanns</persName>
+                  <birth>
+                     <date>1901-09-18</date>
+                  </birth>
+                  <death>
+                     <date>1974-01-03</date>
+                  </death>
+                  <occupation>Professor für Kirchengeschichte;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116673567</idno>
+                  <note type="bio"><p>Er wirkte ab 1928 als Professor für Kirchengeschichte in Leipzig und ab 1931 in Tübingen.</p></note>
+               </person>
                <person xml:id="tillich_person_id__2650">
                   <persName>Kohlmeyer, Ernst</persName>
                   <birth>
@@ -295,6 +232,69 @@
                   <occupation>Professor für Kirchengeschichte;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116307552</idno>
                   <note type="bio"><p>Er wirkte ab 1926 als Professor für Kirchengeschichte in Breslau. Ab 1929 lebte und wirkte er in Halle.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__904">
+                  <persName>Hirsch, Emanuel</persName>
+                  <birth>
+                     <date>1888-06-14</date>
+                     <settlement>
+                        <placeName>Bentwisch</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-07-17</date>
+                     <settlement>
+                        <placeName>Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
+               </person>
+               <person xml:id="tillich_person_id__1180">
+                  <persName>Lietzmann, Hans</persName>
+                  <birth>
+                     <date>1875-03-02</date>
+                     <settlement>
+                        <placeName>Düsseldorf</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1942-06-25</date>
+                     <settlement>
+                        <placeName>Locarno</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe, Kirchenhistoriker, Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118572865</idno>
+               </person>
+               <person xml:id="tillich_person_id__2651">
+                  <persName>Dreß, Walter</persName>
+                  <birth>
+                     <date>1904</date>
+                  </birth>
+                  <death>
+                     <date>1979</date>
+                  </death>
+                  <occupation>Privatdozent für Kirchengeschichte;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118680722</idno>
+                  <note type="bio"><p>Er war ein Schwager und Freund Dietrich Bonhoeffers. Ab 1929 wirkte er als Privatdozent für Kirchengeschichte in Berlin. Von 1930-1933 wirkte er als Professor an der Lutherakademie in Dorpat. 1935 kam es zum Bruch mit seinem Lehrer E. Seeberg wegen des von R. Seeberg verfassten Gutachtens zu den Thesen der Reichsbewegung der Deutschen Christen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__65">Vogelsang, Erich, Die Anfänge von Luthers Christologie nach der ersten Psalmenvorlesung, Berlin/Leipzig 1929</bibl>
                </listBibl></back></text>

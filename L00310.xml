@@ -107,7 +107,23 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2831">
+<back><listPlace><place xml:id="tillich_place_id__607">
+                  <placeName>Braunlage</placeName>
+                  <location type="coords">
+                     <geo>51.72651 10.61090</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2945055/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31920437</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2831">
                   <persName>???, Ilse</persName>
                </person>
                <person xml:id="tillich_person_id__500">
@@ -125,21 +141,5 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__607">
-                  <placeName>Braunlage</placeName>
-                  <location type="coords">
-                     <geo>51.72651 10.61090</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2945055/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31920437</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

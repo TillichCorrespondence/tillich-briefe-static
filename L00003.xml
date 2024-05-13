@@ -109,20 +109,20 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1929">
-                  <persName>Tillich, Wilhelmina Mathilde</persName>
-                  <occupation>Mutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__546">
+<back><listPlace><place xml:id="tillich_place_id__546">
                   <placeName>Falkenwalde</placeName>
                   <location type="coords">
                      <geo>53.26711 14.00542</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2927896/</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1929">
+                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <occupation>Mutter</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>
