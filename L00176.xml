@@ -167,38 +167,30 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__279">
-                  <placeName>Marburg</placeName>
-                  <location type="coords">
-                     <geo>50.80904 8.77069</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__418">
-                  <placeName>Straßburg</placeName>
-                  <location type="coords">
-                     <geo>49.55239 8.85112</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2826178/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2168">
+<back><listPerson><person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__460">
+                  <persName>Dickens, Charles</persName>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1707">
+                  <persName>Schetelig, Wilhelm</persName>
+               </person>
+               <person xml:id="tillich_person_id__2168">
                   <persName>Schuster, Daniel</persName>
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
@@ -206,10 +198,23 @@
                   <persName>Heim, Karl</persName>
                   <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
                </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               <person xml:id="tillich_person_id__2247">
+                  <persName>Dinglinger, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__2248">
                   <persName>Raabe, Wilhelm Karl</persName>
@@ -228,29 +233,6 @@
                   <occupation>Schriftsteller;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118597442</idno>
                </person>
-               <person xml:id="tillich_person_id__1013">
-                  <persName>Kähler, Martin</persName>
-                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
-               </person>
-               <person xml:id="tillich_person_id__203">
-                  <persName>Bertheau, Lorenz</persName>
-                  <occupation>Pfarrer</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1696">
-                  <persName>Schafft, Hermann</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1959</date>
-                  </death>
-                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
-                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__460">
-                  <persName>Dickens, Charles</persName>
-               </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
@@ -263,31 +245,49 @@
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1707">
-                  <persName>Schetelig, Wilhelm</persName>
+               <person xml:id="tillich_person_id__1013">
+                  <persName>Kähler, Martin</persName>
+                  <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
+               </person>
+               <person xml:id="tillich_person_id__203">
+                  <persName>Bertheau, Lorenz</persName>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1050">
                   <persName>Kilger, Albert</persName>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2247">
-                  <persName>Dinglinger, ???</persName>
-               </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__242">Heim, Karl, Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Naturwissenschaft und Theologie, 1904</bibl>
+               </listPerson><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__279">
+                  <placeName>Marburg</placeName>
+                  <location type="coords">
+                     <geo>50.80904 8.77069</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873759/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32121710</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__418">
+                  <placeName>Straßburg</placeName>
+                  <location type="coords">
+                     <geo>49.55239 8.85112</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2826178/</idno>
+               </place>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__242">Heim, Karl, Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Naturwissenschaft und Theologie, 1904</bibl>
                <bibl xml:id="tillich_work_id__182">Kähler, Martin, Die Wissenschaft der christlichen Lehre von dem evangelischen Grundartikel aus im Abrisse dargestellt, Leipzig 1905, 3. Auflage.</bibl>
                </listBibl></back></text>
 </TEI>

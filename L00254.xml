@@ -244,7 +244,14 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1712">
+   <back><listPerson><person xml:id="tillich_person_id__2280">
+                  <persName>Bindemann-Büchsel, Anna Dorothea</persName>
+                  <note type="bio"><p>Sie war eine Schwester von Hermann Martin Friedrich Büchsel und heiratete am 29.07.1909 Gerhard Ernst Johannes Bindemann.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__981">
+                  <persName>Jesus</persName>
+               </person>
+               <person xml:id="tillich_person_id__1712">
                   <persName>Schlatter, Adolf</persName>
                   <birth>
                      <date>1852-08-16</date>
@@ -261,13 +268,6 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
                </person>
-               <person xml:id="tillich_person_id__981">
-                  <persName>Jesus</persName>
-               </person>
-               <person xml:id="tillich_person_id__2280">
-                  <persName>Bindemann-Büchsel, Anna Dorothea</persName>
-                  <note type="bio"><p>Sie war eine Schwester von Hermann Martin Friedrich Büchsel und heiratete am 29.07.1909 Gerhard Ernst Johannes Bindemann.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2275">
                   <persName>Büchsel, Johannes Friedrich Wilhelm</persName>
                   <occupation>Pfarrer;</occupation>
@@ -276,10 +276,6 @@
                </person>
                <person xml:id="tillich_person_id__484">
                   <persName>Dorner, Isaak August</persName>
-               </person>
-               <person xml:id="tillich_person_id__2274">
-                  <persName>Büchsel-Giesebrecht, Dorothea Amalie Friederike</persName>
-                  <note type="bio"><p>Sie war die Mutter von Hermann Martin Friedrich Büchsel.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -307,7 +303,19 @@
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+               <person xml:id="tillich_person_id__2274">
+                  <persName>Büchsel-Giesebrecht, Dorothea Amalie Friederike</persName>
+                  <note type="bio"><p>Sie war die Mutter von Hermann Martin Friedrich Büchsel.</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__255">Schlatter, Adolf, Atheistische Methoden in der Theologie. Gütersloh: C. Bertelsmann, 1905.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__403">
+                  <placeName>Soest</placeName>
+                  <location type="coords">
+                     <geo>51.57558 8.10619</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2831708/</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
@@ -315,13 +323,5 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               <place xml:id="tillich_place_id__403">
-                  <placeName>Soest</placeName>
-                  <location type="coords">
-                     <geo>51.57558 8.10619</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2831708/</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__255">Schlatter, Adolf, Atheistische Methoden in der Theologie. Gütersloh: C. Bertelsmann, 1905.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

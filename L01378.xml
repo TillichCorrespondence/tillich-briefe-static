@@ -89,11 +89,11 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2812">
-                  <persName>Fricke, Uli</persName>
-               </person>
-               <person xml:id="tillich_person_id__2776">
+<back><listPerson><person xml:id="tillich_person_id__2776">
                   <persName>Storch, Lotte</persName>
+               </person>
+               <person xml:id="tillich_person_id__2812">
+                  <persName>Fricke, Uli</persName>
                </person>
                <person xml:id="tillich_person_id__2809">
                   <persName>Apelius, Hildegard</persName>

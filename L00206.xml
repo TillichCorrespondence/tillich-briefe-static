@@ -103,20 +103,20 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__318">
-                  <placeName>Neviges</placeName>
-                  <location type="coords">
-                     <geo>51.30929 7.09051</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2863758/</idno>
-               </place>
-               <place xml:id="tillich_place_id__68">
+   <back><listPlace><place xml:id="tillich_place_id__68">
                   <placeName>Bonn</placeName>
                   <location type="coords">
                      <geo>50.73438 7.09549</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2946447/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+               </place>
+               <place xml:id="tillich_place_id__318">
+                  <placeName>Neviges</placeName>
+                  <location type="coords">
+                     <geo>51.30929 7.09051</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2863758/</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2149">
                   <persName>Fink, ???</persName>

@@ -95,24 +95,35 @@
         <hi rend="u"><rs ref="#tillich_place_id__143" type="place">Frankfurt a.M.</rs></hi></salute>
      </div>
     </body>
-  <back><listPerson><person xml:id="tillich_person_id__169">
-                  <persName>Becker, Carl Heinrich</persName>
-                  <occupation>Deutscher Orientalist und Politiker, Kultusminister 1921 und 1925-30</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2496">
-                  <persName>Weinstock, Heinrich</persName>
+  <back><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2852">
+                  <persName>Jahnke, Richard</persName>
                   <birth>
-                     <date>1889</date>
+                     <date>1868-03-28</date>
                      <settlement>
-                        <placeName>Elten</placeName>
+                        <placeName>Altdamm</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1960</date>
+                     <date>1933-05-09</date>
                   </death>
-                  <occupation>Philosoph; Pädagoge;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117275824</idno>
-                  <note type="bio"><p>Er war zeitweilen Studiendirektor der Universität Frankfurt am Main.</p></note>
+                  <occupation>Philologe; Ministerialdirektor;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117066060</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -145,35 +156,24 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795570</idno>
                </person>
-               <person xml:id="tillich_person_id__2852">
-                  <persName>Jahnke, Richard</persName>
+               <person xml:id="tillich_person_id__2496">
+                  <persName>Weinstock, Heinrich</persName>
                   <birth>
-                     <date>1868-03-28</date>
+                     <date>1889</date>
                      <settlement>
-                        <placeName>Altdamm</placeName>
+                        <placeName>Elten</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1933-05-09</date>
+                     <date>1960</date>
                   </death>
-                  <occupation>Philologe; Ministerialdirektor;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117066060</idno>
+                  <occupation>Philosoph; Pädagoge;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117275824</idno>
+                  <note type="bio"><p>Er war zeitweilen Studiendirektor der Universität Frankfurt am Main.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__169">
+                  <persName>Becker, Carl Heinrich</persName>
+                  <occupation>Deutscher Orientalist und Politiker, Kultusminister 1921 und 1925-30</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>

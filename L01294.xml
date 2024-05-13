@@ -129,7 +129,16 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1696">
+<back><listPerson><person xml:id="tillich_person_id__2040">
+                  <persName>Werner, Jean Otto Nikolaus</persName>
+                  <occupation>Vater von Hannah Tillich</occupation>
+                  <note type="bio"><p>Jean W. arbeitete zunächst als Pfarrer (1859 ordiniert) in Wippersheim, später als Schulinspektor und Kreisschulrat. Seine Frau Louise wurde in New York geboren. Einer ihrer drei Söhne war August Adalbert Roland (*1893), der im Zweiten Weltkrieg Hauptmann bei der Luftwaffe wurde, später jedoch verhungerte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2039">
+                  <persName>Werner, Louise</persName>
+                  <occupation>Mutter von Hannah Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1696">
                   <persName>Schafft, Hermann</persName>
                   <birth>
                      <date>1883</date>
@@ -144,15 +153,6 @@
                <person xml:id="tillich_person_id__643">
                   <persName>Fritz (geb. Horn), Gertrude</persName>
                   <occupation>(auch Trudchen) Zweite Frau von Alfred Fritz, Ausbildung: Soziale Frauenschule</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2040">
-                  <persName>Werner, Jean Otto Nikolaus</persName>
-                  <occupation>Vater von Hannah Tillich</occupation>
-                  <note type="bio"><p>Jean W. arbeitete zunächst als Pfarrer (1859 ordiniert) in Wippersheim, später als Schulinspektor und Kreisschulrat. Seine Frau Louise wurde in New York geboren. Einer ihrer drei Söhne war August Adalbert Roland (*1893), der im Zweiten Weltkrieg Hauptmann bei der Luftwaffe wurde, später jedoch verhungerte.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2039">
-                  <persName>Werner, Louise</persName>
-                  <occupation>Mutter von Hannah Tillich</occupation>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__74">
                   <placeName>Bremen</placeName>

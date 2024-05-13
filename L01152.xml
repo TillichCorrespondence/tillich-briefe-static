@@ -126,13 +126,8 @@
             </closer>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="tillich_work_id__231">Tillich, Paul, Der junge Hegel und das Schicksal Deutschlands, in: Tillich, Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__2490">
+   <back><listPerson><person xml:id="tillich_person_id__2490">
                   <persName>Sulzbach, Maria</persName>
-               </person>
-               <person xml:id="tillich_person_id__1780">
-                  <persName>Siebeck, Oskar</persName>
-                  <occupation>Deutscher Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -167,7 +162,12 @@
                   <idno type="gnd">https://d-nb.info/gnd/11737380X</idno>
                   <note type="bio"><p>In seiner Forschung widmete er sich insbesondere der politischen Soziologie.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__401">
+               <person xml:id="tillich_person_id__1780">
+                  <persName>Siebeck, Oskar</persName>
+                  <occupation>Deutscher Verleger</occupation>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__231">Tillich, Paul, Der junge Hegel und das Schicksal Deutschlands, in: Tillich, Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__401">
                   <placeName>Sils Maria/Engadin</placeName>
                   <location type="coords">
                      <geo>46.42886 9.76364</geo>

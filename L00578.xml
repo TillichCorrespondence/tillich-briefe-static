@@ -110,40 +110,13 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2287">
-                  <persName>Schubart, Friedrich Winfried</persName>
-                  <birth>
-                     <date>1847-06-05</date>
-                  </birth>
-                  <death>
-                     <date>1918-03-05</date>
-                     <settlement>
-                        <placeName>Zerbst/Anhalt</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/132462974</idno>
-                  <note type="bio"><p>Er war Generalsuperintendent von Anhalt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1295">
+   <back><listPerson><person xml:id="tillich_person_id__1295">
                   <persName>Meinhof, Heinrich</persName>
                   <occupation>Leibfux von Paul Tillich</occupation>
                </person>
-               <person xml:id="tillich_person_id__2286">
-                  <persName>Schubart, Christoph</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/117724742</idno>
-                  <note type="bio"><p>Er war ein Schüler von Professor Loofs und der Sohn von Generalsuperintendent Friedrich Winfried Schubart.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1227">
-                  <persName>Lütgert, Wilhelm</persName>
-                  <birth>
-                     <date>1867</date>
-                  </birth>
-                  <death>
-                     <date>1938</date>
-                  </death>
-                  <occupation>Systematischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               <person xml:id="tillich_person_id__1201">
+                  <persName>Loofs, Friedrich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
                </person>
                <person xml:id="tillich_person_id__2843">
                   <persName>Hartmann, Martin</persName>
@@ -177,12 +150,46 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__1201">
-                  <persName>Loofs, Friedrich</persName>
-                  <occupation>Kirchenhistoriker</occupation>
+               <person xml:id="tillich_person_id__2287">
+                  <persName>Schubart, Friedrich Winfried</persName>
+                  <birth>
+                     <date>1847-06-05</date>
+                  </birth>
+                  <death>
+                     <date>1918-03-05</date>
+                     <settlement>
+                        <placeName>Zerbst/Anhalt</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/132462974</idno>
+                  <note type="bio"><p>Er war Generalsuperintendent von Anhalt.</p></note>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__205">Hartmann, Martin, Der Islam. Geschichte - Glaube - Recht: Ein Handbuch, Leipzig 1909.</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__189">
+               <person xml:id="tillich_person_id__2286">
+                  <persName>Schubart, Christoph</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117724742</idno>
+                  <note type="bio"><p>Er war ein Schüler von Professor Loofs und der Sohn von Generalsuperintendent Friedrich Winfried Schubart.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1227">
+                  <persName>Lütgert, Wilhelm</persName>
+                  <birth>
+                     <date>1867</date>
+                  </birth>
+                  <death>
+                     <date>1938</date>
+                  </death>
+                  <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__291">
+                  <placeName>Mesopotamien</placeName>
+                  <location type="coords">
+                     <geo>33.00000 44.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/99237/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q796</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                   <location type="coords">
                      <geo>51.48158 11.97947</geo>
@@ -198,13 +205,6 @@
                   <idno type="geonames">https://sws.geonames.org/6426130/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1419211</idno>
                </place>
-               <place xml:id="tillich_place_id__291">
-                  <placeName>Mesopotamien</placeName>
-                  <location type="coords">
-                     <geo>33.00000 44.00000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/99237/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q796</idno>
-               </place>
-               </listPlace></back></text>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__205">Hartmann, Martin, Der Islam. Geschichte - Glaube - Recht: Ein Handbuch, Leipzig 1909.</bibl>
+               </listBibl></back></text>
 </TEI>

@@ -133,8 +133,7 @@ Antwort abhängen.</p>
 </closer>
 </div>
 </body>
-<back><listBibl><bibl xml:id="tillich_work_id__149">Hegel, Enzyklopädie der philosophischen Wissenschaften</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1705">
+<back><listPerson><person xml:id="tillich_person_id__1705">
                   <persName>Schelling, Friedrich Wilhelm Joseph</persName>
                   <birth>
                      <date>1775-01-27</date>
@@ -166,5 +165,6 @@ Antwort abhängen.</p>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__149">Hegel, Enzyklopädie der philosophischen Wissenschaften</bibl>
+               </listBibl></back></text>
 </TEI>

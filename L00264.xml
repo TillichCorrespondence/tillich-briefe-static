@@ -110,11 +110,6 @@
                   <persName>Van der Smissen, Gilbert</persName>
                   <occupation>Pfarrer und Studienkollege Tillichs</occupation>
                </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2091">
                   <persName>Witte, Hermann</persName>
                   <birth>
@@ -127,6 +122,11 @@
                      <date>1728-03-24</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>

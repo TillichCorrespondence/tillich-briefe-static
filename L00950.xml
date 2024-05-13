@@ -116,7 +116,18 @@
         </closer>
      </div>
     </body>
-  <back><listPlace><place xml:id="tillich_place_id__556">
+  <back><listBibl><bibl xml:id="tillich_work_id__18">Tillich, Paul, Über gläubigen Realismus, in: Theologische Blätter, Jg. 7, H. 5 (1928), Sp. 109-118.</bibl>
+               <bibl xml:id="tillich_work_id__167">Tillich, Paul, Eschatologie und Geschichte, in: Die Christliche Welt, Jh. 41. H. 22. 1927, Sp. 1034-1042</bibl>
+               <bibl xml:id="tillich_work_id__166">Tillich, Paul, Logos und Mythos der Technik, in: Logos, Jg. 16 (1927), S. 356-365</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__126">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               </place>
+               <place xml:id="tillich_place_id__556">
                   <placeName>Meißen</placeName>
                   <location type="coords">
                      <geo>51.16158 13.47370</geo>
@@ -132,18 +143,7 @@
                   <idno type="geonames">https://sws.geonames.org/2867613/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q165380</idno>
                </place>
-               <place xml:id="tillich_place_id__126">
-                  <placeName>Dresden</placeName>
-                  <location type="coords">
-                     <geo>51.05089 13.73832</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__167">Tillich, Paul, Eschatologie und Geschichte, in: Die Christliche Welt, Jh. 41. H. 22. 1927, Sp. 1034-1042</bibl>
-               <bibl xml:id="tillich_work_id__166">Tillich, Paul, Logos und Mythos der Technik, in: Logos, Jg. 16 (1927), S. 356-365</bibl>
-               <bibl xml:id="tillich_work_id__18">Tillich, Paul, Über gläubigen Realismus, in: Theologische Blätter, Jg. 7, H. 5 (1928), Sp. 109-118.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>

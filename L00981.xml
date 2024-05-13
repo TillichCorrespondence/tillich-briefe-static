@@ -92,28 +92,41 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2560">
-                  <persName>???, Ulli</persName>
-                  <occupation>Künstler;</occupation>
-                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__641">
-                  <persName>Fritz, Alfred</persName>
+<back><listPerson><person xml:id="tillich_person_id__2094">
+                  <persName>Wolfers, Arnold</persName>
                   <birth>
-                     <date>1886</date>
+                     <date>1892-06-14</date>
+                     <settlement>
+                        <placeName>Sankt Gallen</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1963</date>
+                     <date>1968-07-16</date>
                   </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+                  <occupation>Politikwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
+                  <note type="bio"><p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2563">
-                  <persName>???, Walter</persName>
+               <person xml:id="tillich_person_id__570">
+                  <persName>Farris, Erdmuthe</persName>
+                  <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
-               <person xml:id="tillich_person_id__2562">
-                  <persName>???, B</persName>
+               <person xml:id="tillich_person_id__2561">
+                  <persName>Kleist, Heinrich von</persName>
+                  <birth>
+                     <date>1777-10-18</date>
+                     <settlement>
+                        <placeName>Frankfurt (Oder)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1811-11-21</date>
+                     <settlement>
+                        <placeName>Wannsee (Ort)</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118563076</idno>
                </person>
                <person xml:id="tillich_person_id__1923">
                   <persName>Tillich, Hannah</persName>
@@ -132,24 +145,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2094">
-                  <persName>Wolfers, Arnold</persName>
-                  <birth>
-                     <date>1892-06-14</date>
-                     <settlement>
-                        <placeName>Sankt Gallen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1968-07-16</date>
-                  </death>
-                  <occupation>Politikwissenschaftler</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
-                  <note type="bio"><p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2559">
-                  <persName>???, ???</persName>
-               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -165,34 +160,39 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2561">
-                  <persName>Kleist, Heinrich von</persName>
+               <person xml:id="tillich_person_id__2563">
+                  <persName>???, Walter</persName>
+               </person>
+               <person xml:id="tillich_person_id__2559">
+                  <persName>???, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
                   <birth>
-                     <date>1777-10-18</date>
-                     <settlement>
-                        <placeName>Frankfurt (Oder)</placeName>
-                     </settlement>
+                     <date>1886</date>
                   </birth>
                   <death>
-                     <date>1811-11-21</date>
-                     <settlement>
-                        <placeName>Wannsee (Ort)</placeName>
-                     </settlement>
+                     <date>1963</date>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118563076</idno>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__570">
-                  <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter von Paul Tillich</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
+               <person xml:id="tillich_person_id__2562">
+                  <persName>???, B</persName>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
+               <person xml:id="tillich_person_id__2560">
+                  <persName>???, Ulli</persName>
+                  <occupation>Künstler;</occupation>
+                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
-                     <geo>52.52437 13.41053</geo>
+                     <geo>50.11552 8.68417</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
                <place xml:id="tillich_place_id__206">
                   <placeName>Heppenheim</placeName>
@@ -209,13 +209,13 @@
                   <idno type="geonames">https://sws.geonames.org/2935022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
                </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
-                     <geo>50.11552 8.68417</geo>
+                     <geo>52.52437 13.41053</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
                </listPlace><listBibl><bibl xml:id="tillich_work_id__75">Tillich, Paul, Diskussionsbeitrag, in: Die Verhandlungen des 35. Evangelisch-sozialen Kongresses in Dresden, 29.-31. 5. 1928, Göttingen 1928, S. 74-77</bibl>
                </listBibl></back></text>

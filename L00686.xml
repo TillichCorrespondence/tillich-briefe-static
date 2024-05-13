@@ -93,25 +93,13 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1887">
-                  <persName>Sydow, Eckart von</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
-                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
+<back><listPerson><person xml:id="tillich_person_id__2803">
+                  <persName>Kestenberg, ???</persName>
+                  <occupation>Professor;</occupation>
                </person>
                <person xml:id="tillich_person_id__2085">
                   <persName>Winkler, Toni</persName>
                   <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2803">
-                  <persName>Kestenberg, ???</persName>
-                  <occupation>Professor;</occupation>
                </person>
                <person xml:id="tillich_person_id__1723">
                   <persName>Schmidt, Karl Ludwig</persName>
@@ -119,9 +107,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
                   <note type="bio"><p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p></note>
                </person>
-               <person xml:id="tillich_person_id__1487">
-                  <persName>Pfeiffer, Erich</persName>
-                  <occupation>Hauptmann im 1. WK</occupation>
+               <person xml:id="tillich_person_id__2818">
+                  <persName>Schillbach, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
                </person>
                <person xml:id="tillich_person_id__904">
                   <persName>Hirsch, Emanuel</persName>
@@ -140,21 +132,29 @@
                   <occupation>Systematischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
                </person>
-               <person xml:id="tillich_person_id__2818">
-                  <persName>Schillbach, ???</persName>
+               <person xml:id="tillich_person_id__1487">
+                  <persName>Pfeiffer, Erich</persName>
+                  <occupation>Hauptmann im 1. WK</occupation>
                </person>
-               <person xml:id="tillich_person_id__2041">
-                  <persName>Werner, Marie Luise</persName>
-                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
-                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               <person xml:id="tillich_person_id__1887">
+                  <persName>Sydow, Eckart von</persName>
+                  <birth>
+                     <date>1885</date>
+                  </birth>
+                  <death>
+                     <date>1942</date>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
+                  <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__597">
-                  <placeName>Gotha</placeName>
+               </listPerson><listPlace><place xml:id="tillich_place_id__567">
+                  <placeName>Greiz</placeName>
                   <location type="coords">
-                     <geo>50.94823 10.70193</geo>
+                     <geo>50.65778 12.19918</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2918752/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038418</idno>
+                  <idno type="geonames">https://sws.geonames.org/2917737/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041969</idno>
                </place>
                <place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
@@ -172,12 +172,13 @@
                   <idno type="geonames">https://sws.geonames.org/2921232/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32029631</idno>
                </place>
-               <place xml:id="tillich_place_id__175">
-                  <placeName>Gießen</placeName>
+               <place xml:id="tillich_place_id__21">
+                  <placeName>Bad Kissingen</placeName>
                   <location type="coords">
-                     <geo>50.58727 8.67554</geo>
+                     <geo>50.20228 10.07784</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2953424/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q118137589</idno>
                </place>
                <place xml:id="tillich_place_id__186">
                   <placeName>Göttingen</placeName>
@@ -187,21 +188,20 @@
                   <idno type="geonames">https://sws.geonames.org/2918632/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q3033</idno>
                </place>
-               <place xml:id="tillich_place_id__21">
-                  <placeName>Bad Kissingen</placeName>
+               <place xml:id="tillich_place_id__597">
+                  <placeName>Gotha</placeName>
                   <location type="coords">
-                     <geo>50.20228 10.07784</geo>
+                     <geo>50.94823 10.70193</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2953424/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q118137589</idno>
+                  <idno type="geonames">https://sws.geonames.org/2918752/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32038418</idno>
                </place>
-               <place xml:id="tillich_place_id__567">
-                  <placeName>Greiz</placeName>
+               <place xml:id="tillich_place_id__175">
+                  <placeName>Gießen</placeName>
                   <location type="coords">
-                     <geo>50.65778 12.19918</geo>
+                     <geo>50.58727 8.67554</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2917737/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32041969</idno>
+                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
                </place>
                </listPlace><listBibl><bibl xml:id="tillich_work_id__152">Eckart von Sydow, Die Kultur der Dekadenz. Dresden: Sibyllen-Verlag, 1921.</bibl>
                </listBibl></back></text>

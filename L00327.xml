@@ -132,11 +132,7 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1122">
-                  <persName>Lahusen, Friedrich</persName>
-                  <occupation>Generalsuperintendent</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__41">
+<back><listPlace><place xml:id="tillich_place_id__41">
                   <placeName>Berlin-Lichtenrade</placeName>
                   <location type="coords">
                      <geo>52.39844 13.40637</geo>
@@ -151,5 +147,9 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2874545/</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1122">
+                  <persName>Lahusen, Friedrich</persName>
+                  <occupation>Generalsuperintendent</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>

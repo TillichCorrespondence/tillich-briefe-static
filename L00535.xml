@@ -116,26 +116,9 @@
                   <persName>Fritz, Eckehardt</persName>
                   <note type="bio"><p>Er war der Sohn von Alfred Fritz und Johanna Fritz. Außerdem war er der Bruder von Paul Tillichs Patentochter Gisela Walker, geborene Fritz.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2355">
                   <persName>Walker, Gisela</persName>
                   <note type="bio"><p>Sie war die Patentochter von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1924">
-                  <persName>Tillich, Johannes Oskar</persName>
-                  <birth>
-                     <date>1857</date>
-                  </birth>
-                  <death>
-                     <date>1937</date>
-                  </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -152,12 +135,30 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
                <person xml:id="tillich_person_id__252">
                   <persName>Bonin, Henning von</persName>
                   <occupation>Preußischer Infanteriegeneral</occupation>
                   <note type="bio"><p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__37">
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
                   <location type="coords">
                      <geo>52.52437 13.41053</geo>
@@ -165,6 +166,5 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

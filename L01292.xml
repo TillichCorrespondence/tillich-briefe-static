@@ -96,21 +96,21 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__224">
-                  <placeName>Jena</placeName>
-                  <location type="coords">
-                     <geo>50.92878 11.58990</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2895044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
-               </place>
-               <place xml:id="tillich_place_id__569">
+<back><listPlace><place xml:id="tillich_place_id__569">
                   <placeName>Gera</placeName>
                   <location type="coords">
                      <geo>50.88029 12.08187</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2921232/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32029631</idno>
+               </place>
+               <place xml:id="tillich_place_id__224">
+                  <placeName>Jena</placeName>
+                  <location type="coords">
+                     <geo>50.92878 11.58990</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2895044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
                </place>
                </listPlace></back></text>
 </TEI>

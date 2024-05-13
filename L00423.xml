@@ -133,21 +133,21 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__287">
-                  <placeName>Masuren</placeName>
-                  <location type="coords">
-                     <geo>51.66796 17.59808</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3092151/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q735089</idno>
-               </place>
-               <place xml:id="tillich_place_id__351">
+<back><listPlace><place xml:id="tillich_place_id__351">
                   <placeName>Polen</placeName>
                   <location type="coords">
                      <geo>52.00000 20.00000</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/798544/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q36</idno>
+               </place>
+               <place xml:id="tillich_place_id__287">
+                  <placeName>Masuren</placeName>
+                  <location type="coords">
+                     <geo>51.66796 17.59808</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3092151/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q735089</idno>
                </place>
                <place xml:id="tillich_place_id__61">
                   <placeName>Bieuxy</placeName>
@@ -164,18 +164,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/772636/</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1594">
-                  <persName>Rhine, Maria</persName>
-                  <birth>
-                     <date>1895-12-01</date>
-                  </birth>
-                  <death>
-                     <date>1975-09-23</date>
-                  </death>
-                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
-               </person>
-               <person xml:id="tillich_person_id__1061">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1061">
                   <persName>Klein, Ernst August Ferdinand</persName>
                   <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
                </person>
@@ -197,6 +186,17 @@
                <person xml:id="tillich_person_id__1062">
                   <persName>Klein, Lisa</persName>
                   <occupation>Schwester von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1594">
+                  <persName>Rhine, Maria</persName>
+                  <birth>
+                     <date>1895-12-01</date>
+                  </birth>
+                  <death>
+                     <date>1975-09-23</date>
+                  </death>
+                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -92,7 +92,11 @@ Und weil ich so klar sehe, so sage ich noch etwas Anderes: Wir haben nur dann ei
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__224">
+<back><listPerson><person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__224">
                   <placeName>Jena</placeName>
                   <location type="coords">
                      <geo>50.92878 11.58990</geo>
@@ -100,9 +104,5 @@ Und weil ich so klar sehe, so sage ich noch etwas Anderes: Wir haben nur dann ei
                   <idno type="geonames">https://sws.geonames.org/2895044/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32063050</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

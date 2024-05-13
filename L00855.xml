@@ -95,7 +95,17 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2311">
+<back><listBibl><bibl xml:id="tillich_work_id__44">Salomon-Delatour, Gottfried (Hg.), Die Lehre Saint-Simons, Neuwied 1962.</bibl>
+               <bibl xml:id="tillich_work_id__41">Archiv für Philosophie und Soziologie, zweite Abteilung: Archiv für systematische Philosophie und Soziologie, hg. von Ludwig Stein, Mitherausgeber für die Abteilung Soziologie Gottfried Salomon, 29.Band, Berlin 1926</bibl>
+               <bibl xml:id="tillich_work_id__45">Gumplowicz, Ludwig, Geschichte der Staatstheorien. Mit einem Vorwort von Gottfried Salomon (Ausgewählte Werke in vier Bänden, Bd. 1), Innsbruck 1926.</bibl>
+               <bibl xml:id="tillich_work_id__38">Tillich, Paul (Hg.): Kairos. 1ter Band: Zur Geisteslage und Geisteswendung, Darmstadt Otto Reichl Verlag 1926</bibl>
+               <bibl xml:id="tillich_work_id__42">Breysig, Kurt, Zur Kritik der Vernunft an sich, in: Archiv für Philosophie und Soziologie, zweite Abteilung: Archiv für systematische Philosophie und Soziologie, hg. von Ludwig Stein, Mitherausgeber für die Abteilung Soziologie Gottfried Salomon, 29.Band, Berlin 1926, 141-159 und 277-288.</bibl>
+               <bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
+               <bibl xml:id="tillich_work_id__43">Salomon, Gottfried/Oppenheimer, Franz, Soziologische Lesestücke, 3 Bde. (Bd. 1: Begriff der Gesellschaft in der allgemeinen Soziologie. Bd. 2: Begriff der Gesellschaft in der deutschen Sozialphilosophie. Bd. 3: Individuum und Gesellschaft), Karlsruhe 1926.</bibl>
+               <bibl xml:id="tillich_work_id__39">Salomon, Gottfried (Hg.), Jahrbuch für Soziologie. Eine internationale Sammlung, Bd. 3, Karlsruhe 1927.</bibl>
+               <bibl xml:id="tillich_work_id__13">Vico, Giambattista, Die neue Wissenschaft, herausgegeben von Gottfried Salomon und übersetzt von Erich Auerbach, München 1924</bibl>
+               <bibl xml:id="tillich_work_id__40">Giovanoli, Friedrich, Die Maifeierbewegung. Ihre wirtschaftlichen und soziologischen Ursprüunge und Wirkungen (Sozialwissenschaftliche Abhandlungen, Bd. 1, hg. von Gottfried Salomon), Karlsruhe 1925</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2311">
                   <persName>Schultz, Bruno</persName>
                   <birth>
                      <date>1894-04-09</date>
@@ -109,10 +119,6 @@
                   <occupation>Wirtschaftswissenschaftler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/134112202</idno>
                   <note type="bio"><p>Er war ein Schüler von Franz Oppenheimer.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2315">
-                  <persName>Mehlis, Georg (Prof.)</persName>
-                  <occupation>Freiburg</occupation>
                </person>
                <person xml:id="tillich_person_id__2313">
                   <persName>Spamer, Adolf</persName>
@@ -131,8 +137,9 @@
                   <occupation>Germanist; Volkskundler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118751727</idno>
                </person>
-               <person xml:id="tillich_person_id__1426">
-                  <persName>Oppenheimer, Franz</persName>
+               <person xml:id="tillich_person_id__2315">
+                  <persName>Mehlis, Georg (Prof.)</persName>
+                  <occupation>Freiburg</occupation>
                </person>
                <person xml:id="tillich_person_id__1946">
                   <persName>Tönnies, Ferdinand</persName>
@@ -149,6 +156,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118623095</idno>
+               </person>
+               <person xml:id="tillich_person_id__1426">
+                  <persName>Oppenheimer, Franz</persName>
                </person>
                <person xml:id="tillich_person_id__2314">
                   <persName>Gumplowicz, Ludwig</persName>
@@ -195,17 +205,7 @@
                   <occupation>Soziologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118711482</idno>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
-               <bibl xml:id="tillich_work_id__39">Salomon, Gottfried (Hg.), Jahrbuch für Soziologie. Eine internationale Sammlung, Bd. 3, Karlsruhe 1927.</bibl>
-               <bibl xml:id="tillich_work_id__40">Giovanoli, Friedrich, Die Maifeierbewegung. Ihre wirtschaftlichen und soziologischen Ursprüunge und Wirkungen (Sozialwissenschaftliche Abhandlungen, Bd. 1, hg. von Gottfried Salomon), Karlsruhe 1925</bibl>
-               <bibl xml:id="tillich_work_id__42">Breysig, Kurt, Zur Kritik der Vernunft an sich, in: Archiv für Philosophie und Soziologie, zweite Abteilung: Archiv für systematische Philosophie und Soziologie, hg. von Ludwig Stein, Mitherausgeber für die Abteilung Soziologie Gottfried Salomon, 29.Band, Berlin 1926, 141-159 und 277-288.</bibl>
-               <bibl xml:id="tillich_work_id__41">Archiv für Philosophie und Soziologie, zweite Abteilung: Archiv für systematische Philosophie und Soziologie, hg. von Ludwig Stein, Mitherausgeber für die Abteilung Soziologie Gottfried Salomon, 29.Band, Berlin 1926</bibl>
-               <bibl xml:id="tillich_work_id__45">Gumplowicz, Ludwig, Geschichte der Staatstheorien. Mit einem Vorwort von Gottfried Salomon (Ausgewählte Werke in vier Bänden, Bd. 1), Innsbruck 1926.</bibl>
-               <bibl xml:id="tillich_work_id__38">Tillich, Paul (Hg.): Kairos. 1ter Band: Zur Geisteslage und Geisteswendung, Darmstadt Otto Reichl Verlag 1926</bibl>
-               <bibl xml:id="tillich_work_id__44">Salomon-Delatour, Gottfried (Hg.), Die Lehre Saint-Simons, Neuwied 1962.</bibl>
-               <bibl xml:id="tillich_work_id__43">Salomon, Gottfried/Oppenheimer, Franz, Soziologische Lesestücke, 3 Bde. (Bd. 1: Begriff der Gesellschaft in der allgemeinen Soziologie. Bd. 2: Begriff der Gesellschaft in der deutschen Sozialphilosophie. Bd. 3: Individuum und Gesellschaft), Karlsruhe 1926.</bibl>
-               <bibl xml:id="tillich_work_id__13">Vico, Giambattista, Die neue Wissenschaft, herausgegeben von Gottfried Salomon und übersetzt von Erich Auerbach, München 1924</bibl>
-               </listBibl><listPlace><place xml:id="tillich_place_id__126">
+               </listPerson><listPlace><place xml:id="tillich_place_id__126">
                   <placeName>Dresden</placeName>
                   <location type="coords">
                      <geo>51.05089 13.73832</geo>

@@ -91,7 +91,11 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__641">
+<back><listPerson><person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
                      <date>1886</date>
@@ -107,10 +111,6 @@
                   <persName>Seeberger, Elisabeth</persName>
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -131,20 +131,20 @@
                   <persName>Neumeister, Eckhardt</persName>
                   <occupation>Geheimrat; Medizinalrat;</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__404">
+               </listPerson><listPlace><place xml:id="tillich_place_id__25">
+                  <placeName>Bailly</placeName>
+                  <location type="coords">
+                     <geo>48.84168 2.07673</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3035340/</idno>
+               </place>
+               <place xml:id="tillich_place_id__404">
                   <placeName>Soissons</placeName>
                   <location type="coords">
                      <geo>49.38167 3.32361</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2974389/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q167152</idno>
-               </place>
-               <place xml:id="tillich_place_id__25">
-                  <placeName>Bailly</placeName>
-                  <location type="coords">
-                     <geo>48.84168 2.07673</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3035340/</idno>
                </place>
                <place xml:id="tillich_place_id__61">
                   <placeName>Bieuxy</placeName>

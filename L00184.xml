@@ -101,10 +101,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__620">
-                  <placeName>Brunnen</placeName>
-               </place>
-               <place xml:id="tillich_place_id__218">
+<back><listPlace><place xml:id="tillich_place_id__218">
                   <placeName>Interlaken</placeName>
                   <location type="coords">
                      <geo>46.68387 7.86638</geo>
@@ -119,15 +116,10 @@
                   <idno type="geonames">https://sws.geonames.org/2925177/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2199">
-                  <persName>???, Trude</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__644">
+               <place xml:id="tillich_place_id__620">
+                  <placeName>Brunnen</placeName>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
@@ -157,6 +149,14 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2199">
+                  <persName>???, Trude</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

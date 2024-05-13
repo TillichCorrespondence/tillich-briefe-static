@@ -170,30 +170,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__238">
-                  <placeName>Kiel</placeName>
-                  <location type="coords">
-                     <geo>54.32133 10.13489</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
+<back><listPlace><place xml:id="tillich_place_id__448">
                   <placeName>Tübingen</placeName>
                   <location type="coords">
                      <geo>48.52266 9.05222</geo>
@@ -217,8 +194,36 @@
                   <idno type="geonames">https://sws.geonames.org/2827552/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1621</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2147">
-                  <persName>Vethake, Hans</persName>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__238">
+                  <placeName>Kiel</placeName>
+                  <location type="coords">
+                     <geo>54.32133 10.13489</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1201">
+                  <persName>Loofs, Friedrich</persName>
+                  <occupation>Kirchenhistoriker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1982">
+                  <persName>Van der Smissen, Gilbert</persName>
+                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
                </person>
                <person xml:id="tillich_person_id__1712">
                   <persName>Schlatter, Adolf</persName>
@@ -237,9 +242,21 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
                </person>
-               <person xml:id="tillich_person_id__1982">
-                  <persName>Van der Smissen, Gilbert</persName>
-                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
+               <person xml:id="tillich_person_id__2091">
+                  <persName>Witte, Hermann</persName>
+                  <birth>
+                     <date>1666-12-07</date>
+                     <settlement>
+                        <placeName>Riga-Daugavgriva</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1728-03-24</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+               </person>
+               <person xml:id="tillich_person_id__2147">
+                  <persName>Vethake, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -260,23 +277,6 @@
                   <persName>Balke, Hans</persName>
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2091">
-                  <persName>Witte, Hermann</persName>
-                  <birth>
-                     <date>1666-12-07</date>
-                     <settlement>
-                        <placeName>Riga-Daugavgriva</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1728-03-24</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
-               </person>
-               <person xml:id="tillich_person_id__1201">
-                  <persName>Loofs, Friedrich</persName>
-                  <occupation>Kirchenhistoriker</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

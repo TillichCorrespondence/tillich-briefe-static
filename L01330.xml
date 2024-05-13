@@ -141,12 +141,12 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2825">
+<back><listPerson><person xml:id="tillich_person_id__2821">
+                  <persName>Immow, Gertrud</persName>
+               </person>
+               <person xml:id="tillich_person_id__2825">
                   <persName>Mengelberg, Nora</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116881666</idno>
-               </person>
-               <person xml:id="tillich_person_id__2821">
-                  <persName>Immow, Gertrud</persName>
                </person>
                <person xml:id="tillich_person_id__2782">
                   <persName>???, Rudolf</persName>

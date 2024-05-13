@@ -110,13 +110,13 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
+   <back><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
                   <location type="coords">
-                     <geo>52.52437 13.41053</geo>
+                     <geo>50.11552 8.68417</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
                <place xml:id="tillich_place_id__465">
                   <placeName>Wannsee Berlin</placeName>
@@ -126,15 +126,19 @@
                   <idno type="geonames">https://sws.geonames.org/2814196/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1949</idno>
                </place>
-               <place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
                   <location type="coords">
-                     <geo>50.11552 8.68417</geo>
+                     <geo>52.52437 13.41053</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+               </listPlace><listPerson><person xml:id="tillich_person_id__2482">
+                  <persName>Riedel, Margarete</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1279754710</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -158,10 +162,6 @@
                      <date>1945</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116591730</idno>
-               </person>
-               <person xml:id="tillich_person_id__2482">
-                  <persName>Riedel, Margarete</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/1279754710</idno>
                </person>
                </listPerson></back></text>
 </TEI>

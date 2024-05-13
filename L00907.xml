@@ -122,56 +122,8 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2577">
-                  <persName>Baker, Josephine</persName>
-                  <birth>
-                     <date>1906-06-03</date>
-                     <settlement>
-                        <placeName>Saint Louis, Mo.</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1975-04-12</date>
-                     <settlement>
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118506099</idno>
-               </person>
-               <person xml:id="tillich_person_id__2574">
-                  <persName>Corot, Jean-Baptiste Camille</persName>
-                  <birth>
-                     <date>1796-07-16</date>
-                     <settlement>
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1875-02-22</date>
-                     <settlement>
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118522256</idno>
-               </person>
-               <person xml:id="tillich_person_id__1343">
+<back><listPerson><person xml:id="tillich_person_id__1343">
                   <persName>Monet, Claude</persName>
-               </person>
-               <person xml:id="tillich_person_id__2576">
-                  <persName>Maupassant, Guy de</persName>
-                  <birth>
-                     <date>1850-08-05</date>
-                     <settlement>
-                        <placeName>Dieppe</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1893-07-06</date>
-                     <settlement>
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118579207</idno>
                </person>
                <person xml:id="tillich_person_id__2437">
                   <persName>Jessen, Malla</persName>
@@ -215,6 +167,22 @@
                <person xml:id="tillich_person_id__2513">
                   <persName>???, Nora</persName>
                </person>
+               <person xml:id="tillich_person_id__2577">
+                  <persName>Baker, Josephine</persName>
+                  <birth>
+                     <date>1906-06-03</date>
+                     <settlement>
+                        <placeName>Saint Louis, Mo.</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1975-04-12</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118506099</idno>
+               </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
@@ -240,20 +208,52 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118519964</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__343">
-                  <placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place>
-               <place xml:id="tillich_place_id__130">
+               <person xml:id="tillich_person_id__2574">
+                  <persName>Corot, Jean-Baptiste Camille</persName>
+                  <birth>
+                     <date>1796-07-16</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1875-02-22</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118522256</idno>
+               </person>
+               <person xml:id="tillich_person_id__2576">
+                  <persName>Maupassant, Guy de</persName>
+                  <birth>
+                     <date>1850-08-05</date>
+                     <settlement>
+                        <placeName>Dieppe</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1893-07-06</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118579207</idno>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__130">
                   <placeName>Düsseldorf</placeName>
                   <location type="coords">
                      <geo>51.22172 6.77616</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2934246/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1718</idno>
+               </place>
+               <place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
                </place>
                </listPlace></back></text>
 </TEI>

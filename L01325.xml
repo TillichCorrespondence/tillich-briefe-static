@@ -88,7 +88,11 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2020">
+<back><listPerson><person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2020">
                   <persName>Wegener, Carl Richard</persName>
                   <birth>
                      <date>1883-08-03</date>
@@ -105,23 +109,15 @@
                   <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
                </person>
-               <person xml:id="tillich_person_id__1703">
-                  <persName>Scheler, Max</persName>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__228">
-                  <persName>Bloch, Ernst</persName>
-                  <occupation>Deutscher Philosoph</occupation>
-               </person>
                <person xml:id="tillich_person_id__1886">
                   <persName>Sydow, Gertrud von</persName>
                </person>
-               <person xml:id="tillich_person_id__2814">
-                  <persName>Ziegler, ???</persName>
-                  <occupation>Philosoph;</occupation>
+               <person xml:id="tillich_person_id__1703">
+                  <persName>Scheler, Max</persName>
+               </person>
+               <person xml:id="tillich_person_id__1735">
+                  <persName>Scholz, Heinrich</persName>
+                  <occupation>deutscher Logiker, Philosoph und evangelischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__2437">
                   <persName>Jessen, Malla</persName>
@@ -130,12 +126,16 @@
                <person xml:id="tillich_person_id__2810">
                   <persName>Dox</persName>
                </person>
-               <person xml:id="tillich_person_id__1735">
-                  <persName>Scholz, Heinrich</persName>
-                  <occupation>deutscher Logiker, Philosoph und evangelischer Theologe</occupation>
+               <person xml:id="tillich_person_id__228">
+                  <persName>Bloch, Ernst</persName>
+                  <occupation>Deutscher Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__2816">
                   <persName>Stern, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2814">
+                  <persName>Ziegler, ???</persName>
+                  <occupation>Philosoph;</occupation>
                </person>
                </listPerson></back></text>
 </TEI>
