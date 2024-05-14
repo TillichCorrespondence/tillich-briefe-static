@@ -100,7 +100,11 @@
             <closer><signed><unclear>¿¿¿</unclear></signed></closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__271">
+   <back><listPerson><person xml:id="tillich_person_id__2138">
+                  <persName>Heller, Otto</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__271">
                   <placeName>London</placeName>
                   <location type="coords">
                      <geo>51.50853 -0.12574</geo>
@@ -131,9 +135,5 @@
                   <idno type="geonames">https://sws.geonames.org/2790471/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q51389725</idno>
                </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2138">
-                  <persName>Heller, Otto</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               </listPerson></back></text>
+               </listPlace></back></text>
 </TEI>

@@ -131,25 +131,15 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2406">
-                  <persName>Hirzel, Stephan</persName>
-                  <birth>
-                     <date>1899-07-25</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1970-02-18</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Architekt;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1038829402</idno>
-                  <note type="bio"><p>Er war Mitbegründer des Kunst-Dienstes der evangelischen Kirche. Er baute unter anderem das "Haus auf dem Küssel".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+   <back><listPlace><place xml:id="tillich_place_id__356">
+                  <placeName>Potsdam</placeName>
+                  <location type="coords">
+                     <geo>52.39886 13.06566</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2852458/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1711</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -181,13 +171,23 @@
                   <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
                   <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__356">
-                  <placeName>Potsdam</placeName>
-                  <location type="coords">
-                     <geo>52.39886 13.06566</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2852458/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1711</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__2406">
+                  <persName>Hirzel, Stephan</persName>
+                  <birth>
+                     <date>1899-07-25</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1970-02-18</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Architekt;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1038829402</idno>
+                  <note type="bio"><p>Er war Mitbegründer des Kunst-Dienstes der evangelischen Kirche. Er baute unter anderem das "Haus auf dem Küssel".</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

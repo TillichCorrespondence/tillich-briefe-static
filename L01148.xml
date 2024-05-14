@@ -144,7 +144,23 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1780">
+   <back><listPlace><place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               <place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1780">
                   <persName>Siebeck, Oskar</persName>
                   <occupation>Deutscher Verleger</occupation>
                </person>
@@ -184,22 +200,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/118500775</idno>
                   <note type="bio"><p>Studium in Frankfurt am Main (Promotion 1924) sowie 1925-1928 bei Alban Berg und Eduard Steuermann in Wien. Habilitierte sich 1931 in Frankfurt am Main bei Paul Tillich. Seit 1934 Aufenthalt in Oxford, 1938 Emigration in die USA, dort u.a. Mitarbeiter des Instituts für Sozialforschung sowie insb. Arbeitsgemeinschaft mit Marx Horkheimer, in deren Rahmen die Dialektik der Aufklärung (1944) entstand. Remigration nach Deutschland 1949, Professor an der Goethe-Universität Frankfurt am Main sowie dem Institut für Sozialforschung.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__260">
-                  <placeName>Leipzig</placeName>
-                  <location type="coords">
-                     <geo>51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__245">Adorno, Theodor W., Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ihrer Geschichte, Bd. 2. Tübingen 1933</bibl>
+               </listPerson><listBibl><bibl xml:id="tillich_work_id__245">Adorno, Theodor W., Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ihrer Geschichte, Bd. 2. Tübingen 1933</bibl>
                </listBibl></back></text>
 </TEI>

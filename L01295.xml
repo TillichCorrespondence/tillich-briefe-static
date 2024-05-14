@@ -110,11 +110,7 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2039">
-                  <persName>Werner, Louise</persName>
-                  <occupation>Mutter von Hannah Tillich</occupation>
-               </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__200">
+<back><listPlace><place xml:id="tillich_place_id__200">
                   <placeName>Hannover</placeName>
                   <location type="coords">
                      <geo>52.37052 9.73322</geo>
@@ -130,5 +126,9 @@
                   <idno type="geonames">https://sws.geonames.org/2892518/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32067925</idno>
                </place>
-               </listPlace></back></text>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2039">
+                  <persName>Werner, Louise</persName>
+                  <occupation>Mutter von Hannah Tillich</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>

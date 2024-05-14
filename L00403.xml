@@ -196,13 +196,167 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2374">
+<back><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               <place xml:id="tillich_place_id__288">
+                  <placeName>Mecklenburg</placeName>
+                  <location type="coords">
+                     <geo>53.83333 12.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2872567/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1196</idno>
+               </place>
+               <place xml:id="tillich_place_id__61">
+                  <placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place>
+               <place xml:id="tillich_place_id__311">
+                  <placeName>Naumburg</placeName>
+                  <location type="coords">
+                     <geo>51.14987 11.80979</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2866906/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32174717</idno>
+               </place>
+               <place xml:id="tillich_place_id__477">
+                  <placeName>Ypern</placeName>
+                  <location type="coords">
+                     <geo>50.85114 2.88569</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2795100/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31824036</idno>
+               </place>
+               <place xml:id="tillich_place_id__238">
+                  <placeName>Kiel</placeName>
+                  <location type="coords">
+                     <geo>54.32133 10.13489</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
+               </place>
+               <place xml:id="tillich_place_id__188">
+                  <placeName>Halberstadt</placeName>
+                  <location type="coords">
+                     <geo>51.89562 11.05622</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911665/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2322">
+                  <persName>Gronau, Johann Karl Hermann von</persName>
+                  <birth>
+                     <date>1850</date>
+                  </birth>
+                  <death>
+                     <date>1940</date>
+                  </death>
+                  <occupation>General;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/136139418</idno>
+                  <note type="bio"><p>Ab dem 2. August 1914 war er kommandierender General des IV. Reserve-Korps. Sein Spitzname war Hans.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2375">
+                  <persName>Bolkansky, ???</persName>
+                  <occupation>Hauptmann;</occupation>
+                  <note type="bio"><p>Er war Hauptmann und Adjutant im 1. Weltkrieg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__109">
+                  <persName>Backhaus, Alwin</persName>
+                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1742">
+                  <persName>Schröder</persName>
+                  <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2330">
+                  <persName>Müller, ???</persName>
+                  <occupation>Kriegsgerichtsrat;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2326">
+                  <persName>Freud, ???</persName>
+                  <occupation>Oberleutnant 1. WK</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2197">
+                  <persName>Fritz, Immanuel</persName>
+                  <note type="bio"><p>Er war der Bruder von Alfred Fritz.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2227">
+                  <persName>???, Emma</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1924">
+                  <persName>Tillich, Johannes Oskar</persName>
+                  <birth>
+                     <date>1857</date>
+                  </birth>
+                  <death>
+                     <date>1937</date>
+                  </death>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
+                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2374">
                   <persName>Hafemann, Richard</persName>
                   <birth>
                      <date>1886</date>
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/1200987659</idno>
                   <note type="bio"><p>Er war ein Freund von Oberarzt Theel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2230">
+                  <persName>Schilling, Edith</persName>
+               </person>
+               <person xml:id="tillich_person_id__2381">
+                  <persName>Neumeister, Käthe</persName>
+               </person>
+               <person xml:id="tillich_person_id__2373">
+                  <persName>Theel, ???</persName>
+                  <occupation>Oberarzt;</occupation>
+                  <note type="bio"><p>Er war Adjutant des Oberstabsarztes Rosental im 1. Weltkrieg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2328">
+                  <persName>Hereike, ???</persName>
+                  <occupation>Gerichtssektretär;</occupation>
+                  <note type="bio"><p>Er hatte Kontakt zu Paul Tillich im 1. Weltkrieg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2325">
+                  <persName>Pescatore, Dominik von</persName>
+                  <occupation>Rittmeister;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt und besaß ein Allodialgut in Schwenzin bei Waren/Mecklenburg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2327">
+                  <persName>Dietrich, ???</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er war katholischer Priester und hatte Kontakt zu Paul Tillich im 1. Weltkrieg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2307">
+                  <persName>Dresler und Scharfenstein, Wilhelm Ernst Hermann von</persName>
+                  <occupation>General;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2320">
+                  <persName>Winkowsky, ??? von</persName>
+                  <occupation>General;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2329">
+                  <persName>Rosental, ???</persName>
+                  <occupation>Oberstabsarzt;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2323">
                   <persName>Kluck, Alexander Heinrich Rudolph von</persName>
@@ -216,121 +370,20 @@
                   <idno type="gnd">https://d-nb.info/gnd/116235489</idno>
                   <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2327">
-                  <persName>Dietrich, ???</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er war katholischer Priester und hatte Kontakt zu Paul Tillich im 1. Weltkrieg.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2321">
-                  <persName>Krubin, ???</persName>
-                  <occupation>Oberstleutnant;</occupation>
-                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2320">
-                  <persName>Winkowsky, ??? von</persName>
-                  <occupation>General;</occupation>
-                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2363">
-                  <persName>Bogmann, ???</persName>
-                  <occupation>Oberleutnant; Assessor;</occupation>
-                  <note type="bio"><p>Er war Jägeroberleutnant im 1. Weltkrieg und Assessor in Kiel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2296">
-                  <persName>Neumeister, Eckhardt</persName>
-                  <occupation>Geheimrat; Medizinalrat;</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2328">
-                  <persName>Hereike, ???</persName>
-                  <occupation>Gerichtssektretär;</occupation>
-                  <note type="bio"><p>Er hatte Kontakt zu Paul Tillich im 1. Weltkrieg.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2230">
-                  <persName>Schilling, Edith</persName>
-               </person>
-               <person xml:id="tillich_person_id__2197">
-                  <persName>Fritz, Immanuel</persName>
-                  <note type="bio"><p>Er war der Bruder von Alfred Fritz.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2326">
-                  <persName>Freud, ???</persName>
-                  <occupation>Oberleutnant 1. WK</occupation>
-                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
+               <person xml:id="tillich_person_id__2364">
+                  <persName>Cordier, ??? von</persName>
+                  <occupation>Ingenieur; Oberleutnant;</occupation>
+                  <note type="bio"><p>Er war Oberleutnant der Feldtelephonabteilung im 1. Weltkrieg und arbeitete als Ingenieur bei Krupp. Er kannte Immanuel Fritz sehr gut.</p></note>
                </person>
                <person xml:id="tillich_person_id__2324">
                   <persName>Ahrens, ???</persName>
                   <occupation>Hauptmann;</occupation>
                   <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2364">
-                  <persName>Cordier, ??? von</persName>
-                  <occupation>Ingenieur; Oberleutnant;</occupation>
-                  <note type="bio"><p>Er war Oberleutnant der Feldtelephonabteilung im 1. Weltkrieg und arbeitete als Ingenieur bei Krupp. Er kannte Immanuel Fritz sehr gut.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2330">
-                  <persName>Müller, ???</persName>
-                  <occupation>Kriegsgerichtsrat;</occupation>
+               <person xml:id="tillich_person_id__2321">
+                  <persName>Krubin, ???</persName>
+                  <occupation>Oberstleutnant;</occupation>
                   <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2322">
-                  <persName>Gronau, Johann Karl Hermann von</persName>
-                  <birth>
-                     <date>1850</date>
-                  </birth>
-                  <death>
-                     <date>1940</date>
-                  </death>
-                  <occupation>General;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/136139418</idno>
-                  <note type="bio"><p>Ab dem 2. August 1914 war er kommandierender General des IV. Reserve-Korps. Sein Spitzname war Hans.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__641">
-                  <persName>Fritz, Alfred</persName>
-                  <birth>
-                     <date>1886</date>
-                  </birth>
-                  <death>
-                     <date>1963</date>
-                  </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2381">
-                  <persName>Neumeister, Käthe</persName>
-               </person>
-               <person xml:id="tillich_person_id__1742">
-                  <persName>Schröder</persName>
-                  <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2373">
-                  <persName>Theel, ???</persName>
-                  <occupation>Oberarzt;</occupation>
-                  <note type="bio"><p>Er war Adjutant des Oberstabsarztes Rosental im 1. Weltkrieg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2308">
                   <persName>Kinzel, Eberhard</persName>
@@ -350,99 +403,46 @@
                   <idno type="gnd">https://d-nb.info/gnd/1072046415</idno>
                   <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2307">
-                  <persName>Dresler und Scharfenstein, Wilhelm Ernst Hermann von</persName>
-                  <occupation>General;</occupation>
-                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2325">
-                  <persName>Pescatore, Dominik von</persName>
-                  <occupation>Rittmeister;</occupation>
-                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt und besaß ein Allodialgut in Schwenzin bei Waren/Mecklenburg.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2375">
-                  <persName>Bolkansky, ???</persName>
-                  <occupation>Hauptmann;</occupation>
-                  <note type="bio"><p>Er war Hauptmann und Adjutant im 1. Weltkrieg.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2227">
-                  <persName>???, Emma</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2329">
-                  <persName>Rosental, ???</persName>
-                  <occupation>Oberstabsarzt;</occupation>
-                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1924">
-                  <persName>Tillich, Johannes Oskar</persName>
+               <person xml:id="tillich_person_id__641">
+                  <persName>Fritz, Alfred</persName>
                   <birth>
-                     <date>1857</date>
+                     <date>1886</date>
                   </birth>
                   <death>
-                     <date>1937</date>
+                     <date>1963</date>
                   </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
-                  <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
+                  <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__109">
-                  <persName>Backhaus, Alwin</persName>
-                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__188">
-                  <placeName>Halberstadt</placeName>
-                  <location type="coords">
-                     <geo>51.89562 11.05622</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911665/</idno>
-               </place>
-               <place xml:id="tillich_place_id__238">
-                  <placeName>Kiel</placeName>
-                  <location type="coords">
-                     <geo>54.32133 10.13489</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2891122/</idno>
-               </place>
-               <place xml:id="tillich_place_id__61">
-                  <placeName>Bieuxy</placeName>
-                  <location type="coords">
-                     <geo>49.44667 3.26139</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
-               </place>
-               <place xml:id="tillich_place_id__311">
-                  <placeName>Naumburg</placeName>
-                  <location type="coords">
-                     <geo>51.14987 11.80979</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2866906/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32174717</idno>
-               </place>
-               <place xml:id="tillich_place_id__288">
-                  <placeName>Mecklenburg</placeName>
-                  <location type="coords">
-                     <geo>53.83333 12.50000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2872567/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1196</idno>
-               </place>
-               <place xml:id="tillich_place_id__477">
-                  <placeName>Ypern</placeName>
-                  <location type="coords">
-                     <geo>50.85114 2.88569</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2795100/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q31824036</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__2363">
+                  <persName>Bogmann, ???</persName>
+                  <occupation>Oberleutnant; Assessor;</occupation>
+                  <note type="bio"><p>Er war Jägeroberleutnant im 1. Weltkrieg und Assessor in Kiel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2296">
+                  <persName>Neumeister, Eckhardt</persName>
+                  <occupation>Geheimrat; Medizinalrat;</occupation>
+               </person>
+               </listPerson></back></text>
 </TEI>

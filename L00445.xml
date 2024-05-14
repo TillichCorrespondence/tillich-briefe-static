@@ -93,15 +93,15 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2387">
-                  <persName>Manzenstein, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2388">
+<back><listPerson><person xml:id="tillich_person_id__2388">
                   <persName>Lothauser, ???</persName>
                </person>
                <person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarete</persName>
                   <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2387">
+                  <persName>Manzenstein, ???</persName>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -114,13 +114,37 @@
 <p>Besten Gruß <rs ref="#tillich_person_id__2259" type="person">Adolf</rs>.</p>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__644">
-                  <persName>Fritz, Johanna</persName>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2259">
+<back><listPlace><place xml:id="tillich_place_id__423">
+                  <placeName>Sulden</placeName>
+                  <location type="coords">
+                     <geo>46.52715 10.58905</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3166437/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q536016</idno>
+               </place>
+               <place xml:id="tillich_place_id__409">
+                  <placeName>St. Anton am Arlberg</placeName>
+                  <location type="coords">
+                     <geo>47.08257 10.22347</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7873670/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q659996</idno>
+               </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2259">
                   <persName>???, Adolf</persName>
                   <note type="bio"><p>Er wird als Onkel von Paul Tillich bezeichnet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__644">
+                  <persName>Fritz, Johanna</persName>
+                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -141,29 +165,5 @@
                   <persName>???, Else</persName>
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__423">
-                  <placeName>Sulden</placeName>
-                  <location type="coords">
-                     <geo>46.52715 10.58905</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3166437/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q536016</idno>
-               </place>
-               <place xml:id="tillich_place_id__409">
-                  <placeName>St. Anton am Arlberg</placeName>
-                  <location type="coords">
-                     <geo>47.08257 10.22347</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/7873670/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q659996</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>

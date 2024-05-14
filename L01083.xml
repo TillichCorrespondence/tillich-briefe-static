@@ -118,37 +118,26 @@
                   <idno type="gnd">https://d-nb.info/gnd/118514407</idno>
                   <note type="bio"><p>(hat Ulich Robert als Ehemann)</p></note>
                </person>
-               <person xml:id="tillich_person_id__1829">
-                  <persName>Spiegelberg, Friedrich</persName>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
                   <birth>
-                     <date>1897-05-24</date>
+                     <date>1896-05-17</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1994</date>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
                   </death>
-                  <occupation>Religionswissenschaftler</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
-                  <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2592">
-                  <persName>Rade, Paul Martin</persName>
-                  <birth>
-                     <date>1857-04-04</date>
-                     <settlement>
-                        <placeName>Herrnhut-Rennersdorf</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1940-04-09</date>
-                     <settlement>
-                        <placeName>Frankfurt am Main</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Evangelischer Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118597612</idno>
+               <person xml:id="tillich_person_id__1830">
+                  <persName>Spiegelberg, Rosalie</persName>
+                  <note type="bio"><p>Frau von Friedrich(Frederic) Spiegelberg</p></note>
                </person>
                <person xml:id="tillich_person_id__217">
                   <persName>Bienert, Ida</persName>
@@ -167,12 +156,22 @@
                   <occupation>Dresdner Kunstsammlerin und Mäzenatin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/133509060</idno>
                </person>
-               <person xml:id="tillich_person_id__1830">
-                  <persName>Spiegelberg, Rosalie</persName>
-                  <note type="bio"><p>Frau von Friedrich(Frederic) Spiegelberg</p></note>
-               </person>
-               <person xml:id="tillich_person_id__218">
-                  <persName>Bienert, Erwin</persName>
+               <person xml:id="tillich_person_id__2592">
+                  <persName>Rade, Paul Martin</persName>
+                  <birth>
+                     <date>1857-04-04</date>
+                     <settlement>
+                        <placeName>Herrnhut-Rennersdorf</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1940-04-09</date>
+                     <settlement>
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118597612</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -201,28 +200,29 @@
                   <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
                   <note type="bio"><p>(verheiratet mit Brändström, Elsa)</p></note>
                </person>
+               <person xml:id="tillich_person_id__1829">
+                  <persName>Spiegelberg, Friedrich</persName>
+                  <birth>
+                     <date>1897-05-24</date>
+                     <settlement>
+                        <placeName>Hamburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1994</date>
+                  </death>
+                  <occupation>Religionswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
+                  <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__218">
+                  <persName>Bienert, Erwin</persName>
+               </person>
                <person xml:id="tillich_person_id__1723">
                   <persName>Schmidt, Karl Ludwig</persName>
                   <occupation>evangelischer Theologe (Neues Testament)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
                   <note type="bio"><p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>

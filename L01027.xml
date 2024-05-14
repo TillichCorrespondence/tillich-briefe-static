@@ -126,13 +126,17 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__392">
-                  <placeName>Schleswig-Holstein</placeName>
+   <back><listBibl><bibl xml:id="tillich_work_id__226">Tillich, Paul, "Offenbarung: V. A. Religionspsychologisch", in RGG Bd. 4, 2. Auflage, 1930, Sp. 664-669</bibl>
+               <bibl xml:id="tillich_work_id__229">Tillich, Paul, "Philosophie: III. Philosophie und Religion grundsätzlich, in: RGG Bd. 4, 2. Auflage, 1930, Sp. 1227-1233</bibl>
+               <bibl xml:id="tillich_work_id__228">Tillich, Paul, "Philosophie: I. Begriff und Wesen", in: RGG Bd. 4, 2. Auflage, 1930, Sp. 1189-1204.</bibl>
+               <bibl xml:id="tillich_work_id__218">Gunkel, Hermann/Zscharnack, Leopold, Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. 2. Auflage. Tübingen, Mohr 1927.</bibl>
+               </listBibl><listPlace><place xml:id="tillich_place_id__230">
+                  <placeName>Kampen</placeName>
                   <location type="coords">
-                     <geo>54.20000 9.75000</geo>
+                     <geo>54.95411 8.34171</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2838632/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1194</idno>
+                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
                </place>
                <place xml:id="tillich_place_id__143">
                   <placeName>Frankfurt am Main</placeName>
@@ -142,19 +146,15 @@
                   <idno type="geonames">https://sws.geonames.org/2925533/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
-               <place xml:id="tillich_place_id__230">
-                  <placeName>Kampen</placeName>
+               <place xml:id="tillich_place_id__392">
+                  <placeName>Schleswig-Holstein</placeName>
                   <location type="coords">
-                     <geo>54.95411 8.34171</geo>
+                     <geo>54.20000 9.75000</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2893295/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32063863</idno>
+                  <idno type="geonames">https://sws.geonames.org/2838632/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1194</idno>
                </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__229">Tillich, Paul, "Philosophie: III. Philosophie und Religion grundsätzlich, in: RGG Bd. 4, 2. Auflage, 1930, Sp. 1227-1233</bibl>
-               <bibl xml:id="tillich_work_id__228">Tillich, Paul, "Philosophie: I. Begriff und Wesen", in: RGG Bd. 4, 2. Auflage, 1930, Sp. 1189-1204.</bibl>
-               <bibl xml:id="tillich_work_id__226">Tillich, Paul, "Offenbarung: V. A. Religionspsychologisch", in RGG Bd. 4, 2. Auflage, 1930, Sp. 664-669</bibl>
-               <bibl xml:id="tillich_work_id__218">Gunkel, Hermann/Zscharnack, Leopold, Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. 2. Auflage. Tübingen, Mohr 1927.</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__1928">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>

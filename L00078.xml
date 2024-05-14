@@ -124,39 +124,12 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__424">
-                  <placeName>Swinemünde</placeName>
-                  <location type="coords">
-                     <geo>53.91053 14.24712</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083955/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q41599</idno>
-               </place>
-               <place xml:id="tillich_place_id__545">
-                  <placeName>Ravenstein i. P.</placeName>
-                  <location type="coords">
-                     <geo>53.27466 15.46257</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3082637/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q7968275</idno>
-               </place>
-               <place xml:id="tillich_place_id__260">
-                  <placeName>Leipzig</placeName>
-                  <location type="coords">
-                     <geo>51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2728">
+<back><listBibl><bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
+               <bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__1017">
+                  <persName>Kandeler, Marlen</persName>
+               </person>
+               <person xml:id="tillich_person_id__2728">
                   <persName>Kandeler, Friedrich</persName>
                   <occupation>Bildhauer; Zeichenlehrer;</occupation>
                </person>
@@ -181,14 +154,41 @@
                <person xml:id="tillich_person_id__2729">
                   <persName>Kandeler, Martha</persName>
                </person>
-               <person xml:id="tillich_person_id__1017">
-                  <persName>Kandeler, Marlen</persName>
-               </person>
                <person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
-               </listPerson><listBibl><bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
-               <bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
-               </listBibl></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__545">
+                  <placeName>Ravenstein i. P.</placeName>
+                  <location type="coords">
+                     <geo>53.27466 15.46257</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3082637/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7968275</idno>
+               </place>
+               <place xml:id="tillich_place_id__260">
+                  <placeName>Leipzig</placeName>
+                  <location type="coords">
+                     <geo>51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2879139/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
+               </place>
+               <place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__424">
+                  <placeName>Swinemünde</placeName>
+                  <location type="coords">
+                     <geo>53.91053 14.24712</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083955/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q41599</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

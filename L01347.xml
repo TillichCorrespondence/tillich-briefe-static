@@ -115,9 +115,6 @@
 <back><listPerson><person xml:id="tillich_person_id__474">
                   <persName>Diotima</persName>
                </person>
-               <person xml:id="tillich_person_id__1510">
-                  <persName>Platon</persName>
-               </person>
                <person xml:id="tillich_person_id__2041">
                   <persName>Werner, Marie Luise</persName>
                   <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
@@ -129,6 +126,9 @@
                </person>
                <person xml:id="tillich_person_id__1810">
                   <persName>Sokrates</persName>
+               </person>
+               <person xml:id="tillich_person_id__1510">
+                  <persName>Platon</persName>
                </person>
                </listPerson></back></text>
 </TEI>

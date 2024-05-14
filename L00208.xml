@@ -115,12 +115,12 @@
                </figure></p>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2147">
-                  <persName>Vethake, Hans</persName>
-               </person>
-               <person xml:id="tillich_person_id__2155">
+   <back><listPerson><person xml:id="tillich_person_id__2155">
                   <persName>Voget, Hans</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2147">
+                  <persName>Vethake, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>

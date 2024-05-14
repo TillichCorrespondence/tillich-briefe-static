@@ -91,12 +91,13 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__336">
-                  <placeName>Ostpreußen</placeName>
+<back><listPlace><place xml:id="tillich_place_id__323">
+                  <placeName>Nordfrankreich</placeName>
                   <location type="coords">
-                     <geo>54.00000 21.00000</geo>
+                     <geo>49.61232 2.65594</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/772636/</idno>
+                  <idno type="geonames">https://sws.geonames.org/11071624/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q18677767</idno>
                </place>
                <place xml:id="tillich_place_id__61">
                   <placeName>Bieuxy</placeName>
@@ -114,13 +115,12 @@
                   <idno type="geonames">https://sws.geonames.org/6551134/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q12062</idno>
                </place>
-               <place xml:id="tillich_place_id__323">
-                  <placeName>Nordfrankreich</placeName>
+               <place xml:id="tillich_place_id__336">
+                  <placeName>Ostpreußen</placeName>
                   <location type="coords">
-                     <geo>49.61232 2.65594</geo>
+                     <geo>54.00000 21.00000</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/11071624/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q18677767</idno>
+                  <idno type="geonames">https://sws.geonames.org/772636/</idno>
                </place>
                </listPlace><listPerson><person xml:id="tillich_person_id__2308">
                   <persName>Kinzel, Eberhard</persName>
@@ -140,9 +140,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/1072046415</idno>
                   <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               <person xml:id="tillich_person_id__1930">
+                  <persName>Tillich, Marie</persName>
+                  <occupation>Großmutter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__109">
+                  <persName>Backhaus, Alwin</persName>
+                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -159,6 +163,15 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
+               <person xml:id="tillich_person_id__1742">
+                  <persName>Schröder</persName>
+                  <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2320">
+                  <persName>Winkowsky, ??? von</persName>
+                  <occupation>General;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
+               </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
@@ -171,18 +184,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1930">
-                  <persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1742">
-                  <persName>Schröder</persName>
-                  <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2320">
-                  <persName>Winkowsky, ??? von</persName>
-                  <occupation>General;</occupation>
-                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
@@ -195,10 +199,6 @@
                   <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio"><p>Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben, wo Paul 1886 zur Welt kam. 1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark), 1900 wurde er nach Berlin berufen, wo er Geheimer Konsistorialrat wurde. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die Mutter Pauls, die jedoch 1903 starb.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__109">
-                  <persName>Backhaus, Alwin</persName>
-                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
                </person>
                </listPerson></back></text>
 </TEI>

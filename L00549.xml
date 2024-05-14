@@ -124,49 +124,12 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__41">
-                  <placeName>Berlin-Lichtenrade</placeName>
-                  <location type="coords">
-                     <geo>52.39844 13.40637</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2020">
-                  <persName>Wegener, Carl Richard</persName>
-                  <birth>
-                     <date>1883-08-03</date>
-                     <settlement>
-                        <placeName>Rostock</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1967-07-11</date>
-                     <settlement>
-                        <placeName>Neuruppin</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
+   <back><listPerson><person xml:id="tillich_person_id__1394">
+                  <persName>Nietzsche, Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
                   <occupation>Mutter von Maria Klein (Rhine)</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1594">
-                  <persName>Rhine, Maria</persName>
-                  <birth>
-                     <date>1895-12-01</date>
-                  </birth>
-                  <death>
-                     <date>1975-09-23</date>
-                  </death>
-                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
-               </person>
-               <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -183,12 +146,49 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
+               <person xml:id="tillich_person_id__2020">
+                  <persName>Wegener, Carl Richard</persName>
+                  <birth>
+                     <date>1883-08-03</date>
+                     <settlement>
+                        <placeName>Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1967-07-11</date>
+                     <settlement>
+                        <placeName>Neuruppin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
+               </person>
+               <person xml:id="tillich_person_id__1594">
+                  <persName>Rhine, Maria</persName>
+                  <birth>
+                     <date>1895-12-01</date>
+                  </birth>
+                  <death>
+                     <date>1975-09-23</date>
+                  </death>
+                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
+               </person>
+               <person xml:id="tillich_person_id__1931">
+                  <persName>Tillich, Margarete</persName>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+               </person>
                <person xml:id="tillich_person_id__1062">
                   <persName>Klein, Lisa</persName>
                   <occupation>Schwester von Maria Klein (Rhine)</occupation>
                </person>
-               <person xml:id="tillich_person_id__1394">
-                  <persName>Nietzsche, Friedrich</persName>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__41">
+                  <placeName>Berlin-Lichtenrade</placeName>
+                  <location type="coords">
+                     <geo>52.39844 13.40637</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2878044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q821101</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

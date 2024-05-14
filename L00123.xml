@@ -178,12 +178,13 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__208">
-                  <placeName>Hersfeld</placeName>
+<back><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
                   <location type="coords">
-                     <geo>50.87197 9.70891</geo>
+                     <geo>51.48158 11.97947</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
                <place xml:id="tillich_place_id__614">
                   <placeName>Godesberg</placeName>
@@ -193,6 +194,14 @@
                   <idno type="geonames">https://sws.geonames.org/2953455/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q153260</idno>
                </place>
+               <place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
                <place xml:id="tillich_place_id__68">
                   <placeName>Bonn</placeName>
                   <location type="coords">
@@ -200,6 +209,13 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2946447/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31917795</idno>
+               </place>
+               <place xml:id="tillich_place_id__208">
+                  <placeName>Hersfeld</placeName>
+                  <location type="coords">
+                     <geo>50.87197 9.70891</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953439/</idno>
                </place>
                <place xml:id="tillich_place_id__136">
                   <placeName>Erlangen</placeName>
@@ -209,80 +225,7 @@
                   <idno type="geonames">https://sws.geonames.org/2929567/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q117751880</idno>
                </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2293">
-                  <persName>Zänker, Otto</persName>
-                  <birth>
-                     <date>1876-06-29</date>
-                  </birth>
-                  <death>
-                     <date>1960-01-31</date>
-                     <settlement>
-                        <placeName>Bielefeld</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/116948434</idno>
-               </person>
-               <person xml:id="tillich_person_id__2291">
-                  <persName>Firmilian von Caesarea, ???</persName>
-                  <death>
-                     <date>0268</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/102393559</idno>
-               </person>
-               <person xml:id="tillich_person_id__2292">
-                  <persName>Malchion, ???</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/100175171</idno>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1697">
-                  <persName>Schafft, Johanna</persName>
-               </person>
-               <person xml:id="tillich_person_id__2849">
-                  <persName>Eike, D.</persName>
-               </person>
-               <person xml:id="tillich_person_id__1696">
-                  <persName>Schafft, Hermann</persName>
-                  <birth>
-                     <date>1883</date>
-                  </birth>
-                  <death>
-                     <date>1959</date>
-                  </death>
-                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
-                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1712">
+               </listPlace><listPerson><person xml:id="tillich_person_id__1712">
                   <persName>Schlatter, Adolf</persName>
                   <birth>
                      <date>1852-08-16</date>
@@ -302,12 +245,12 @@
                <person xml:id="tillich_person_id__408">
                   <persName>Cremer, Hermann</persName>
                </person>
-               <person xml:id="tillich_person_id__1761">
-                  <persName>Seeberg, Reinhold</persName>
-                  <occupation>Systematischer Theologe</occupation>
-               </person>
-               <person xml:id="tillich_person_id__899">
-                  <persName>Hilarius von Poitiers</persName>
+               <person xml:id="tillich_person_id__2291">
+                  <persName>Firmilian von Caesarea, ???</persName>
+                  <death>
+                     <date>0268</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/102393559</idno>
                </person>
                <person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
@@ -320,9 +263,66 @@
                   <occupation>Systematischer Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
                </person>
+               <person xml:id="tillich_person_id__2292">
+                  <persName>Malchion, ???</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/100175171</idno>
+               </person>
+               <person xml:id="tillich_person_id__1761">
+                  <persName>Seeberg, Reinhold</persName>
+                  <occupation>Systematischer Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1959</date>
+                  </death>
+                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
+                  <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2293">
+                  <persName>Zänker, Otto</persName>
+                  <birth>
+                     <date>1876-06-29</date>
+                  </birth>
+                  <death>
+                     <date>1960-01-31</date>
+                     <settlement>
+                        <placeName>Bielefeld</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/116948434</idno>
+               </person>
+               <person xml:id="tillich_person_id__1697">
+                  <persName>Schafft, Johanna</persName>
+               </person>
+               <person xml:id="tillich_person_id__2849">
+                  <persName>Eike, D.</persName>
+               </person>
+               <person xml:id="tillich_person_id__899">
+                  <persName>Hilarius von Poitiers</persName>
+               </person>
                <person xml:id="tillich_person_id__1743">
                   <persName>Schubert, Daniel</persName>
                   <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__210">Dickens, Charles, Sämmtliche Werke: Aus dem Englischen. Unser gemeinsamer Freund ; 1. Deutschland: Hoffmann, 1870.</bibl>
                </listBibl></back></text>

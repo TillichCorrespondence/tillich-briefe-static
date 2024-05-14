@@ -166,13 +166,13 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__75">
-                  <placeName>Bremervörde</placeName>
+<back><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
                   <location type="coords">
-                     <geo>53.48458 9.14306</geo>
+                     <geo>51.48158 11.97947</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
                </place>
                <place xml:id="tillich_place_id__37">
                   <placeName>Berlin</placeName>
@@ -182,6 +182,14 @@
                   <idno type="geonames">https://sws.geonames.org/2950159/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
                </place>
+               <place xml:id="tillich_place_id__75">
+                  <placeName>Bremervörde</placeName>
+                  <location type="coords">
+                     <geo>53.48458 9.14306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944354/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
+               </place>
                <place xml:id="tillich_place_id__448">
                   <placeName>Tübingen</placeName>
                   <location type="coords">
@@ -190,18 +198,14 @@
                   <idno type="geonames">https://sws.geonames.org/2820860/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
                </place>
-               <place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               </listPlace><listBibl><bibl xml:id="tillich_work_id__161">Schlatter, Adolf, Der Glaube im Neuen Testament. Eine Untersuchung zur neutestamentlichen Theologie. Leiden 1885</bibl>
-               <bibl xml:id="tillich_work_id__207">Hausrath, Adolf, Luthers Leben. Berlin: G. Grote'sche Verlagsbuchhandlung, 1904.</bibl>
+               </listPlace><listBibl><bibl xml:id="tillich_work_id__207">Hausrath, Adolf, Luthers Leben. Berlin: G. Grote'sche Verlagsbuchhandlung, 1904.</bibl>
                <bibl xml:id="tillich_work_id__29">Windelband, Wilhelm, Einleitung in die Philosophie, Tübingen 1914</bibl>
-               </listBibl><listPerson><person xml:id="tillich_person_id__589">
+               <bibl xml:id="tillich_work_id__161">Schlatter, Adolf, Der Glaube im Neuen Testament. Eine Untersuchung zur neutestamentlichen Theologie. Leiden 1885</bibl>
+               </listBibl><listPerson><person xml:id="tillich_person_id__2155">
+                  <persName>Voget, Hans</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__589">
                   <persName>Fichte, Johann Gottlieb</persName>
                   <birth>
                      <date>1762-05-19</date>
@@ -216,89 +220,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
-               </person>
-               <person xml:id="tillich_person_id__2806">
-                  <persName>Hanffstengel, Theodor von</persName>
-                  <birth>
-                     <date>1844-04-08</date>
-                     <settlement>
-                        <placeName>Bremen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1922-01-05</date>
-                     <settlement>
-                        <placeName>Braunschweig</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
-                  <note type="bio"><p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2082">
-                  <persName>Windelband, Wilhelm</persName>
-                  <birth>
-                     <date>1848-05-11</date>
-                     <settlement>
-                        <placeName>Potsdam</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1915-10-24</date>
-                     <settlement>
-                        <placeName>Heidelberg</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
-               </person>
-               <person xml:id="tillich_person_id__2182">
-                  <persName>Hanffstengel, Otto von</persName>
-                  <note type="bio"><p>Bruder von G. v. Hanffstengel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__788">
-                  <persName>Hanffstengel, Gottfried von</persName>
-                  <occupation>Theologe, Jugendfreund</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2289">
-                  <persName>Mackensen, Fritz</persName>
-                  <birth>
-                     <date>1866-04-08</date>
-                     <settlement>
-                        <placeName>Einbeck-Greene</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1953-05-12</date>
-                     <settlement>
-                        <placeName>Bremen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Maler;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118575910</idno>
-               </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2155">
-                  <persName>Voget, Hans</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1291">
-                  <persName>Medicus, Fritz</persName>
-                  <occupation>Philosoph</occupation>
-                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
                </person>
                <person xml:id="tillich_person_id__1712">
                   <persName>Schlatter, Adolf</persName>
@@ -333,9 +254,22 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119059517</idno>
                </person>
+               <person xml:id="tillich_person_id__2182">
+                  <persName>Hanffstengel, Otto von</persName>
+                  <note type="bio"><p>Bruder von G. v. Hanffstengel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__788">
+                  <persName>Hanffstengel, Gottfried von</persName>
+                  <occupation>Theologe, Jugendfreund</occupation>
+               </person>
                <person xml:id="tillich_person_id__2171">
                   <persName>Hanffstengel, Karl von</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1291">
+                  <persName>Medicus, Fritz</persName>
+                  <occupation>Philosoph</occupation>
+                  <note type="bio"><p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p></note>
                </person>
                <person xml:id="tillich_person_id__2181">
                   <persName>Hanffstengel , Georg von</persName>
@@ -347,6 +281,72 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/14373685X</idno>
                   <note type="bio"><p>Bruder von G. v. Hanffstengel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2082">
+                  <persName>Windelband, Wilhelm</persName>
+                  <birth>
+                     <date>1848-05-11</date>
+                     <settlement>
+                        <placeName>Potsdam</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1915-10-24</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
+               </person>
+               <person xml:id="tillich_person_id__2289">
+                  <persName>Mackensen, Fritz</persName>
+                  <birth>
+                     <date>1866-04-08</date>
+                     <settlement>
+                        <placeName>Einbeck-Greene</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1953-05-12</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Maler;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118575910</idno>
+               </person>
+               <person xml:id="tillich_person_id__2806">
+                  <persName>Hanffstengel, Theodor von</persName>
+                  <birth>
+                     <date>1844-04-08</date>
+                     <settlement>
+                        <placeName>Bremen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1922-01-05</date>
+                     <settlement>
+                        <placeName>Braunschweig</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
+                  <note type="bio"><p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

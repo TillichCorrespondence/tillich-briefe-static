@@ -121,14 +121,52 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1390">
+<back><listPlace><place xml:id="tillich_place_id__408">
+                  <placeName>Spiekeroog</placeName>
+                  <location type="coords">
+                     <geo>53.77012 7.69481</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2830534/</idno>
+               </place>
+               <place xml:id="tillich_place_id__164">
+                  <placeName>Freiburg</placeName>
+                  <location type="coords">
+                     <geo>47.99590 7.85222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925177/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
+               </place>
+               <place xml:id="tillich_place_id__319">
+                  <placeName>New York</placeName>
+                  <location type="coords">
+                     <geo>40.71427 -74.00597</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5128581/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q60</idno>
+               </place>
+               <place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place>
+               <place xml:id="tillich_place_id__244">
+                  <placeName>Köln</placeName>
+                  <location type="coords">
+                     <geo>50.93333 6.95000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__2523">
+                  <persName>Odysseus, ???</persName>
+                  <occupation>Figur aus der griechischen Mythologie;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118589385</idno>
+               </person>
+               <person xml:id="tillich_person_id__1390">
                   <persName>Niebuhr, Reinhold</persName>
                   <occupation>US-amerikanischer Theologe</occupation>
                   <note type="bio"><p>Im Anschluss an sein Studium am Elmhurst College, dem Eden Theological Seminary und schließlich in Yale, wurde N. 1915 ordiniert und wirkte zunächst in einer Pfarrgemeinde in Detroit. Seit 1928 lehrte er am Union Theological Seminary in New York, wo er 1930 eine ordentliche Professur erhielt, die er bis zu seiner Emeritierung 1960 innehatte. 1931 heiratete er Ursula  Niebuhr. Er setzte sich maßgeblich für Tillich in den USA ein und wurde in der Folgezeit einer seiner wichtigsten Gesprächspartner. Neben seiner akademischen Tätigkeit äußerte sich N. stets öffentlich zu politischen Themen, wodurch er als einer der einflussreichsten US-amerikanischen Theologen des 20. Jahrhunderts gilt.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__638">
-                  <persName>Friess, Horace</persName>
-                  <occupation>Philosoph, Columbia University New York</occupation>
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
@@ -145,47 +183,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2523">
-                  <persName>Odysseus, ???</persName>
-                  <occupation>Figur aus der griechischen Mythologie;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118589385</idno>
+               <person xml:id="tillich_person_id__638">
+                  <persName>Friess, Horace</persName>
+                  <occupation>Philosoph, Columbia University New York</occupation>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__408">
-                  <placeName>Spiekeroog</placeName>
-                  <location type="coords">
-                     <geo>53.77012 7.69481</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2830534/</idno>
-               </place>
-               <place xml:id="tillich_place_id__343">
-                  <placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place>
-               <place xml:id="tillich_place_id__164">
-                  <placeName>Freiburg</placeName>
-                  <location type="coords">
-                     <geo>47.99590 7.85222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925177/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2833</idno>
-               </place>
-               <place xml:id="tillich_place_id__244">
-                  <placeName>Köln</placeName>
-                  <location type="coords">
-                     <geo>50.93333 6.95000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2886242/</idno>
-               </place>
-               <place xml:id="tillich_place_id__319">
-                  <placeName>New York</placeName>
-                  <location type="coords">
-                     <geo>40.71427 -74.00597</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/5128581/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q60</idno>
-               </place>
-               </listPlace></back></text>
+               </listPerson></back></text>
 </TEI>
