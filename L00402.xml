@@ -91,30 +91,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__25">
-                  <placeName>Bailly</placeName>
-                  <location type="coords">
-                     <geo>48.84168 2.07673</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3035340/</idno>
-               </place>
-               <place xml:id="tillich_place_id__61">
-                  <placeName>Bieuxy</placeName>
-                  <location type="coords">
-                     <geo>49.44667 3.26139</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
-               </place>
-               <place xml:id="tillich_place_id__404">
-                  <placeName>Soissons</placeName>
-                  <location type="coords">
-                     <geo>49.38167 3.32361</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2974389/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q167152</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -133,6 +110,15 @@
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                </person>
+               <person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <occupation>Schwester</occupation>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2296">
+                  <persName>Neumeister, Eckhardt</persName>
+                  <occupation>Geheimrat; Medizinalrat;</occupation>
+               </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
@@ -145,14 +131,28 @@
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
-               <person xml:id="tillich_person_id__1762">
-                  <persName>Seeberger, Elisabeth</persName>
-                  <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2296">
-                  <persName>Neumeister, Eckhardt</persName>
-                  <occupation>Geheimrat; Medizinalrat;</occupation>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="tillich_place_id__61">
+                  <placeName>Bieuxy</placeName>
+                  <location type="coords">
+                     <geo>49.44667 3.26139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6446494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864733</idno>
+               </place>
+               <place xml:id="tillich_place_id__25">
+                  <placeName>Bailly</placeName>
+                  <location type="coords">
+                     <geo>48.84168 2.07673</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3035340/</idno>
+               </place>
+               <place xml:id="tillich_place_id__404">
+                  <placeName>Soissons</placeName>
+                  <location type="coords">
+                     <geo>49.38167 3.32361</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2974389/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q167152</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

@@ -87,13 +87,15 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1513">
-                  <persName>Plotin</persName>
+<back><listPerson><person xml:id="tillich_person_id__535">
+                  <persName>Epikur</persName>
                </person>
-               <person xml:id="tillich_person_id__2041">
-                  <persName>Werner, Marie Luise</persName>
-                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
-                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+               <person xml:id="tillich_person_id__2825">
+                  <persName>Mengelberg, Nora</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116881666</idno>
+               </person>
+               <person xml:id="tillich_person_id__1513">
+                  <persName>Plotin</persName>
                </person>
                <person xml:id="tillich_person_id__1887">
                   <persName>Sydow, Eckart von</persName>
@@ -107,12 +109,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                   <note type="bio"><p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever, einer Schwester von Margarete Wever, Tillichs erster Frau. Später, um 1931, hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise  Werner und war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus.</p></note>
                </person>
-               <person xml:id="tillich_person_id__535">
-                  <persName>Epikur</persName>
-               </person>
-               <person xml:id="tillich_person_id__2825">
-                  <persName>Mengelberg, Nora</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/116881666</idno>
+               <person xml:id="tillich_person_id__2041">
+                  <persName>Werner, Marie Luise</persName>
+                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__260">
                   <placeName>Leipzig</placeName>

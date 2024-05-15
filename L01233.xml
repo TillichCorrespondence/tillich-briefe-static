@@ -106,51 +106,7 @@
          </div>
 
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2869">
-                  <persName>Schmujlow-Claassen, Ria</persName>
-                  <birth>
-                     <date>1868-10-12</date>
-                  </birth>
-                  <death>
-                     <date>1952-08-11</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118609424</idno>
-               </person>
-               <person xml:id="tillich_person_id__2868">
-                  <persName>Claassen, Hildegard</persName>
-                  <birth>
-                     <date>1897-04-21</date>
-                     <settlement>
-                        <placeName>Linnich</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-02-16</date>
-                     <settlement>
-                        <placeName>Hamburg</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Kunsthistorikerin; Verlegerin;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116524774</idno>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+   <back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -181,6 +137,50 @@
                   </death>
                   <occupation>Verleger;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11852089X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2868">
+                  <persName>Claassen, Hildegard</persName>
+                  <birth>
+                     <date>1897-04-21</date>
+                     <settlement>
+                        <placeName>Linnich</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-02-16</date>
+                     <settlement>
+                        <placeName>Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistorikerin; Verlegerin;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116524774</idno>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2869">
+                  <persName>Schmujlow-Claassen, Ria</persName>
+                  <birth>
+                     <date>1868-10-12</date>
+                  </birth>
+                  <death>
+                     <date>1952-08-11</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118609424</idno>
                </person>
                </listPerson></back></text>
 </TEI>

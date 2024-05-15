@@ -244,37 +244,20 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="tillich_place_id__403">
-                  <placeName>Soest</placeName>
-                  <location type="coords">
-                     <geo>51.57558 8.10619</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2831708/</idno>
-               </place>
-               <place xml:id="tillich_place_id__37">
-                  <placeName>Berlin</placeName>
-                  <location type="coords">
-                     <geo>52.52437 13.41053</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__2274">
-                  <persName>Büchsel-Giesebrecht, Dorothea Amalie Friederike</persName>
-                  <note type="bio"><p>Sie war die Mutter von Hermann Martin Friedrich Büchsel.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__484">
-                  <persName>Dorner, Isaak August</persName>
-               </person>
-               <person xml:id="tillich_person_id__2280">
-                  <persName>Bindemann-Büchsel, Anna Dorothea</persName>
-                  <note type="bio"><p>Sie war eine Schwester von Hermann Martin Friedrich Büchsel und heiratete am 29.07.1909 Gerhard Ernst Johannes Bindemann.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2275">
-                  <persName>Büchsel, Johannes Friedrich Wilhelm</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117718580</idno>
-                  <note type="bio"><p>Er war der Vater von Hermann Martin Friedrich Büchsel.</p></note>
+   <back><listPerson><person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth>
+                     <date>1886-08-20</date>
+                  </birth>
+                  <death>
+                     <date>1965-10-22</date>
+                     <settlement>
+                        <placeName>Chicago, Ill.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__1712">
                   <persName>Schlatter, Adolf</persName>
@@ -293,21 +276,6 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
                </person>
-               <person xml:id="tillich_person_id__1928">
-                  <persName>Tillich, Paul</persName>
-                  <birth>
-                     <date>1886-08-20</date>
-                  </birth>
-                  <death>
-                     <date>1965-10-22</date>
-                     <settlement>
-                        <placeName>Chicago, Ill.</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
-                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
-               </person>
                <person xml:id="tillich_person_id__981">
                   <persName>Jesus</persName>
                </person>
@@ -322,6 +290,38 @@
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
                </person>
+               <person xml:id="tillich_person_id__2280">
+                  <persName>Bindemann-Büchsel, Anna Dorothea</persName>
+                  <note type="bio"><p>Sie war eine Schwester von Hermann Martin Friedrich Büchsel und heiratete am 29.07.1909 Gerhard Ernst Johannes Bindemann.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__484">
+                  <persName>Dorner, Isaak August</persName>
+               </person>
+               <person xml:id="tillich_person_id__2275">
+                  <persName>Büchsel, Johannes Friedrich Wilhelm</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117718580</idno>
+                  <note type="bio"><p>Er war der Vater von Hermann Martin Friedrich Büchsel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2274">
+                  <persName>Büchsel-Giesebrecht, Dorothea Amalie Friederike</persName>
+                  <note type="bio"><p>Sie war die Mutter von Hermann Martin Friedrich Büchsel.</p></note>
+               </person>
                </listPerson><listBibl><bibl xml:id="tillich_work_id__255">Schlatter, Adolf, Atheistische Methoden in der Theologie. Gütersloh: C. Bertelsmann, 1905.</bibl>
-               </listBibl></back></text>
+               </listBibl><listPlace><place xml:id="tillich_place_id__37">
+                  <placeName>Berlin</placeName>
+                  <location type="coords">
+                     <geo>52.52437 13.41053</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950159/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64</idno>
+               </place>
+               <place xml:id="tillich_place_id__403">
+                  <placeName>Soest</placeName>
+                  <location type="coords">
+                     <geo>51.57558 8.10619</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2831708/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

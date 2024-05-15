@@ -121,14 +121,14 @@
                   <persName>Winkler, Toni</persName>
                   <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2528">
+                  <persName>Schmidt, (Frau)</persName>
+                  <note type="bio"><p>Sie stand in Kontakt mit Paul Tillichs Mutter und war eventuell die Frau von Pastor Schmidt (P02246).</p></note>
+               </person>
                <person xml:id="tillich_person_id__570">
                   <persName>Farris, Erdmuthe</persName>
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
-               </person>
-               <person xml:id="tillich_person_id__2528">
-                  <persName>Schmidt, (Frau)</persName>
-                  <note type="bio"><p>Sie stand in Kontakt mit Paul Tillichs Mutter und war eventuell die Frau von Pastor Schmidt (P02246).</p></note>
                </person>
                </listPerson></back></text>
 </TEI>

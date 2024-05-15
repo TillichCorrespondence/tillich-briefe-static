@@ -122,7 +122,24 @@
 </closer>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__2647">
+                  <persName>Brandis, Cordt von</persName>
+                  <birth>
+                     <date>1888-10-04</date>
+                     <settlement>
+                        <placeName>Bad Münder- Eimbeckhausen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-06-11</date>
+                     <settlement>
+                        <placeName>Barendorf (Lüneburg)</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Offizier; Freikorpsführer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118673181</idno>
+               </person>
+               <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -149,23 +166,6 @@
                      <date>1977-09-25</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118816543</idno>
-               </person>
-               <person xml:id="tillich_person_id__2647">
-                  <persName>Brandis, Cordt von</persName>
-                  <birth>
-                     <date>1888-10-04</date>
-                     <settlement>
-                        <placeName>Bad Münder- Eimbeckhausen</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1972-06-11</date>
-                     <settlement>
-                        <placeName>Barendorf (Lüneburg)</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Offizier; Freikorpsführer;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118673181</idno>
                </person>
                </listPerson><listPlace><place xml:id="tillich_place_id__124">
                   <placeName>Douaumont</placeName>

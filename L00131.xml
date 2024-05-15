@@ -96,16 +96,16 @@
                   <occupation>Pfarrer;</occupation>
                   <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__318">
+               </listPerson><listPlace><place xml:id="tillich_place_id__67">
+                  <placeName>Bodensee</placeName>
+                  <idno type="geonames">https://sws.geonames.org/11919717/</idno>
+               </place>
+               <place xml:id="tillich_place_id__318">
                   <placeName>Neviges</placeName>
                   <location type="coords">
                      <geo>51.30929 7.09051</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2863758/</idno>
-               </place>
-               <place xml:id="tillich_place_id__67">
-                  <placeName>Bodensee</placeName>
-                  <idno type="geonames">https://sws.geonames.org/11919717/</idno>
                </place>
                <place xml:id="tillich_place_id__252">
                   <placeName>Landeck</placeName>

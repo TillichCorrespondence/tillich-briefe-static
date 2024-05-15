@@ -126,7 +126,11 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__2040">
+<back><listPerson><person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2040">
                   <persName>Werner, Jean Otto Nikolaus</persName>
                   <occupation>Vater von Hannah Tillich</occupation>
                   <note type="bio"><p>Jean W. arbeitete zunächst als Pfarrer (1859 ordiniert) in Wippersheim, später als Schulinspektor und Kreisschulrat. Seine Frau Louise wurde in New York geboren. Einer ihrer drei Söhne war August Adalbert Roland (*1893), der im Zweiten Weltkrieg Hauptmann bei der Luftwaffe wurde, später jedoch verhungerte.</p></note>
@@ -138,10 +142,6 @@
                <person xml:id="tillich_person_id__705">
                   <persName>Gottschow, Albert</persName>
                   <occupation>Hannah Tillichs (Werners) erster Mann</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
                <person xml:id="tillich_person_id__2838">
                   <persName>Gelau, Hanno</persName>

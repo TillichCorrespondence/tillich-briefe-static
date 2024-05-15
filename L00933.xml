@@ -106,28 +106,23 @@
 </postscript>
 </div>
 </body>
-<back><listPerson><person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__845">
-                  <persName>Heim, Karl</persName>
-                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPlace><place xml:id="tillich_place_id__448">
+                  <placeName>Tübingen</placeName>
+                  <location type="coords">
+                     <geo>48.52266 9.05222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
+               </place>
+               <place xml:id="tillich_place_id__143">
+                  <placeName>Frankfurt am Main</placeName>
+                  <location type="coords">
+                     <geo>50.11552 8.68417</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
+               </place>
+               </listPlace><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -158,21 +153,26 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
                </person>
-               </listPerson><listPlace><place xml:id="tillich_place_id__143">
-                  <placeName>Frankfurt am Main</placeName>
-                  <location type="coords">
-                     <geo>50.11552 8.68417</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2925533/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
-               </place>
-               <place xml:id="tillich_place_id__448">
-                  <placeName>Tübingen</placeName>
-                  <location type="coords">
-                     <geo>48.52266 9.05222</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2820860/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q32751737</idno>
-               </place>
-               </listPlace></back></text>
+               <person xml:id="tillich_person_id__845">
+                  <persName>Heim, Karl</persName>
+                  <occupation>Theologiestudent Tübingen, Syst. Theol.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               </listPerson></back></text>
 </TEI>

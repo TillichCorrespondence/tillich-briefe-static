@@ -135,8 +135,16 @@
                   <persName>Voget, Hans</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2154">
+                  <persName>Stosch, Martin</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
                <person xml:id="tillich_person_id__2226">
                   <persName>???, Anton von</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2168">
+                  <persName>Schuster, Daniel</persName>
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__1591">
@@ -146,14 +154,6 @@
                <person xml:id="tillich_person_id__788">
                   <persName>Hanffstengel, Gottfried von</persName>
                   <occupation>Theologe, Jugendfreund</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2154">
-                  <persName>Stosch, Martin</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2168">
-                  <persName>Schuster, Daniel</persName>
-                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>

@@ -124,32 +124,7 @@
 </closer>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__189">
-                  <placeName>Halle (Saale)</placeName>
-                  <location type="coords">
-                     <geo>51.48158 11.97947</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1982">
-                  <persName>Van der Smissen, Gilbert</persName>
-                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
-               </person>
-               <person xml:id="tillich_person_id__2138">
-                  <persName>Heller, Otto</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__128">
-                  <persName>Balke, Hans</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__853">
-                  <persName>Heinzelmann, Gerhard</persName>
-                  <occupation>Syst. Theologe und Wingolfsbruder Tillichs</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -175,5 +150,30 @@
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__128">
+                  <persName>Balke, Hans</persName>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__853">
+                  <persName>Heinzelmann, Gerhard</persName>
+                  <occupation>Syst. Theologe und Wingolfsbruder Tillichs</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2138">
+                  <persName>Heller, Otto</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__1982">
+                  <persName>Van der Smissen, Gilbert</persName>
+                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__189">
+                  <placeName>Halle (Saale)</placeName>
+                  <location type="coords">
+                     <geo>51.48158 11.97947</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2911522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445500</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

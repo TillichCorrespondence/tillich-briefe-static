@@ -122,109 +122,7 @@
 </postscript>
 </div>
 </body>
-<back><listPlace><place xml:id="tillich_place_id__130">
-                  <placeName>Düsseldorf</placeName>
-                  <location type="coords">
-                     <geo>51.22172 6.77616</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2934246/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1718</idno>
-               </place>
-               <place xml:id="tillich_place_id__343">
-                  <placeName>Paris</placeName>
-                  <location type="coords">
-                     <geo>48.85341 2.34880</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="tillich_person_id__1923">
-                  <persName>Tillich, Hannah</persName>
-                  <birth>
-                     <date>1896-05-17</date>
-                     <settlement>
-                        <placeName>Rotenburg a. d. Fulda</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1988-10-27</date>
-                     <settlement>
-                        <placeName>East Hampton, NY</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
-                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1343">
-                  <persName>Monet, Claude</persName>
-               </person>
-               <person xml:id="tillich_person_id__2513">
-                  <persName>???, Nora</persName>
-               </person>
-               <person xml:id="tillich_person_id__2437">
-                  <persName>Jessen, Malla</persName>
-                  <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2576">
-                  <persName>Maupassant, Guy de</persName>
-                  <birth>
-                     <date>1850-08-05</date>
-                     <settlement>
-                        <placeName>Dieppe</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1893-07-06</date>
-                     <settlement>
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118579207</idno>
-               </person>
-               <person xml:id="tillich_person_id__2574">
-                  <persName>Corot, Jean-Baptiste Camille</persName>
-                  <birth>
-                     <date>1796-07-16</date>
-                     <settlement>
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1875-02-22</date>
-                     <settlement>
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118522256</idno>
-               </person>
-               <person xml:id="tillich_person_id__2575">
-                  <persName>Cezanne, Paul</persName>
-                  <birth>
-                     <date>1839</date>
-                  </birth>
-                  <death>
-                     <date>1906</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118519964</idno>
-               </person>
-               <person xml:id="tillich_person_id__2436">
-                  <persName>Hamburger, Hans</persName>
-                  <birth>
-                     <date>1889-08-05</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1956-08-04</date>
-                     <settlement>
-                        <placeName>Köln</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Mathematiker;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116422521</idno>
-                  <note type="bio"><p>Er lebte Mitte der 1920er in Köln. Zu dieser Zeit war er mit Paul Tillich bekannt. Sie trafen sich auch 1926 in Paris.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__1928">
+<back><listPerson><person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
@@ -255,5 +153,107 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118506099</idno>
                </person>
-               </listPerson></back></text>
+               <person xml:id="tillich_person_id__2437">
+                  <persName>Jessen, Malla</persName>
+                  <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2575">
+                  <persName>Cezanne, Paul</persName>
+                  <birth>
+                     <date>1839</date>
+                  </birth>
+                  <death>
+                     <date>1906</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118519964</idno>
+               </person>
+               <person xml:id="tillich_person_id__2513">
+                  <persName>???, Nora</persName>
+               </person>
+               <person xml:id="tillich_person_id__1923">
+                  <persName>Tillich, Hannah</persName>
+                  <birth>
+                     <date>1896-05-17</date>
+                     <settlement>
+                        <placeName>Rotenburg a. d. Fulda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-10-27</date>
+                     <settlement>
+                        <placeName>East Hampton, NY</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/119096102</idno>
+                  <note type="bio"><p>Sie war eine geborene Werner und war vormals verheiratet mit Albert Gottschow.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2574">
+                  <persName>Corot, Jean-Baptiste Camille</persName>
+                  <birth>
+                     <date>1796-07-16</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1875-02-22</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118522256</idno>
+               </person>
+               <person xml:id="tillich_person_id__2436">
+                  <persName>Hamburger, Hans</persName>
+                  <birth>
+                     <date>1889-08-05</date>
+                     <settlement>
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1956-08-04</date>
+                     <settlement>
+                        <placeName>Köln</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Mathematiker;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116422521</idno>
+                  <note type="bio"><p>Er lebte Mitte der 1920er in Köln. Zu dieser Zeit war er mit Paul Tillich bekannt. Sie trafen sich auch 1926 in Paris.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2576">
+                  <persName>Maupassant, Guy de</persName>
+                  <birth>
+                     <date>1850-08-05</date>
+                     <settlement>
+                        <placeName>Dieppe</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1893-07-06</date>
+                     <settlement>
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118579207</idno>
+               </person>
+               <person xml:id="tillich_person_id__1343">
+                  <persName>Monet, Claude</persName>
+               </person>
+               </listPerson><listPlace><place xml:id="tillich_place_id__130">
+                  <placeName>Düsseldorf</placeName>
+                  <location type="coords">
+                     <geo>51.22172 6.77616</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2934246/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1718</idno>
+               </place>
+               <place xml:id="tillich_place_id__343">
+                  <placeName>Paris</placeName>
+                  <location type="coords">
+                     <geo>48.85341 2.34880</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2988507/</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

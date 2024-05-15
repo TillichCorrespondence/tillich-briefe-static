@@ -146,23 +146,7 @@
             </postscript>
          </div>
       </body>
-   <back><listPerson><person xml:id="tillich_person_id__2136">
-                  <persName>Kaumann, E.</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2176">
-                  <persName>Heine, ???</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2237">
-                  <persName>Dürselen, Gustav</persName>
-                  <note type="bio"><p>Er war ein Großvater von Paul Tillich.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2085">
-                  <persName>Winkler, Toni</persName>
-                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
-               </person>
-               <person xml:id="tillich_person_id__2178">
+   <back><listPerson><person xml:id="tillich_person_id__2178">
                   <persName>Van der Smissen, Wilm</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
@@ -183,6 +167,22 @@
                </person>
                <person xml:id="tillich_person_id__2177">
                   <persName>Sessow, ???</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2237">
+                  <persName>Dürselen, Gustav</persName>
+                  <note type="bio"><p>Er war ein Großvater von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2136">
+                  <persName>Kaumann, E.</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2176">
+                  <persName>Heine, ???</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                </listPerson></back></text>
