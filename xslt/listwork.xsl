@@ -50,7 +50,9 @@
                                             <xsl:if test="text()">
                                                 <tr>
                                                     <td>
-                                                        <xsl:value-of select="./text()"/>
+                                                        <a href="{concat($entiyID, '.html')}">
+                                                            <xsl:value-of select="./text()"/>
+                                                        </a>
                                                     </td>
                                                     <td>
                                                         <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
@@ -99,7 +101,16 @@
                                 <h2 class="text-center">Erwähungen</h2>
                                 <ul>
                                     <xsl:for-each select=".//tei:note[@type='mentions']">
-                                        <li><xsl:value-of select="./text()"/></li>
+                                        <li>
+                                            <xsl:value-of select="./text()"/>
+                                            <xsl:text></xsl:text>
+                                            <a>
+                                                <xsl:attribute name="href">
+                                                    <xsl:value-of select="replace(@target, '.xml', '.html')"/>
+                                                </xsl:attribute>
+                                                <i class="fas fa-external-link-alt"/>
+                                            </a>
+                                        </li>
                                     </xsl:for-each>
                                 </ul>
                                 
