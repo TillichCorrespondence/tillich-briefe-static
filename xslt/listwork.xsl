@@ -108,7 +108,7 @@
                                                 <xsl:attribute name="href">
                                                     <xsl:value-of select="replace(@target, '.xml', '.html')"/>
                                                 </xsl:attribute>
-                                                <i class="fas fa-external-link-alt"/>
+                                                <xsl:text> </xsl:text><i class="fas fa-external-link-alt"/>
                                             </a>
                                         </li>
                                     </xsl:for-each>
