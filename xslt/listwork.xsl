@@ -40,14 +40,23 @@
                                     <thead>
                                         <tr>
                                             <th scope="col">Titel</th>
+                                            <th scope="col">Erwähnungen</th>
+                                            <th scope="col">ID</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <xsl:for-each select="descendant::tei:listBibl/tei:bibl[@xml:id]">
+                                            <xsl:variable name="entiyID" select="replace(@xml:id, '#', '')"/>
                                             <xsl:if test="text()">
                                                 <tr>
                                                     <td>
-                                                        <xsl:value-of select="."/>
+                                                        <xsl:value-of select="./text()"/>
+                                                    </td>
+                                                    <td>
+                                                        <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
+                                                    </td>
+                                                    <td>
+                                                        <xsl:value-of select="$entiyID"/>
                                                     </td>
                                                 </tr>
                                             </xsl:if>
@@ -68,5 +77,39 @@
                 </div>
             </body>
         </html>
+        
+        <xsl:for-each select=".//tei:bibl[@xml:id]">
+            <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
+            <xsl:variable name="name" select="./text()"></xsl:variable>
+            <xsl:result-document href="{$filename}">
+                <html class="h-100">
+                    <head>
+                        <xsl:call-template name="html_head">
+                            <xsl:with-param name="html_title" select="$name"></xsl:with-param>
+                        </xsl:call-template>
+                    </head>
+                    
+                    <body class="d-flex flex-column h-100">
+                        <xsl:call-template name="nav_bar"/>
+                        <main>
+                            <div class="container-fluid">
+                                <h1 class="text-center">
+                                    <xsl:value-of select="$name"/>
+                                </h1>
+                                <h2 class="text-center">Erwähungen</h2>
+                                <ul>
+                                    <xsl:for-each select=".//tei:note[@type='mentions']">
+                                        <li><xsl:value-of select="./text()"/></li>
+                                    </xsl:for-each>
+                                </ul>
+                                
+                            </div>
+                        </main>
+                        <xsl:call-template name="html_footer"/>
+                    </body>
+                </html>
+            </xsl:result-document>
+            
+        </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
