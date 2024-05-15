@@ -1,12 +1,24 @@
 name: Build and publish
 
 on:
-  schedule:
-  - cron: "44 1 * * *"
   workflow_dispatch:
+  schedule:
+  - cron: "49 4 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build_pages:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     name: Publish Edition as GitHub Pages Website
     runs-on: ubuntu-latest
     env:
@@ -31,8 +43,13 @@ jobs:
       run: ./process.sh
     - name: Build
       run: ant
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v4
+    - name: Setup Pages
+      uses: actions/configure-pages@v5
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
       with:
-        github_token: ${{secrets.GITHUB_TOKEN}}
-        publish_dir: ./html
+        # Upload entire repository
+        path: './html'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
