@@ -3,9 +3,13 @@ import os
 
 from typesense.api_call import ObjectNotFound
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
-from acdh_cfts_pyutils import CFTS_COLLECTION
 from acdh_tei_pyutils.tei import TeiReader
-from acdh_tei_pyutils.utils import extract_fulltext, get_xmlid, make_entity_label, check_for_hash
+from acdh_tei_pyutils.utils import (
+    extract_fulltext,
+    get_xmlid,
+    make_entity_label,
+    check_for_hash,
+)
 from tqdm import tqdm
 
 
@@ -61,9 +65,9 @@ for x in tqdm(files, total=len(files)):
         continue
     record["id"] = os.path.split(x)[-1].replace(".xml", "")
     cfts_record["id"] = record["id"]
-    cfts_record["resolver"] = (
-        f"https://tillich-briefe.acdh.oeaw.ac.at/{record['id']}.html"
-    )
+    cfts_record[
+        "resolver"
+    ] = f"https://tillich-briefe.acdh.oeaw.ac.at/{record['id']}.html"
     record["rec_id"] = os.path.split(x)[-1].replace(".xml", "")
     cfts_record["rec_id"] = record["rec_id"]
     record["title"] = extract_fulltext(
@@ -84,40 +88,31 @@ for x in tqdm(files, total=len(files)):
         sender_label = doc.any_xpath(
             './/tei:correspAction[@type="sent"]/tei:persName/text()'
         )[0]
-        sender_id = check_for_hash(doc.any_xpath(
-            './/tei:correspAction[@type="sent"]/tei:persName/@ref'
-        )[0])
+        sender_id = check_for_hash(
+            doc.any_xpath('.//tei:correspAction[@type="sent"]/tei:persName/@ref')[0]
+        )
     except Exception as e:
         print(f"sender issues in {x}, due to: {e}")
         sender_label = "Kein Absender"
         sender_id = None
-    record["sender"].append({
-        "label": sender_label,
-        "id": sender_id
-    })
+    record["sender"].append({"label": sender_label, "id": sender_id})
     record["receiver"] = []
     try:
         receiver_label = doc.any_xpath(
             './/tei:correspAction[@type="received"]/tei:persName/text()'
         )[0]
-        receiver_id = check_for_hash(doc.any_xpath(
-            './/tei:correspAction[@type="received"]/tei:persName/@ref'
-        )[0])
+        receiver_id = check_for_hash(
+            doc.any_xpath('.//tei:correspAction[@type="received"]/tei:persName/@ref')[0]
+        )
     except Exception as e:
         print(f"receiver issues in {x}, due to: {e}")
         receiver_label = "Kein Absender"
         receiver_id = None
-    record["receiver"].append({
-        "label": receiver_label,
-        "id": receiver_id
-    })
+    record["receiver"].append({"label": receiver_label, "id": receiver_id})
 
     record["persons"] = []
     for y in doc.any_xpath(".//tei:back//tei:person"):
-        item = {
-            "id": get_xmlid(y),
-            "label": make_entity_label(y.xpath("./*[1]")[0])[0]
-        }
+        item = {"id": get_xmlid(y), "label": make_entity_label(y.xpath("./*[1]")[0])[0]}
         record["persons"].append(item)
 
     record["works"] = []
