@@ -21,10 +21,26 @@
                                 <li class="nav-item dropdown-submenu">
                                     <a class="nav-link" href="editionsrichtlinien.html">Editionsrichtlinien</a>
                                 </li>
+                                <li><hr class="dropdown-divider" /></li>
+                                <li class="nav-item dropdown-submenu">
+                                    <a class="nav-link" href="https://github.com/TillichCorrespondence/tillich-briefe-static">Quellcode der Website</a>
+                                </li>
+                                <li class="nav-item dropdown-submenu">
+                                    <a class="nav-link" href="https://github.com/TillichCorrespondence/tillich-briefe-data">Daten-Repo</a>
+                                </li>
                             </ul>
                         </li>                        
-                        <li class="nav-item">
-                            <a class="nav-link" href="toc.html">Briefe</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Briefe</a>
+                            <ul class="dropdown-menu">
+                                <li class="nav-item dorpdown-submenu">
+                                    <a class="nav-link" href="toc.html">Alle Briefe</a>
+                                </li>
+                                <li class="nav-item dorpdown-submenu">
+                                    <a class="nav-link" href="corresp_toc.html">Alle Korrespondenzen</a>
+                                </li>
+                            </ul>
+                            
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Index</a>
