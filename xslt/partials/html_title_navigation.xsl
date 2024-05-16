@@ -89,7 +89,7 @@
                     <xsl:text>dropdown-item</xsl:text>
                 </xsl:attribute>
                 <xsl:attribute name="href">
-                    <xsl:value-of select="concat($eintrag/@target, '.html')"/>
+                    <xsl:value-of select="replace($eintrag/@target, '.xml', '.html')"/>
                 </xsl:attribute>
                 <xsl:choose>
                     <xsl:when test="contains($eintrag/@subtype, 'next')">

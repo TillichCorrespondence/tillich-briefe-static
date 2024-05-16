@@ -10,7 +10,7 @@ denormalize-indices -f "./data/editions/*.xml" -i "./data/indices/*.xml"
 python3 remove_notegrp_from_back.py
 
 echo "add Corresp Context"
-python3 pythonscripts/add_corresp_context.py
+python3 add_correspContext.py
 
 echo "build ft-index"
 python3 make_ts_index.py

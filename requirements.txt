@@ -1,5 +1,5 @@
 acdh-cidoc-pyutils
 acdh-cfts-pyutils
 acdh-tei-pyutils
-lxml
 typesense
+pandas
