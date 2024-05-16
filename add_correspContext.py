@@ -7,6 +7,21 @@ from tqdm import tqdm
 files = sorted(glob.glob("./data/editions/*.xml"))
 main_person_id = "#tillich_person_id__1928"
 
+
+def get_date(doc):
+    try:
+        date = doc.any_xpath(".//tei:correspDesc//tei:date[@notBefore]/@notBefore")[0]
+    except IndexError:
+        try:
+            date = doc.any_xpath(".//tei:correspDesc//tei:date[@when]/@when")[0]
+        except IndexError:
+            try:
+                date = doc.any_xpath(".//tei:correspDesc//tei:date[@from]/@from")[0]
+            except IndexError:
+                date = "Ohne Datum"
+    return date
+
+
 broken = []
 items = []
 print(f"fetching data from {len(files)} files")
@@ -34,11 +49,12 @@ for x in tqdm(files, total=len(files)):
     )
     item = {
         "id": x,
-        "corresp_id": corresp_id,
+        "corresp_id": f"#corresp__{corresp_id.replace('#', '')}",
         "corresp_names": corresp_names,
         "title": doc.any_xpath(
             ".//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[1]/text()"
         )[0],
+        "date": get_date(doc),
     }
     items.append(item)
 df = pd.DataFrame(items)
@@ -46,6 +62,8 @@ df["gen_prev"] = df["id"].shift(1)
 df["gen_next"] = df["id"].shift(-1)
 df["gen_prev_title"] = df["title"].shift(1)
 df["gen_next_title"] = df["title"].shift(-1)
+
+df.to_csv("tmp.csv", index=False)
 
 for i, ndf in df.groupby("corresp_id"):
     sorted_df = ndf.sort_values("id")
