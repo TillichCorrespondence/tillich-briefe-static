@@ -1,5 +1,6 @@
 import glob
 import os
+import shutil
 from tqdm import tqdm
 from acdh_cidoc_pyutils import extract_begin_end
 from acdh_tei_pyutils.tei import TeiReader
@@ -16,7 +17,7 @@ ACDH = Namespace("https://vocabs.acdh.oeaw.ac.at/schema#")
 COLS = [ACDH["TopCollection"], ACDH["Collection"], ACDH["Resource"]]
 COL_URIS = set()
 
-files = sorted(glob.glob("data/editions/*.xml"))[:30]
+files = sorted(glob.glob("data/editions/*.xml"))[:10]
 for x in tqdm(files):
     doc = TeiReader(x)
     cur_col_id = os.path.split(x)[-1].replace(".xml", "")
@@ -172,3 +173,12 @@ for x in COL_URIS:
 
 print("writing graph to file")
 g.serialize("html/arche.ttl")
+
+to_ingest = "to_ingest"
+os.makedirs(to_ingest, exist_ok=True)
+files_to_ingest = glob.glob("./data/*/*.xml")
+print(f"copying {len(files_to_ingest)} into {to_ingest}")
+for x in files_to_ingest:
+    _, tail = os.path.split(x)
+    new_name = os.path.join(to_ingest, tail)
+    shutil.copy(x, new_name)

@@ -1,9 +1,11 @@
 #/bin/bash
 
-composer require -W acdh-oeaw/repo-file-checker:^3.1.5
-directoryToWriteReportsInto="fc_out"
+python3 -m pip install --user cvdupdate && cvd update
 
-echo "run ${directoryToWriteReportsInto}"
-rm -rf ${directoryToWriteReportsInto}
-mkdir -p ${directoryToWriteReportsInto}
-vendor/bin/arche-filechecker --csv --html data ${directoryToWriteReportsInto}
+rm -rf fc_out && mkdir fc_out
+docker run \
+  --rm \
+  -v ${PWD}/fc_out:/reports \
+  -v ${PWD}/data:/data \
+  -v ~/.cvdupdate/database/:/var/lib/clamav \
+  acdhch/arche-filechecker
