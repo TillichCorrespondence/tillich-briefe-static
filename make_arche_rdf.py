@@ -173,6 +173,7 @@ for x in COL_URIS:
 
 print("writing graph to file")
 g.serialize("html/arche.ttl")
+g.serialize("to_ingest/arche.ttl")
 
 to_ingest = "to_ingest"
 os.makedirs(to_ingest, exist_ok=True)
