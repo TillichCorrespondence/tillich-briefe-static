@@ -1,5 +1,5 @@
 #/bin/bash
-
+mv ./to_ingest/arche.ttl ./to_ingest/arche.txt
 echo "run filechecker for for ${TOPCOLID}"
 rm -rf ${PWD}/fc_out && mkdir ${PWD}/fc_out
 docker run \
@@ -8,4 +8,5 @@ docker run \
   -v ${PWD}/to_ingest:/data \
   --entrypoint arche-filechecker \
   acdhch/arche-ingest \
-  --csv --overwrite --skipWarnings /data /reports
+  --overwrite --skipWarnings /data /reports
+mv ./to_ingest/arche.txt ./to_ingest/arche.ttl
