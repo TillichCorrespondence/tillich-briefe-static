@@ -1,6 +1,6 @@
 #/bin/bash
 
-echo "ingest metadata"
+echo "ingest metadata for for ${TOPCOLID} into ${ARCHE}"
 docker run --rm \
   -v ${PWD}/to_ingest:/data \
   --entrypoint arche-import-metadata \

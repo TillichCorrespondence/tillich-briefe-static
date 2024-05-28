@@ -1,6 +1,6 @@
 #/bin/bash
 
-echo "ingest binaries"
+echo "ingest binaries for ${TOPCOLID} into ${ARCHE}"
 docker run --rm \
   -v ${PWD}/to_ingest:/data \
   --entrypoint arche-import-binary \

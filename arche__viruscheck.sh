@@ -1,6 +1,7 @@
 #/bin/bash
 
 python3 -m pip install --user cvdupdate && cvd update
+echo "run virus scan for for ${TOPCOLID}"
 
 docker run \
   --rm \

@@ -1,5 +1,6 @@
 #/bin/bash
 
+echo "run filechecker for for ${TOPCOLID}"
 rm -rf ${PWD}/fc_out && mkdir ${PWD}/fc_out
 docker run \
   --rm \
