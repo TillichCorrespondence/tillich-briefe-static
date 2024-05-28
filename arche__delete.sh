@@ -1,5 +1,14 @@
 #/bin/bash
 
+if [ "${PROJECTID}" != "" ] ; then
+  echo "deleting ${PROJECTID} from ${ARCHE}"
+  docker run --rm \
+    --entrypoint arche-delete-resource \
+    acdhch/arche-ingest \
+    ${PROJECTID} ${ARCHE} ${ARCHE_USER} ${ARCHE_PASSWORD}  --references
+fi
+
+echo ""
 echo "delete ${TOPCOLID} from ${ARCHE}"
 docker run --rm \
   --entrypoint arche-delete-resource \
