@@ -14,6 +14,3 @@ python3 add_correspContext.py
 
 echo "make corresp_toc.xml"
 python3 make_corresp_toc.py
-
-echo "build ft-index"
-python3 make_ts_index.py

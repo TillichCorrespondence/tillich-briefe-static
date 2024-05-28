@@ -41,6 +41,8 @@ jobs:
       run: ./shellscripts/dl_imprint.sh
     - name: Process Data
       run: ./process.sh
+    - name: Fulltext Index
+      run: python3 make_ts_index.py
     - name: Build
       run: ant
     - name: Setup Pages
