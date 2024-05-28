@@ -7,7 +7,8 @@ from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import extract_fulltext, make_entity_label, get_xmlid
 from rdflib import Namespace, URIRef, RDF, Graph, Literal, XSD
 
-
+to_ingest = "to_ingest"
+os.makedirs(to_ingest, exist_ok=True)
 g = Graph().parse("arche_seed_files/arche_constants.ttl")
 g_repo_objects = Graph().parse("arche_seed_files/repo_objects_constants.ttl")
 TOP_COL_URI = URIRef("https://id.acdh.oeaw.ac.at/tillich-briefe")
@@ -175,8 +176,6 @@ print("writing graph to file")
 g.serialize("html/arche.ttl")
 g.serialize("to_ingest/arche.ttl")
 
-to_ingest = "to_ingest"
-os.makedirs(to_ingest, exist_ok=True)
 files_to_ingest = glob.glob("./data/*/*.xml")
 print(f"copying {len(files_to_ingest)} into {to_ingest}")
 for x in files_to_ingest:
