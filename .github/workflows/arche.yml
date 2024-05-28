@@ -33,7 +33,7 @@ jobs:
     - uses: actions/upload-artifact@v4
       with:
         name: arche.ttl
-        path: ./arche.ttl
+        path: ./to_ingest/arche.ttl
         if-no-files-found: error
         overwrite: true
     - name: Fetch WF-URL
