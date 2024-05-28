@@ -9,11 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     env:
       REDMINE_ID: 21016
-      HANDLE_PASSWORD: ${{secrets.HANDLE_PASSWORD}}
-      HANDLE_USERNAME: ${{secrets.HANDLE_USERNAME}}
       ARCHE_USER: ${{secrets.ARCHE_USER}}
       ARCHE_PASSWORD: ${{secrets.ARCHE_PASSWORD}}
       ARCHE: https://arche-curation.acdh-dev.oeaw.ac.at/api
+      TOPCOLID: https://id.acdh.oeaw.ac.at/tillich-briefe
+      PROJECTID: https://id.acdh.oeaw.ac.at/tillich-briefe/project
 
     steps:
     - name: Perform Checkout
@@ -32,8 +32,6 @@ jobs:
       run: ./process.sh
     - name: Make RDF
       run: python make_arche_rdf.py
-    - name: add handle-ids
-      run: python mint_handles.py
     - uses: actions/upload-artifact@v4
       with:
         name: arche.ttl
