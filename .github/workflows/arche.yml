@@ -11,7 +11,7 @@ jobs:
       REDMINE_ID: 21016
       ARCHE_USER: ${{secrets.ARCHE_USER}}
       ARCHE_PASSWORD: ${{secrets.ARCHE_PASSWORD}}
-      ARCHE: https://arche-curation.acdh-dev.oeaw.ac.at/api
+      ARCHE: https://arche-dev.acdh-dev.oeaw.ac.at/api
       TOPCOLID: https://id.acdh.oeaw.ac.at/tillich-briefe
       PROJECTID: https://id.acdh.oeaw.ac.at/tillich-briefe/project
 
