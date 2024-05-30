@@ -18,7 +18,19 @@ ACDH = Namespace("https://vocabs.acdh.oeaw.ac.at/schema#")
 COLS = [ACDH["TopCollection"], ACDH["Collection"], ACDH["Resource"]]
 COL_URIS = set()
 
-files = sorted(glob.glob("data/editions/*.xml"))[:10]
+# following code is needed because different (?) place entities share the same geonames-id
+# this leads to acdh:Place objects with more than one acdh:hasTitle properties, which is not allowed
+
+doc = TeiReader("./data/indices/listplace.xml")
+lookup_dict = {}
+for x in doc.any_xpath(".//tei:place[@xml:id and ./tei:idno[@type='geonames']]"):
+    label = make_entity_label(x.xpath("./*[1]")[0])[0]
+    entity_id = x.xpath("./*[@type='geonames']/text()")[0]
+    lookup_dict[entity_id] = label
+
+# end of this annoying workaround
+
+files = sorted(glob.glob("data/editions/*.xml"))
 for x in tqdm(files):
     doc = TeiReader(x)
     cur_col_id = os.path.split(x)[-1].replace(".xml", "")
@@ -110,8 +122,8 @@ for x in tqdm(files):
         ".//tei:back//tei:place[@xml:id and ./tei:idno[@type='geonames']]"
     ):
         xml_id = get_xmlid(y)
-        entity_title = make_entity_label(y.xpath("./*[1]")[0])[0]
         entity_id = y.xpath("./*[@type='geonames']/text()")[0]
+        entity_title = lookup_dict[entity_id]
         entity_uri = URIRef(entity_id)
         g.add((entity_uri, RDF.type, ACDH["Place"]))
         # g.add((entity_uri, ACDH["hasUrl"], Literal(f"{APP_URL}{xml_id}", datatype=XSD.anyURI)))
