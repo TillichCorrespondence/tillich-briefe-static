@@ -32,7 +32,7 @@ for x in tqdm(files):
         (
             cur_doc_uri,
             ACDH["hasUrl"],
-            Literal(f'{APP_URL}{cur_col_id.replace(".xml", ".html")}'),
+            Literal(f'{APP_URL}{cur_doc_id.replace(".xml", ".html")}'),
         )
     )
     g.add(
@@ -99,7 +99,7 @@ for x in tqdm(files):
             (
                 entity_uri,
                 ACDH["hasUrl"],
-                Literal(f"{APP_URL}{xml_id}", datatype=XSD.anyURI),
+                Literal(f"{APP_URL}{xml_id}.html", datatype=XSD.anyURI),
             )
         )
         g.add((entity_uri, ACDH["hasTitle"], Literal(entity_title, lang="und")))
