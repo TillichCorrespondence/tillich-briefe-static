@@ -115,7 +115,7 @@ for x in tqdm(files):
         entity_uri = URIRef(entity_id)
         g.add((entity_uri, RDF.type, ACDH["Place"]))
         # g.add((entity_uri, ACDH["hasUrl"], Literal(f"{APP_URL}{xml_id}", datatype=XSD.anyURI)))
-        g.add((entity_uri, ACDH["hasTitle"], Literal(entity_title, lang="und")))
+        # g.add((entity_uri, ACDH["hasTitle"], Literal(entity_title, lang="und")))
         g.add((cur_doc_uri, ACDH["hasSpatialCoverage"], entity_uri))
 
     # hasCreator
