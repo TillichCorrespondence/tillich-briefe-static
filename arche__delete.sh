@@ -1,5 +1,13 @@
 #/bin/bash
 
+if [ "${TITLEIMAGE}" != "" ] ; then
+  echo "deleting ${TITLEIMAGE} from ${ARCHE}"
+  docker run --rm \
+    --entrypoint arche-delete-resource \
+    acdhch/arche-ingest \
+    ${TITLEIMAGE} ${ARCHE} ${ARCHE_USER} ${ARCHE_PASSWORD}
+fi
+
 if [ "${PROJECTID}" != "" ] ; then
   echo "deleting ${PROJECTID} from ${ARCHE}"
   docker run --rm \
