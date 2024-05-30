@@ -18,7 +18,7 @@ ACDH = Namespace("https://vocabs.acdh.oeaw.ac.at/schema#")
 COLS = [ACDH["TopCollection"], ACDH["Collection"], ACDH["Resource"]]
 COL_URIS = set()
 
-files = sorted(glob.glob("data/editions/*.xml"))[:10]
+files = sorted(glob.glob("data/editions/*.xml"))[:50]
 for x in tqdm(files):
     doc = TeiReader(x)
     cur_col_id = os.path.split(x)[-1].replace(".xml", "")
@@ -117,6 +117,17 @@ for x in tqdm(files):
         # g.add((entity_uri, ACDH["hasUrl"], Literal(f"{APP_URL}{xml_id}", datatype=XSD.anyURI)))
         g.add((entity_uri, ACDH["hasTitle"], Literal(entity_title, lang="und")))
         g.add((cur_doc_uri, ACDH["hasSpatialCoverage"], entity_uri))
+
+    # hasCreator
+    for y in doc.any_xpath(".//tei:name[@key]"):
+        editor_name = y.text
+        editor_id = y.attrib["key"]
+        if editor_id.startswith("https://orcid.org"):
+            creator_uri = URIRef(editor_id)
+            g.add((creator_uri, RDF.type, ACDH["Person"]))
+            g.add((creator_uri, ACDH["hasTitle"], Literal(editor_name, lang="und")))
+            g.add((cur_doc_uri, ACDH["hasCreator"], creator_uri))
+
 
     # hasExtent
     nr_of_pages = len(doc.any_xpath(".//tei:pb"))
