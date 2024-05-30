@@ -30,6 +30,16 @@ for x in doc.any_xpath(".//tei:place[@xml:id and ./tei:idno[@type='geonames']]")
 
 # end of this annoying workaround
 
+# and the same for persons of course ...
+
+doc = TeiReader("./data/indices/listperson.xml")
+for x in doc.any_xpath(".//tei:person[@xml:id and ./tei:idno[@type='gnd']]"):
+    label = make_entity_label(x.xpath("./*[1]")[0])[0]
+    entity_id = x.xpath("./*[@type='gnd']/text()")[0]
+    lookup_dict[entity_id] = label
+
+# end of this annoying workaround
+
 files = sorted(glob.glob("data/editions/*.xml"))
 for x in tqdm(files):
     doc = TeiReader(x)
@@ -97,14 +107,14 @@ for x in tqdm(files):
         ".//tei:back//tei:person[@xml:id and ./tei:idno[@type='wikidata'] or tei:idno[@type='gnd']]"
     ):
         xml_id = get_xmlid(y)
-        entity_title = make_entity_label(y.xpath("./*[1]")[0])[0]
         try:
-            entity_id = y.xpath("./*[@type='wikidata']/text()")[0]
+            entity_id = y.xpath("./*[@type='gnd']/text()")[0]
         except IndexError:
             try:
-                entity_id = y.xpath("./*[@type='gnd']/text()")[0]
+                entity_id = y.xpath("./*[@type='wikidata']/text()")[0]
             except IndexError:
                 continue
+        entity_title = lookup_dict[entity_id]
         entity_uri = URIRef(entity_id)
         g.add((entity_uri, RDF.type, ACDH["Person"]))
         g.add(
