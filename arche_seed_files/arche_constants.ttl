@@ -6,6 +6,9 @@
 <https://d-nb.info/gnd/130017086> a acdh:Person ;
     acdh:hasTitle "Christian Danz"@de .
 
+<https://d-nb.info/gnd/120078724> a acdh:Person ;
+    acdh:hasTitle "Friedrich Wilhelm Graf"@de .
+
 <https://d-nb.info/gnd/1043833846> a acdh:Person ;
     acdh:hasTitle "Andorfer, Peter"@de .
 
