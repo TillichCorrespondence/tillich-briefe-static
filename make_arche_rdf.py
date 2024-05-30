@@ -150,7 +150,6 @@ for x in tqdm(files):
             g.add((creator_uri, ACDH["hasTitle"], Literal(editor_name, lang="und")))
             g.add((cur_doc_uri, ACDH["hasCreator"], creator_uri))
 
-
     # hasExtent
     nr_of_pages = len(doc.any_xpath(".//tei:pb"))
     if nr_of_pages > 1:
