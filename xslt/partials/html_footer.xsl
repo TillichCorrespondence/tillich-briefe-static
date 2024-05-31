@@ -11,7 +11,7 @@
                     <div class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6  ml-auto  text-center ">
                         <div class="textwidget custom-html-widget">
                             <a href="https://www.oeaw.ac.at/acdh/">
-                                <img src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" class="image" alt="ACDH Logo" style="max-width: 90%; height: auto;" title="ACDH Logo" />
+                                <img src="images/logo_acdh.png" class="image" alt="ACDH Logo" style="max-width: 90%; height: auto;" title="ACDH Logo" />
                             </a>
                         </div>
                     </div>
