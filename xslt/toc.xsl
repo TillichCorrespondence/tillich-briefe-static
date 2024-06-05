@@ -69,9 +69,9 @@
                                                         <!-- exclude all Paul Tillich refs-->
                                                         <xsl:if test="not(tei:persName/@ref='#tillich_person_id__1928')">
                                                             <xsl:value-of select="tei:persName"/>
-                                                            <xsl:if test="not(position() = last())">
+                                                            <!-- <xsl:if test="not(position() = last())">
                                                                 <xsl:text>; </xsl:text>
-                                                            </xsl:if>
+                                                            </xsl:if> -->
                                                         </xsl:if>
                                                     </xsl:for-each>
                                                 </td>
