@@ -91,7 +91,7 @@
           <div class="row">
             <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto">
               <div class="textwidget custom-html-widget">
-                <h6 class="font-weight-bold">FÖRDERINSTITUTION</h6>
+                <h6 class="font-weight-bold">FÖRDERINSTITUTIONEN</h6>
                 <a href="https://www.fwf.ac.at/"
                   ><img
                     class="card-img-right flex-auto d-md-block"
