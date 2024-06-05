@@ -9,7 +9,7 @@
     <xsl:template name="mam:view-type-img">
         <div id="text-resize" class="row transcript active">
             <xsl:for-each select="//tei:body">
-                <div id="text-resize" class="col-md-6 col-lg-6 col-sm-12 text yes-index">
+                <div id="text-resize" class="col-md-8 col-lg-8 col-sm-12 text yes-index">
                     <div id="section">
                         <div class="card-body">
                             <div class="card-body-text">
@@ -24,7 +24,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-6 col-sm-12">
+                <div class="col-md-4 col-lg-4 col-sm-12">
                     <div id="section">
                         <div class="card-body">
                             <div class="card-body-text">

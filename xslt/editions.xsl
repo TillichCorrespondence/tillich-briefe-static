@@ -36,7 +36,7 @@
                                     <xsl:call-template name="header-nav"/>
                                 </div>
                                 <div id="container-resize" class="row transcript active">
-                                    <xsl:for-each select="descendant::tei:body">
+                                    <xsl:for-each select="descendant::tei:body"><foreign xml:lang="lat"></foreign>
                                         <xsl:call-template name="mam:view-type-img"/>
                                     </xsl:for-each>
                                 </div>
