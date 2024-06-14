@@ -82,7 +82,7 @@
                                 </nav>
                                 <xsl:if test="descendant::tei:note[@type = 'eb' or @type = 'ea']">
                                     <div class="card-body-anhang">
-                                        <dl class="kommentarhang">
+                                        <dl class="kommentaranhang">
                                             <xsl:apply-templates select="descendant::tei:note[@type = 'eb' or @type = 'ea']" mode="kommentaranhang"/>
                                         </dl>
                                     </div>
@@ -364,6 +364,13 @@
         <xsl:if test="not(position() = 1)">
             <br/>
         </xsl:if>
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="tei:note[@type = 'eb' or @type = 'ea']">
+        <sup>
+            <xsl:number level="any" count="tei:note[@type = 'eb' or @type = 'ea']" format="1"/>
+            <xsl:text>]</xsl:text>
+        </sup>
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="tei:opener">

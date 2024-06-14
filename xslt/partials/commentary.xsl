@@ -8,20 +8,27 @@
     <!-- Kommentar und Textkonstitution -->
     <xsl:template match="tei:note"/>
     <xsl:template match="tei:note" mode="kommentaranhang">
-        <p>
+        <dt></dt>
+        <dd>
             <!-- Get the Word before the note element-->
+            <!-- 
             <xsl:variable name="textBefore" select="preceding::text()[1]" />
             <xsl:variable name="words" select="tokenize($textBefore, '\s+')" />
             <xsl:variable name="lemma" select="$words[last()]" />
 
             <span class="lemma">
-                <xsl:value-of select="$lemma"/>
+                <xsl:value-of select="$lemma"/>                
                 <xsl:text>]&#160;</xsl:text>
             </span>
+            -->
+            <sup>
+                <xsl:number level="any" count="tei:note[@type = 'eb' or @type = 'ea']" format="1"/>
+                <xsl:text>]</xsl:text>
+            </sup>            
             <span class="kommentar-text">
                 <xsl:apply-templates select="node() except Lemma"/>
             </span>
-        </p>
+        </dd>
     </xsl:template>
     <xsl:template match="tei:hi[@rend = 'subscript']" mode="lemma">
         <sup>

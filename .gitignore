@@ -8,6 +8,8 @@ typesense-server-0.25.2-amd64.deb
 set_typesense_env.py
 html/*.xml
 html/*.html
+build_test.xml
+build_test.sh
 
 data/meta
 data/
