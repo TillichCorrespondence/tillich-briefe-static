@@ -370,8 +370,7 @@
         <sup>
             <xsl:number level="any" count="tei:note[@type = 'eb' or @type = 'ea']" format="1"/>
             <xsl:text>]</xsl:text>
-        </sup>
-        <xsl:apply-templates/>
+        </sup>        
     </xsl:template>
     <xsl:template match="tei:opener">
         <div class="opener">
