@@ -3,7 +3,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:local="http://dse-static.foo.bar"
+    xmlns:local="http://dse-static.foo.bar"    
     xmlns:mam="whatever" version="2.0" exclude-result-prefixes="xsl tei xs">
     <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="yes" omit-xml-declaration="yes"/>
     <xsl:import href="./partials/html_navbar.xsl"/>
@@ -193,6 +193,21 @@
         </div>
         <br/>
     </xsl:template>
+    <xsl:template match="tei:formula[@notation = 'TeX']">
+        <xsl:variable name="modifiedText">
+            <xsl:call-template name="replace-fractions">
+                <xsl:with-param name="text" select="."/>
+            </xsl:call-template>
+        </xsl:variable>
+        <xsl:value-of select="$modifiedText"/>
+    </xsl:template>
+    <!-- Template to replace \frac{n}{m} with n/m -->
+    <xsl:template name="replace-fractions">
+        <xsl:param name="text"/>
+        <xsl:variable name="regex" select="'\\frac\{([^}]+)\}\{([^}]+)\}'"/>
+        <xsl:variable name="replacement" select="'$1/$2'"/>
+        <xsl:value-of select="replace($text, $regex, $replacement)"/>
+    </xsl:template>
     <xsl:template match="tei:gap">
         <xsl:choose>
             <xsl:when test="@reason = 'deleted'">
@@ -236,7 +251,6 @@
             <xsl:text> Zeilen unleserlich] </xsl:text>
         </div>
     </xsl:template>
-
     <xsl:template match="tei:gap[@reason = 'outOfScope']">
         <span class="outOfScope">[…]</span>
     </xsl:template>
