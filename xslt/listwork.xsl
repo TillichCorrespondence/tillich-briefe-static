@@ -98,7 +98,7 @@
                                 <h1 class="text-center">
                                     <xsl:value-of select="$name"/>
                                 </h1>
-                                <h2 class="text-center">Erwähungen</h2>
+                                <h2 class="text-center">Erwähnungen</h2>
                                 <ul>
                                     <xsl:for-each select=".//tei:note[@type='mentions']">
                                         <li>
