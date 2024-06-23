@@ -27,6 +27,7 @@
             </sup>            
             <span class="kommentar-text">
                 <xsl:apply-templates select="node() except Lemma"/>
+                <!-- <xsl:apply-templates select="tei:rs" mode="kommentaranhang"/> -->
             </span>
         </dd>
     </xsl:template>

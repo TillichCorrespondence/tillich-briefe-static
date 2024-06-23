@@ -759,7 +759,7 @@
     </xsl:template>
     <!-- tei:rs -->
     <!-- erster Fall: alles ganz einfach, keine Verschachtelung, keine note: -->
-    <xsl:template match="tei:rs[not(ancestor::tei:note)][not(ancestor::tei:rs) and not(descendant::tei:rs[not(ancestor::tei:note)]) and not(contains(@ref, ' '))] | tei:persName | tei:author | tei:placeName | tei:orgName">
+    <xsl:template match="tei:rs[not(ancestor::tei:note[@type = 'eb' or @type = 'ea']) and not(ancestor::tei:note)][not(ancestor::tei:rs) and not(descendant::tei:rs[not(ancestor::tei:note)]) and not(contains(@ref, ' '))] | tei:persName | tei:author | tei:placeName | tei:orgName">
         <xsl:variable name="entity-typ" as="xs:string">
             <xsl:choose>
                 <xsl:when test="@type = 'person'">
@@ -840,7 +840,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     <!-- Nun ein einfaches rs in einer note -->
-    <xsl:template match="tei:rs[ancestor::tei:note][not(ancestor::tei:rs[ancestor::tei:note]) and not(descendant::tei:rs) and not(contains(@ref, ' '))]">
+    <xsl:template match="tei:rs[not(ancestor::tei:note[@type = 'eb' or @type = 'ea']) and ancestor::tei:note][not(ancestor::tei:rs[ancestor::tei:note]) and not(descendant::tei:rs) and not(contains(@ref, ' '))]">
         <xsl:variable name="entity-typ" as="xs:string">
             <xsl:choose>
                 <xsl:when test="@type = 'person'">
@@ -881,7 +881,7 @@
         </span>
     </xsl:template>
     <!-- ein verschachteltes rs in note -->
-    <xsl:template match="tei:rs[ancestor::tei:note][contains(@ref, ' ') or descendant::tei:rs]">
+    <xsl:template match="tei:rs[not(ancestor::tei:note[@type = 'eb' or @type = 'ea']) and ancestor::tei:note][contains(@ref, ' ') or descendant::tei:rs]">
         <xsl:variable name="modalId1" as="xs:string">
             <xsl:value-of select=".//@ref"/>
         </xsl:variable>
@@ -900,11 +900,24 @@
             <!-- hier die Sonderregeln für ein solches rs -->
         </xsl:element>
     </xsl:template>
-    <xsl:template match="tei:rs[@type = 'work' and not(ancestor::tei:quote) and ancestor::tei:note and not(@subtype = 'implied')]/text()">
+    <xsl:template match="tei:rs[not(ancestor::tei:note[@type = 'eb' or @type = 'ea']) and @type = 'work' and not(ancestor::tei:quote) and ancestor::tei:note and not(@subtype = 'implied')]/text()">
         <span class="works {substring-after(@rendition, '#')}" id="{@xml:id}">
             <span class="italics">
                 <xsl:value-of select="."/>
             </span>
         </span>
     </xsl:template>
+    <xsl:template match="tei:rs[ancestor::tei:note[@type = 'eb' or @type = 'ea'] and @type = 'work' and not(ancestor::tei:quote) and ancestor::tei:note and not(@subtype = 'implied')]">
+        <span class="works">
+            <span class="italics">
+                <a>
+                    <xsl:attribute name="href">                        
+                        <xsl:value-of select="replace(@ref, '#', '' )"/>
+                        <xsl:text>.html</xsl:text>
+                    </xsl:attribute>                    
+                    <xsl:apply-templates/>
+                </a>
+            </span>
+        </span>
+    </xsl:template>        
 </xsl:stylesheet>
