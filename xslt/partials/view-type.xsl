@@ -111,8 +111,7 @@
                                 </xsl:if>
                                 <xsl:if test="//tei:listBibl/tei:bibl">
                                     <h2 class="entities">
-                                        Literatur:                     
-                                        <a href="./tillich_place_id__225.html">Jerusalem</a>                   
+                                        Literatur:                                        
                                     </h2>
                                     <ul>
                                         <xsl:for-each select="//tei:listBibl/tei:bibl">
