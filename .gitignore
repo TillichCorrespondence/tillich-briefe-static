@@ -10,6 +10,7 @@ html/*.xml
 html/*.html
 build_test.xml
 build_test.sh
+fetch_data_test.sh
 
 data/meta
 data/
