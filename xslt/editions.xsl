@@ -907,28 +907,41 @@
             </span>
         </span>
     </xsl:template>
-    <xsl:template match="tei:rs[ancestor::tei:note[@type = 'eb' or @type = 'ea'] and @type = 'work' and not(ancestor::tei:quote) and ancestor::tei:note and not(@subtype = 'implied')]">
-        <span class="works">
-            <span class="italics">
+    <xsl:template match="tei:rs[ancestor::tei:note[@type = 'eb' or @type = 'ea'] and not(ancestor::tei:quote) and ancestor::tei:note and not(@subtype = 'implied')]">
+        <xsl:if test="@type = 'work'">
+            <span class="works">
+                <span class="italics">
+                    <a>
+                        <xsl:attribute name="href">
+                            <xsl:value-of select="replace(@ref, '#', '' )"/>
+                            <xsl:text>.html</xsl:text>
+                        </xsl:attribute>
+                        <xsl:apply-templates/>
+                    </a>
+                </span>
+            </span>
+        </xsl:if>
+        <xsl:if test="@type = 'place'">
+            <span class="places">
                 <a>
-                    <xsl:attribute name="href">                        
+                    <xsl:attribute name="href">
                         <xsl:value-of select="replace(@ref, '#', '' )"/>
                         <xsl:text>.html</xsl:text>
-                    </xsl:attribute>                    
+                    </xsl:attribute>
                     <xsl:apply-templates/>
                 </a>
             </span>
-        </span>
-    </xsl:template>
-    <xsl:template match="tei:rs[ancestor::tei:note[@type = 'eb' or @type = 'ea'] and @type = 'place' and not(ancestor::tei:quote) and ancestor::tei:note and not(@subtype = 'implied')]">
-        <span class="places">            
-            <a>
-                <xsl:attribute name="href">                        
-                    <xsl:value-of select="replace(@ref, '#', '' )"/>
-                    <xsl:text>.html</xsl:text>
-                </xsl:attribute>                    
-                <xsl:apply-templates/>
-            </a>            
-        </span>
-    </xsl:template>        
+        </xsl:if>
+        <xsl:if test="@type ='person'">
+            <span class="persons">
+                <a>
+                    <xsl:attribute name="href">
+                        <xsl:value-of select="replace(@ref, '#', '' )"/>
+                        <xsl:text>.html</xsl:text>
+                    </xsl:attribute>
+                    <xsl:apply-templates/>
+                </a>
+            </span>
+        </xsl:if>
+    </xsl:template>    
 </xsl:stylesheet>
