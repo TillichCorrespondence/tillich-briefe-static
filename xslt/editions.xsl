@@ -919,5 +919,16 @@
                 </a>
             </span>
         </span>
+    </xsl:template>
+    <xsl:template match="tei:rs[ancestor::tei:note[@type = 'eb' or @type = 'ea'] and @type = 'place' and not(ancestor::tei:quote) and ancestor::tei:note and not(@subtype = 'implied')]">
+        <span class="places">            
+            <a>
+                <xsl:attribute name="href">                        
+                    <xsl:value-of select="replace(@ref, '#', '' )"/>
+                    <xsl:text>.html</xsl:text>
+                </xsl:attribute>                    
+                <xsl:apply-templates/>
+            </a>            
+        </span>
     </xsl:template>        
 </xsl:stylesheet>
