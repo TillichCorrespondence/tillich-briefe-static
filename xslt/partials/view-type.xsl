@@ -88,6 +88,7 @@
                                                             </xsl:attribute>
                                                             <xsl:value-of select="tei:placeName"/>
                                                         </a>
+                                                        <!-- 
                                                         <xsl:if test="tei:idno">
                                                             <xsl:text>&#160;</xsl:text>
                                                             <a class="theme-color">
@@ -103,6 +104,7 @@
                                                                 <i class="fa-solid fa-location-dot"/>
                                                             </a>
                                                         </xsl:if>
+                                                        -->
                                                     </xsl:otherwise>
                                                 </xsl:choose>
                                             </li>
