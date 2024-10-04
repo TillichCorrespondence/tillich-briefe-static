@@ -18,6 +18,7 @@
 \maketitle
 <!--\tableofcontents-->
 <xsl:for-each select="collection('../data/editions/?select=*.xml')/tei:TEI">
+    <xsl:sort select="./@xml:id"></xsl:sort>
     <xsl:variable name="docId">
         <xsl:value-of select="replace(./@xml:id, '.xml', '')"/>
     </xsl:variable>
