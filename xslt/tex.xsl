@@ -7,19 +7,17 @@
     version="3.0">
     <xsl:output encoding="UTF-8" media-type="text" omit-xml-declaration="true" indent="no"/>
     
-    <xsl:template match="/">
+<xsl:template match="/">
 \documentclass[11pt]{article}
+\usepackage[document]{ragged2e}
 \usepackage{ulem}
 \title{Tillich-Briefe }
 \author{Tillich Briefe Team}
 \date{Herbst 2024}
 \begin{document}
 \maketitle
-\tableofcontents
-<xsl:for-each select="subsequence(
-        collection('../data/editions/?select=*.xml')/tei:TEI,
-        10, 20
-        )">
+<!--\tableofcontents-->
+<xsl:for-each select="collection('../data/editions/?select=*.xml')/tei:TEI">
     <xsl:variable name="docId">
         <xsl:value-of select="replace(./@xml:id, '.xml', '')"/>
     </xsl:variable>
@@ -27,33 +25,27 @@
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
     </xsl:variable>
 \section{<xsl:text>(</xsl:text><xsl:value-of select="$docId"/><xsl:text>) </xsl:text><xsl:value-of select="$title"/>}
-<xsl:text>
-    
-</xsl:text>
+\begin{flushright}
 <xsl:apply-templates select=".//tei:dateline"/>
-
-<xsl:text> 
-    
-</xsl:text>
+\end{flushright}
+<xsl:for-each select=".//tei:body//tei:div">
+\begin{center}
 <xsl:value-of select=".//tei:opener/tei:salute//text()"/>
-<xsl:text>
-    
-</xsl:text>
-<xsl:for-each select=".//tei:body//tei:p[not(parent::tei:postscript)]">
-<xsl:apply-templates/>
-<xsl:text>
-    
-</xsl:text>
+\end{center}
+\begin{flushleft}
+<xsl:for-each select=".//tei:p[not(parent::tei:postscript)]">
+    <xsl:apply-templates/>
 </xsl:for-each>
+\end{flushleft}
+\begin{center}
 <xsl:apply-templates select=".//tei:closer"/>
-<xsl:text>
-    
-</xsl:text>
+\end{center}
+</xsl:for-each>
 </xsl:for-each>
 
 \end{document}
         
-    </xsl:template>
+</xsl:template>
     
     <xsl:template match="tei:dateline">
 <xsl:value-of select="replace(
@@ -63,5 +55,8 @@
 </xsl:template>
     
 <xsl:template match="tei:del">\sout{<xsl:value-of select="."/>}</xsl:template>
+<xsl:template match="tei:note">
+\footnote{<xsl:apply-templates/>}
+</xsl:template>
     
 </xsl:stylesheet>
