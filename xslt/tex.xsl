@@ -11,6 +11,8 @@
 \documentclass[11pt]{article}
 \usepackage[document]{ragged2e}
 \usepackage{ulem}
+\usepackage[ngerman]{babel}
+\usepackage{hyphenat}
 \title{Tillich-Briefe }
 \author{Tillich Briefe Team}
 \date{Herbst 2024}
