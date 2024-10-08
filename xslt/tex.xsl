@@ -9,10 +9,19 @@
     
 <xsl:template match="/">
 \documentclass[11pt]{article}
+\usepackage{fontspec}        % For font management
+\usepackage{polyglossia}     % For multilingual support
 \usepackage[document]{ragged2e}
 \usepackage{ulem}
-\usepackage[ngerman]{babel}
-\usepackage{hyphenat}
+
+% Set main language
+\setmainlanguage{german}
+% Set other language
+\setotherlanguage{greek}
+
+\newfontfamily\greekfont{FreeSerif}
+
+
 \title{Tillich-Briefe }
 \author{Tillich Briefe Team}
 \date{Herbst 2024}
@@ -64,5 +73,6 @@
 <xsl:template match="tei:unclear">
 <xsl:text>[</xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>
 </xsl:template>
+    <xsl:template match="tei:foreign[@xml:lang='grc']"><xsl:text>\begin{greek}</xsl:text><xsl:apply-templates/><xsl:text>\end{greek}</xsl:text></xsl:template>
     
 </xsl:stylesheet>
