@@ -10,6 +10,7 @@ from acdh_tei_pyutils.utils import (
     make_entity_label,
     check_for_hash,
 )
+from acdh_xml_pyutils.xml import NSMAP
 from tqdm import tqdm
 
 
@@ -116,10 +117,11 @@ for x in tqdm(files, total=len(files)):
         record["persons"].append(item)
 
     record["works"] = []
-    for y in doc.any_xpath(".//tei:back//tei:bibl"):
+    for y in doc.any_xpath(".//tei:back//tei:biblStruct"):
+        book_title = y.xpath(".//tei:title[1]", namespaces=NSMAP)[0]
         item = {
             "id": get_xmlid(y),
-            "label": extract_fulltext(y),
+            "label": extract_fulltext(book_title),
         }
         record["works"].append(item)
 

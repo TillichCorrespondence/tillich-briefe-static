@@ -45,13 +45,13 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <xsl:for-each select="descendant::tei:listBibl/tei:bibl[@xml:id]">
+                                        <xsl:for-each select="descendant::tei:listBibl/tei:biblStruct[@xml:id]">
                                             <xsl:variable name="entiyID" select="replace(@xml:id, '#', '')"/>
                                             <xsl:if test="text()">
                                                 <tr>
                                                     <td>
                                                         <a href="{concat($entiyID, '.html')}">
-                                                            <xsl:value-of select="./text()"/>
+                                                            <xsl:value-of select=".//tei:title[1]"/>
                                                         </a>
                                                     </td>
                                                     <td>
@@ -80,9 +80,9 @@
             </body>
         </html>
         
-        <xsl:for-each select=".//tei:bibl[@xml:id]">
+        <xsl:for-each select=".//tei:biblStruct[@xml:id]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
-            <xsl:variable name="name" select="./text()"></xsl:variable>
+            <xsl:variable name="name" select=".//tei:title[1]"></xsl:variable>
             <xsl:result-document href="{$filename}">
                 <html class="h-100">
                     <head>
