@@ -19,6 +19,8 @@ mkdir ./data/indices
 mv ./tillich-entities-main/data/indices ./data
 rm -rf tillich-entities-main
 
+rm ./data/indices/listbibl.xml
+wget https://raw.githubusercontent.com/TillichCorrespondence/tillich-zotero/refs/heads/main/listbibl.xml -P ./data/indices
 
 echo "fetching imprint"
 rm ${IMPRINT_XML}
