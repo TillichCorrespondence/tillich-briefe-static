@@ -66,9 +66,9 @@ for x in tqdm(files, total=len(files)):
         continue
     record["id"] = os.path.split(x)[-1].replace(".xml", "")
     cfts_record["id"] = record["id"]
-    cfts_record[
-        "resolver"
-    ] = f"https://tillich-briefe.acdh.oeaw.ac.at/{record['id']}.html"
+    cfts_record["resolver"] = (
+        f"https://tillich-briefe.acdh.oeaw.ac.at/{record['id']}.html"
+    )
     record["rec_id"] = os.path.split(x)[-1].replace(".xml", "")
     cfts_record["rec_id"] = record["rec_id"]
     record["title"] = extract_fulltext(
@@ -118,10 +118,9 @@ for x in tqdm(files, total=len(files)):
 
     record["works"] = []
     for y in doc.any_xpath(".//tei:back//tei:biblStruct"):
-        book_title = y.xpath(".//tei:title[1]", namespaces=NSMAP)[0]
         item = {
             "id": get_xmlid(y),
-            "label": extract_fulltext(book_title),
+            "label": y.attrib["n"],
         }
         record["works"].append(item)
 

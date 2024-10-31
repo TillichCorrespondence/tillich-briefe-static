@@ -51,7 +51,7 @@
                                                 <tr>
                                                     <td>
                                                         <a href="{concat($entiyID, '.html')}">
-                                                            <xsl:value-of select=".//tei:title[1]"/>
+                                                            <xsl:value-of select="./@n"/>
                                                         </a>
                                                     </td>
                                                     <td>
