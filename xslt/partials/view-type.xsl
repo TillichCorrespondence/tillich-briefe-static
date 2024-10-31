@@ -111,17 +111,17 @@
                                         </xsl:for-each>
                                     </ul>
                                 </xsl:if>
-                                <xsl:if test="//tei:listBibl/tei:bibl">
+                                <xsl:if test="//tei:listBibl/tei:biblStruct">
                                     <h2 class="entities">
                                         Literatur:                                        
                                     </h2>
                                     <ul>
-                                        <xsl:for-each select="//tei:listBibl/tei:bibl">
+                                        <xsl:for-each select="//tei:listBibl/tei:biblStruct">
                                             <li class="entities">
                                                 <xsl:attribute name="id">
                                                     <xsl:value-of select="data(@xml:id)"/>
                                                 </xsl:attribute>
-                                                <xsl:apply-templates select="text()"/>                                                
+                                                <xsl:apply-templates select=".//tei:title[1]"/>                                                
                                                 <xsl:text>&#160;</xsl:text>
                                                 <a>
                                                     <xsl:attribute name="href">
