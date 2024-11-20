@@ -130,7 +130,7 @@
                                             {{Internetquelle |url=<xsl:value-of select="$doc-url"/>
                                             <xsl:text> |titel=</xsl:text>
                                             <xsl:value-of select=".//tei:titleStmt/tei:title[1]"/>
-                                            <xsl:text> |werk=Paul Tillich, Korrespondenz. Digitale Edition. |hrsg=Christian Danz, Friedrich Wilhelm Graf |sprache=de | datum=</xsl:text>
+                                            <xsl:text> |werk=Paul Tillich, Korrespondenz. Digitale Edition. |hrsg=Christian Danz, Friedrich Wilhelm Graf |sprache=de |  datum=</xsl:text>
                                             <xsl:value-of select="//tei:correspAction[@type = 'sent']/tei:date[@when]"/>
                                             <xsl:text> |abruf=</xsl:text>
                                             <span class="currentDateYYYYMMDD">????</span>
