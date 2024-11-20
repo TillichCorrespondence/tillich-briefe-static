@@ -149,6 +149,12 @@
         </html>
     </xsl:template>
     <!-- Regeln für Elemente -->
+    
+    <xsl:template match="tei:dateline">
+        <div class="text-end">
+            <xsl:apply-templates></xsl:apply-templates>
+        </div>
+    </xsl:template>
     <xsl:template match="tei:address">
         <div class="column">
             <xsl:apply-templates/>
