@@ -121,7 +121,7 @@
                                                 <xsl:attribute name="id">
                                                     <xsl:value-of select="data(@xml:id)"/>
                                                 </xsl:attribute>
-                                                <xsl:apply-templates select=".//tei:title[1]"/>                                                
+                                                <xsl:apply-templates select="data(@n)"/>                                                
                                                 <xsl:text>&#160;</xsl:text>
                                                 <a>
                                                     <xsl:attribute name="href">

@@ -8,9 +8,6 @@
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:import href="./partials/entities.xsl"/>
-    <xsl:param name="work-day" select="document('../data/indices/index_work_day.xml')"/>
-    <xsl:key name="work-day-lookup" match="item/@when" use="ref"/>
-    <xsl:variable name="teiSource" select="'listwork.xml'"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title" select="'Verzeichnis erwähnter Werke'"/>
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
@@ -39,7 +36,9 @@
                                 <table class="table table-striped display" id="tocTable" style="width:100%">
                                     <thead>
                                         <tr>
+                                            <th scope="col">Autor</th>
                                             <th scope="col">Titel</th>
+                                            <th scope="col">Jahr</th>
                                             <th scope="col">Erwähnungen</th>
                                             <th scope="col">ID</th>
                                         </tr>
@@ -47,12 +46,27 @@
                                     <tbody>
                                         <xsl:for-each select="descendant::tei:listBibl/tei:biblStruct[@xml:id]">
                                             <xsl:variable name="entiyID" select="replace(@xml:id, '#', '')"/>
+                                            <xsl:variable name="autor">
+                                                <xsl:value-of select="tokenize(@n, ', ')[1]"></xsl:value-of>
+                                            </xsl:variable>
+                                            <xsl:variable name="title">
+                                                <xsl:value-of select="tokenize(@n, ', ')[2]"></xsl:value-of>
+                                            </xsl:variable>
+                                            <xsl:variable name="year">
+                                                <xsl:value-of select="tokenize(@n, ', ')[3]"></xsl:value-of>
+                                            </xsl:variable>
                                             <xsl:if test="text()">
                                                 <tr>
                                                     <td>
                                                         <a href="{concat($entiyID, '.html')}">
-                                                            <xsl:value-of select="./@n"/>
+                                                            <xsl:value-of select="$autor"/>
                                                         </a>
+                                                    </td>
+                                                    <td>
+                                                        <xsl:value-of select="$title"/>
+                                                    </td>
+                                                    <td>
+                                                        <xsl:value-of select="$year"/>
                                                     </td>
                                                     <td>
                                                         <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
@@ -82,7 +96,7 @@
         
         <xsl:for-each select=".//tei:biblStruct[@xml:id]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
-            <xsl:variable name="name" select=".//tei:title[1]"></xsl:variable>
+            <xsl:variable name="name" select="@n"></xsl:variable>
             <xsl:result-document href="{$filename}">
                 <html class="h-100">
                     <head>
@@ -98,6 +112,14 @@
                                 <h1 class="text-center">
                                     <xsl:value-of select="$name"/>
                                 </h1>
+                                <div class="text-center fs-3">
+                                    <a>
+                                        <xsl:attribute name="href">
+                                            <xsl:value-of select="@corresp"/>
+                                        </xsl:attribute>
+                                        Zotero
+                                    </a>
+                                </div>
                                 <h2 class="text-center">Erwähnungen</h2>
                                 <ul>
                                     <xsl:for-each select=".//tei:note[@type='mentions']">

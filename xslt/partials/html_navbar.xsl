@@ -55,6 +55,9 @@
                                 <li class="nav-item dropdown-submenu">
                                     <a class="nav-link" href="listplace.html">Orte</a>
                                 </li>
+                                <li class="nav-item dropdown-submenu">
+                                    <a class="nav-link" href="listbibl.html">Bibliograhie</a>
+                                </li>
                             </ul>
 
                         </li>
