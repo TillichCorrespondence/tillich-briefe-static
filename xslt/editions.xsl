@@ -512,18 +512,10 @@
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="tei:signed">
-        <div class="signed editionText">
+        <div class="pt-2 text-start">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    <!--<xsl:template match="tei:space[@unit='chars' and not(@quantity = 1)]">
-        <span class="space">
-            <xsl:value-of select="
-                    string-join((for $i in 1 to @quantity
-                    return
-                        '&#x00A0;'), '')"/>
-        </span>
-    </xsl:template>-->
     <xsl:template match="tei:space[@unit = 'chars' and @quantity = '1']">
         <xsl:text>&#x00A0;</xsl:text>
     </xsl:template>
