@@ -427,9 +427,7 @@
         </xsl:choose>
     </xsl:template>
     <xsl:template match="tei:del">
-        <s>
-            <xsl:apply-templates/>
-        </s>
+        <del><xsl:apply-templates/></del>
     </xsl:template>
     <xsl:template match="tei:p[child::tei:space[@dim] and not(child::*[2]) and empty(text())]">
         <br/>

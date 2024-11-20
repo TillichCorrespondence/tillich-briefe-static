@@ -100,18 +100,8 @@
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
-    <xsl:template match="tei:del">
-        <span class="del strikethrough badge-item" style="display:none;">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
     <!-- Die folgenden beiden Regeln sollten das Leerzeichen vor und nach Streichungen mit aus- und einblenden -->
-    <xsl:template match="text()[matches(., '[\s\r\n]+$') and following-sibling::node()[1][self::tei:del]]">
-        <xsl:value-of select="replace(., '[\s\r\n]+$', '')"/>
-        <span class="del badge-item" style="display:none;">
-            <xsl:text></xsl:text>
-        </span>
-    </xsl:template>
+    
     <xsl:template match="tei:add">
         <span class="add-zeichen badge-item">↓</span>
         <span class="add-content badge-item">
