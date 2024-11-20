@@ -10,11 +10,31 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/editions/L00253.xml</String>
+                                    <String>data/editions/L00025.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>editions</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/imprint.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>imprint</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -50,7 +70,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/editions/L01115.xml</String>
+                                    <String>data/editions/L00253.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -70,11 +90,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/imprint.xml</String>
+                                    <String>data/editions/L01115.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>tex</String>
+                                        <String>editions</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -380,7 +400,7 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="openInBrowser">
-                                    <Boolean>true</Boolean>
+                                    <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputResource">
                                     <String>${pd}/html/${cfn}.html</String>

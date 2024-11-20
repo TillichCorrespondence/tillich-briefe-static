@@ -19,6 +19,9 @@
         <xsl:variable name="doc_id">
             <xsl:value-of select=".//tei:TEI/@xml:id"/>
         </xsl:variable>
+        <xsl:variable name="doc-url">
+            <xsl:value-of select="concat('https://tillich-briefe.acdh.oeaw.ac.at/', replace($doc_id, '.xml', '.html'))"/>
+        </xsl:variable>
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
         <html xmlns="http://www.w3.org/1999/xhtml">
             <head>
@@ -108,22 +111,15 @@
                                 <div class="modal-body">
                                     <p>Eine zitierfähige Angabe dieser Seite lautet:</p>
                                     <blockquote>
-                                        <xsl:value-of select=".//tei:correspAction[@type = 'sent']/tei:persName"/>
-                                        <xsl:text> an </xsl:text>
-                                        <xsl:value-of select=".//tei:correspAction[@type = 'sent']/tei:persName"/>
-                                        <xsl:text>, </xsl:text>
-                                        <xsl:value-of select=".//tei:correspAction[@type = 'sent']/tei:date"/>
-                                        <xsl:text>, in: Paul Tillich, Korrespondenz. Digitale Edition, hg. von Christian Danz und Friedrich Wilhelm Graf. https://tillich-briefe.acdh.oeaw.ac.at/</xsl:text>
-                                        <xsl:value-of select="tei:TEI/@xml:id"/>
-                                        <xsl:text>.html , Zugriff am </xsl:text>
+                                        <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
+                                        <xsl:text>, in: Paul Tillich, Korrespondenz. Digitale Edition, hg. von Christian Danz und Friedrich Wilhelm Graf. </xsl:text>
+                                        <xsl:value-of select="$doc-url"/>
+                                        <xsl:text>, Zugriff am </xsl:text>
                                         <span class="currentDate">????</span>
                                         <xsl:text>.</xsl:text>
                                     </blockquote>
                                     <p>Für gekürzte Zitate reicht die Angabe der Briefnummer aus, die
-                                    eindeutig und persistent ist: »
-                                        <b>
-                                            <xsl:value-of select="tei:TEI/@xml:id"/>
-                                        </b>«.
+                                    eindeutig und persistent ist: »<b><xsl:value-of select="tei:TEI/@xml:id"/></b>«.
                                     </p>
                                     <p>
                                     Für Belege in der Wikipedia kann diese Vorlage benutzt
@@ -131,14 +127,12 @@
                                     </p>
                                     <blockquote>
                                         <code>
-                                            <xsl:text>{{Internetquelle |url=https://tillich-briefe.acdh.oeaw.ac.at/</xsl:text>
-                                            <xsl:value-of select="tei:TEI/@xml:id"/>
-                                            <xsl:text>.html |titel=</xsl:text>
+                                            {{Internetquelle |url=<xsl:value-of select="$doc-url"/>
+                                            <xsl:text> |titel=</xsl:text>
                                             <xsl:value-of select=".//tei:titleStmt/tei:title[1]"/>
-                                            <xsl:text>|werk=Paul Tillich:</xsl:text>
-                                            <xsl:text>Briefwechsel mit Autorinnen und Autoren |hrsg=Christian Danz, Friedrich Wilhelm Graf |sprache=de |datum=</xsl:text>
+                                            <xsl:text> |werk=Paul Tillich, Korrespondenz. Digitale Edition. |hrsg=Christian Danz, Friedrich Wilhelm Graf |sprache=de | datum=</xsl:text>
                                             <xsl:value-of select="//tei:correspAction[@type = 'sent']/tei:date[@when]"/>
-                                            <xsl:text>|abruf=</xsl:text>
+                                            <xsl:text> |abruf=</xsl:text>
                                             <span class="currentDateYYYYMMDD">????</span>
                                             <xsl:text> }}</xsl:text>
                                         </code>
