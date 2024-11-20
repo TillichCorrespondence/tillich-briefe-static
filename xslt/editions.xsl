@@ -755,7 +755,11 @@
             </div>
         </div>
     </xsl:template>
-    <!-- tei:rs -->
+    
+    <xsl:template match="tei:sic">
+        <xsl:apply-templates/><xsl:text> [sic!] </xsl:text>
+    </xsl:template>
+    
     <xsl:template match="tei:rs[@ref]">
         <xsl:variable name="entity-typ" as="xs:string">
             <xsl:choose>
