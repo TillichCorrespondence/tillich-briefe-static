@@ -8,11 +8,12 @@
     <xsl:output encoding="UTF-8" media-type="text" omit-xml-declaration="true" indent="no"/>
     
 <xsl:template match="/">
-\documentclass[11pt]{article}
+%\documentclass[11pt,headings=small,a4paper]{scrartcl}
+\documentclass{article}
 \usepackage{fontspec}        % For font management
 \usepackage{polyglossia}     % For multilingual support
-\usepackage[document]{ragged2e}
-\usepackage{ulem}
+%\usepackage[document]{ragged2e} % old, linksbündig für alles
+\usepackage[headings]{ragged2e}
 
 % Set main language
 \setmainlanguage{german}
@@ -21,8 +22,11 @@
 
 \newfontfamily\greekfont{FreeSerif}
 
+%\addtokomafont{heading}{\rmfamily}
 
-\title{Tillich-Briefe }
+\setlength\parindent{2.6em}
+
+\title{Tillich-Briefe}
 \author{Tillich Briefe Team}
 \date{Herbst 2024}
 \begin{document}
@@ -37,21 +41,24 @@
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
     </xsl:variable>
 \section{<xsl:text>(</xsl:text><xsl:value-of select="$docId"/><xsl:text>) </xsl:text><xsl:value-of select="$title"/>}
-\begin{flushright}
+\begin{FlushRight}
 <xsl:apply-templates select=".//tei:dateline"/>
-\end{flushright}
+\end{FlushRight}
 <xsl:for-each select=".//tei:body//tei:div">
-\begin{center}
+\begin{FlushLeft}
 <xsl:value-of select=".//tei:opener/tei:salute//text()"/>
-\end{center}
-\begin{flushleft}
+\end{FlushLeft}
+
 <xsl:for-each select=".//tei:p[not(parent::tei:postscript)]">
+    \par
+    <xsl:if test="position()=1">\noindent </xsl:if>
     <xsl:apply-templates/>
+    \par 
 </xsl:for-each>
-\end{flushleft}
-\begin{center}
+
+\bigskip
 <xsl:apply-templates select=".//tei:closer"/>
-\end{center}
+
 </xsl:for-each>
 </xsl:for-each>
 
@@ -74,5 +81,8 @@
 <xsl:text>[</xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>
 </xsl:template>
     <xsl:template match="tei:foreign[@xml:lang='grc']"><xsl:text>\begin{greek}</xsl:text><xsl:apply-templates/><xsl:text>\end{greek}</xsl:text></xsl:template>
-    
+    <xsl:template match="tei:salute">
+        <xsl:apply-templates/>\par\smallskip
+        
+    </xsl:template>
 </xsl:stylesheet>
