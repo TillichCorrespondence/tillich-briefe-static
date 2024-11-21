@@ -27,7 +27,13 @@
 \titleformat{\section}
   {\normalfont\sffamily\large}
   {\thesection}{1em}{}
-    
+
+% TOC setup
+\usepackage{tocloft}
+\renewcommand\cftsecfont{\fontsize{10}{10}\selectfont}
+\renewcommand\cftsecpagefont{\fontsize{9}{10}\selectfont}
+\setlength\cftbeforesecskip{0pt}
+
 % Footnote setup
 \usepackage{bigfoot} %improved fn management
 \usepackage[hang, norule]{footmisc} %hanging footnotes without rule separator
