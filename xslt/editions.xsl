@@ -781,14 +781,7 @@
             <xsl:text>")</xsl:text>
         </xsl:variable>
         <xsl:variable name="link">
-            <xsl:if test="@type = 'letter'">
-                <xsl:text>./</xsl:text>
-                <xsl:value-of select="replace(@ref, '#', '')"/>
-                <xsl:text>.html</xsl:text>
-            </xsl:if>
-            <xsl:if test="not(@type = 'letter')">
                 <xsl:text>#</xsl:text>
-            </xsl:if>
         </xsl:variable>
         <span>
             <xsl:attribute name="class">
@@ -798,11 +791,10 @@
                 <xsl:attribute name="href">
                     <xsl:value-of select="$link"/>
                 </xsl:attribute>
-                <xsl:if test="not(@type = 'letter')">
+                
                     <xsl:attribute name="onclick">
                         <xsl:value-of select="$js-function-call"/>
                     </xsl:attribute>
-                </xsl:if>
                 <xsl:apply-templates/>
             </xsl:element>
         </span>
