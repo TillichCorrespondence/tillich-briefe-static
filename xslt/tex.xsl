@@ -15,6 +15,7 @@
 %\usepackage[document]{ragged2e} % old, linksbündig für alles
 \usepackage[headings]{ragged2e}
 
+
 % Set main language
 \setmainlanguage{german}
 % Set other language
@@ -24,14 +25,43 @@
 
 %\addtokomafont{heading}{\rmfamily}
 
+\usepackage{imakeidx}
+\makeatletter
+% we don't want a page break before the first subitem
+% https://tex.stackexchange.com/questions/130169/how-can-i-prevent-a-column-break-before-the-first-sub-entry-in-the-index
+% set index indent to 6pt 
+\newif\iffirst@subitem
+\def\@idxitem{%
+\pagebreak[2]\par\hangindent6\p@ % original
+\first@subitemtrue   % added
+}
+\def\subitem{%
+\par\hangindent12\p@~–\,
+    \iffirst@subitem
+    \nobreak
+    \first@subitemfalse
+    \fi
+    \hspace*{2\p@}}
+    \makeatother
+
+
 \setlength\parindent{2.6em}
 
 \title{Tillich-Briefe}
 \author{Tillich Briefe Team}
 \date{Herbst 2024}
+\makeindex[name=person,title=Personenindex,columnsep=14pt,columns=3]
+\makeindex[name=place,title=Ortsindex,columnsep=14pt,columns=3]
+\makeindex[name=work,title=Werkindex,columnsep=14pt,columns=3]
+\makeindex[name=letter,title=Briefindex,columnsep=14pt,columns=3]
+
+\usepackage[hidelinks]{hyperref}
+
 \begin{document}
 \maketitle
-<!--\tableofcontents-->
+\clearpage
+\tableofcontents
+\clearpage
 <xsl:for-each select="collection('../data/editions/?select=*.xml')/tei:TEI">
     <xsl:sort select="./@xml:id"></xsl:sort>
     <xsl:variable name="docId">
@@ -62,6 +92,11 @@
 </xsl:for-each>
 </xsl:for-each>
 
+\newpage
+\back\small
+\printindex[person]
+\printindex[place]
+%\printindex[letter]
 \end{document}
         
 </xsl:template>
@@ -84,5 +119,13 @@
     <xsl:template match="tei:salute">
         <xsl:apply-templates/>\par\smallskip
         
+    </xsl:template>
+    <xsl:template match="tei:rs">
+        <xsl:variable name="rstype" select="@type"/>
+        <xsl:variable name="rsid" select="substring-after(@ref, '#')"/>
+        <xsl:variable name="ent" select="root()//tei:back//*[@xml:id=$rsid]"/>
+        <xsl:variable name="idxlabel" select="$ent/*[contains(name(), 'Name')][1]"/>
+        <xsl:value-of select="'\index['||$rstype||']{'||$idxlabel||'} '"/>
+        <xsl:apply-templates/>
     </xsl:template>
 </xsl:stylesheet>
