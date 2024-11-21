@@ -24,6 +24,15 @@
 \newfontfamily\greekfont{FreeSerif}
 
 %\addtokomafont{heading}{\rmfamily}
+% Footnote setup
+\usepackage[hang, norule]{footmisc} %hanging footnotes without rule separator
+% smaller Footnotemark
+\deffootnotemark{\raisebox{3pt}{\scriptsize\thefootnotemark}}
+% set low penalties for split footnotes
+\footnotewidowpenalty=10
+\footnoteclubpenalty=10
+\finalfootnotewidowpenalty=10
+\interfootnotelinepenalty=0
 
 \usepackage{imakeidx}
 \makeatletter
