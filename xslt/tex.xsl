@@ -25,6 +25,7 @@
 
 %\addtokomafont{heading}{\rmfamily}
 % Footnote setup
+\usepackage{bigfoot} %improved fn management
 \usepackage[hang, norule]{footmisc} %hanging footnotes without rule separator
 % smaller Footnotemark
 \deffootnotemark{\raisebox{3pt}{\scriptsize\thefootnotemark}}
