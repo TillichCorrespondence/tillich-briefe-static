@@ -23,7 +23,11 @@
 
 \newfontfamily\greekfont{FreeSerif}
 
-%\addtokomafont{heading}{\rmfamily}
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\sffamily\large}
+  {\thesection}{1em}{}
+    
 % Footnote setup
 \usepackage{bigfoot} %improved fn management
 \usepackage[hang, norule]{footmisc} %hanging footnotes without rule separator
@@ -80,7 +84,8 @@
     <xsl:variable name="title">
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
     </xsl:variable>
-\section{<xsl:text>(</xsl:text><xsl:value-of select="$docId"/><xsl:text>) </xsl:text><xsl:value-of select="$title"/>}
+\section*{<xsl:text>(</xsl:text><xsl:value-of select="$docId"/><xsl:text>) </xsl:text><xsl:value-of select="$title"/>}
+    \addcontentsline{toc}{subsection}{<xsl:value-of select="$title"/>}
 \begin{FlushRight}
 <xsl:apply-templates select=".//tei:dateline"/>
 \end{FlushRight}
