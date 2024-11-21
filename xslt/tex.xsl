@@ -8,22 +8,15 @@
     <xsl:output encoding="UTF-8" media-type="text" omit-xml-declaration="true" indent="no"/>
     
 <xsl:template match="/">
-%\documentclass[11pt,headings=small,a4paper]{scrartcl}
 \documentclass{article}
 \usepackage{fontspec}        % For font management
 \usepackage{polyglossia}     % For multilingual support
-%\usepackage[document]{ragged2e} % old, linksbündig für alles
 \usepackage[headings]{ragged2e}
 
-
-% Set main language
-\setmainlanguage{german}
-% Set other language
-\setotherlanguage{greek}
-
+\setmainlanguage{german}  % Set main language
+\setotherlanguage{greek}  % Set other language
 \newfontfamily\greekfont{FreeSerif}
 
-%\addtokomafont{heading}{\rmfamily}
 
 \usepackage{imakeidx}
 \makeatletter
@@ -43,9 +36,8 @@
     \fi
     \hspace*{2\p@}}
     \makeatother
-
-
 \setlength\parindent{2.6em}
+
 
 \title{Tillich-Briefe}
 \author{Tillich Briefe Team}
@@ -54,7 +46,6 @@
 \makeindex[name=place,title=Ortsindex,columnsep=14pt,columns=3]
 \makeindex[name=work,title=Werkindex,columnsep=14pt,columns=3]
 \makeindex[name=letter,title=Briefindex,columnsep=14pt,columns=3]
-
 \usepackage[hidelinks]{hyperref}
 
 \begin{document}
@@ -71,10 +62,11 @@
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
     </xsl:variable>
 \section{<xsl:text>(</xsl:text><xsl:value-of select="$docId"/><xsl:text>) </xsl:text><xsl:value-of select="$title"/>}
-\begin{FlushRight}
-<xsl:apply-templates select=".//tei:dateline"/>
-\end{FlushRight}
-<xsl:for-each select=".//tei:body//tei:div">
+
+    <xsl:for-each select=".//tei:body//tei:div[@type='writingSession']">
+    \begin{FlushRight}
+    <xsl:apply-templates select=".//tei:dateline"/>
+    \end{FlushRight}
 \begin{FlushLeft}
 <xsl:value-of select=".//tei:opener/tei:salute//text()"/>
 \end{FlushLeft}
