@@ -33,6 +33,9 @@
 \renewcommand\cftsecpagefont{\fontsize{9}{10}\selectfont}
 \setlength\cftbeforesecskip{0pt}
 
+% LOF setup % abuse list of figures for short miniTOC on titlepage
+\addto\captionsgerman{\renewcommand{\listfigurename}{}} %empty title for LOF
+
 % Footnote setup
 \usepackage{bigfoot} %improved fn management
 \usepackage[hang, norule]{footmisc} %hanging footnotes without rule separator
@@ -78,16 +81,21 @@
 
 \title{Tillich-Briefe}
 \author{Tillich Briefe Team}
-\date{Herbst 2024}
-\makeindex[name=person,title=Personenindex,columnsep=14pt,columns=3]
-\makeindex[name=place,title=Ortsindex,columnsep=14pt,columns=3]
-\makeindex[name=work,title=Werkindex,columnsep=14pt,columns=3]
-\makeindex[name=letter,title=Briefindex,columnsep=14pt,columns=3]
-\makeindex[name=bible,title=Bibelindex,columnsep=14pt,columns=3]
+\date{Herbst 2024 \\{\tiny (version: \today)}}
+
+\indexsetup{level=\section}
+\makeindex[intoc,name=person,title=Personenindex,columnsep=14pt,columns=3]
+\makeindex[intoc,name=place,title=Ortsindex,columnsep=14pt,columns=3]
+\makeindex[intoc,name=work,title=Werkindex,columnsep=14pt,columns=1]
+\makeindex[intoc,name=letter,title=Briefindex,columnsep=14pt,columns=3]
+\makeindex[intoc,name=bible,title=Bibelindex,columnsep=14pt,columns=3]
+
 \usepackage[hidelinks]{hyperref}
 
 \begin{document}
 \maketitle
+
+\listoffigures
 \clearpage
 <xsl:for-each select="collection('../data/editions/?select=*.xml')/tei:TEI">
     <xsl:sort select="./@xml:id"></xsl:sort>
@@ -126,12 +134,14 @@
 </xsl:for-each>
 </xsl:for-each>
 
-\newpage
+
 \back\small
-\printindex[person]
-\printindex[place]
-\printindex[letter]
-\printindex[bible]
+\clearpage
+\addcontentsline{lof}{section}{Personenindex\ref{persind}}\label{persind}\printindex[person]
+\addcontentsline{lof}{section}{Ortsindex\ref{placind}}\label{placind}\printindex[place]
+\addcontentsline{lof}{section}{Briefverweise\ref{lettind}}\label{lettind}\printindex[letter]
+\addcontentsline{lof}{section}{Bibelverweise\ref{biblind}}\label{biblind}\printindex[bible]
+\addcontentsline{lof}{section}{In Briefen zitierte Literatur\ref{workind}}\label{workind}\printindex[work]
 
 \clearpage
 {
