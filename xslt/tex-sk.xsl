@@ -172,7 +172,22 @@
         <xsl:variable name="rstype" select="@type"/>
         <xsl:variable name="rsid" select="substring-after(@ref, '#')"/>
         <xsl:variable name="ent" select="root()//tei:back//*[@xml:id=$rsid]"/>
-        <xsl:variable name="idxlabel" select="$ent/*[contains(name(), 'Name')][1]"/>
+        <xsl:variable name="idxlabel">
+            <xsl:choose>
+                <xsl:when test="$rstype=('person','place')">
+                    <xsl:value-of select="$ent/*[contains(name(), 'Name')][1]"/>
+                </xsl:when>
+                <xsl:when test="$rstype='work'">
+                    <xsl:value-of select="$ent/@n"/>
+                </xsl:when>
+                <xsl:when test="$rstype='bible'">
+                    <xsl:value-of select="./@ref"/>
+                </xsl:when>
+                <xsl:when test="$rstype='letter'">
+                    <xsl:value-of select="$ent//text()"/>
+                </xsl:when>
+            </xsl:choose>
+        </xsl:variable>
         <xsl:value-of select="'\index['||$rstype||']{'||$idxlabel||'} '"/>
         <xsl:apply-templates/>
     </xsl:template>
