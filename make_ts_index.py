@@ -2,7 +2,7 @@ import glob
 import os
 
 from typesense.api_call import ObjectNotFound
-from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
+from acdh_cfts_pyutils import TYPESENSE_CLIENT as client, CFTS_COLLECTION
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import (
     extract_fulltext,
@@ -10,12 +10,14 @@ from acdh_tei_pyutils.utils import (
     make_entity_label,
     check_for_hash,
 )
-from acdh_xml_pyutils.xml import NSMAP
 from tqdm import tqdm
 
 
 files = glob.glob("./data/editions/*.xml")
-tag_blacklist = ["{http://www.tei-c.org/ns/1.0}abbr"]
+tag_blacklist = [
+    "{http://www.tei-c.org/ns/1.0}abbr",
+    "{http://www.tei-c.org/ns/1.0}del",
+]
 
 COLLECTION_NAME = "tillich-briefe"
 MIN_DATE = "1887"
@@ -46,6 +48,7 @@ current_schema = {
         {"name": "persons", "type": "object[]", "facet": True, "optional": True},
         {"name": "places", "type": "object[]", "facet": True, "optional": True},
         {"name": "works", "type": "object[]", "facet": True, "optional": True},
+        {"name": "bibles", "type": "string[]", "facet": True, "optional": True},
     ],
 }
 
@@ -112,22 +115,32 @@ for x in tqdm(files, total=len(files)):
     record["receiver"].append({"label": receiver_label, "id": receiver_id})
 
     record["persons"] = []
+    cfts_record["persons"] = []
     for y in doc.any_xpath(".//tei:back//tei:person"):
         item = {"id": get_xmlid(y), "label": make_entity_label(y.xpath("./*[1]")[0])[0]}
         record["persons"].append(item)
+        cfts_record["persons"].append(item["label"])
 
     record["works"] = []
+    cfts_record["works"] = []
     for y in doc.any_xpath(".//tei:back//tei:biblStruct"):
         item = {
             "id": get_xmlid(y),
             "label": y.attrib["n"],
         }
         record["works"].append(item)
+        cfts_record["works"].append(item["label"])
 
     record["places"] = []
+    cfts_record["places"] = []
     for y in doc.any_xpath(".//tei:back//tei:place"):
         item = {"id": get_xmlid(y), "label": make_entity_label(y.xpath("./*[1]")[0])[0]}
         record["places"].append(item)
+        cfts_record["places"].append(item["label"])
+
+    record["bibles"] = []
+    for y in doc.any_xpath(".//tei:rs[@type='bible' and @ref]/@ref"):
+        record["bibles"].append(y)
 
     record["full_text"] = extract_fulltext(body, tag_blacklist=tag_blacklist)
     cfts_record["full_text"] = record["full_text"]
@@ -138,6 +151,6 @@ make_index = client.collections[COLLECTION_NAME].documents.import_(records)
 print(make_index)
 print(f"done with indexing {COLLECTION_NAME}")
 
-# make_index = CFTS_COLLECTION.documents.import_(cfts_records, {"action": "upsert"})
-# print(make_index)
-# print(f"done with cfts-index {COLLECTION_NAME}")
+make_index = CFTS_COLLECTION.documents.import_(cfts_records, {"action": "upsert"})
+print(make_index)
+print(f"done with cfts-index {COLLECTION_NAME}")
