@@ -1,133 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml"
+<xsl:stylesheet 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns:mam="whatever"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0" exclude-result-prefixes="xsl tei xs">
-    <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="yes" omit-xml-declaration="yes"/>
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    version="2.0" exclude-result-prefixes="xsl tei xs">
+    <xsl:output encoding="UTF-8" media-type="text/html" method="html" version="5.0" indent="yes" omit-xml-declaration="yes"/>
+    
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
-    <xsl:import href="./partials/entities.xsl"/>
-    <xsl:variable name="teiSource" select="'listperson.xml'"/>
+    <xsl:import href="partials/tabulator_dl_buttons.xsl"/>
+    <xsl:import href="partials/tabulator_js.xsl"/>
+    <xsl:import href="./partials/person.xsl"/>
+
     <xsl:template match="/">
-        <xsl:variable name="doc_title" select="'Verzeichnis erwähnter Personen'"/>
-        <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
-        <html lang="de">
+        <xsl:variable name="doc_title">
+            <xsl:value-of select="'Personenregister'"/>
+        </xsl:variable>
+        <html class="h-100" lang="de">
+            
             <head>
                 <xsl:call-template name="html_head">
-                    <xsl:with-param name="html_title" select="$doc_title"/>
+                    <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
             </head>
-            <body class="page">
-                <div class="hfeed site" id="page">
-                    <xsl:call-template name="nav_bar"/>
-                    <div class="container-fluid">
-                        <div class="card">
-                            <div class="card-header" style="text-align:center">
-                                <h1>
-                                    <xsl:value-of select="$doc_title"/>
-                                </h1>
-                            </div>
-                            <div class="w-100 text-center">
-                                <div class="spinner-grow table-loader" role="status">
-                                    <span class="sr-only">Wird geladen…</span>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <table class="table table-striped display" id="tocTable" style="width:100%">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">Name</th>
-                                            <th scope="col">Lebensdaten</th>
-                                            <th scope="col">Beruf</th>
-                                            <th scope="col">Briefe</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <xsl:for-each select=".//tei:person[@xml:id and .//tei:note[@type='mentions']]">
-                                            <xsl:variable name="entiyID" select="replace(@xml:id, '#', '')"/>
-                                            <xsl:variable name="entity" as="node()" select="."/>
-                                            <xsl:if test="$entity/tei:persName[1]/text()">
-                                                <tr>
-                                                    <td>
-                                                        <a>
-                                                            <xsl:attribute name="href">
-                                                                <xsl:value-of select="concat($entity/@xml:id, '.html')"/>
-                                                            </xsl:attribute>
-                                                            <xsl:value-of select="$entity/tei:persName[1]"/>
-                                                        </a>
-                                                    </td>
-                                                    <td>
-                                                        <!-- <xsl:value-of select="mam:lebensdaten($entity)"/> -->
+            
+            <body class="d-flex flex-column h-100">
+                <xsl:call-template name="nav_bar"/>
 
-                                                    </td>
-                                                    <td>
-                                                        <xsl:if test="$entity/descendant::tei:occupation">
-                                                            <xsl:value-of select="$entity/descendant::tei:occupation[1]"/>
-                                                        </xsl:if>
-                                                    </td>
-                                                    <td>
-                                                        <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
-                                                    </td>
-                                                </tr>
-                                            </xsl:if>
-                                        </xsl:for-each>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
+                <main class="flex-shrink-0 flex-grow-1">
+                    
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item">
+                                <a href="index.html">Tillich-Briefe</a>
+                            </li>
+                            <li class="breadcrumb-item active" aria-current="page"><xsl:value-of select="$doc_title"/></li>
+                        </ol>
+                    </nav>
+                    <div class="container">
+                        <h1 class="display-5 text-center"><xsl:value-of select="$doc_title"/></h1>
+                        <div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Personen</div>
+
+                        <table id="myTable">
+                            <thead>
+                                <tr>
+                                    <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-download="false" tabulator-minWidth="350">Name</th>
+                                    <th scope="col" tabulator-visible="false" tabulator-download="true">name_</th>
+                                    <th scope="col" tabulator-headerFilter="input" tabulator-formatter="textarea">Beruf</th>
+                                    <th scope="col" tabulator-headerFilter="input" tabulator-maxWidth="200">Erwähnungen</th>
+                                    <th scope="col" tabulator-visible="false">ID</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <xsl:for-each select=".//tei:person[@xml:id and ./tei:noteGrp]">
+                                    <xsl:variable name="id">
+                                        <xsl:value-of select="data(@xml:id)"/>
+                                    </xsl:variable>
+                                    <tr>
+                                        <td>
+                                            <a>
+                                              <xsl:attribute name="href">
+                                              <xsl:value-of select="concat($id, '.html')"/>
+                                              </xsl:attribute>
+                                                <xsl:value-of select=".//tei:persName/text()"/>
+                                            </a>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select=".//tei:persName/text()"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select=".//tei:occupation/text()"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select="count(.//tei:noteGrp//tei:note)"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select="$id"/>
+                                        </td>
+                                    </tr>
+                                </xsl:for-each>
+                            </tbody>
+                        </table>
+                        <xsl:call-template name="tabulator_dl_buttons"/>
                     </div>
-                    <xsl:call-template name="html_footer"/>
-                    <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script>
-                    <script type="text/javascript" src="js/dt.js"></script>
-                    <script>
-                        $(document).ready(function () {
-                        createDataTable('tocTable')
-                        });
-                    </script>
-                </div>
+                </main>
+                <xsl:call-template name="html_footer"/>
+                <xsl:call-template name="tabulator_js"/>
             </body>
         </html>
-        <xsl:for-each select=".//tei:person[@xml:id and .//tei:note[@type='mentions']]">
+
+
+        <xsl:for-each select=".//tei:person[@xml:id and ./tei:noteGrp]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
-            <xsl:variable name="entity" select="." as="node()"/>
+            <xsl:variable name="name" select="normalize-space(string-join(./tei:persName[1]//text()))"></xsl:variable>
             <xsl:result-document href="{$filename}">
-                <html xmlns="http://www.w3.org/1999/xhtml">
-                    <xsl:call-template name="html_head">
-                        <xsl:with-param name="html_title" select="tei:persName"/>
-                    </xsl:call-template>
-                    <body class="page">
-                        <div class="hfeed site" id="page">
-                            <xsl:call-template name="nav_bar"/>
-                            <div class="container-fluid">
-                                <div class="card">
-                                    <div class="card-header">
-                                        <h2 align="center">
-                                            <xsl:value-of select="tei:persName"/>
-                                            <xsl:text>&#160;</xsl:text>
-                                            <xsl:choose>
-                                                <xsl:when test="child::tei:birth and child::tei:death">
-                                                    <span class="lebensdaten">
-                                                        <xsl:text>(</xsl:text>
-                                                        <xsl:value-of select="child::tei:birth/tei:date"/>
-                                                        <xsl:text>&#160;</xsl:text>
-                                                        <xsl:value-of select="child::tei:birth/tei:settlement/tei:placeName"/>
-                                                        <xsl:text> - </xsl:text>
-                                                        <xsl:value-of select="child::tei:death/tei:date"/>
-                                                        <xsl:text>&#160;</xsl:text>
-                                                        <xsl:value-of select="child::tei:death/tei:settlement/tei:placeName"/>
-                                                        <xsl:text>)</xsl:text>
-                                                    </span>
-                                                </xsl:when>
-                                            </xsl:choose>
-                                        </h2>
-                                    </div>
-                                    <xsl:call-template name="person_detail"/>
-                                </div>
+                <html class="h-100" lang="de">
+                    <head>
+                        <xsl:call-template name="html_head">
+                            <xsl:with-param name="html_title" select="$name"></xsl:with-param>
+                        </xsl:call-template>
+                    </head>
+
+                    <body class="d-flex flex-column h-100">
+                        <xsl:call-template name="nav_bar"/>
+                        <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item">
+                                    <a href="index.html">Tillich-Briefe</a>
+                                </li>
+                                <li class="breadcrumb-item">
+                                    <a href="listperson.html">Personenregister</a>
+                                </li>
+                            </ol>
+                        </nav>
+                        <main class="flex-shrink-0 flex-grow-1">
+                            <div class="container">
+                                <h1 class="display-5 text-center">
+                                    <xsl:value-of select="$name"/>
+                                </h1>
+                                <xsl:call-template name="person_detail"/>  
                             </div>
-                            <xsl:call-template name="html_footer"/>
-                        </div>
+                        </main>
+                        <xsl:call-template name="html_footer"/>
                     </body>
                 </html>
             </xsl:result-document>

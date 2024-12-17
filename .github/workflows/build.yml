@@ -3,7 +3,7 @@ name: Build and publish
 on:
   workflow_dispatch:
   schedule:
-  - cron: "49 4 * * *"
+  - cron: "22 3 * * *"
 
 permissions:
   contents: read
@@ -41,15 +41,13 @@ jobs:
         pip install -r requirements.txt
     - name: Fetch data
       run: ./fetch_data.sh
-    - name: Fetch imprint
-      run: ./shellscripts/dl_imprint.sh
     - name: Process Data
       run: ./process.sh
-    - name: Fulltext Index
-      run: python3 make_ts_index.py
+    # - name: Fulltext Index
+    #   run: python3 make_ts_index.py
     - name: Build
       run: ant
-    - name: Make PDF
+    - name: make pdfs
       run: ./make_pdf.sh
     - name: Setup Pages
       uses: actions/configure-pages@v5

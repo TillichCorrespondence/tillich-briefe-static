@@ -1,76 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml"
+<xsl:stylesheet 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0" exclude-result-prefixes="xsl tei xs">
-    <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="yes" omit-xml-declaration="yes"/>
-
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    version="2.0" exclude-result-prefixes="xsl tei xs">
+   
+    <xsl:output encoding="UTF-8" media-type="text/html" method="html" version="5.0" indent="yes" omit-xml-declaration="yes"/>
+    
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="partials/html_footer.xsl"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title" select="'Volltextsuche'"/>
-        <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
-        <html xmlns="http://www.w3.org/1999/xhtml">
+        <html class="h-100" lang="de">
             <head>
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
-                <script src="js/typesense-config.js"></script>
             </head>
-
-            <body class="page">
-                <div class="hfeed site" id="page">
-                    <xsl:call-template name="nav_bar"/>
-
-                    <div class="container-fluid">
-                        <div class="card">
-                            <div class="card-header" style="text-align:center">
-                                <h1>
-                                    <xsl:value-of select="$doc_title"/>
-                                </h1>
-                            </div>
-                            <div class="card-body">
-                                <div class="ais-InstantSearch">
-                                    <div class="row">
-                                        <div class="col-md-4">
-                                            <div id="stats-container"></div>
-                                            <div id="searchbox"></div>
-                                            <div id="current-refinements"></div>
-                                            <div id="clear-refinements"></div>
-                                            <h4>Jahr</h4>
-                                            <div id="range-input"></div>
-                                            <h4>Sortierung</h4>
-                                            <div id="sort-by"></div>
-                                            <h4>Sender</h4>
-                                            <div id="refinement-list-sender"></div>
-                                            <h4>Empfänger</h4>
-                                            <div id="refinement-list-receiver"></div>
-                                            <h4>Personen</h4>
-                                            <div id="refinement-list-persons"></div>
-                                            <h4>Orte</h4>
-                                            <div id="refinement-list-places"></div>
-                                            <h4>Werke</h4>
-                                            <div id="refinement-list-works"></div>
-                                        </div>
-                                        <div class="col-md-8">
-                                            <div id="hits"></div>
-                                            <div id="pagination"></div>
-                                        </div>
-                                    </div>
+            
+            <body class="d-flex flex-column h-100">
+                <xsl:call-template name="nav_bar"/>
+                <main class="flex-shrink-0 flex-grow-1">
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item">
+                                <a href="index.html">Tillich-Briefe</a>
+                            </li>
+                            <li class="breadcrumb-item active" aria-current="page">Volltextsuche</li>
+                        </ol>
+                    </nav>
+                    <div class="container pb-4">
+                        <h1 class="display-5 text-center">
+                            <xsl:value-of select="$doc_title"/>
+                        </h1>
+                        <div class="text-center p-3">
+                            <div id="searchbox"/>
+                            <div id="stats-container"/>
+                            <div id="current-refinements"/>
+                            <div id="clear-refinements"/>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-md-3">
+                                <h2 class="visually-hidden">Facets</h2>
+                                <div>
+                                    <h3>Brief</h3>
+                                    <div id="refinement-list-sender" class="pb-3"></div>
+                                    <div id="refinement-list-receiver" class="pb-3"></div>
+                                    <div id="refinement-list-year" class="pb-3"></div>
                                 </div>
+                                <div>
+                                    <h3>Entitäten</h3>
+                                    <div id="refinement-list-persons" class="pb-3"></div>
+                                    <div id="refinement-list-places" class="pb-3"></div>
+                                    <div id="refinement-list-works" class="pb-3"></div>
+                                    <div id="refinement-list-bibles" class="pb-3"></div>
+                                </div>
+                                <div>
+                                    <h3>Sortierung</h3>
+                                    <div id="sort-by"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-9">
+                                <div id="pagination" class="p-3"/>
+                                <div id="hits"/>
                             </div>
                         </div>
                     </div>
-
-                    <xsl:call-template name="html_footer"/>
-
-                </div>
-                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7/themes/algolia-min.css" />
-    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.46.0"></script>
-    <script
-        src="https://cdn.jsdelivr.net/npm/typesense-instantsearch-adapter@2/dist/typesense-instantsearch-adapter.min.js"></script>
-                <script src="js/ts_index.js"></script>
+                </main>
+                <xsl:call-template name="html_footer"/>
+                <link rel="stylesheet"
+                    href="https://cdn.jsdelivr.net/npm/instantsearch.css@7/themes/algolia-min.css"/>
+                <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.46.0"/>
+                <script src="https://cdn.jsdelivr.net/npm/typesense-instantsearch-adapter@2/dist/typesense-instantsearch-adapter.min.js"/>
+                <script src="js/search.js"/>
             </body>
         </html>
     </xsl:template>

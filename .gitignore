@@ -154,7 +154,6 @@ desktop.ini
 # MacOS
 .DS_Store
 secret.sh
-vendor/
 composer.*
 html/arche.ttl
 hansi.csv
@@ -168,3 +167,4 @@ tex/tmp.tex
 .secret
 tex/sk-tmp.tex
 html/tillich-briefe-sk.pdf
+html/js-data/calendarData.json

@@ -13,4 +13,5 @@ exclude =
     appcreator
     webpage
     venv
+    make_corresp_toc.py
 [isort]

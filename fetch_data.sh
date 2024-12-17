@@ -23,7 +23,6 @@ rm ./data/indices/listbibl.xml
 wget https://raw.githubusercontent.com/TillichCorrespondence/tillich-zotero/refs/heads/main/listbibl.xml -P ./data/indices
 
 echo "fetching imprint"
-rm ${IMPRINT_XML}
 echo '<?xml version="1.0" encoding="UTF-8"?>' >> ${IMPRINT_XML}
 echo "<root>" >> ${IMPRINT_XML}
 echo '<div lang="de">' >> ${IMPRINT_XML}
@@ -35,4 +34,5 @@ echo "</div>" >> ${IMPRINT_XML}
 echo "</root>" >> ${IMPRINT_XML}
 
 python check_files.py
+python fixing_refs.py
 python remove_lb_from_title.py

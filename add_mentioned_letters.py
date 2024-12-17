@@ -27,7 +27,9 @@ for y in tqdm(files, total=len(files)):
 
     if mentioned_letters:
         letter_list = ET.Element("{http://www.tei-c.org/ns/1.0}list")
-        letter_list.attrib["{http://www.w3.org/XML/1998/namespace}id"] = "mentioned_letters"
+        letter_list.attrib["{http://www.w3.org/XML/1998/namespace}id"] = (
+            "mentioned_letters"
+        )
         letter_head = ET.Element("{http://www.tei-c.org/ns/1.0}head")
         letter_head.text = "erwähnte Briefe"
         letter_list.append(letter_head)

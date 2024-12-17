@@ -1,5 +1,4 @@
-acdh-cidoc-pyutils
-acdh-cfts-pyutils
 acdh-tei-pyutils
-typesense
+acdh-cfts-pyutils
+acdh-cidoc-pyutils
 pandas
