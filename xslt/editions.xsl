@@ -374,4 +374,8 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+    <xsl:template match="tei:add[@place]">
+        <abbr title="{'Einfügung: '||@place}">&#8990;</abbr><xsl:apply-templates/><abbr title="Ende der Einfügung">&#8989;</abbr>
+        
+    </xsl:template>
 </xsl:stylesheet>
