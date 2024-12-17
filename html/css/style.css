@@ -69,7 +69,6 @@ button.highlight {
   transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 
-
 .highlight {
   background-color: var(--dse-base-color);
   color: white;
@@ -96,4 +95,29 @@ footer a {
   text-decoration: underline;
   text-decoration-style: dotted;
   color: var(--dse-base-color);
+}
+
+/* define <hi rend> classes */
+
+.dse-sup {
+  position: relative;
+  top: -0.5em;
+  font-size: 80%;
+}
+
+
+.dse-u {
+  text-decoration: underline;
+}
+
+.dse-uu {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
+.dse-i {
+  font-style: italic;
+}
+.dse-it {
+  font-style: italic;
 }

@@ -365,4 +365,13 @@
     <xsl:template match="tei:unclear">
         <xsl:text>{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>
     </xsl:template>
+    
+    <xsl:template match="tei:hi[@rend]">
+        <span>
+            <xsl:attribute name="class">
+                <xsl:value-of select="concat('dse-', @rend)"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
 </xsl:stylesheet>
