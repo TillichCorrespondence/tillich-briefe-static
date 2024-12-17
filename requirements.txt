@@ -1,5 +1,0 @@
-acdh-cidoc-pyutils
-acdh-cfts-pyutils
-acdh-tei-pyutils
-typesense
-pandas
