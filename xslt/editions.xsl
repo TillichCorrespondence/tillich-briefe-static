@@ -367,12 +367,26 @@
     </xsl:template>
     
     <xsl:template match="tei:hi[@rend]">
-        <span>
-            <xsl:attribute name="class">
-                <xsl:value-of select="concat('dse-', @rend)"/>
-            </xsl:attribute>
-            <xsl:apply-templates/>
-        </span>
+    <xsl:choose>
+        <xsl:when test="@rend = 'aq' or @rend = 'b' or @rend = 'g' or @rend = 'i' or @rend = 'u' or @rend = 'uu'">
+            <span class="dse-i">
+                <xsl:apply-templates/>
+            </span>
+        </xsl:when>
+        <xsl:when test="@rend = 'sup'">
+            <sup>
+                <xsl:apply-templates/>
+            </sup>
+        </xsl:when>
+        <xsl:otherwise>
+            <span>
+                <xsl:attribute name="class">
+                    <xsl:value-of select="concat('dse-', @rend)"/>
+                </xsl:attribute>
+                <xsl:apply-templates/>
+            </span>
+        </xsl:otherwise>
+    </xsl:choose>
     </xsl:template>
     <xsl:template match="tei:add[@place]">
         <abbr title="{'Einfügung: '||@place}">&#8990;</abbr><xsl:apply-templates/><abbr title="Ende der Einfügung">&#8989;</abbr>
