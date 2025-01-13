@@ -369,7 +369,7 @@
     <xsl:template match="tei:hi[@rend]">
     <xsl:choose>
         <xsl:when test="@rend = 'aq' or @rend = 'b' or @rend = 'g' or @rend = 'i' or @rend = 'u' or @rend = 'uu'">
-            <span class="dse-i">
+            <span class="dse-italics">
                 <xsl:apply-templates/>
             </span>
         </xsl:when>
@@ -390,6 +390,7 @@
     </xsl:template>
     <xsl:template match="tei:add[@place]">
         <abbr title="{'Einfügung: '||@place}">&#8990;</abbr><xsl:apply-templates/><abbr title="Ende der Einfügung">&#8989;</abbr>
-        
     </xsl:template>
+
+    <xsl:template match="tei:supplied">[<xsl:apply-templates/>]</xsl:template>
 </xsl:stylesheet>
