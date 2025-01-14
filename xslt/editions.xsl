@@ -120,8 +120,8 @@
                                 <div class="pt-3">
                                     <div class="ps-5 pe-5" id="pdf-footnotes">
                                         <h2 class="visually-hidden">Fußnoten, Anmerkungen</h2>
-                                        <xsl:for-each select=".//tei:note[@type='ea']">
-                                            <div class="footnotes"  >
+                                        <xsl:for-each select=".//tei:note[@type='ea' or @type='eb']">
+                                            <div class="footnotes">
                                                 <xsl:element name="a">
                                                     <xsl:attribute name="name">
                                                         <xsl:text>fn</xsl:text>
