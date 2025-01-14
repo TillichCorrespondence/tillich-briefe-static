@@ -40,6 +40,7 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"/>
                 </xsl:call-template>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
             </head>
 
             <body class="d-flex flex-column h-100">
@@ -74,7 +75,7 @@
                                 </xsl:if>
                             </div>
                             <div class="col-md-8 col-lg-8 col-sm-12 text-center">
-                                <h1>
+                                <h1 id="pdf-title">
                                     <xsl:value-of select="$doc_title"/>
                                 </h1>
                                 <div>
@@ -85,6 +86,7 @@
                                                 Dokument</span>
                                         </i>
                                     </a>
+                                    <button id="download-pdf">Download PDF</button>
                                 </div>
                             </div>
                             <div class="col-md-2 col-lg-2 col-sm-12 text-end">
@@ -105,14 +107,14 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-6">
-                                <div>
+                                <div id="pdf-transcript">
                                     <h2 class="visually-hidden">Der editierte Text</h2>
                                     <xsl:apply-templates select=".//tei:body"/>
                                 </div>
                                 <hr/>
                                 <div class="pt-3">
                                     <h2 class="visually-hidden">Fußnoten, Anmerkungen</h2>
-                                    <div class="ps-5 pe-5">
+                                    <div class="ps-5 pe-5" id="pdf-footnotes">
                                         <xsl:for-each select=".//tei:note[@type='ea']">
                                             <div class="footnotes" id="{local:makeId(.)}">
                                                 <xsl:element name="a">
@@ -142,7 +144,7 @@
                             </div>
                             <div class="col-lg-1"/>
                             <div class="col-lg-5">
-                                <div>
+                                <div id="pdf-metadata">
                                     <h2 class="fs-3">Überlieferung</h2>
                                     <dl>
                                         <dt>Signatur</dt>
@@ -319,7 +321,7 @@
                             </div>
                             <div class="col-md-2"/>
                         </div>
-                        
+                        <div id="filename" class="visually-hidden"><xsl:value-of select="replace($teiSource, '.xml', '.pdf')"/></div>
                     </div>
                     <xsl:for-each select="//tei:back">
                         <div class="tei-back pt-3">
@@ -330,6 +332,7 @@
                 </main>
                 <xsl:call-template name="html_footer"/>
                 <script src="js/main.js"></script>
+                <script src="js/pdf.js"></script>
             </body>
 
         </html>
