@@ -1,22 +1,32 @@
 document.getElementById("download-pdf").addEventListener("click", function () {
-  console.log("hallo");
+  var filename = document.getElementById("filename").textContent;
+  
+  console.log(`saving pdf as ${filename}`);
   var container = document.createElement("div");
-  var pdfTitle = document.getElementById("pdf-title");
+  var pdfTitle = document.getElementById("pdf-title").cloneNode(true);
   pdfTitle.classList.add("fs-5");
-  var pdfTranscript = document.getElementById("pdf-transcript");
-  var pdfFootnotes = document.getElementById("pdf-footnotes");
-  var pdfMetadata = document.getElementById("pdf-metadata");
-  container.appendChild(pdfTitle.cloneNode(true));
-  container.appendChild(pdfTranscript.cloneNode(true));
-  container.appendChild(pdfFootnotes.cloneNode(true));
-  container.appendChild(pdfMetadata.cloneNode(true));
+  var pdfTranscript = document.getElementById("pdf-transcript").cloneNode(true);
+  // container.style.fontSize = "12px";
+  // container.style.lineHeight = "1.5";
+  var pdfFootnotes = document.getElementById("pdf-footnotes").cloneNode(true);
+  var pdfEntities = document.getElementById("pdf-entities").cloneNode(true);
+  pdfEntities.classList.remove("visually-hidden");
+  var pdfMetadata = document.getElementById("pdf-metadata").cloneNode(true);
+  container.appendChild(pdfTitle);
+  container.appendChild(pdfTranscript);
+  var footnotesSeparator = document.createElement("hr");
+  container.appendChild(footnotesSeparator);
+  container.appendChild(pdfFootnotes);
+  var registerSeparator = document.createElement("hr");
+  container.appendChild(registerSeparator);
+  container.appendChild(pdfEntities);
+  container.appendChild(pdfMetadata);
   document.body.appendChild(container);
-  var entityElements = container.querySelectorAll('[class*="entity"]');
-  entityElements.forEach(function (element) {
-    element.style.textDecoration = "underline dashed";
-  });
+  var footnoteMarkers = container.getElementsByClassName("pdf-entitiy-footnote-markers");
+  for (var i = 0; i < footnoteMarkers.length; i++) {
+    footnoteMarkers[i].classList.remove("visually-hidden");
+  }
 
-  var filename = document.getElementById("filename").value;
   html2pdf(container, {
     margin: 1,
     pagebreak: { mode: ["avoid-all", "css", "legacy"] },

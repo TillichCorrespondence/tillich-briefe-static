@@ -80,13 +80,18 @@
                                 </h1>
                                 <div>
                                     <a href="{$teiSource}">
-                                        <i class="bi bi-download fs-2" title="Zum TEI/XML Dokument"
+                                        <i class="bi bi-filetype-xml fs-2" title="Zum TEI/XML Dokument"
                                             visually-hidden="true">
                                             <span class="visually-hidden">Zum TEI/XML
                                                 Dokument</span>
                                         </i>
                                     </a>
-                                    <button id="download-pdf">Download PDF</button>
+                                    <a id="download-pdf" href="#">
+                                        <i class="ps-1 bi bi-filetype-pdf fs-2" title="Als PDF herunterladen"
+                                            visually-hidden="true">
+                                            <span class="visually-hidden">Als PDF herunterladen</span>
+                                        </i>
+                                    </a>
                                 </div>
                             </div>
                             <div class="col-md-2 col-lg-2 col-sm-12 text-end">
@@ -113,10 +118,10 @@
                                 </div>
                                 <hr/>
                                 <div class="pt-3">
-                                    <h2 class="visually-hidden">Fußnoten, Anmerkungen</h2>
                                     <div class="ps-5 pe-5" id="pdf-footnotes">
+                                        <h2 class="visually-hidden">Fußnoten, Anmerkungen</h2>
                                         <xsl:for-each select=".//tei:note[@type='ea']">
-                                            <div class="footnotes" id="{local:makeId(.)}">
+                                            <div class="footnotes"  >
                                                 <xsl:element name="a">
                                                     <xsl:attribute name="name">
                                                         <xsl:text>fn</xsl:text>
@@ -137,6 +142,50 @@
                                                     </a>
                                                 </xsl:element>
                                                 <xsl:apply-templates/>
+                                            </div>
+                                        </xsl:for-each>
+                                    </div>
+                                </div>
+                                <div class="pt-3">
+                                     <div class="ps-5 pe-5 visually-hidden" id="pdf-entities">
+                                         <h2 class="visually-hidden">Register</h2>
+                                        <xsl:for-each select=".//tei:rs[starts-with(@ref, '#') and @type]">
+                                            <xsl:variable name="rstype" select="@type"/>
+                                            <xsl:variable name="rsid" select="replace(@ref, '#', '')"/>
+                                            <xsl:variable name="ent" select="root()//tei:back//*[@xml:id=$rsid]"/>
+                                            <xsl:variable name="idxlabel">
+                                                <xsl:choose>
+                                                    <xsl:when test="$rstype=('person','place')">
+                                                        <xsl:value-of select="$ent/*[contains(name(), 'Name')][1]"/>
+                                                    </xsl:when>
+                                                    <xsl:when test="$rstype='work'">
+                                                        <xsl:value-of select="$ent/@n"/>
+                                                    </xsl:when>
+                                                    <xsl:when test="$rstype='bible'">
+                                                        <xsl:value-of select="./@ref"/>
+                                                    </xsl:when>
+                                                    <xsl:when test="$rstype='letter'">
+                                                        <xsl:value-of select="$ent//text()"/>
+                                                    </xsl:when>
+                                                </xsl:choose>
+                                            </xsl:variable>
+                                            <div>
+                                                <xsl:attribute name="id">
+                                                    <xsl:value-of select="$rsid"/>
+                                                    <xsl:number level="any" format="a" count="tei:rs[starts-with(@ref, '#') and @type]"/>
+                                                    <xsl:text>endnote</xsl:text>
+                                                </xsl:attribute>
+                                                <sup>
+                                                    <a>
+                                                        <xsl:attribute name="href">
+                                                            <xsl:value-of select="concat('#', $rsid)"/>
+                                                            <xsl:number level="any" format="a" count="tei:rs[starts-with(@ref, '#') and @type]"/>
+                                                            <xsl:text>anchor</xsl:text>
+                                                        </xsl:attribute>
+                                                        <xsl:number level="any" format="a" count="tei:rs[starts-with(@ref, '#') and @type]"/>
+                                                    </a>
+                                                </sup>
+                                                <span class="ps-1"><xsl:value-of select="$idxlabel"/></span>
                                             </div>
                                         </xsl:for-each>
                                     </div>
@@ -321,7 +370,7 @@
                             </div>
                             <div class="col-md-2"/>
                         </div>
-                        <div id="filename" class="visually-hidden"><xsl:value-of select="replace($teiSource, '.xml', '.pdf')"/></div>
+                        <span id="filename" class="visually-hidden"><xsl:value-of select="replace($teiSource, '.xml', '.pdf')"/></span>
                     </div>
                     <xsl:for-each select="//tei:back">
                         <div class="tei-back pt-3">
