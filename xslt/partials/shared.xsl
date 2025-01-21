@@ -13,6 +13,25 @@
         </xsl:variable>
         <xsl:value-of select="concat(name($currentNode), '__', $nodeCurrNr)"/>
     </xsl:function>
+    
+    
+    <xsl:template match="tei:formula[@notation = 'TeX']">
+        <xsl:variable name="modifiedText">
+            <xsl:call-template name="replace-fractions">
+                <xsl:with-param name="text" select="."/>
+            </xsl:call-template>
+        </xsl:variable>
+        <xsl:value-of select="$modifiedText"/>
+    </xsl:template>
+    <!-- Template to replace \frac{n}{m} with n/m -->
+    <xsl:template name="replace-fractions">
+        <xsl:param name="text"/>
+        <xsl:variable name="regex" select="'\\frac\{([^}]+)\}\{([^}]+)\}'"/>
+        <xsl:variable name="replacement" select="'$1/$2'"/>
+        <xsl:value-of select="replace($text, $regex, $replacement)"/>
+    </xsl:template>
+    
+    
     <xsl:template match="tei:div">
         <div><xsl:apply-templates/></div>
     </xsl:template>
