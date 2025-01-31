@@ -22,3 +22,6 @@ python add_mentioned_letters.py
 
 echo "make calendar data"
 python make_calendar_data.py
+
+echo "creating some cidoc"
+python make_cidoc.py
