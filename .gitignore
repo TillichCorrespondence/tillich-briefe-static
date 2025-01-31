@@ -168,3 +168,4 @@ tex/tmp.tex
 tex/sk-tmp.tex
 html/tillich-briefe-sk.pdf
 html/js-data/calendarData.json
+*.nt
