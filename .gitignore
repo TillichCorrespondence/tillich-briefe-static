@@ -170,3 +170,5 @@ html/tillich-briefe-sk.pdf
 html/js-data/calendarData.json
 *.nt
 html/cidoc.ttl
+html/docsfile.tsv
+html/wordsfile.tsv

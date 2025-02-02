@@ -25,3 +25,6 @@ python make_calendar_data.py
 
 echo "creating some cidoc"
 python make_cidoc.py
+
+echo "creating qlever words- and docsfile"
+python make_qlever_text.py
