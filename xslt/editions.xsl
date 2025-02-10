@@ -421,7 +421,7 @@
     <xsl:template match="tei:hi[@rend]">
     <xsl:choose>
         <xsl:when test="@rend = 'aq' or @rend = 'b' or @rend = 'g' or @rend = 'i' or @rend = 'u' or @rend = 'uu'">
-            <span class="dse-italics">
+            <span class="dse-italic">
                 <xsl:apply-templates/>
             </span>
         </xsl:when>
