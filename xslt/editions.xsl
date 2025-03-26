@@ -440,8 +440,16 @@
         </xsl:otherwise>
     </xsl:choose>
     </xsl:template>
-    <xsl:template match="tei:add[@place]">
-        <abbr title="{'Einfügung: '||@place}">&#8990;</abbr><xsl:apply-templates/><abbr title="Ende der Einfügung">&#8989;</abbr>
+    <xsl:template match="tei:add">
+        <xsl:choose>
+            <xsl:when test="@place">
+                <abbr title="{'Einfügung: '||@place}">|:</abbr><xsl:apply-templates/><abbr title="Ende der Einfügung">:|</abbr>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text>|:</xsl:text><xsl:apply-templates/><xsl:text>:|</xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
+        
     </xsl:template>
 
     <xsl:template match="tei:supplied">[<xsl:apply-templates/>]</xsl:template>
