@@ -40,13 +40,17 @@ for x in tqdm(files, total=len(files)):
             ]
         )
     )
-    corresp_names = " und ".join(
-        [
-            (x.text if x.text is not None else "?")
-            for x in doc.any_xpath(".//tei:correspAction/tei:persName")
-            if x.attrib["ref"] != main_person_id
-        ]
-    )
+    try:
+        corresp_names = " und ".join(
+            [
+                (x.text if x.text is not None else "?")
+                for x in doc.any_xpath(".//tei:correspAction/tei:persName")
+                if x.attrib["ref"] != main_person_id
+            ]
+        )
+    except KeyError:
+        broken.append(x)
+        continue
     item = {
         "id": x,
         "corresp_id": f"#corresp__{corresp_id.replace('#', '')}",
@@ -146,3 +150,5 @@ for i, ndf in df.groupby("corresp_id"):
             )
 
         doc.tree_to_file(x["id"])
+
+print(broken)
