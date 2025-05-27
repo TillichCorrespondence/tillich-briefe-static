@@ -6,25 +6,25 @@ add-attributes -g "./data/editions/*.xml" -b "https://tillich-briefe.acdh.oeaw.a
 echo "denormalizing indices" 
 denormalize-indices -f "./data/editions/*.xml" -i "./data/indices/*.xml"
 
-python remove_notegrp_from_back.py
+python pyscripts/remove_notegrp_from_back.py
 
 echo "add Corresp Context"
-python add_correspContext.py
+python pyscripts/add_correspContext.py
 
 echo "make corresp_toc.xml"
-python make_corresp_toc.py
+python pyscripts/make_corresp_toc.py
 
 echo "make bible_toc.xml"
-python make_bible_toc.py
+python pyscripts/make_bible_toc.py
 
 echo "adding mentioned letters"
-python add_mentioned_letters.py
+python pyscripts/add_mentioned_letters.py
 
 echo "make calendar data"
-python make_calendar_data.py
+python pyscripts/make_calendar_data.py
 
 echo "creating some cidoc"
-python make_cidoc.py
+python pyscripts/make_cidoc.py
 
 echo "creating qlever words- and docsfile"
-python make_qlever_text.py
+python pyscripts/make_qlever_text.py

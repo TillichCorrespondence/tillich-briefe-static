@@ -40,15 +40,15 @@ jobs:
         ./shellscripts/dl_saxon.sh
         pip install -r requirements.txt
     - name: Fetch data
-      run: ./fetch_data.sh
+      run: ./shellscripts/fetch_data.sh
     - name: Process Data
-      run: ./process.sh
+      run: ./shellscripts/process.sh
     - name: Fulltext Index
       run: python3 make_ts_index.py
     - name: Build
       run: ant
     - name: make pdfs
-      run: ./make_pdf.sh
+      run: ./shellscripts/make_pdf.sh
     - name: Setup Pages
       uses: actions/configure-pages@v5
     - name: Upload artifact
