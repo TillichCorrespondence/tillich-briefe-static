@@ -9,8 +9,8 @@ from rdflib import Namespace, URIRef, RDF, Graph, Literal, XSD
 
 to_ingest = "to_ingest"
 os.makedirs(to_ingest, exist_ok=True)
-g = Graph().parse("arche_seed_files/arche_constants.ttl")
-g_repo_objects = Graph().parse("arche_seed_files/repo_objects_constants.ttl")
+g = Graph().parse("arche/arche_constants.ttl")
+g_repo_objects = Graph().parse("arche/repo_objects_constants.ttl")
 TOP_COL_URI = URIRef("https://id.acdh.oeaw.ac.at/tillich-briefe")
 APP_URL = "https://tillich-briefe.acdh.oeaw.ac.at/"
 
@@ -41,6 +41,7 @@ for x in doc.any_xpath(".//tei:person[@xml:id and ./tei:idno[@type='gnd']]"):
 # end of this annoying workaround
 
 files = sorted(glob.glob("data/editions/*.xml"))
+files = files[30:50]
 for x in tqdm(files):
     doc = TeiReader(x)
     cur_col_id = os.path.split(x)[-1].replace(".xml", "")
@@ -50,13 +51,13 @@ for x in tqdm(files):
     cur_doc_uri = URIRef(f"{TOP_COL_URI}/{cur_doc_id}")
     g.add((cur_doc_uri, RDF.type, ACDH["Resource"]))
     g.add((cur_doc_uri, ACDH["isPartOf"], URIRef(f"{TOP_COL_URI}/editions")))
-    g.add(
-        (
-            cur_doc_uri,
-            ACDH["hasUrl"],
-            Literal(f'{APP_URL}{cur_doc_id.replace(".xml", ".html")}'),
-        )
-    )
+    # g.add(
+    #     (
+    #         cur_doc_uri,
+    #         ACDH["hasUrl"],
+    #         Literal(f'{APP_URL}{cur_doc_id.replace(".xml", ".html")}'),
+    #     )
+    # )
     g.add(
         (
             cur_doc_uri,
@@ -117,13 +118,13 @@ for x in tqdm(files):
         entity_title = lookup_dict[entity_id]
         entity_uri = URIRef(entity_id)
         g.add((entity_uri, RDF.type, ACDH["Person"]))
-        g.add(
-            (
-                entity_uri,
-                ACDH["hasUrl"],
-                Literal(f"{APP_URL}{xml_id}.html", datatype=XSD.anyURI),
-            )
-        )
+        # g.add(
+        #     (
+        #         entity_uri,
+        #         ACDH["hasUrl"],
+        #         Literal(f"{APP_URL}{xml_id}.html", datatype=XSD.anyURI),
+        #     )
+        # )
         g.add((entity_uri, ACDH["hasTitle"], Literal(entity_title, lang="und")))
         g.add((cur_doc_uri, ACDH["hasActor"], entity_uri))
 
@@ -142,7 +143,7 @@ for x in tqdm(files):
 
     # hasCreator
     for y in doc.any_xpath(".//tei:name[@key]"):
-        editor_name = y.text
+        editor_name = extract_fulltext(y)
         editor_id = y.attrib["key"]
         if editor_id.startswith("https://orcid.org"):
             creator_uri = URIRef(editor_id)
