@@ -44,7 +44,7 @@ jobs:
     - name: Process Data
       run: ./shellscripts/process.sh
     - name: Fulltext Index
-      run: python3 make_ts_index.py
+      run: python3 pyscripts/make_ts_index.py
     - name: Build
       run: ant
     - name: make pdfs
