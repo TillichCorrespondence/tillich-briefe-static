@@ -41,7 +41,7 @@ for x in doc.any_xpath(".//tei:person[@xml:id and ./tei:idno[@type='gnd']]"):
 # end of this annoying workaround
 
 files = sorted(glob.glob("data/editions/*.xml"))
-files = files[30:50]
+# files = files[30:50]
 for x in tqdm(files):
     doc = TeiReader(x)
     cur_col_id = os.path.split(x)[-1].replace(".xml", "")
