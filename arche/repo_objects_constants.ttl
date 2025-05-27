@@ -2,7 +2,6 @@
 
 <https://foo/bar> acdh:hasCurator <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContact <https://d-nb.info/gnd/130017086> ;
-    acdh:hasContributor <https://d-nb.info/gnd/130017086> ;
     acdh:hasDepositor <https://d-nb.info/gnd/130017086> ;
     acdh:hasPrincipalInvestigator <https://d-nb.info/gnd/130017086> ,
         <https://d-nb.info/gnd/120078724> ;
