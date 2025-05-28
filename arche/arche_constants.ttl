@@ -30,7 +30,7 @@
     # acdh:hasUrl "https://tillich-briefe.acdh.oeaw.ac.at" ;
     acdh:hasSubject "digital edition"@en ;
     acdh:hasSubject "Digitale Edition"@de ;
-    acdh:hasContributor <https://orcid.org/0009-0002-5479-2296> ,
+    acdh:hasCreator <https://orcid.org/0009-0002-5479-2296> ,
         <https://orcid.org/0000-0002-8410-4290> ,
         <https://orcid.org/0000-0001-5007-7397> ,
         <https://orcid.org/0000-0002-8408-8657> ,
