@@ -21,7 +21,8 @@
 <https://id.acdh.oeaw.ac.at/tillich-briefe> a acdh:TopCollection ;
     acdh:hasPid "https://hdl.handle.net/21.11115/0000-0016-CC1F-1" ;
     acdh:hasRelatedProject <https://id.acdh.oeaw.ac.at/tillich-briefe/project> ;
-    acdh:hasDescription """Daten zum digitalen Editionsprojekt: Tillich Briefe — Die Korrespondenz von Paul Tillich"""@de ;
+    acdh:hasDescription """The digital edition Paul Tillich – Correspondence 1886–1933 makes accessible, for the first time in scholarly form, a selection of letters from the early life of the German Protestant theologian Paul Tillich (1886–1965). Covering his formative years, the collection documents his personal development, theological formation, and intellectual positioning in the German academic and cultural landscape prior to his emigration. The letters provide insights into Tillich’s education, his service in World War I, his engagement with religious socialism, and his academic rise during the Weimar Republic. They reveal the emergence of Tillich’s theological and philosophical thinking, his social and professional networks, and his increasing political awareness leading up to the National Socialist seizure of power. The edition offers annotated texts, contextual metadata, and is fully aligned with digital edition standards. It contributes to research on early 20th-century theology, German intellectual history, and the political entanglements of religious thought before 1933."""@en ;
+    acdh:hasDescription """Die digitale Ausgabe „Paul Tillich – Korrespondenz 1886–1933“ macht erstmals in wissenschaftlicher Form eine Auswahl von Briefen aus dem frühen Leben des deutschen protestantischen Theologen Paul Tillich (1886–1965) zugänglich. Die Sammlung umfasst seine prägenden Jahre und dokumentiert seine persönliche Entwicklung, seine theologische Ausbildung und seine intellektuelle Positionierung in der deutschen akademischen und kulturellen Landschaft vor seiner Emigration. Die Briefe geben Einblicke in Tillichs Ausbildung, seinen Dienst im Ersten Weltkrieg, sein Engagement für den religiösen Sozialismus und seinen akademischen Aufstieg während der Weimarer Republik. Sie zeigen die Entstehung von Tillichs theologischem und philosophischem Denken, seine sozialen und beruflichen Netzwerke und sein wachsendes politisches Bewusstsein im Vorfeld der nationalsozialistischen Machtergreifung. Die Ausgabe bietet kommentierte Texte, kontextbezogene Metadaten und entspricht vollständig den Standards für digitale Ausgaben. Sie leistet einen Beitrag zur Forschung über die Theologie des frühen 20. Jahrhunderts, die deutsche Geistesgeschichte und die politischen Verflechtungen des religiösen Denkens vor 1933.)"""@de ;
     acdh:hasCoverageStartDate "1877-01-01"^^xsd:date ;
     acdh:hasCoverageEndDate "1933-01-31"^^xsd:date ;
     acdh:hasTitle """Tillich Briefe — Die Korrespondenz von Paul Tillich"""@de ;
@@ -30,9 +31,30 @@
     # acdh:hasUrl "https://tillich-briefe.acdh.oeaw.ac.at" ;
     acdh:hasSubject "digital edition"@en ;
     acdh:hasSubject "Digitale Edition"@de ;
+    acdh:hasSubject "Paul Tillich"@en ;
+    acdh:hasSubject "Paul Tillich"@de ;
+    acdh:hasSubject "Protestant theology"@en ;
+    acdh:hasSubject "Protestantische Theologie"@de ;
+    acdh:hasSubject "religious socialism"@en ;
+    acdh:hasSubject "religiöser Sozialismus"@de ;
+    acdh:hasSubject "exile studies"@en ;
+    acdh:hasSubject "Exilforschung"@de ;
+    acdh:hasSubject "World War I"@en ;
+    acdh:hasSubject "Erster Weltkrieg"@de ;
+    acdh:hasSubject "Weimar Republic"@en ;
+    acdh:hasSubject "Weimarer Republik"@de ;
+    acdh:hasSubject "emigration"@en ;
+    acdh:hasSubject "Auswanderung"@de ;
+    acdh:hasSubject "religion and politics"@en ;
+    acdh:hasSubject "Religion und Politik"@de ;
+    acdh:hasSubject "intellectual exile"@en ;
+    acdh:hasSubject "intellektuelles Exil"@de ;
+    acdh:hasSubject "20th-century theology"@en ;
+    acdh:hasSubject "Theologie des 20. Jahrhunderts"@de ;
+    acdh:hasSubject "intellectual networks"@en ;
+    acdh:hasSubject "intellektuelle Netzwerke"@de ;
     acdh:hasEditor <https://orcid.org/0000-0003-4096-603X>, 
-    <https://orcid.org/0009-0008-1033-0819> .
-
+        <https://orcid.org/0009-0008-1033-0819> ;
     acdh:hasCreator <https://orcid.org/0009-0002-5479-2296> ,
         <https://orcid.org/0000-0002-8410-4290> ,
         <https://orcid.org/0000-0001-5007-7397> ,
