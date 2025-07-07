@@ -30,6 +30,9 @@
     # acdh:hasUrl "https://tillich-briefe.acdh.oeaw.ac.at" ;
     acdh:hasSubject "digital edition"@en ;
     acdh:hasSubject "Digitale Edition"@de ;
+    acdh:hasEditor <https://orcid.org/0000-0003-4096-603X>, 
+    <https://orcid.org/0009-0008-1033-0819> .
+
     acdh:hasCreator <https://orcid.org/0009-0002-5479-2296> ,
         <https://orcid.org/0000-0002-8410-4290> ,
         <https://orcid.org/0000-0001-5007-7397> ,
@@ -63,11 +66,11 @@
     acdh:hasTitle """Titelbild zu: Tillich Briefe"""@de ;
     acdh:isPartOf <https://id.acdh.oeaw.ac.at/tillich-briefe> ;
     acdh:isTitleImageOf <https://id.acdh.oeaw.ac.at/tillich-briefe> ;
-    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0> ;
-    acdh:hasLicensor <https://id.acdh.oeaw.ac.at/none> ;
-    acdh:hasOwner <https://id.acdh.oeaw.ac.at/none> ;
+    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    acdh:hasLicensor  <https://orcid.org/0000-0002-0440-4008> ;
+    acdh:hasOwner  <https://orcid.org/0000-0002-0440-4008> ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/image> ;
-    acdh:hasRightsHolder <https://id.acdh.oeaw.ac.at/none> .
+    acdh:hasRightsHolder <https://orcid.org/0000-0002-0440-4008> .
 
 <https://id.acdh.oeaw.ac.at/tillich-briefe/project> a acdh:Project ;
     acdh:hasContact <https://d-nb.info/gnd/130017086> ;
