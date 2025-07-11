@@ -1,7 +1,7 @@
 #/bin/bash
 
 echo "ingest binaries for ${TOPCOLID} into ${ARCHE}"
-wget -O to_ingest/wmp1.nt https://cloud.oeaw.ac.at/index.php/s/wnJsHWoa49wcHxY/download/wmp1.nt
+cp ./arche/title-image.jpg ./to_ingest/title-image.jpg
 docker run --rm \
   -v ${PWD}/to_ingest:/data \
   --network="host" \
