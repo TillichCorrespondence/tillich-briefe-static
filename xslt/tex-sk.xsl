@@ -199,7 +199,7 @@
             </xsl:choose>
         </xsl:variable>
         <xsl:value-of select="'\index['||$rstype||']{'||$idxlabel||'} '"/>
-        <xsl:apply-templates/>
+        <xsl:apply-templates/><xsl:text> [</xsl:text><xsl:value-of select="$idxlabel"/><xsl:text>] </xsl:text>
     </xsl:template>
 
     <xsl:template match="text()[not(ancestor-or-self::tei:index or ancestor-or-self::tei:rs)]">
