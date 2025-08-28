@@ -5,7 +5,7 @@
         <div class="d-flex justify-content-end pt-5 pb-2">
             <div class="text-end">
                 <h2>Download Optionen</h2>
-                <div class="button-group pt-3">
+                <div class="btn-group pt-3">
                     <button type="button" class="btn btn-outline-primary" id="download-csv"
                         title="Download CSV">
                         <i class="bi bi-filetype-csv"/>

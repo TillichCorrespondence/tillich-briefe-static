@@ -107,6 +107,9 @@
 <xsl:template match="tei:unclear">
 <xsl:text>[</xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>
 </xsl:template>
+<xsl:template match="tei:q">
+        <xsl:text>„</xsl:text><xsl:apply-templates/><xsl:text>“</xsl:text>  
+    </xsl:template>
     <xsl:template match="tei:foreign[@xml:lang='grc']"><xsl:text>\begin{greek}</xsl:text><xsl:apply-templates/><xsl:text>\end{greek}</xsl:text></xsl:template>
     <xsl:template match="tei:salute">
         <xsl:apply-templates/>\par\smallskip
