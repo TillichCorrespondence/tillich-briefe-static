@@ -9,21 +9,22 @@
         <footer class="py-3">
             
             <div class="container text-center">
-                <div class="pb-2">
-                    <span class="fs-5">Kontakt</span>
-                </div>
+                 <div class="d-flex align-items-center gap-2 border-bottom pb-3 mb-4" style="color: #444;">
+            <i class="bi bi-chat" style="font-size: 1.125rem;"></i>
+            <span class="fw-medium" style="font-size: 0.875rem;">Kontakt</span>
+        </div>
                 <div class="row justify-content-md-center">
                     <div class="col col-lg-4">
                         <div>
-                            <a href="https://www.oeaw.ac.at/acdh/acdh-ch-home">
-                                <img class="footerlogo" src="./images/acdh-ch-logo-with-text.svg" alt="ACDH-CH"/>
+                            <a href="https://www.oeaw.ac.at/acdh/acdh-home">
+                                <img class="footerlogo" src="./images/acdh-logo-with-text-color.svg" alt="ACDH"/>
                             </a>
                         </div>
                         <div class="text-center p-4">
-                            ACDH-CH Austrian Centre for Digital Humanities and Cultural Heritage Österreichische
+                            ACDH Austrian Centre for Digital Humanities Österreichische
                                 Akademie der Wissenschaften
                             <br />
-                            <a href="mailto:acdh-ch-helpdesk@oeaw.ac.at">acdh-ch-helpdesk@oeaw.ac.at</a>
+                            <a href="mailto:acdh-helpdesk@oeaw.ac.at">acdh-helpdesk@oeaw.ac.at</a>
                         </div>
                     </div>
                     <div class="col col-lg-4">
@@ -52,9 +53,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="pb-2 pt-2">
-                    <span class="fs-5">Förderinstitutionen</span>
-                </div>
+                <div class="d-flex align-items-center gap-2 border-bottom pb-3 mb-4" style="color: #444;">
+            <i class="bi bi-wallet" style="font-size: 1.125rem;"></i>
+            <span class="fw-medium" style="font-size: 0.875rem;">Förderinstitutionen</span>
+        </div>
+                
                 <div class="row justify-content-md-center">
                     
                     <div class="col col-lg-3">
