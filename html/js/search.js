@@ -56,22 +56,22 @@ search.addWidgets([
       empty: "Keine Resultate für <q>{{ query }}</q>",
       item(hit, { html, components }) {
         return html` <div>
-          <div class="fs-3"><a href="${hit.rec_id}.html">${hit.title}</a></div>
+          <div class="fs-3"><a href="${hit.rec_id}.html" class="custom-link">${hit.title}</a></div>
           <p>
             ${hit._snippetResult.full_text.matchedWords.length > 0
               ? components.Snippet({ hit, attribute: "full_text" })
               : ""}
           </p>
            ${hit.places.map(
-            (item) => html`<a href="${item.id}.html" class="pe-2"><i class="bi bi-geo-alt pe-1"></i>${item.label}</a>`
+            (item) => html`<a href="${item.id}.html" class="pe-2 custom-link"><i class="bi bi-geo-alt pe-1"></i>${item.label}</a>`
           )}
           <br />
           ${hit.persons.map(
-            (item) => html`<a href="${item.id}.html" class="pe-2"><i class="bi bi-person pe-1"></i>${item.label}</a>`
+            (item) => html`<a href="${item.id}.html" class="pe-2 custom-link"><i class="bi bi-person pe-1"></i>${item.label}</a>`
           )}
           <br />
           ${hit.works.map(
-            (item) => html`<a href="${item.id}.html" class="pe-2"><i class="bi bi-book pe-1"></i>${item.label}</a>`
+            (item) => html`<a href="${item.id}.html" class="pe-2 custom-link"><i class="bi bi-book pe-1"></i>${item.label}</a>`
           )}
           <br />
         </div>`;
@@ -116,7 +116,7 @@ search.addWidgets([
       header: "Absender",
     },
   })(instantsearch.widgets.refinementList)({
-    container: "#refinement-list-sender ",
+    container: "#refinement-list-sender",
     attribute: "sender.label",
     searchable: true,
     showMore: true,
@@ -134,14 +134,14 @@ search.addWidgets([
       header: "Empfänger",
     },
   })(instantsearch.widgets.refinementList)({
-    container: "#refinement-list-receiver ",
+    container: "#refinement-list-receiver",
     attribute: "receiver.label",
     searchable: true,
     showMore: true,
     showMoreLimit: 50,
     limit: 10,
     searchablePlaceholder: "Suche nach Empfängern",
-    cssClasses: DEFAULT_CSS_CLASSES,
+    cssClasses: DEFAULT_CSS_CLASSES,    
   }),
 
   instantsearch.widgets.panel({
@@ -173,7 +173,7 @@ search.addWidgets([
       header: "Personen",
     },
   })(instantsearch.widgets.refinementList)({
-    container: "#refinement-list-persons ",
+    container: "#refinement-list-persons",
     attribute: "persons.label",
     searchable: true,
     showMore: true,
@@ -191,7 +191,7 @@ search.addWidgets([
       header: "Orten",
     },
   })(instantsearch.widgets.refinementList)({
-    container: "#refinement-list-places ",
+    container: "#refinement-list-places",
     attribute: "places.label",
     searchable: true,
     showMore: true,
@@ -209,7 +209,7 @@ search.addWidgets([
       header: "Literatur",
     },
   })(instantsearch.widgets.refinementList)({
-    container: "#refinement-list-works ",
+    container: "#refinement-list-works",
     attribute: "works.label",
     searchable: true,
     showMore: true,
@@ -227,7 +227,7 @@ search.addWidgets([
       header: "Bibelstellen",
     },
   })(instantsearch.widgets.refinementList)({
-    container: "#refinement-list-bibles  ",
+    container: "#refinement-list-bibles",
     attribute: "bibles",
     searchable: true,
     showMore: true,
@@ -262,8 +262,39 @@ search.addWidgets([
       delete: "btn",
       label: "badge",
     },
-  }),
+    transformItems(items) {
+			return items.map((item) => ({
+				...item,
+				label:
+					item.attribute === "sender.label"
+						? "Absender"
+						: item.attribute === "receiver.label"
+							? "Empfänger"
+							: item.attribute === "persons.label"
+								? "Personen"
+								: item.attribute === "places.label"
+									? "Orte"
+									: item.attribute === "works.label"
+										? "Literatur"
+										: item.attribute === "year"
+											? "Jahr"
+											: item.attribute === "bibles"
+												? "Bibelstellen"
+																						: item.label,
+			}));
+		},
+  })
 ]);
+
+// Show/hide the Filter panel
+const showFilter = document.querySelector("#filter-button");
+const filters = document.querySelector("#refinements-section");
+if (showFilter) {
+	showFilter.addEventListener("click", function () {
+		filters?.classList.toggle("d-none");
+	});
+}
+
 
 search.addWidgets([
   instantsearch.widgets.configure({
