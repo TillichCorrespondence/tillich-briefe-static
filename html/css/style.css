@@ -96,6 +96,28 @@ footer a {
   text-decoration-style: dotted;
   color: var(--dse-base-color);
 }
+/* color palette */
+
+.bg-light-blue {
+    background-color: rgba(84, 160, 183, 0.16);
+}
+
+.bg-turquoise-blue {
+    background-color: rgba(84, 160, 183);
+}
+
+.bg-blue {
+    background-color: rgba(81, 117, 150);
+}
+
+.custom-link {
+  color: rgb(38, 61, 82);
+}
+
+.custom-link:hover {
+  color: rgb(15, 24, 32);
+}
+
 
 /* define <hi rend> classes */
 
@@ -125,7 +147,7 @@ footer a {
 }
 
 .ais-Hits-item:hover {
-  background-color: #e6ebf0;
+  background-color: rgba(84, 160, 183, 0.16);
 }
 
 .ais-Panel-header {
@@ -140,4 +162,27 @@ footer a {
   display: flex;
   flex-direction: row;
   justify-content: right;
+}
+
+.ais-ClearRefinements-button {
+  background: rgba(84, 160, 183);  
+}
+
+.ais-ClearRefinements .ais-ClearRefinements-button:hover {
+  color: white  
+}
+
+.ais-CurrentRefinements-category .ais-CurrentRefinements-delete:hover {
+  color: red
+}
+
+.ais-ClearRefinements-button--disabled {
+	 visibility: hidden;
+}
+
+.sticky-sidebar {
+  position: sticky; 
+  top: 20px; 
+  max-height: calc(100vh - 40px); 
+  overflow-y: auto
 }
