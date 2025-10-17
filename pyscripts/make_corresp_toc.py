@@ -71,7 +71,10 @@ for corresp_id, ndf in df.groupby("corresp_id"):
    for i, row in ndf.iterrows():
       item = ET.SubElement(my_list, "item")
       title = ET.SubElement(item, "title").text = row["title"]
-      date = ET.SubElement(item, "date").text = row["date"]
+      try:
+         date = ET.SubElement(item, "date").text = row["date"]
+      except TypeError:
+         date = ET.SubElement(item, "date").text = "9999"
       ptr = ET.SubElement(item, "ptr")
       ptr.attrib["target"] = f'{row["id"].split("/")[-1]}'
 
