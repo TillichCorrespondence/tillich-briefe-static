@@ -400,10 +400,20 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    <xsl:template match="tei:salute">
+    <xsl:template match="tei:closer">
         <div class="text-start pb-2">
             <xsl:apply-templates/>
         </div>
+    </xsl:template>
+    <xsl:template match="tei:salute">
+        <p class="text-start">
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    <xsl:template match="tei:signed">
+        <p class="text-start">
+            <xsl:apply-templates/>
+        </p>
     </xsl:template>
     
     <xsl:template match="tei:choice[./tei:abbr and ./tei:expan]">
@@ -456,4 +466,5 @@
     <xsl:template match="tei:sic">
         <xsl:apply-templates/><xsl:text> [sic!] </xsl:text>
     </xsl:template>
+    
 </xsl:stylesheet>
