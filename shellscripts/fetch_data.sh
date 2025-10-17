@@ -35,4 +35,4 @@ echo "</root>" >> ${IMPRINT_XML}
 
 python pyscripts/check_files.py
 python pyscripts/fixing_refs.py
-python pyscripts/remove_lb_from_title.py
+python pyscripts/remove_lb_from_title_and_add_sort_date.py
