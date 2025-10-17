@@ -8,9 +8,9 @@
     <xsl:template match="tei:rs[starts-with(@ref, '#') and @type]">
         <xsl:variable name="entType" select="@type"/>
         <xsl:variable name="entId" select="./@ref"/>
-        <button class="{$entType} entity" data-bs-toggle="modal" data-bs-target="{@ref}">
+        <a href="#" role="button" class="{$entType} entity" data-bs-toggle="modal" data-bs-target="{@ref}">
             <xsl:apply-templates/>
-        </button>
+        </a>
         <a class="pdf-entitiy-footnote-markers visually-hidden">
             <xsl:attribute name="name">
                 <xsl:value-of select="replace($entId, '#', '')"/>
