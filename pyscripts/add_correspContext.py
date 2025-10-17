@@ -1,4 +1,5 @@
 import glob
+import os
 from acdh_tei_pyutils.tei import TeiReader
 import lxml.etree as ET
 import pandas as pd
@@ -9,16 +10,7 @@ main_person_id = "#tillich_person_id__1928"
 
 
 def get_date(doc):
-    try:
-        date = doc.any_xpath(".//tei:correspDesc//tei:date[@notBefore]/@notBefore")[0]
-    except IndexError:
-        try:
-            date = doc.any_xpath(".//tei:correspDesc//tei:date[@when]/@when")[0]
-        except IndexError:
-            try:
-                date = doc.any_xpath(".//tei:correspDesc//tei:date[@from]/@from")[0]
-            except IndexError:
-                date = "Ohne Datum"
+    date = doc.any_xpath(".//tei:date[@type='sort']/@when")[0]
     return date
 
 
@@ -62,6 +54,8 @@ for x in tqdm(files, total=len(files)):
     }
     items.append(item)
 df = pd.DataFrame(items)
+df["date"] = pd.to_datetime(df["date"], errors="coerce")
+df = df.sort_values(["date", "id"]).reset_index(drop=True)
 df["gen_prev"] = df["id"].shift(1)
 df["gen_next"] = df["id"].shift(-1)
 df["gen_prev_title"] = df["title"].shift(1)
@@ -70,7 +64,7 @@ df["gen_next_title"] = df["title"].shift(-1)
 df.to_csv("tmp.csv", index=False)
 
 for i, ndf in df.groupby("corresp_id"):
-    sorted_df = ndf.sort_values("id")
+    sorted_df = ndf.sort_values("date")
     sorted_df["prev"] = sorted_df["id"].shift(1)
     sorted_df["next"] = sorted_df["id"].shift(-1)
     sorted_df["prev_title"] = sorted_df["title"].shift(1)
@@ -81,7 +75,6 @@ for i, ndf in df.groupby("corresp_id"):
         except Exception:
             print(f"Cannot add correspContext to file: {x['id']}")
             continue
-
         for bad in doc.any_xpath("//tei:correspContext"):
             bad.getparent().remove(bad)
 
@@ -150,5 +143,19 @@ for i, ndf in df.groupby("corresp_id"):
             )
 
         doc.tree_to_file(x["id"])
+
+for i, row in df.iterrows():
+    try:
+        doc = TeiReader(row["id"])
+    except Exception:
+        print(f"Cannot add correspContext to file: {row['id']}")
+        continue
+    if row["gen_next"] is not None:
+        root = doc.any_xpath("/tei:TEI")[0]
+        root.attrib["next"] = os.path.split(row["gen_next"])[-1]
+    if row["gen_prev"] is not None:
+        root = doc.any_xpath("/tei:TEI")[0]
+        root.attrib["prev"] = os.path.split(row["gen_prev"])[-1]
+    doc.tree_to_file(row["id"])
 
 print(broken)

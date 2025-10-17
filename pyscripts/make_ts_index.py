@@ -79,7 +79,7 @@ for x in tqdm(files, total=len(files)):
     )
     cfts_record["title"] = record["title"]
     try:
-        date_str = doc.any_xpath("//tei:correspAction[@type='sent']/tei:date/@when")[0]
+        date_str = doc.any_xpath("//tei:date[@type='sort']/@when")[0]
     except IndexError:
         date_str = MIN_DATE
     try:
