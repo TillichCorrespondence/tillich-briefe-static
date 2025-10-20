@@ -13,11 +13,11 @@
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <nav aria-label="Haupt Navigation" class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto me-2 mb-lg-0">
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Projekt</a>
-                                <ul class="dropdown-menu">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" id="projektDropdown" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Projekt</a>
+                                <ul class="dropdown-menu" aria-labelledby="projektDropdown">
                                     <li>
                                         <a class="dropdown-item" href="editionsrichtlinien.html">Editionsrichtlinien</a>
                                     </li>
@@ -29,8 +29,8 @@
                             </li>
 
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Briefe</a>
-                                <ul class="dropdown-menu">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" id="briefeDropdown" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Briefe</a>
+                                <ul class="dropdown-menu" aria-labelledby="briefeDropdown">
                                     <li>
                                         <a class="dropdown-item" href="toc.html">Alle Briefe</a>
                                     </li>
@@ -44,8 +44,8 @@
                             </li>
 
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Register</a>
-                                <ul class="dropdown-menu">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" id="registerDropdown" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Register</a>
+                                <ul class="dropdown-menu" aria-labelledby="registerDropdown">
                                     <li>
                                         <a class="dropdown-item" href="listperson.html">Personen</a>
                                     </li>
@@ -62,10 +62,10 @@
                             </li>
 
                             <li class="nav-item">
-                                <a title="Suche" class="nav-link" href="search.html">Suche</a>
+                                <a class="nav-link" href="search.html">Suche</a>
                             </li>
                         </ul>
-                    </div>
+                    </nav>
                 </div>
             </nav>
         </header>

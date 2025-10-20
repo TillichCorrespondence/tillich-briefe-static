@@ -42,3 +42,19 @@ function replaceCurrentDate() {
     replaceCurrentDateYYYYMMDD();
   });
   
+// function to allow open modal window from a link with data-bs-toggle="modal" and data-bs-target="#modalId"
+document.addEventListener("DOMContentLoaded", function () {
+    const modalLinks = document.querySelectorAll('a[data-bs-toggle="modal"]');
+    modalLinks.forEach(function (link) {
+        link.addEventListener("keydown", function (event) {
+      // Check if Space bar (key code 32 or event.key === ' ')
+      if (event.key === ' ' || event.keyCode === 32) {
+        event.preventDefault(); // Prevent page scroll
+        
+        const targetModal = link.getAttribute('data-bs-target');
+        const modal = new bootstrap.Modal(document.querySelector(targetModal));
+        modal.show();
+      }
+    });
+    });
+});
