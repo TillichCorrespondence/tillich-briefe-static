@@ -68,6 +68,30 @@ button.highlight {
   border-radius: 5px;
   transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
+a.entity {
+  text-decoration: underline dotted;
+  text-underline-offset: 4px;
+  font: inherit;
+  color: var(--dse-base-color);
+  text-align: inherit;
+  cursor: pointer;
+  padding: 1px 2px;
+}
+
+a.entity:hover {
+    background-color: var(--dse-base-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+a.highlight {
+  background-color: var(--dse-base-color);
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
 
 .highlight {
   background-color: var(--dse-base-color);

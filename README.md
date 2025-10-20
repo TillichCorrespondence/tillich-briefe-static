@@ -13,6 +13,7 @@
 
 - run `./shellscripts/dl_saxon.sh`
 - run `./shellscripts/fetch_data.sh`
+- run `./shellscripts/process.sh`
 - run `ant`
 
 ## start dev server
