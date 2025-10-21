@@ -47,11 +47,17 @@ for x in tqdm(files):
     creation = ET.SubElement(profile_desc, "{http://www.tei-c.org/ns/1.0}creation")
     date_elem = ET.SubElement(creation, "{http://www.tei-c.org/ns/1.0}date")
     date_elem.attrib["type"] = "sort"
-    date = doc.any_xpath(".//tei:correspAction[@type='sent']/tei:date")[0]
+    try:
+        date = doc.any_xpath(".//tei:correspAction[@type='sent']/tei:date")[0]
+    except IndexError:
+        action_node = doc.any_xpath(".//tei:correspAction[@type='sent']")[0]
+        date = ET.SubElement(action_node, "{http://www.tei-c.org/ns/1.0}date")
+        date.attrib["when"] = "2000-01-01"
+        print(f"NO DATE!!!! for {x}")
     try:
         norm_date = normalize_date(extract_begin_end(date)[0])
     except ValueError:
         print(x)
-        norm_date = "1880"
+        norm_date = "2000"
     date_elem.attrib["when"] = norm_date
     doc.tree_to_file(x)
