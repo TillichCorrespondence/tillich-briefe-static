@@ -1,4 +1,17 @@
-cd tex 
+# Generate single letter PDFs
+cd tex
+for texfile in L*.tex; do
+    xelatex -interaction=nonstopmode "$texfile"
+    xelatex -interaction=nonstopmode "$texfile"
+    mv "${texfile%.tex}.pdf" ../html/
+    rm "${texfile%.tex}."*
+done
+rm *.idx *.ilg *.ind
+cd ..
+
+# Generate collection PDFs
+cd tex
+
 xelatex -interaction=nonstopmode tmp.tex
 xelatex -interaction=nonstopmode tmp.tex
 mv tmp.pdf ../html/tillich-briefe.pdf

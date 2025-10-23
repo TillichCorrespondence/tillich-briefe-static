@@ -6,7 +6,7 @@
 ## initial (one time) setup
 
 - create virtual environment: `python3 -m venv .venv`
-- activate it: `.venv/bin/activate`
+- activate it: `source .venv/bin/activate`
 - install dependencies: `pip install -r requirements.txt`
 
 ## first time or when fresh data is needed
