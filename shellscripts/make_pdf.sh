@@ -1,15 +1,14 @@
-# Generate single letter PDFs
-# mkdir foo
-# cd tex
-# for texfile in L*.tex; do
-#     xelatex -interaction=nonstopmode "$texfile"
-#     mv "${texfile%.tex}.pdf" ../html/
-#     rm -f "${texfile%.tex}".{aux,log,out,toc} 2>/dev/null
-# done
-# rm *.idx *.ilg *.ind
-# cd ..
+echo "Generate single letter PDFs"
+cd tex
+for texfile in L*.tex; do
+    xelatex -interaction=nonstopmode "$texfile"
+    mv "${texfile%.tex}.pdf" ../html/
+    rm -f "${texfile%.tex}".{aux,log,out,toc} 2>/dev/null
+done
+rm *.idx *.ilg *.ind
+cd ..
 
-# Generate collection PDFs
+echo "Generate collection PDFs"
 cd tex
 
 xelatex -interaction=nonstopmode tmp.tex
