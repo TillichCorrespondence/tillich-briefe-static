@@ -9,16 +9,18 @@
     
    <xsl:template match="/">
 \documentclass{article}
+\usepackage[a4paper, margin=2.5cm]{geometry} % consistent layout
+\usepackage{parskip}       % for better paragraph spacing
+
 \usepackage{fontspec}        % For font management
 \usepackage{polyglossia}     % For multilingual support
 \setmainlanguage{german}  % Set main language
 \setotherlanguage{greek}  % Set other language
 \newfontfamily\greekfont{FreeSerif}
+\usepackage[normalem]{ulem} % for strikethroughs
 
-\usepackage[utf8]{inputenc}
-\usepackage{csquotes}
-\usepackage{geometry}
-\usepackage{setspace}
+
+\usepackage{setspace} % control line spacing
 \usepackage{parskip}
 \usepackage[most]{tcolorbox}
 
@@ -26,20 +28,12 @@
 \usepackage[headings]{ragged2e}
 \usepackage[hidelinks]{hyperref}
 
-\geometry{
-    left=2.5cm,
-    right=2.5cm,
-    top=2.5cm,
-    bottom=2.5cm
-}
-
-
 
 % Custom commands for marking entities (persons, places, and works)
 % Small dark-gray icons positioned as superscript indicate these are in the indices
-\newcommand{\pers}[1]{#1\textsuperscript{\textcolor{black!60}{\tiny\faUser}}}
-\newcommand{\place}[1]{#1\textsuperscript{\textcolor{black!60}{\tiny\faMapMarker*}}}
-\newcommand{\work}[1]{#1\textsuperscript{\textcolor{black!60}{\tiny\faBook}}}
+\newcommand{\pers}[1]{#1\textsuperscript{*}}
+\newcommand{\place}[1]{#1\textsuperscript{*}}
+\newcommand{\work}[1]{#1\textsuperscript{*}}
 
 \title{<xsl:value-of select="normalize-space(.//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title)"/>}
 \author{<xsl:choose>
@@ -93,7 +87,16 @@
 
 \textbf{Brieftyp:} <xsl:value-of select="normalize-space(tei:msDesc/tei:physDesc/tei:p)"/>
 
-\textbf{Postweg:} <xsl:apply-templates select="//tei:correspAction[@type='sent']/tei:placeName" mode="place-marker"/> → [Empfänger: <xsl:apply-templates select="//tei:correspAction[@type='received']/tei:persName" mode="pers-marker"/>]
+\textbf{Postweg:} <xsl:apply-templates select="//tei:correspAction[@type='sent']/tei:placeName" mode="place-marker"/> — 
+<xsl:choose>
+    <xsl:when test="//tei:correspAction[@type='received']/tei:placeName">
+        <xsl:apply-templates select="//tei:correspAction[@type='received']/tei:placeName" mode="place-marker"/>
+    </xsl:when>
+    <xsl:otherwise>
+        <xsl:text>unbekannt</xsl:text>
+    </xsl:otherwise>
+</xsl:choose>
+[Empfänger: <xsl:apply-templates select="//tei:correspAction[@type='received']/tei:persName" mode="pers-marker"/>]
 
 \end{tcolorbox}
 \vspace{1cm}
@@ -140,7 +143,9 @@
     
     <!-- Footnotes -->
     <xsl:template match="tei:note">
-    \footnote{<xsl:apply-templates/>}
+        <xsl:text>\footnote{</xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text>}</xsl:text>
     </xsl:template>
     
     <!-- Quotes -->
@@ -168,8 +173,9 @@
     
     <!-- Back matter: Indices -->
     <xsl:template match="tei:back">
-   \vspace{0.5cm}
-\hline
+\vspace{1em}
+\hrulefill
+\vspace{1em}
         <!-- Person index -->
         <xsl:if test="tei:listPerson/tei:person">
 \noindent\textbf{\Large Personenregister}

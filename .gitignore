@@ -11,7 +11,11 @@ html/*.html
 build_test.xml
 build_test.sh
 fetch_data_test.sh
-
+tex/*.pdf
+tex/*.tex
+tex/*.out
+tex/*.aux
+tex/*.log
 data/meta
 data/
 test/
@@ -172,3 +176,5 @@ html/js-data/calendarData.json
 html/cidoc.ttl
 html/docsfile.tsv
 html/wordsfile.tsv
+html/*.pdf
+tex/*.tex 
