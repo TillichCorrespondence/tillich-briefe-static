@@ -198,9 +198,9 @@
 
 \vspace{0.5cm}
 
-\begin{itemize}
+\begin{description}
             <xsl:apply-templates select="tei:listBibl/tei:biblStruct"/>
-\end{itemize}
+\end{description}
 
 \vspace{1cm}
 
@@ -236,8 +236,66 @@
     
     <!-- Bibliography entries -->
     <xsl:template match="tei:biblStruct">
-\item <xsl:if test="tei:monogr/tei:author"><xsl:value-of select="tei:monogr/tei:author/tei:surname"/>, <xsl:value-of select="tei:monogr/tei:author/tei:forename"/>: </xsl:if>\textit{<xsl:value-of select="tei:monogr/tei:title[@level='m']"/>}<xsl:if test="tei:monogr/tei:imprint">. <xsl:if test="tei:monogr/tei:imprint/tei:publisher"><xsl:value-of select="tei:monogr/tei:imprint/tei:publisher"/>, </xsl:if><xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>.</xsl:if>
+        \item
+        <xsl:choose>
+            
+            <!-- Case 1: Journal article -->
+            <xsl:when test="@type='journalArticle' or tei:analytic">
+                <xsl:if test="tei:analytic/tei:author">
+                    <xsl:value-of select="tei:analytic/tei:author/tei:surname"/>,
+                    <xsl:text> </xsl:text>
+                    <xsl:value-of select="tei:analytic/tei:author/tei:forename"/>
+                    <xsl:text>: </xsl:text>
+                </xsl:if>
+                
+                <xsl:text>„</xsl:text>
+                <xsl:value-of select="tei:analytic/tei:title[@level='a']"/>
+                <xsl:text>“</xsl:text>
+                
+                <xsl:text>. </xsl:text>
+                <xsl:text>\textit{</xsl:text>
+                <xsl:value-of select="tei:monogr/tei:title[@level='j']"/>
+                <xsl:text>}</xsl:text>
+                
+                <xsl:if test="tei:monogr/tei:imprint/tei:biblScope[@unit='issue']">
+                    <xsl:text> </xsl:text>
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:biblScope[@unit='issue']"/>
+                </xsl:if>
+                
+                <xsl:if test="tei:monogr/tei:imprint/tei:biblScope[@unit='page']">
+                    <xsl:text>, S. </xsl:text>
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:biblScope[@unit='page']"/>
+                </xsl:if>
+                
+                <xsl:if test="tei:monogr/tei:imprint/tei:date">
+                    <xsl:text> (</xsl:text>
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>
+                    <xsl:text>).</xsl:text>
+                </xsl:if>
+            </xsl:when>
+            
+            <!-- Case 2: Monograph (book) -->
+            <xsl:otherwise>
+                <xsl:if test="tei:monogr/tei:author">
+                    <xsl:value-of select="tei:monogr/tei:author/tei:surname"/>,
+                    <xsl:text> </xsl:text>
+                    <xsl:value-of select="tei:monogr/tei:author/tei:forename"/>
+                    <xsl:text>: </xsl:text>
+                </xsl:if>
+                \textit{<xsl:value-of select="tei:monogr/tei:title[@level='m']"/>}
+                <xsl:if test="tei:monogr/tei:imprint">
+                    <xsl:text>. </xsl:text>
+                    <xsl:if test="tei:monogr/tei:imprint/tei:publisher">
+                        <xsl:value-of select="tei:monogr/tei:imprint/tei:publisher"/>,
+                        <xsl:text> </xsl:text>
+                    </xsl:if>
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>.
+                </xsl:if>
+            </xsl:otherwise>
+            
+        </xsl:choose>
     </xsl:template>
+    
     
     
     
