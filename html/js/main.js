@@ -3,18 +3,28 @@
  * @param {HTMLInputElement} checkbox - The checkbox element
  */
 function toggleHighlight(checkbox) {
-    // Use the checkbox's value as the data-bs-target
-    const dataTarget = checkbox.value;
-
-    // Select all elements with the specified data-bs-target
-    const elements = document.querySelectorAll(`[data-bs-target="#${dataTarget}"]`);
-    console.log(elements)
+    // checkbox value is the person ID, e.g., "tillich_person_id__1"
+    const personId = checkbox.value;
     
-    // Add or remove the highlight class based on the checkbox state
+    // 1. Single person: direct match on data-bs-target
+    const singlePersonElements = document.querySelectorAll(`[data-bs-target="#${personId}"]`);
+    
+    // 2. Multiple persons: check if personId is in data-person-refs
+    const allElements = document.querySelectorAll('[data-person-refs]');
+    const multiPersonElements = Array.from(allElements).filter(element => {
+        const refs = element.getAttribute('data-person-refs');
+        // Check if refs contains this personId (with or without #)
+        return refs.includes(`#${personId}`) || refs.includes(personId);
+    });
+    
+    // Combine both results
+    const allMatchingElements = [...singlePersonElements, ...multiPersonElements];
+    
+    // Add or remove the highlight class
     if (checkbox.checked) {
-        elements.forEach(element => element.classList.add('highlight'));
+        allMatchingElements.forEach(element => element.classList.add('highlight'));
     } else {
-        elements.forEach(element => element.classList.remove('highlight'));
+        allMatchingElements.forEach(element => element.classList.remove('highlight'));
     }
 }
 

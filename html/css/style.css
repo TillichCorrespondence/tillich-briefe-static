@@ -1,5 +1,6 @@
 :root {
   --dse-base-color: #017596;
+  --dse-accent-color: #F2A104; /* warm golden orange */
 }
 
 /* needed for interactive map in listplace.xsl */
@@ -75,7 +76,6 @@ a.entity {
   color: var(--dse-base-color);
   text-align: inherit;
   cursor: pointer;
-  padding: 1px 2px;
 }
 
 a.entity:hover {
