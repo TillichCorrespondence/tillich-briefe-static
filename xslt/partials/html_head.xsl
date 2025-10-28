@@ -17,10 +17,10 @@
         <meta name="description" content="{$project_title}" />
         
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="{$project_short_title}" />
+        <meta property="og:title" content="{$project_title}" />
         <meta property="og:description" content="{$project_title}" />
         <!-- <meta property="og:url" content="{$base_url}" /> -->
-        <meta property="og:site_name" content="{$project_short_title}" />
+        <meta property="og:site_name" content="{$project_title}" />
 	    <meta property="og:image" content="{$project_logo}" />
         <!-- Matomo -->
         <script>

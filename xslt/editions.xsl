@@ -5,11 +5,12 @@
     <xsl:output encoding="UTF-8" media-type="text/html" method="html" version="5.0" indent="yes"
         omit-xml-declaration="yes"/>
 
-    <xsl:import href="./partials/shared.xsl"/>
-    <xsl:import href="./partials/entities.xsl"/>
-    <xsl:import href="./partials/html_navbar.xsl"/>
-    <xsl:import href="./partials/html_head.xsl"/>
-    <xsl:import href="./partials/html_footer.xsl"/>
+    <xsl:import href="partials/shared.xsl"/>
+    <xsl:import href="partials/entities.xsl"/>
+    <xsl:import href="partials/html_navbar.xsl"/>
+    <xsl:import href="partials/html_head.xsl"/>
+    <xsl:import href="partials/html_footer.xsl"/>
+    <xsl:import href="partials/zotero.xsl"/>
 
 
     <xsl:variable name="prev">
@@ -40,6 +41,14 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"/>
                 </xsl:call-template>
+                <xsl:call-template name="zoterMetaTags">
+                    <xsl:with-param name="pageId" select="$link"></xsl:with-param>  
+                    <xsl:with-param name="zoteroTitle" select="$doc_title"></xsl:with-param>
+                </xsl:call-template>
+                <xsl:for-each select=".//tei:titleStmt/tei:respStmt/tei:name">
+                    <meta name="citation_author" content="{./text()}"/>
+                </xsl:for-each>
+                <meta name="citation_pdf_url" content="{'https://tillichcorrespondence.github.io/tillich-briefe-static/'||replace($link, '.html', '.pdf')}"></meta>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
             </head>
 
