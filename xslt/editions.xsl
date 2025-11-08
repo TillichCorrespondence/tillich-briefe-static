@@ -24,6 +24,9 @@
     <xsl:variable name="teiSource">
         <xsl:value-of select="data(tei:TEI/@xml:id)"/>
     </xsl:variable>
+    <xsl:variable name="pdf">
+        <xsl:value-of select="replace($teiSource, '.xml', '.pdf')"/>
+    </xsl:variable>
     <xsl:variable name="link">
         <xsl:value-of select="replace($teiSource, '.xml', '.html')"/>
     </xsl:variable>
@@ -33,7 +36,9 @@
     <xsl:variable name="doc-url">
         <xsl:value-of select="concat('https://tillich-briefe.acdh.oeaw.ac.at/', $link)"/>
     </xsl:variable>
-
+    <xsl:variable name="pdf-url">
+        <xsl:value-of select="concat('https://tillich-briefe.acdh.oeaw.ac.at/', $pdf)"/>
+</xsl:variable>
 
     <xsl:template match="/">
         <html class="h-100" lang="de">
@@ -99,6 +104,12 @@
                                         <i class="ps-1 bi bi-filetype-pdf fs-2" title="Als PDF herunterladen"
                                             visually-hidden="true">
                                             <span class="visually-hidden">Als PDF herunterladen</span>
+                                        </i>
+                                    </a>
+                                    <a href="{$pdf-url}">
+                                        <i class="ps-1 bi bi-file-earmark-pdf fs-2" title="Download complete PDF"
+                                            visually-hidden="true">
+                                            <span class="visually-hidden">Als schönere PDF herunterladen</span>
                                         </i>
                                     </a>
                                 </div>
