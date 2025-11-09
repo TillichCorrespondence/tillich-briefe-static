@@ -107,7 +107,7 @@
                                         </i>
                                     </a>
                                     <a href="{$pdf-url}">
-                                        <i class="ps-1 bi bi-file-earmark-pdf fs-2" title="Download complete PDF"
+                                        <i class="ps-1 bi bi-file-earmark-pdf fs-2" title="Als PDF herunterladen"
                                             visually-hidden="true">
                                             <span class="visually-hidden">Als schönere PDF herunterladen</span>
                                         </i>
