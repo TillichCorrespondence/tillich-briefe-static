@@ -85,7 +85,12 @@
 
 \textbf{Signatur:} <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:idno)"/>
 
-\textbf{Brieftyp:} <xsl:value-of select="normalize-space(tei:msDesc/tei:physDesc/tei:p)"/>
+\textbf{Brieftyp:} <xsl:for-each select="tei:msDesc/tei:physDesc/tei:p">
+                         <xsl:value-of select="normalize-space(.)"/>
+                         <xsl:if test="position() != last()">
+                             <xsl:text> </xsl:text><!-- adds space between paragraphs -->
+                         </xsl:if>
+                     </xsl:for-each>
 
 \textbf{Postweg:} <xsl:apply-templates select="//tei:correspAction[@type='sent']/tei:placeName" mode="place-marker"/> — 
 <xsl:choose>
