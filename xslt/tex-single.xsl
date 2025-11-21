@@ -83,7 +83,12 @@
 
 \textbf{Aufbewahrungsort:} <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:repository)"/>, <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:institution)"/>, <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:country)"/>
 
-\textbf{Signatur:} <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:idno)"/>
+\textbf{Signatur:} <xsl:for-each select="tei:msDesc/tei:msIdentifier/tei:idno">
+                         <xsl:value-of select="normalize-space(.)"/>
+                         <xsl:if test="position() != last()">
+                             <xsl:text> | </xsl:text><!-- adds space between idnos -->
+                         </xsl:if>
+                     </xsl:for-each>
 
 \textbf{Brieftyp:} <xsl:for-each select="tei:msDesc/tei:physDesc/tei:p">
                          <xsl:value-of select="normalize-space(.)"/>
