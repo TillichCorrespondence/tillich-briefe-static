@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REDMINE_ID="21311?format=xhtml&locale="
+REDMINE_ID="22113?format=xhtml&locale="
 IMPRINT_XML=./data/imprint.xml
 
 echo "fetching transkriptions from data_repo"
