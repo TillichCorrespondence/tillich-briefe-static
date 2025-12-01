@@ -14,7 +14,7 @@ const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
   },
   additionalSearchParameters: {
     query_by: "full_text",
-    sort_by: "rec_id:asc",
+    sort_by: "year:asc",
   },
 });
 
@@ -82,7 +82,8 @@ search.addWidgets([
   instantsearch.widgets.sortBy({
     container: "#sort-by",
     items: [
-      { label: "Standard", value: `${indexName}` },
+      { label: "Jahr (aufsteigend)", value: `${indexName}/sort/year:asc` },
+      { label: "Jahr (absteigend)", value: `${indexName}/sort/year:desc` },
       { label: "ID (aufsteigend)", value: `${indexName}/sort/rec_id:asc` },
       { label: "ID (absteigend)", value: `${indexName}/sort/rec_id:desc` },
     ],

@@ -36,8 +36,8 @@
                                  <br />
                                   <span class="display-6">1886–1933</span>
                              </h1>
-                             <p class="text-end">Herausgegeben von Christian Danz und Friedrich Wilhelm Graf. Wien/München 2021-2024</p>
-                              <p class="lead">Die digitale Edition der Korrespondenz des Theologen Paul Tillich enthält derzeit über 900 Briefe und umfasst den Zeitraum von seiner Geburt 1886 bis zu seiner Emigration in die USA 1933. Der Briefbestand der Edition wird laufend ergänzt und weiter ediert. Es sind zwei weitere Projektphasen (1933-1951 und 1951-1965) geplant, so dass am Ende des Projekts Paul Tillichs gesamte Korrespondenz als kritische Open Access Edition digital vorliegt.
+                             <p>Herausgegeben von Christian Danz und Friedrich Wilhelm Graf. <br/>Wien/München 2021–2024</p>
+                              <p class="lead">Die digitale Edition der Korrespondenz des Theologen Paul Tillich enthält derzeit über 900 Briefe und umfasst den Zeitraum von seiner Geburt 1886 bis zu seiner Emigration in die USA 1933. Der Briefbestand der Edition wird laufend ergänzt und weiter ediert. Es sind zwei weitere Projektphasen (1933–1951 und 1951–1965) geplant, so dass am Ende des Projekts Paul Tillichs gesamte Korrespondenz als kritische Open Access Edition digital vorliegt.
                                 </p>
                              <div class="d-grid gap-2 d-md-flex justify-content-md-start">
                                  <a href="search.html" type="button" class="btn btn-primary btn-lg px-4 me-md-2">Volltextsuche</a>
