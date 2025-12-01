@@ -44,7 +44,7 @@
                         <table id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" tabulator-headerFilter="input">Autor</th>
+                                    <th scope="col" tabulator-field="sorting" tabulator-headerFilter="input">Autor</th>
                                     <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-download="false" tabulator-minWidth="350">Titel</th>
                                     <th scope="col" tabulator-visible="false" tabulator-download="true">titel_</th>
                                     <th scope="col" tabulator-headerFilter="input">Jahr</th>

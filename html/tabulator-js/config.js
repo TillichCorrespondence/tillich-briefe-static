@@ -5,5 +5,9 @@ var config = {
     layout: "fitColumns",
     responsiveLayout: "collapse",
     tooltips: true,
-    dataLoader: true
+    dataLoader: true,
+    initialSort: [
+        {column: "sorting", dir: "asc"}
+    ]
 };
+

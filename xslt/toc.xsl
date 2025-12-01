@@ -45,7 +45,7 @@
                                     <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-download="false" tabulator-minWidth="350">Sender</th>
                                     <th scope="col" tabulator-headerFilter="input" tabulator-visible="false" tabulator-download="true">sender_</th>
                                     <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html">Empfänger</th>
-                                    <th scope="col" tabulator-headerFilter="input" tabulator-maxWidth="130">Datum</th>
+                                    <th scope="col" tabulator-field="sorting" tabulator-headerFilter="input" tabulator-maxWidth="130">Datum</th>
                                     <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html">von</th>
                                     <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html">nach</th>
                                     <th scope="col" tabulator-headerFilter="input" >Art</th>
