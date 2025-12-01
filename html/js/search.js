@@ -122,6 +122,11 @@ search.addWidgets([
     showMore: true,
     showMoreLimit: 50,
     limit: 10,
+    templates: {
+    showMoreText({ isShowingMore }) {
+      return isShowingMore ? "Weniger" : "Mehr";
+    }
+  },
     searchablePlaceholder: "Suche nach Absendern",
     cssClasses: DEFAULT_CSS_CLASSES,
   }),
@@ -140,6 +145,11 @@ search.addWidgets([
     showMore: true,
     showMoreLimit: 50,
     limit: 10,
+    templates: {
+    showMoreText({ isShowingMore }) {
+      return isShowingMore ? "Weniger" : "Mehr";
+    }
+  },
     searchablePlaceholder: "Suche nach Empfängern",
     cssClasses: DEFAULT_CSS_CLASSES,    
   }),
@@ -179,6 +189,11 @@ search.addWidgets([
     showMore: true,
     showMoreLimit: 50,
     limit: 10,
+    templates: {
+    showMoreText({ isShowingMore }) {
+      return isShowingMore ? "Weniger" : "Mehr";
+    }
+  },
     searchablePlaceholder: "Suche nach Personen",
     cssClasses: DEFAULT_CSS_CLASSES,
   }),
@@ -196,6 +211,11 @@ search.addWidgets([
     searchable: true,
     showMore: true,
     showMoreLimit: 50,
+    templates: {
+    showMoreText({ isShowingMore }) {
+      return isShowingMore ? "Weniger" : "Mehr";
+    }
+  },
     limit: 10,
     searchablePlaceholder: "Suche nach Orten",
     cssClasses: DEFAULT_CSS_CLASSES,
@@ -215,6 +235,11 @@ search.addWidgets([
     showMore: true,
     showMoreLimit: 50,
     limit: 10,
+    templates: {
+    showMoreText({ isShowingMore }) {
+      return isShowingMore ? "Weniger" : "Mehr";
+    }
+  },
     searchablePlaceholder: "Suche nach Literatur",
     cssClasses: DEFAULT_CSS_CLASSES,
   }),
@@ -233,6 +258,11 @@ search.addWidgets([
     showMore: true,
     showMoreLimit: 50,
     limit: 10,
+    templates: {
+    showMoreText({ isShowingMore }) {
+      return isShowingMore ? "Weniger" : "Mehr";
+    }
+  },
     searchablePlaceholder: "Suche nach Bibelstellen",
     cssClasses: DEFAULT_CSS_CLASSES,
   }),
