@@ -44,7 +44,7 @@
                         <table id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-download="false" tabulator-minWidth="350">Name</th>
+                                    <th scope="col" tabulator-field="sorting" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-download="false" tabulator-minWidth="350">Name</th>
                                     <th scope="col" tabulator-visible="false" tabulator-download="true">name_</th>
                                     <th scope="col" tabulator-headerFilter="input" tabulator-formatter="textarea">Beruf</th>
                                     <th scope="col" tabulator-headerFilter="input" tabulator-maxWidth="200">Erwähnungen</th>
@@ -56,14 +56,13 @@
                                     <xsl:variable name="id">
                                         <xsl:value-of select="data(@xml:id)"/>
                                     </xsl:variable>
+                                    <xsl:variable name="name">
+                                        <xsl:value-of select="tei:persName/text()"/>
+                                    </xsl:variable>
                                     <tr>
                                         <td>
-                                            <a>
-                                              <xsl:attribute name="href">
-                                              <xsl:value-of select="concat($id, '.html')"/>
-                                              </xsl:attribute>
-                                                <xsl:value-of select=".//tei:persName/text()"/>
-                                            </a>
+                                            <xsl:value-of select=".//tei:persName/text()"/>
+                                            <!--<xsl:value-of select="replace($name, '\?\?\?', 'Unbekannt')"/>-->
                                         </td>
                                         <td>
                                             <xsl:value-of select=".//tei:persName/text()"/>
