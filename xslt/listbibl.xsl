@@ -64,11 +64,80 @@
                                     <xsl:variable name="year">
                                         <xsl:value-of select="tokenize(@n, ', ')[3]"></xsl:value-of>
                                     </xsl:variable>
+                                    <xsl:variable name="author_full">
+                                        <xsl:choose>
+                                            <!-- no authors at all -->
+                                            <xsl:when test="not(.//tei:author) and not(.//tei:editor)">
+                                                <xsl:text>o.A.</xsl:text>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <xsl:variable name="names">
+                                                    <xsl:for-each select=".//tei:author">
+                                                        <xsl:variable name="fn" select="normalize-space(tei:forename)"/>
+                                                        <xsl:variable name="sn" select="normalize-space(tei:surname)"/>
+                                                        <xsl:variable name="n" select="normalize-space(tei:name)"/>
+                                                        <xsl:choose>
+                                                            <xsl:when test="$n">
+                                                                <xsl:value-of select="$n"/>
+                                                            </xsl:when>
+                                                            <xsl:when test="$sn = '' and $fn !=''">
+                                                                <xsl:value-of select="$fn"/>
+                                                            </xsl:when>
+                                                            <xsl:when test="$fn = '' and $sn !=''">
+                                                                <xsl:value-of select="$sn"/>
+                                                            </xsl:when>
+                                                            <xsl:when test="$fn ='' and $sn =''">
+                                                                <xsl:text></xsl:text>
+                                                            </xsl:when>
+                                                            <xsl:otherwise>
+                                                                <xsl:value-of select="normalize-space(concat($sn, ', ', $fn))"/>                                                                
+                                                            </xsl:otherwise>
+                                                        </xsl:choose>
+                                                        <xsl:if test="position() != last()">;<xsl:text> </xsl:text></xsl:if>
+                                                    </xsl:for-each>
+                                                </xsl:variable>
+                                                <xsl:value-of select="$names"/>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </xsl:variable>
+                                    <xsl:variable name="editors">
+                                        <xsl:variable name="names">
+                                            <xsl:for-each select=".//tei:editor">
+                                                <xsl:variable name="fn" select="normalize-space(tei:forename)"/>
+                                                <xsl:variable name="sn" select="normalize-space(tei:surname)"/>
+                                                <xsl:choose>
+                                                    <xsl:when test="$sn = '' and $fn !=''">
+                                                        <xsl:value-of select="$fn"/>
+                                                    </xsl:when>
+                                                    <xsl:when test="$fn = '' and $sn !=''">
+                                                        <xsl:value-of select="$sn"/>
+                                                    </xsl:when>
+                                                    <xsl:when test="$fn = '' and $sn =''">
+                                                        <xsl:text></xsl:text>
+                                                    </xsl:when>
+                                                    <xsl:otherwise>
+                                                        <xsl:value-of select="normalize-space(concat($sn, ', ', $fn))"/>                                                                
+                                                    </xsl:otherwise>
+                                                </xsl:choose>
+                                                <xsl:if test="position() != last()">;<xsl:text> </xsl:text></xsl:if>
+                                            </xsl:for-each>
+                                        </xsl:variable>
+                                        <xsl:value-of select="$names"/>
+                                    </xsl:variable>
+                                    
+                                    
                                     <xsl:variable name="mentions" select="count(.//tei:note[@type='mentions'])"/>
                                     <xsl:if test="text() and $mentions &gt; 0">
                                         <tr>
                                             <td>
-                                                <xsl:value-of select="$autor"/>
+                                                <xsl:choose>
+                                                    <xsl:when test="$author_full = '' and $editors !=''">
+                                                        <xsl:value-of select="$editors"/><xsl:text> (Hg.)</xsl:text>
+                                                    </xsl:when>
+                                                    <xsl:otherwise>
+                                                        <xsl:value-of select="$author_full"/>      
+                                                    </xsl:otherwise>
+                                                </xsl:choose>                                                                                                 
                                             </td>
                                             <td>
                                                 <a href="{concat($id, '.html')}">
