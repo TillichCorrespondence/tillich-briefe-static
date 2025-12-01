@@ -48,12 +48,13 @@
                                     <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-download="false" tabulator-minWidth="350">Titel</th>
                                     <th scope="col" tabulator-visible="false" tabulator-download="true">titel_</th>
                                     <th scope="col" tabulator-headerFilter="input">Jahr</th>
-                                    <th scope="col" tabulator-headerFilter="input">ID</th>
+                                    <th scope="col" tabulator-headerFilter="input" tabulator-maxWidth="200">Erwähnungen</th>
+                                    <th scope="col" tabulator-visible="false">ID</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <xsl:for-each select="descendant::tei:listBibl/tei:biblStruct[@xml:id]">
-                                    <xsl:variable name="entiyID" select="replace(@xml:id, '#', '')"/>
+                                    <xsl:variable name="id" select="data(@xml:id)"/>
                                     <xsl:variable name="autor">
                                         <xsl:value-of select="tokenize(@n, ', ')[1]"></xsl:value-of>
                                     </xsl:variable>
@@ -63,13 +64,14 @@
                                     <xsl:variable name="year">
                                         <xsl:value-of select="tokenize(@n, ', ')[3]"></xsl:value-of>
                                     </xsl:variable>
-                                    <xsl:if test="text()">
+                                    <xsl:variable name="mentions" select="count(.//tei:note[@type='mentions'])"/>
+                                    <xsl:if test="text() and $mentions &gt; 0">
                                         <tr>
                                             <td>
                                                 <xsl:value-of select="$autor"/>
                                             </td>
                                             <td>
-                                                <a href="{concat($entiyID, '.html')}">
+                                                <a href="{concat($id, '.html')}">
                                                     <xsl:value-of select="$title"/>
                                                 </a>
                                             </td>
@@ -80,10 +82,10 @@
                                                 <xsl:value-of select="$year"/>
                                             </td>
                                             <td>
-                                                <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
+                                                <xsl:value-of select="$mentions"/>
                                             </td>
                                             <td>
-                                                <xsl:value-of select="$entiyID"/>
+                                                <xsl:value-of select="$id"/>
                                             </td>
                                         </tr>
                                     </xsl:if>
@@ -116,7 +118,7 @@
                                     <a href="index.html">Tillich-Briefe</a>
                                 </li>
                                 <li class="breadcrumb-item">
-                                    <a href="listperson.html"><xsl:value-of select="$doc_title"/></a>
+                                    <a href="listbibl.html"><xsl:value-of select="$doc_title"/></a>
                                 </li>
                             </ol>
                         </nav>
@@ -137,14 +139,12 @@
                                 <ul>
                                     <xsl:for-each select=".//tei:note[@type='mentions']">
                                         <li>
-                                            <xsl:value-of select="./text()"/>
-                                            <xsl:text></xsl:text>
                                             <a class="link-underline-light">
                                                 <xsl:attribute name="href">
                                                     <xsl:value-of select="replace(@target, '.xml', '.html')"/>
                                                 </xsl:attribute>
+                                            <xsl:value-of select="./text()"/>
                                                 <xsl:text> </xsl:text><i class="bi bi-box-arrow-up-right"></i>
-                                                <span class="visually-hidden">Gehe zu <xsl:value-of select="./text()"/></span>
                                             </a>
                                         </li>
                                     </xsl:for-each>
