@@ -1,6 +1,9 @@
 :root {
   --dse-base-color: #017596;
-  --dse-accent-color: #F2A104; /* warm golden orange */
+  --dse-base-color-hover: #00617c;
+  --dse-accent-color: #F2A104; 
+   --dse-base-color-light: #f5f8fa;
+  --dse-base-color-dark: #01769641;
 }
 
 /* needed for interactive map in listplace.xsl */
@@ -18,7 +21,13 @@ header {
   border-bottom: solid;
   border-bottom-color: var(--dse-base-color);
 }
+a {
+  color: var(--dse-base-color);
+}
 
+a:hover {
+  color: var(--dse-base-color-hover);
+}
 .navbar-brand {
   padding-top: 0;
   padding-bottom: 0;
@@ -132,6 +141,7 @@ main {
 footer a {
   text-decoration: underline;
   text-decoration-style: dotted;
+  text-underline-offset: 4px;
   color: var(--dse-base-color);
 }
 /* color palette */
@@ -202,8 +212,13 @@ footer a {
   justify-content: right;
 }
 
-.ais-ClearRefinements-button {
-  background: rgba(84, 160, 183);  
+.ais-ClearRefinements .ais-ClearRefinements-button {
+  background-color: var(--dse-base-color); 
+  padding: 0.5em 1em;
+}
+
+.ais-ClearRefinements .ais-ClearRefinements-button:hover {
+  background-color: var(--dse-base-color-hover); 
 }
 
 .ais-ClearRefinements .ais-ClearRefinements-button:hover {
@@ -218,9 +233,38 @@ footer a {
 	 visibility: hidden;
 }
 
+.ais-CurrentRefinements-list .ais-CurrentRefinements-item{
+  background-color: var(--dse-base-color); 
+}
+
+.ais-RefinementList .ais-RefinementList-showMore {
+  background-color: var(--dse-base-color); 
+}
+.ais-RefinementList .ais-RefinementList-showMore:hover {
+  background-color: var(--dse-base-color-hover); 
+}
+
 .sticky-sidebar {
   position: sticky; 
   top: 20px; 
   max-height: calc(100vh - 40px); 
   overflow-y: auto
+}
+
+.tabulator-tableholder .tabulator-table .tabulator-row-even {
+  background-color: var(--dse-base-color-light);
+}
+.tabulator-tableholder .tabulator-table .tabulator-row,
+.tabulator-col-content {
+  transition: background-color .12s ease;
+}
+
+.tabulator-tableholder .tabulator-table .tabulator-row:hover,
+.tabulator-col-content:hover {
+  background-color: var(--dse-base-color-dark);
+}
+
+#myTable {
+  border: solid 1px lightgray;
+  border-radius: 5px;
 }
