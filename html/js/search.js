@@ -15,6 +15,8 @@ const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
   additionalSearchParameters: {
     query_by: "full_text",
     sort_by: "year:asc",
+    num_typos: 0,
+    typo_tokens_threshold: 1,
   },
 });
 
