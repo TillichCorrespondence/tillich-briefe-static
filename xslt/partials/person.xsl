@@ -77,7 +77,7 @@
                 <dt>Normdaten</dt>
                 <xsl:for-each select=".//tei:idno[starts-with(./text(), 'http')]">
                     <dd>
-                        <a>
+                        <a class="text-break">
                             <xsl:attribute name="href">
                                 <xsl:value-of select="./text()"/>
                             </xsl:attribute>
