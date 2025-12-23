@@ -61,10 +61,24 @@
                                 </ul>
                             </li>
 
-                            <li class="nav-item">
+                            <li class="nav-item d-lg-none">
                                 <a class="nav-link" href="search.html">Suche</a>
                             </li>
                         </ul>
+                        <div class="d-none d-lg-block">
+                            <form class="d-flex" role="search" action="search.html" method="get">
+                                <label for="search-input" class="visually-hidden">Suche</label>
+                                <input
+                                    class="form-control me-2"
+                                    type="text"
+                                    id="search-input"
+                                    name="tillich-briefe[query]"
+                                    placeholder="Suche"
+                                    aria-label="Search"
+                                />
+                                <button class="btn btn-primary" type="submit">Suchen</button>
+                            </form>
+                        </div>
                     </nav>
                 </div>
             </nav>
