@@ -59,11 +59,8 @@ acdh-ch-calendar-year td>button[data-event-kinds] {
 }
 
 
-
-
-
-/* the select radio group */
-input {
+/* the select radio group  excl the input from nav-bar*/
+input:not(#nav-search-input) {
     position: absolute;
     width: 1px;
     height: 1px;

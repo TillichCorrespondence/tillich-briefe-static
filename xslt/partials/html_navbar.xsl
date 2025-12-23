@@ -67,11 +67,11 @@
                         </ul>
                         <div class="d-none d-lg-block">
                             <form class="d-flex" role="search" action="search.html" method="get">
-                                <label for="search-input" class="visually-hidden">Suche</label>
+                                <label for="nav-search-input" class="visually-hidden">Suche</label>
                                 <input
                                     class="form-control me-2"
                                     type="text"
-                                    id="search-input"
+                                    id="nav-search-input"
                                     name="tillich-briefe[query]"
                                     placeholder="Suche"
                                     aria-label="Search"
