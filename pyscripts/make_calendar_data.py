@@ -20,14 +20,17 @@ for x in files:
     doc = TeiReader(x)
     link = os.path.split(x)[-1].replace(".xml", ".html")
     start, end = extract_begin_end(doc.any_xpath(".//tei:correspAction[1]/tei:date[1]")[0])
-    if start and end and parse(start, default=None) < reference_date:
-        item = {
-            "date": f"{parse(start, default=None, ignoretz=True)}".split(" ")[0],  # ugly way to remove time
-            "label": doc.any_xpath(".//tei:title[1]")[0].text,
-            "link": link,
-            "kind": "Brief"
-        }
-        data.append(item)
+    try:
+        if start and end and parse(start, default=None) < reference_date:
+            item = {
+                "date": f"{parse(start, default=None, ignoretz=True)}".split(" ")[0],  # ugly way to remove time
+                "label": doc.any_xpath(".//tei:title[1]")[0].text,
+                "link": link,
+                "kind": "Brief"
+            }
+            data.append(item)
+    except Exception as e:
+        print(f"failed to process {x} due to {e}")
 
 with open(out_file, "w", encoding="utf-8") as fp:
     json.dump(data, fp, ensure_ascii=False, indent=2)
