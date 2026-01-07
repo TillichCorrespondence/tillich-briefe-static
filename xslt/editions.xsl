@@ -12,7 +12,7 @@
     <xsl:import href="partials/html_footer.xsl"/>
     <xsl:import href="partials/zotero.xsl"/>
 
-
+        
     <xsl:variable name="prev">
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@prev), '/')[last()], '.xml', '.html')"
         />
@@ -169,45 +169,63 @@
                                 <div class="pt-3">
                                      <div class="ps-5 pe-5 visually-hidden" id="pdf-entities">
                                          <h2 class="visually-hidden">Register</h2>
-                                        <xsl:for-each select=".//tei:rs[starts-with(@ref, '#') and @type]">
-                                            <xsl:variable name="rstype" select="@type"/>
-                                            <xsl:variable name="rsid" select="replace(@ref, '#', '')"/>
-                                            <xsl:variable name="ent" select="root()//tei:back//*[@xml:id=$rsid]"/>
-                                            <xsl:variable name="idxlabel">
-                                                <xsl:choose>
-                                                    <xsl:when test="$rstype=('person','place')">
-                                                        <xsl:value-of select="$ent/*[contains(name(), 'Name')][1]"/>
-                                                    </xsl:when>
-                                                    <xsl:when test="$rstype='work'">
-                                                        <xsl:value-of select="$ent/@n"/>
-                                                    </xsl:when>
-                                                    <xsl:when test="$rstype='bible'">
-                                                        <xsl:value-of select="./@ref"/>
-                                                    </xsl:when>
-                                                    <xsl:when test="$rstype='letter'">
-                                                        <xsl:value-of select="$ent//text()"/>
-                                                    </xsl:when>
-                                                </xsl:choose>
-                                            </xsl:variable>
-                                            <div>
-                                                <xsl:attribute name="id">
-                                                    <xsl:value-of select="$rsid"/>
-                                                    <xsl:number level="any" format="a" count="tei:rs[starts-with(@ref, '#') and @type]"/>
-                                                    <xsl:text>endnote</xsl:text>
-                                                </xsl:attribute>
-                                                <sup>
-                                                    <a>
-                                                        <xsl:attribute name="href">
-                                                            <xsl:value-of select="concat('#', $rsid)"/>
-                                                            <xsl:number level="any" format="a" count="tei:rs[starts-with(@ref, '#') and @type]"/>
-                                                            <xsl:text>anchor</xsl:text>
-                                                        </xsl:attribute>
-                                                        <xsl:number level="any" format="a" count="tei:rs[starts-with(@ref, '#') and @type]"/>
-                                                    </a>
-                                                </sup>
-                                                <span class="ps-1"><xsl:value-of select="$idxlabel"/></span>
-                                            </div>
-                                        </xsl:for-each>
+                                         
+                                         <xsl:for-each select=".//tei:rs[starts-with(@ref, '#') and @type]">
+                                             <xsl:variable name="rstype" select="@type"/>
+                                             <xsl:variable name="rsids" select="tokenize(normalize-space(@ref), '\s+')"/>
+                                             
+                                             
+                                             <xsl:variable name="doc" select="root(.)"/>
+                                             
+                                             <xsl:variable name="idxlabel"
+                                                 select="
+                                                 string-join(
+                                                 for $id in tokenize(normalize-space(@ref), '\s+')
+                                                 return
+                                                 if (@type = ('person','place'))
+                                                 then string(
+                                                 $doc//tei:back//*[@xml:id = substring-after($id,'#')]
+                                                 /*[contains(local-name(),'Name')][1]
+                                                 )
+                                                 else if (@type = 'work')
+                                                 then string(
+                                                 $doc//tei:back//*[@xml:id = substring-after($id,'#')]/@n
+                                                 )
+                                                 else if (@type = 'letter')
+                                                 then string(
+                                                 $doc//tei:back//*[@xml:id = substring-after($id,'#')]//text()
+                                                 )
+                                                 else if (@type = 'bible')
+                                                 then substring-after($id,'#')
+                                                 else (),
+                                                 '; '
+                                                 )
+                                                 "></xsl:variable>
+                                             
+                                                 
+                                                 <div>
+                                                     <xsl:variable name="entId"
+                                                         select="substring-after(tokenize(normalize-space(@ref), '\s+')[1], '#')"/>
+                                                     <xsl:attribute name="id">
+                                                         <xsl:value-of select="$entId"/>
+                                                         <xsl:number level="any"
+                                                             format="a"
+                                                             count="tei:rs[starts-with(@ref,'#') and @type]"/>
+                                                         <xsl:text>endnote</xsl:text>
+                                                     </xsl:attribute>
+                                                     
+                                                     <sup>
+                                                         <xsl:number level="any"
+                                                             format="a"
+                                                             count="tei:rs[starts-with(@ref,'#') and @type]"/>
+                                                     </sup>
+                                                     
+                                                     <span class="ps-1">
+                                                         <xsl:value-of select="$idxlabel"/>
+                                                     </span>
+                                                 </div>
+                                         </xsl:for-each>
+                                         
                                     </div>
                                 </div>
                             </div>

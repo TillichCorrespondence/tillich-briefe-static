@@ -25,6 +25,34 @@
                 <xsl:apply-templates/>
                 <span class="visually-hidden"> (Details anzeigen)</span>
             </a>
+            <!-- anchor for PDF -->
+            <a class="pdf-entitiy-footnote-markers visually-hidden" aria-hidden="true">
+                <xsl:variable name="entId"
+                    select="substring-after(tokenize(normalize-space(@ref), '\s+')[1], '#')"/>
+                
+                <xsl:attribute name="id">
+                    <xsl:value-of select="$entId"/>
+                    <xsl:number level="any"
+                        format="a"
+                        count="tei:rs[starts-with(@ref,'#') and @type]"/>
+                    <xsl:text>anchor</xsl:text>
+                </xsl:attribute>
+                
+                <xsl:attribute name="href">
+                    <xsl:text>#</xsl:text>
+                    <xsl:value-of select="$entId"/>
+                    <xsl:number level="any"
+                        format="a"
+                        count="tei:rs[starts-with(@ref,'#') and @type]"/>
+                    <xsl:text>endnote</xsl:text>
+                </xsl:attribute>
+                
+                <sup>
+                    <xsl:number level="any"
+                        format="a"
+                        count="tei:rs[starts-with(@ref,'#') and @type]"/>
+                </sup>
+            </a>
         </xsl:when>
         
         <!-- Single ref - original behavior -->
@@ -40,18 +68,30 @@
             
             <!-- anchor for PDF -->
             <a class="pdf-entitiy-footnote-markers visually-hidden" aria-hidden="true">
-                <xsl:attribute name="name">
-                    <xsl:value-of select="replace($entId, '#', '')"/>
-                    <xsl:number level="any" format="a" count="tei:rs[starts-with(@ref, '#') and @type]"/>
+                <xsl:variable name="entId"
+                    select="substring-after(tokenize(normalize-space(@ref), '\s+')[1], '#')"/>
+                
+                <xsl:attribute name="id">
+                    <xsl:value-of select="$entId"/>
+                    <xsl:number level="any"
+                        format="a"
+                        count="tei:rs[starts-with(@ref,'#') and @type]"/>
                     <xsl:text>anchor</xsl:text>
                 </xsl:attribute>
+                
                 <xsl:attribute name="href">
+                    <xsl:text>#</xsl:text>
                     <xsl:value-of select="$entId"/>
-                    <xsl:number level="any" format="a" count="tei:rs[starts-with(@ref, '#') and @type]"/>
+                    <xsl:number level="any"
+                        format="a"
+                        count="tei:rs[starts-with(@ref,'#') and @type]"/>
                     <xsl:text>endnote</xsl:text>
                 </xsl:attribute>
+                
                 <sup>
-                    <xsl:number level="any" format="a" count="tei:rs[starts-with(@ref, '#') and @type]"/>
+                    <xsl:number level="any"
+                        format="a"
+                        count="tei:rs[starts-with(@ref,'#') and @type]"/>
                 </sup>
             </a>
         </xsl:otherwise>
