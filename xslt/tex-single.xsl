@@ -160,7 +160,18 @@
     
     <!-- Quotes -->
     <xsl:template match="tei:q">
-        <xsl:text>„</xsl:text><xsl:apply-templates/><xsl:text>“</xsl:text>  
+        <xsl:choose>
+            <xsl:when test="@rend='single'">
+                <xsl:text>‚</xsl:text>
+                <xsl:apply-templates/>
+                <xsl:text>’</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text>„</xsl:text>
+                <xsl:apply-templates/>
+                <xsl:text>“</xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <!-- Foreign text (Greek) -->
