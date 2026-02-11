@@ -1,4 +1,4 @@
-echo "Generate single letter PDFs"
+# echo "Generate single letter PDFs"
 cd tex
 for texfile in L*.tex; do
     xelatex -interaction=nonstopmode "$texfile"
@@ -19,7 +19,8 @@ rm *.idx
 rm *.ilg
 rm *.ind
 
-
+echo "Generate collection PDFs"
+cd tex
 xelatex -interaction=nonstopmode sk-tmp.tex
 xelatex -interaction=nonstopmode sk-tmp.tex
 mv sk-tmp.pdf ../html/tillich-briefe-sk.pdf
