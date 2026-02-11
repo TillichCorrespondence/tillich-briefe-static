@@ -6,11 +6,30 @@
     version="3.0">
     
     <xsl:output encoding="UTF-8" media-type="text" omit-xml-declaration="true" indent="no"/>
+<!--    collect all rs person ref atrributes also joined entities like 'Eltern'-->
+    <xsl:variable name="persons-used"
+        select="distinct-values(
+        tokenize(
+        string-join(
+        (//tei:rs[@type='person']/@ref,
+        //tei:persName[@ref]/@ref),
+        ' '
+        ),
+        '\s+'
+        ) ! substring-after(., '#')
+        )"/>
+    
+    
+    
+    
+    
     
    <xsl:template match="/">
 \documentclass{article}
 \usepackage[a4paper, margin=2.5cm]{geometry} % consistent layout
 \usepackage{parskip}       % for better paragraph spacing
+
+\usepackage{xurl} % to handle url linebreak
 
 \usepackage{fontspec}        % For font management
 \usepackage{polyglossia}     % For multilingual support
@@ -31,7 +50,7 @@
 
 % Custom commands for marking entities (persons, places, and works)
 % Small dark-gray icons positioned as superscript indicate these are in the indices
-\newcommand{\pers}[1]{#1\textsuperscript{*}}
+
 \newcommand{\place}[1]{#1\textsuperscript{*}}
 \newcommand{\work}[1]{#1\textsuperscript{*}}
 
@@ -97,16 +116,16 @@
                          </xsl:if>
                      </xsl:for-each>
 
-\textbf{Postweg:} <xsl:apply-templates select="//tei:correspAction[@type='sent']/tei:placeName" mode="place-marker"/> — 
+\textbf{Postweg:} <xsl:apply-templates select="//tei:correspAction[@type='sent']/tei:placeName"/> — 
 <xsl:choose>
     <xsl:when test="//tei:correspAction[@type='received']/tei:placeName">
-        <xsl:apply-templates select="//tei:correspAction[@type='received']/tei:placeName" mode="place-marker"/>
+        <xsl:apply-templates select="//tei:correspAction[@type='received']/tei:placeName"/>
     </xsl:when>
     <xsl:otherwise>
         <xsl:text>unbekannt</xsl:text>
     </xsl:otherwise>
 </xsl:choose>
-[Empfänger: <xsl:apply-templates select="//tei:correspAction[@type='received']/tei:persName" mode="pers-marker"/>]
+[Empfänger: <xsl:apply-templates select="//tei:correspAction[@type='received']/tei:persName"/>]
 
 \end{tcolorbox}
 \vspace{1cm}
@@ -135,11 +154,27 @@
     <xsl:template match="tei:hi[@rend='aq']">\textit{<xsl:apply-templates/>}</xsl:template>
     
     <!-- References to persons -->
-    <xsl:template match="tei:rs[@type='person']">\pers{<xsl:apply-templates/>}</xsl:template>
+    <xsl:template match="tei:rs[@type='person'][@ref] | tei:persName[@ref]">
+        
+        <xsl:variable name="ids"
+            select="for $i in tokenize(@ref, '\s+')
+            return substring-after($i,'#')"/>
+        
+        <xsl:apply-templates/>
+        
+        <xsl:for-each select="$ids">
+            <xsl:variable name="pos" select="index-of($persons-used, .)"/>
+            <xsl:variable name="letter" select="codepoints-to-string(96 + $pos)"/>
+            <xsl:text>\textsuperscript{</xsl:text>
+            <xsl:value-of select="$letter"/>
+            <xsl:text>}</xsl:text>
+        </xsl:for-each>
+        
+    </xsl:template>
     
-    <xsl:template match="tei:persName">\pers{<xsl:apply-templates/>}</xsl:template>
     
-    <xsl:template match="tei:persName" mode="pers-marker">\pers{<xsl:value-of select="normalize-space(.)"/>}</xsl:template>
+    
+    
     
     <!-- References to places -->
     <xsl:template match="tei:rs[@type='place']">\place{<xsl:apply-templates/>}</xsl:template>
@@ -204,9 +239,10 @@
 \vspace{0.5cm}
 
 \begin{description}
-            <xsl:apply-templates select="tei:listPerson/tei:person">
-                <xsl:sort select="tei:persName/tei:surname"/>
+            <xsl:apply-templates select="tei:listPerson/tei:person[@xml:id = $persons-used]">
+                <xsl:sort select="index-of($persons-used, @xml:id)"/>
             </xsl:apply-templates>
+            
 \end{description}
 
 \vspace{1cm}
@@ -243,16 +279,26 @@
     
     <!-- Person entries -->
     <xsl:template match="tei:person">
-\item[<xsl:value-of select="normalize-space(tei:persName)"/>]
-\small <xsl:if test="tei:birth/tei:date or tei:death/tei:date"> (<xsl:if test="tei:birth/tei:date"><xsl:value-of select="tei:birth/tei:date"/></xsl:if>--<xsl:if test="tei:death/tei:date"><xsl:value-of select="tei:death/tei:date"/></xsl:if>)</xsl:if><xsl:if test="tei:occupation"> <xsl:value-of select="tei:occupation"/>.</xsl:if><xsl:if test="tei:note[@type='bio']"> <xsl:apply-templates select="tei:note[@type='bio']/tei:p"/></xsl:if><xsl:if test="tei:idno[@type='gnd']"> [GND: \url{<xsl:value-of select="tei:idno[@type='gnd']"/>}]</xsl:if>
-
+        
+        <xsl:variable name="id" select="@xml:id"/>
+        <xsl:variable name="pos" select="index-of($persons-used, $id)"/>
+        <xsl:variable name="letter" select="codepoints-to-string(96 + $pos)"/>
+        
+        \item[\textsuperscript{<xsl:value-of select="$letter"/>} <xsl:value-of select="normalize-space(tei:persName)"/>]
+        {\small <xsl:if test="tei:birth/tei:date or tei:death/tei:date"> 
+            (<xsl:if test="tei:birth/tei:date"><xsl:value-of select="tei:birth/tei:date"/></xsl:if>--
+            <xsl:if test="tei:death/tei:date"><xsl:value-of select="tei:death/tei:date"/></xsl:if>)</xsl:if>
+        <xsl:if test="tei:occupation"> <xsl:value-of select="tei:occupation"/>.</xsl:if>
+        <xsl:if test="tei:note[@type='bio']"> <xsl:apply-templates select="tei:note[@type='bio']/tei:p"/></xsl:if>
+        <xsl:if test="tei:idno[@type='gnd']"> [GND: \url{<xsl:value-of select="tei:idno[@type='gnd']"/>}]</xsl:if>}
+        
     </xsl:template>
     
     <!-- Place entries -->
     <xsl:template match="tei:place">
-\item[<xsl:value-of select="normalize-space(tei:placeName)"/>]
-\small <xsl:if test="tei:idno[@type='geonames'] or tei:idno[@type='wikidata']"> [<xsl:if test="tei:idno[@type='geonames']">Geonames: \url{<xsl:value-of select="tei:idno[@type='geonames']"/>}</xsl:if><xsl:if test="tei:idno[@type='geonames'] and tei:idno[@type='wikidata']">; </xsl:if><xsl:if test="tei:idno[@type='wikidata']">Wikidata: \url{<xsl:value-of select="tei:idno[@type='wikidata']"/>}</xsl:if>]</xsl:if>
-
+        \item[<xsl:value-of select="normalize-space(tei:placeName)"/>]
+        {\small <xsl:if test="tei:idno[@type='geonames'] or tei:idno[@type='wikidata']"> [<xsl:if test="tei:idno[@type='geonames']">Geonames: \url{<xsl:value-of select="tei:idno[@type='geonames']"/>}</xsl:if><xsl:if test="tei:idno[@type='geonames'] and tei:idno[@type='wikidata']">; </xsl:if><xsl:if test="tei:idno[@type='wikidata']">Wikidata: \url{<xsl:value-of select="tei:idno[@type='wikidata']"/>}</xsl:if>]</xsl:if>}
+        
     </xsl:template>
     
     <!-- Bibliography entries -->
@@ -316,8 +362,81 @@
             
         </xsl:choose>
     </xsl:template>
+    <xsl:template match="text()">
+        <xsl:variable name="t1"  select="replace(., '\\', '\\textbackslash{}')"/>
+        <xsl:variable name="t2"  select="replace($t1, '_', '\\_')"/>
+        <xsl:variable name="t3"  select="replace($t2, '&amp;', '\\&amp;')"/>
+        <xsl:variable name="t4"  select="replace($t3, '%', '\\%')"/>
+        <xsl:variable name="t5"  select="replace($t4, '#', '\\#')"/>
+        <xsl:variable name="t6"  select="replace($t5, '\$', '\\$')"/>
+        <xsl:variable name="t7"  select="replace($t6, '\{', '\\{')"/>
+        <xsl:variable name="t8"  select="replace($t7, '\}', '\\}')"/>
+        <xsl:value-of select="$t8"/>
+    </xsl:template>
+    
+    <xsl:template match="text()">
+        <xsl:call-template name="escape_character_latex">
+            <xsl:with-param name="context" select="."/>
+        </xsl:call-template>
+    </xsl:template>
     
     
+    <!--    escaping special characters-->
+    <xsl:template name="escape_character_latex">
+        <xsl:param name="context"/>
+        <xsl:analyze-string select="$context" regex="([&amp;])|([_])|([$])|([%])|([{{])|([}}])|([#])|((\w)\-(\w))|([/])|([§] +)|((\d{{1,2}}\.)\s+(\d{{1,2}}\.)\s+([21][8901]\d{{2}}))">
+            <xsl:matching-substring>
+                <xsl:choose>
+                    <xsl:when test="regex-group(1)">
+                        <xsl:text disable-output-escaping="yes">\&amp;</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="regex-group(2)">
+                        <xsl:text>\_</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="regex-group(3)">
+                        <xsl:text>\$</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="regex-group(4)">
+                        <xsl:text>\%</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="regex-group(5)">
+                        <xsl:text>{</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="regex-group(6)">
+                        <xsl:text>}</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="regex-group(7)">
+                        <xsl:text>\#</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="regex-group(8)">
+                        <xsl:value-of select="regex-group(9)"/>
+                        <xsl:text>"=</xsl:text>
+                        <!-- used with the hyphenat package to allow hyphenation of hyphenated-words -->
+                        <!--replaced by some TeX magic as this creates hassle in index-->
+                        <!-- 20220202 replaced by "- to allow breakpoints -->
+                        <xsl:value-of select="regex-group(10)"/>
+                    </xsl:when>
+                    <xsl:when test="regex-group(11)">
+                        <xsl:text>{\slash}</xsl:text><!-- allow breaking at / -->
+                    </xsl:when>
+                    <xsl:when test="regex-group(12)">
+                        <xsl:text>§~</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="regex-group(13)"><!-- hairspace in dates -->
+                        <xsl:value-of select="regex-group(14)"/>
+                        <xsl:text>\,</xsl:text>
+                        <xsl:value-of select="regex-group(15)"/>
+                        <xsl:text> </xsl:text>
+                        <xsl:value-of select="regex-group(16)"/>
+                    </xsl:when>
+                    <xsl:otherwise/>
+                </xsl:choose>
+            </xsl:matching-substring>
+            <xsl:non-matching-substring>
+                <xsl:value-of select="."/>
+            </xsl:non-matching-substring>
+        </xsl:analyze-string>
+    </xsl:template>
     
     
 </xsl:stylesheet>
