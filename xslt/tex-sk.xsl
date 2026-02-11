@@ -22,10 +22,6 @@
 \usepackage{ulem}
 \usepackage{hyphenat}
 
-\usepackage{titlesec}
-\titleformat{\section}
-  {\normalfont\sffamily\large}
-  {\thesection}{1em}{}
 
 % TOC setup
 \usepackage{tocloft}
@@ -98,7 +94,24 @@
 \listoffigures
 \clearpage
 <xsl:for-each select="collection('../data/editions/?select=*.xml')/tei:TEI">
-    <xsl:sort select="./@xml:id"></xsl:sort>
+<!-- sort chronoligically using date sent -->
+    
+    <xsl:sort
+  select="
+    (
+      tei:teiHeader/tei:profileDesc/tei:correspDesc
+      /tei:correspAction[@type='sent']
+      /tei:date/@when,
+
+      tei:teiHeader/tei:profileDesc/tei:correspDesc
+      /tei:correspAction[@type='sent']
+      /tei:date/@notBefore,
+
+      tei:teiHeader/tei:profileDesc/tei:correspDesc
+      /tei:correspAction[@type='sent']
+      /tei:date/@notAfter
+    )[1]"
+  order="ascending"/>
     <xsl:variable name="docId">
         <xsl:value-of select="replace(./@xml:id, '.xml', '')"/>
     </xsl:variable>
