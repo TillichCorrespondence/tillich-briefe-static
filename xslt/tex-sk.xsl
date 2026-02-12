@@ -246,57 +246,70 @@
     <!--    escaping special characters-->
     <xsl:template name="escape_character_latex">
         <xsl:param name="context"/>
-        <xsl:analyze-string select="$context" regex="([&amp;])|([_])|([$])|([%])|([{{])|([}}])|([#])|((\w)\-(\w))|([/])|([§] +)|((\d{{1,2}}\.)\s+(\d{{1,2}}\.)\s+([21][8901]\d{{2}}))">
+        
+        <xsl:analyze-string
+            select="$context"
+            regex="([&amp;])|([_])|([$])|([%])|([{{])|([}}])|([#])|([/])|([§] +)|((\d{{1,2}}\.)\s+(\d{{1,2}}\.)\s+([21][8901]\d{{2}}))">
+            
             <xsl:matching-substring>
                 <xsl:choose>
+                    
                     <xsl:when test="regex-group(1)">
                         <xsl:text disable-output-escaping="yes">\&amp;</xsl:text>
                     </xsl:when>
+                    
                     <xsl:when test="regex-group(2)">
                         <xsl:text>\_</xsl:text>
                     </xsl:when>
+                    
                     <xsl:when test="regex-group(3)">
                         <xsl:text>\$</xsl:text>
                     </xsl:when>
+                    
                     <xsl:when test="regex-group(4)">
                         <xsl:text>\%</xsl:text>
                     </xsl:when>
+                    
                     <xsl:when test="regex-group(5)">
                         <xsl:text>{</xsl:text>
                     </xsl:when>
+                    
                     <xsl:when test="regex-group(6)">
                         <xsl:text>}</xsl:text>
                     </xsl:when>
+                    
                     <xsl:when test="regex-group(7)">
                         <xsl:text>\#</xsl:text>
                     </xsl:when>
+                    
+                    <!-- slash -->
                     <xsl:when test="regex-group(8)">
-                        <xsl:value-of select="regex-group(9)"/>
-                        <xsl:text>"=</xsl:text>
-                        <!-- used with the hyphenat package to allow hyphenation of hyphenated-words -->
-                            <!--replaced by some TeX magic as this creates hassle in index-->
-                            <!-- 20220202 replaced by "- to allow breakpoints -->
-                        <xsl:value-of select="regex-group(10)"/>
+                        <xsl:text>{\slash}</xsl:text>
                     </xsl:when>
-                    <xsl:when test="regex-group(11)">
-                        <xsl:text>{\slash}</xsl:text><!-- allow breaking at / -->
-                    </xsl:when>
-                    <xsl:when test="regex-group(12)">
+                    
+                    <!-- § with space -->
+                    <xsl:when test="regex-group(9)">
                         <xsl:text>§~</xsl:text>
                     </xsl:when>
-                    <xsl:when test="regex-group(13)"><!-- hairspace in dates -->
-                        <xsl:value-of select="regex-group(14)"/>
+                    
+                    <!-- date hairspace -->
+                    <xsl:when test="regex-group(10)">
+                        <xsl:value-of select="regex-group(11)"/>
                         <xsl:text>\,</xsl:text>
-                        <xsl:value-of select="regex-group(15)"/>
+                        <xsl:value-of select="regex-group(12)"/>
                         <xsl:text> </xsl:text>
-                        <xsl:value-of select="regex-group(16)"/>
+                        <xsl:value-of select="regex-group(13)"/>
                     </xsl:when>
+                    
                     <xsl:otherwise/>
+                    
                 </xsl:choose>
             </xsl:matching-substring>
+            
             <xsl:non-matching-substring>
                 <xsl:value-of select="."/>
             </xsl:non-matching-substring>
+            
         </xsl:analyze-string>
     </xsl:template>
 </xsl:stylesheet>
