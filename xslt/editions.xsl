@@ -100,18 +100,19 @@
                                                 Dokument</span>
                                         </i>
                                     </a>
-                                    <a id="download-pdf" href="#">
+                                     <a id="download-pdf" href="#">
+                                        <i class="ps-1 bi bi-file-earmark fs-2" title="Deprecated PDF"
+                                            visually-hidden="true">
+                                            <span class="visually-hidden">Deprecated PDF</span>
+                                        </i>
+                                    </a>
+                                    <a href="{$pdf-url}">
                                         <i class="ps-1 bi bi-filetype-pdf fs-2" title="Als PDF herunterladen"
                                             visually-hidden="true">
                                             <span class="visually-hidden">Als PDF herunterladen</span>
                                         </i>
                                     </a>
-                                    <a href="{$pdf-url}">
-                                        <i class="ps-1 bi bi-file-earmark-pdf fs-2" title="Als PDF herunterladen"
-                                            visually-hidden="true">
-                                            <span class="visually-hidden">Als schönere PDF herunterladen</span>
-                                        </i>
-                                    </a>
+                                    
                                 </div>
                             </div>
                             <div class="col-md-2 col-lg-2 col-sm-12 text-end">
