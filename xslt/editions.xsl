@@ -239,6 +239,15 @@
                                         <dd>
                                             <xsl:value-of select="string-join(.//tei:msIdentifier/tei:*/text(), ', ')"/>
                                         </dd>
+                                        <xsl:if test=".//tei:additional/tei:listBibl/tei:biblStruct">
+                                            <dt>Erstpublikation</dt>
+                                            <dd>
+                                                <xsl:apply-templates 
+                                                    select=".//tei:additional/tei:listBibl/tei:biblStruct"/>
+                                            </dd>
+                                        </xsl:if>
+
+                                                                                      
                                         
                                         <dt>Typ</dt>
                                         <dd><xsl:apply-templates select=".//tei:physDesc"></xsl:apply-templates></dd>
@@ -504,6 +513,105 @@
     <xsl:template match="tei:supplied">[<xsl:apply-templates/>]</xsl:template>
     <xsl:template match="tei:sic">
         <xsl:apply-templates/><xsl:text> [sic!] </xsl:text>
+    </xsl:template>
+    
+    <!-- Main biblStruct template -->
+    <xsl:template match="tei:biblStruct">
+        <div class="bibl {@type}">
+            <xsl:choose>
+                
+                <!-- ========================= -->
+                <!-- MONOGRAPH FORMAT -->
+                <!-- ========================= -->
+                <xsl:when test="@type='monograph'">
+                    
+                    <!-- Author -->
+                    <span class="author">
+                        <xsl:value-of select="tei:monogr/tei:author"/>
+                    </span>
+                    <xsl:text>: </xsl:text>
+                    
+                    <!-- Title -->
+                    <span class="dse-italic">
+                        <xsl:value-of select="tei:monogr/tei:title"/>
+                    </span>
+                    <xsl:text>. </xsl:text>
+                    
+                    <!-- Edition -->
+                    <xsl:if test="tei:monogr/tei:edition">
+                        <xsl:value-of select="tei:monogr/tei:edition"/>
+                        <xsl:text>. </xsl:text>
+                    </xsl:if>
+                    
+                    <!-- Imprint -->
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:pubPlace"/>
+                    <xsl:text>: </xsl:text>
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:publisher"/>
+                    <xsl:text>, </xsl:text>
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>
+                    
+                    <xsl:if test="tei:monogr/tei:imprint/tei:biblScope">
+                        <xsl:text>, </xsl:text>
+                        <xsl:value-of select="tei:monogr/tei:imprint/tei:biblScope"/>
+                    </xsl:if>
+                    <xsl:text>. </xsl:text>
+                    
+                    <!-- Series -->
+                    <xsl:if test="tei:series">
+                        <xsl:text>(</xsl:text>
+                        <xsl:value-of select="tei:series/tei:title"/>
+                        <xsl:text>, </xsl:text>
+                        <xsl:value-of select="tei:series/tei:biblScope"/>
+                        <xsl:text>)</xsl:text>
+                    </xsl:if>
+                    
+                </xsl:when>
+                
+                <!-- ========================= -->
+                <!-- JOURNAL FORMAT -->
+                <!-- ========================= -->
+                <xsl:when test="@type='journal'">
+                    
+                    <!-- Author -->
+                    <span class="author">
+                        <xsl:value-of select="tei:monogr/tei:author"/>
+                    </span>
+                    <xsl:text>: </xsl:text>
+                    
+                    <!-- Article Title -->
+                    <span class="article-title">
+                        „<xsl:value-of select="tei:monogr/tei:title"/>“
+                    </span>
+                    <xsl:text>. </xsl:text>
+                    
+                    <xsl:text>In: </xsl:text>
+                    
+                    <!-- Journal Title -->
+                    <span class="dse-italic">
+                        <xsl:value-of select="tei:series/tei:title"/>
+                    </span>
+                    <xsl:text> </xsl:text>
+                    
+                    <!-- Volume -->
+                    <xsl:value-of select="tei:series/tei:biblScope"/>
+                    <xsl:text> (</xsl:text>
+                    
+                    <!-- Date -->
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>
+                    <xsl:text>)</xsl:text>
+                    
+                    <!-- Pages -->
+                    <xsl:if test="tei:monogr/tei:imprint/tei:biblScope">
+                        <xsl:text>, </xsl:text>
+                        <xsl:value-of select="tei:monogr/tei:imprint/tei:biblScope"/>
+                    </xsl:if>
+                    
+                    <xsl:text>.</xsl:text>
+                    
+                </xsl:when>
+                
+            </xsl:choose>
+        </div>
     </xsl:template>
     
 </xsl:stylesheet>
