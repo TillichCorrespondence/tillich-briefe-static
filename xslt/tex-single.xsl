@@ -55,12 +55,7 @@
 \newcommand{\work}[1]{#1\textsuperscript{*}}
 
 \title{<xsl:value-of select="normalize-space(.//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title)"/>}
-\author{<xsl:choose>
-            <xsl:when test=".//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:respStmt/tei:name">
-                <xsl:text>Herausgegeben von </xsl:text>
-                <xsl:value-of select=".//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:respStmt/tei:name"/>
-            </xsl:when>
-        </xsl:choose>}        
+       \author{Herausgegeben von Christian Danz und Friedrich Wilhelm Graf}        
 \date{2025}  
 
 \begin{document}
@@ -74,13 +69,12 @@
             \begin{FlushRight}
             <xsl:apply-templates select=".//tei:dateline"/>
             \end{FlushRight}
-
+<xsl:if test=".//tei:opener/tei:salute">
             \begin{FlushLeft}
-            <xsl:value-of select=".//tei:opener/tei:salute//text()"/>
+             <xsl:apply-templates select="tei:opener/tei:salute"/>
             \end{FlushLeft}
-
+</xsl:if>
             <xsl:for-each select=".//tei:p[not(parent::tei:postscript)]">
-                \par
                 <xsl:if test="position()=1">\noindent </xsl:if>
                 <xsl:apply-templates/>
                 \par 
@@ -108,6 +102,15 @@
                              <xsl:text> | </xsl:text><!-- adds space between idnos -->
                          </xsl:if>
                      </xsl:for-each>
+        
+   <xsl:if test=".//tei:additional/tei:listBibl">
+       \\
+       \textbf{Edition:}
+       <xsl:apply-templates 
+           select=".//tei:additional/tei:listBibl/tei:biblStruct"
+           mode="additional-bibl"/>
+       
+   </xsl:if>
 
 \textbf{Brieftyp:} <xsl:for-each select="tei:msDesc/tei:physDesc/tei:p">
                          <xsl:value-of select="normalize-space(.)"/>
@@ -134,11 +137,12 @@
  
 
     <!-- Dateline -->
-     <xsl:template match="tei:dateline">
-        <xsl:value-of select="replace(normalize-space(string-join(.//text())),' , ', ', ')"/>
+    <xsl:template match="tei:dateline">
+        <xsl:apply-templates/>
     </xsl:template>
 
     <!-- Salute -->
+    
     <xsl:template match="tei:salute">
         <xsl:apply-templates/>\par\smallskip        
     </xsl:template>   
@@ -153,6 +157,8 @@
     
     <xsl:template match="tei:hi[@rend='aq']">\textit{<xsl:apply-templates/>}</xsl:template>
     
+    <xsl:template match="tei:del[@rend='ow']">\sout{<xsl:apply-templates/>}
+    </xsl:template>
     <!-- References to persons -->
     <xsl:template match="tei:rs[@type='person'][@ref] | tei:persName[@ref]">
         
@@ -227,6 +233,19 @@
         <xsl:apply-templates select="tei:expan"/>
     </xsl:template>
     
+    <xsl:template match="tei:lb">
+        <xsl:text>\par</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:sic">
+        <xsl:apply-templates/><xsl:text> [sic!] </xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:choice">
+        <xsl:value-of select="tei:abbr"/>
+        <xsl:text> [</xsl:text><xsl:value-of select="tei:expan"/><xsl:text>]</xsl:text>
+    </xsl:template>
+    
     <!-- Back matter: Indices -->
     <xsl:template match="tei:back">
 \vspace{1em}
@@ -256,7 +275,9 @@
 \vspace{0.5cm}
 
 \begin{description}
-            <xsl:apply-templates select="tei:listBibl/tei:biblStruct"/>
+            <xsl:apply-templates 
+                select="tei:listBibl/tei:biblStruct"
+                mode="back-bibl"/>
 \end{description}
 
 \vspace{1cm}
@@ -286,10 +307,9 @@
         
         \item[\textsuperscript{<xsl:value-of select="$letter"/>} <xsl:value-of select="normalize-space(tei:persName)"/>]
         {\small <xsl:if test="tei:birth/tei:date or tei:death/tei:date"> 
-            (<xsl:if test="tei:birth/tei:date"><xsl:value-of select="tei:birth/tei:date"/></xsl:if>--
-            <xsl:if test="tei:death/tei:date"><xsl:value-of select="tei:death/tei:date"/></xsl:if>)</xsl:if>
-        <xsl:if test="tei:occupation"> <xsl:value-of select="tei:occupation"/>.</xsl:if>
-        <xsl:if test="tei:note[@type='bio']"> <xsl:apply-templates select="tei:note[@type='bio']/tei:p"/></xsl:if>
+            (<xsl:if test="tei:birth/tei:date"><xsl:value-of select="tei:birth/tei:date"/></xsl:if>--<xsl:if test="tei:death/tei:date"><xsl:value-of select="tei:death/tei:date"/></xsl:if>)</xsl:if>
+        <xsl:if test="tei:occupation"><xsl:text> </xsl:text><xsl:value-of select="tei:occupation"/>.</xsl:if>
+        <xsl:if test="tei:note[@type='bio']"><xsl:text> </xsl:text><xsl:apply-templates select="tei:note[@type='bio']/tei:p"/></xsl:if>
         <xsl:if test="tei:idno[@type='gnd']"> [GND: \url{<xsl:value-of select="tei:idno[@type='gnd']"/>}]</xsl:if>}
         
     </xsl:template>
@@ -300,18 +320,123 @@
         {\small <xsl:if test="tei:idno[@type='geonames'] or tei:idno[@type='wikidata']"> [<xsl:if test="tei:idno[@type='geonames']">Geonames: \url{<xsl:value-of select="tei:idno[@type='geonames']"/>}</xsl:if><xsl:if test="tei:idno[@type='geonames'] and tei:idno[@type='wikidata']">; </xsl:if><xsl:if test="tei:idno[@type='wikidata']">Wikidata: \url{<xsl:value-of select="tei:idno[@type='wikidata']"/>}</xsl:if>]</xsl:if>}
         
     </xsl:template>
+<!--    Bibliography entries in the additional-->
+    <xsl:template match="tei:biblStruct" mode="additional-bibl">
+        
+        <xsl:text>\item </xsl:text>
+        
+        <xsl:choose>
+            
+            <!-- ========================= -->
+            <!-- MONOGRAPH -->
+            <!-- ========================= -->
+            <xsl:when test="@type='monograph'">
+                
+                <!-- Author -->
+                <xsl:value-of select="tei:monogr/tei:author"/>
+                <xsl:text>: </xsl:text>
+                
+                <!-- Title -->
+                <xsl:text>\textit{</xsl:text>
+                <xsl:value-of select="tei:monogr/tei:title"/>
+                <xsl:text>}</xsl:text>
+                <xsl:text>. </xsl:text>
+                
+                <!-- Edition -->
+                <xsl:if test="tei:monogr/tei:edition">
+                    <xsl:value-of select="tei:monogr/tei:edition"/>
+                    <xsl:text>. </xsl:text>
+                </xsl:if>
+                
+                <!-- Imprint -->
+                <xsl:value-of select="tei:monogr/tei:imprint/tei:pubPlace"/>
+                <xsl:text>: </xsl:text>
+                <xsl:value-of select="tei:monogr/tei:imprint/tei:publisher"/>
+                <xsl:text>, </xsl:text>
+                <xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>
+                
+                <xsl:if test="tei:monogr/tei:imprint/tei:biblScope">
+                    <xsl:text>, </xsl:text>
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:biblScope"/>
+                </xsl:if>
+                
+                <xsl:text>. </xsl:text>
+                
+                <!-- Series -->
+                <xsl:if test="tei:series">
+                    <xsl:text>(</xsl:text>
+                    <xsl:value-of select="tei:series/tei:title"/>
+                    <xsl:text>, </xsl:text>
+                    <xsl:value-of select="tei:series/tei:biblScope"/>
+                    <xsl:text>)</xsl:text>
+                </xsl:if>
+                
+            </xsl:when>
+            
+            <!-- ========================= -->
+            <!-- JOURNAL ARTICLE -->
+            <!-- ========================= -->
+            <xsl:when test="@type='journal'">
+                
+                <!-- Author -->
+                <xsl:value-of select="tei:monogr/tei:author"/>
+                <xsl:text>: </xsl:text>
+                
+                <!-- Article title -->
+                <xsl:text>„</xsl:text>
+                <xsl:value-of select="tei:monogr/tei:title"/>
+                <xsl:text>“</xsl:text>
+                <xsl:text>. </xsl:text>
+                
+                <xsl:text>In: </xsl:text>
+                
+                <!-- Journal title -->
+                <xsl:text>\textit{</xsl:text>
+                <xsl:value-of select="tei:series/tei:title"/>
+                <xsl:text>}</xsl:text>
+                <xsl:text> </xsl:text>
+                
+                <!-- Volume -->
+                <xsl:value-of select="tei:series/tei:biblScope"/>
+                <xsl:text> (</xsl:text>
+                
+                <!-- Year -->
+                <xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>
+                <xsl:text>)</xsl:text>
+                
+                <!-- Pages -->
+                <xsl:if test="tei:monogr/tei:imprint/tei:biblScope">
+                    <xsl:text>, </xsl:text>
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:biblScope"/>
+                </xsl:if>
+                
+                <xsl:text>.</xsl:text>
+                
+            </xsl:when>
+            
+        </xsl:choose>
+        
+        <xsl:text>&#10;</xsl:text>
+        
+    </xsl:template>
     
-    <!-- Bibliography entries -->
-    <xsl:template match="tei:biblStruct">
+    
+    <!-- Bibliography entries in the back -->
+    <xsl:template match="tei:biblStruct" mode="back-bibl">
         \item
         <xsl:choose>
             
             <!-- Case 1: Journal article -->
             <xsl:when test="@type='journalArticle' or tei:analytic">
                 <xsl:if test="tei:analytic/tei:author">
-                    <xsl:value-of select="tei:analytic/tei:author/tei:surname"/>,
-                    <xsl:text> </xsl:text>
-                    <xsl:value-of select="tei:analytic/tei:author/tei:forename"/>
+                    <xsl:value-of select="tei:analytic/tei:author/tei:name"/>
+                    <xsl:if test="tei:analytic/tei:author/tei:surname">
+                        <xsl:value-of select="tei:analytic/tei:author/tei:surname"/>,                        
+                    </xsl:if>
+                    <xsl:if test="tei:analytic/tei:author/tei:forename">
+                        <xsl:text> </xsl:text>
+                        <xsl:value-of select="tei:analytic/tei:author/tei:forename"/>                        
+                    </xsl:if>
                     <xsl:text>: </xsl:text>
                 </xsl:if>
                 
