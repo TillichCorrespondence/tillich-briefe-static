@@ -188,6 +188,20 @@ footer a {
   font-style: italic;
 }
 
+details > summary {
+    list-style: none;       /* remove bullet/arrow in Firefox */
+    -webkit-appearance: none; /* remove arrow in Safari/Chrome */
+}
+
+details summary .icon {
+    display: inline-block;           /* allow transform */
+    transition: transform 0.2s ease;
+}
+
+details[open] summary .icon {
+    transform: rotate(90deg);
+}
+
 /* Algolia search */
 
 .ais-Hits-item {

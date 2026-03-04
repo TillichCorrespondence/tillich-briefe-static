@@ -243,10 +243,22 @@
                                             <dt>Erstpublikation</dt>
                                             <dd>
                                                 <xsl:apply-templates 
-                                                    select=".//tei:additional/tei:listBibl/tei:biblStruct"/>
+                                                    select=".//tei:additional/tei:listBibl/tei:biblStruct[@n='firstPrint']"/>
+                                                <xsl:if test=".//tei:additional/tei:listBibl/tei:biblStruct[not(@n='firstPrint')]">
+                                                    <details>
+                                                        <summary>
+                                                            <span class="icon"><i class="bi bi-arrow-right-circle"></i></span>
+                                                            Weitere Publikationen
+                                                            </summary>
+                                                        <ul>
+                                                            <li> <xsl:apply-templates 
+                                                                    select=".//tei:additional/tei:listBibl/tei:biblStruct[not(@n='firstPrint')]"/></li> 
+                                                        </ul>
+                                                    </details>
+                                                </xsl:if>
                                             </dd>
                                         </xsl:if>
-
+                                        
                                                                                       
                                         
                                         <dt>Typ</dt>
