@@ -47,6 +47,9 @@
 \usepackage[headings]{ragged2e}
 \usepackage[hidelinks]{hyperref}
 
+\usepackage{marginnote}
+\usepackage[top=1.5cm, bottom=1.5cm, outer=5cm, inner=2cm, heightrounded, marginparwidth=2.5cm, marginparsep=2cm]{geometry}
+
 
 % Custom commands for marking entities (persons, places, and works)
 % Small dark-gray icons positioned as superscript indicate these are in the indices
@@ -177,9 +180,6 @@
         </xsl:for-each>
         
     </xsl:template>
-    
-    
-    
     
     
     <!-- References to places -->
@@ -320,6 +320,24 @@
         {\small <xsl:if test="tei:idno[@type='geonames'] or tei:idno[@type='wikidata']"> [<xsl:if test="tei:idno[@type='geonames']">Geonames: \url{<xsl:value-of select="tei:idno[@type='geonames']"/>}</xsl:if><xsl:if test="tei:idno[@type='geonames'] and tei:idno[@type='wikidata']">; </xsl:if><xsl:if test="tei:idno[@type='wikidata']">Wikidata: \url{<xsl:value-of select="tei:idno[@type='wikidata']"/>}</xsl:if>]</xsl:if>}
         
     </xsl:template>
+    
+<!--    Bible references as margin notes -->
+    <xsl:template match="tei:rs[@type='bible' and not(ancestor::tei:note)]">    
+        <xsl:apply-templates/>
+        <xsl:text>*\marginnote{\scriptsize *</xsl:text>
+        <xsl:value-of select="@ref"/>
+        <xsl:text>}</xsl:text>
+    </xsl:template>
+    
+  <!--    Letter references as margin notes -->
+    <xsl:template match="tei:rs[@type='letter' and not(ancestor::tei:note)]">   
+        <xsl:variable name="ref" select="@ref"/>
+        <xsl:apply-templates/>
+        <xsl:text>*\marginnote{\scriptsize *</xsl:text>
+        <xsl:value-of select="concat($ref, ' ', //tei:item[@xml:id=$ref]/text())"/>
+        <xsl:text>}</xsl:text>
+    </xsl:template>
+    
 <!--    Bibliography entries in the additional-->
     <xsl:template match="tei:biblStruct" mode="additional-bibl">
         

@@ -381,7 +381,7 @@
                                 </xsl:if>
                                 <xsl:if test=".//tei:list[@xml:id = 'mentioned_letters']">
                                     <div>
-                                        <h3 class="fs-4 p-1">Briefe</h3>
+                                        <h3 class="fs-4 p-1">Erwähnte Briefe</h3>
                                         <div class="ps-4">
                                             <xsl:for-each
                                                 select=".//tei:list[@xml:id = 'mentioned_letters']//tei:item[@xml:id]">
@@ -482,7 +482,7 @@
     </abbr>
     </xsl:template>
     
-    <xsl:template match="tei:list/tei:head"/>
+  
     
     <xsl:template match="tei:unclear">
         <xsl:text>{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>

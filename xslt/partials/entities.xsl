@@ -111,6 +111,17 @@
         </span>
     </xsl:template>
     
+    <xsl:template match="tei:rs[@ref and @type='letter']">
+        <xsl:variable name="entId" select="concat('#', @ref)"/>
+        <a href="#" role="button" class="letter entity" 
+            aria-haspopup="dialog"
+            data-bs-toggle="modal"
+            data-bs-target="{$entId}">
+            <xsl:apply-templates/>
+            <span class="visually-hidden"> (Details anzeigen)</span>
+        </a>
+    </xsl:template>
+    
     
     
     <xsl:template match="tei:listPerson">
@@ -128,8 +139,8 @@
     <xsl:template match="tei:listBibl">
         <xsl:apply-templates/>
     </xsl:template>
-    <xsl:template match="tei:list[@xml='mentioned']">
-        <xsl:apply-templates select=".//tei:item"/>
+    <xsl:template match="tei:list[@xml:id='mentioned_letters']">
+        <xsl:apply-templates />
     </xsl:template>
     
     <xsl:template match="tei:item[@xml:id]">
@@ -143,12 +154,11 @@
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel"><xsl:value-of select="$label"/></h1>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        <a href="{$selfLink}">
+                            <h1 class="modal-title fs-5" id="staticBackdropLabel"><xsl:value-of select="$label"/></h1>
+                            </a>
                     </div>
-                    <div class="modal-body">
-                        <a href="{$selfLink}"><xsl:value-of select="$label"/></a> 
-                    </div>
+                    
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Schließen</button>
                     </div>
