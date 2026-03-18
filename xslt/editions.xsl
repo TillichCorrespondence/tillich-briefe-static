@@ -528,7 +528,7 @@
     </xsl:template>
     
     <!-- Main biblStruct template -->
-    <xsl:template match="tei:biblStruct">
+    <xsl:template match="tei:additional/tei:listBibl/tei:biblStruct">
         <div class="bibl {@type}">
             <xsl:choose>
                 
