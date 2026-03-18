@@ -91,7 +91,7 @@ for i, ndf in df.groupby("corresp_id"):
             target=x["corresp_id"],
         )
         ref.text = f'Korrespondenz mit {x["corresp_names"]}'
-        if x["prev"] is not None:
+        if pd.notna(x["prev"]):
             prevCorr = ET.SubElement(
                 correspContext,
                 "ref",
@@ -103,7 +103,7 @@ for i, ndf in df.groupby("corresp_id"):
             prevCorr.text = (
                 "" if x["prev_title"] is None else x["prev_title"].split("/")[-1]
             )
-        if x["next"] is not None:
+        if pd.notna(x["next"]):
             nextCorr = ET.SubElement(
                 correspContext,
                 "ref",
@@ -115,7 +115,7 @@ for i, ndf in df.groupby("corresp_id"):
             nextCorr.text = (
                 "" if x["next_title"] is None else x["next_title"].split("/")[-1]
             )
-        if x["gen_prev"] is not None:
+        if pd.notna(x["gen_prev"]):
             genPrevCorr = ET.SubElement(
                 correspContext,
                 "ref",
@@ -128,7 +128,7 @@ for i, ndf in df.groupby("corresp_id"):
                 if x["gen_prev_title"] is None
                 else x["gen_prev_title"].split("/")[-1]
             )
-        if x["gen_next"] is not None:
+        if pd.notna(x["gen_next"]):
             genNextCorr = ET.SubElement(
                 correspContext,
                 "ref",
