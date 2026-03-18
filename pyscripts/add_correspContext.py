@@ -150,11 +150,11 @@ for i, row in df.iterrows():
     except Exception:
         print(f"Cannot add correspContext to file: {row['id']}")
         continue
-    if row["gen_next"] is not None:
-        root = doc.any_xpath("/tei:TEI")[0]
+    root = doc.any_xpath("/tei:TEI")[0]
+    if pd.notna(row["gen_next"]):
         root.attrib["next"] = os.path.split(row["gen_next"])[-1]
-    if row["gen_prev"] is not None:
-        root = doc.any_xpath("/tei:TEI")[0]
+
+    if pd.notna(row["gen_prev"]):
         root.attrib["prev"] = os.path.split(row["gen_prev"])[-1]
     doc.tree_to_file(row["id"])
 

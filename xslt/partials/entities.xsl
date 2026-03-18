@@ -112,11 +112,11 @@
     </xsl:template>
     
     <xsl:template match="tei:rs[@ref and @type='letter']">
-        <xsl:variable name="entId" select="concat('#', @ref)"/>
+        <xsl:variable name="entId" select="@ref"/>
         <a href="#" role="button" class="letter entity" 
             aria-haspopup="dialog"
             data-bs-toggle="modal"
-            data-bs-target="{$entId}">
+            data-bs-target="#{$entId}">
             <xsl:apply-templates/>
             <span class="visually-hidden"> (Details anzeigen)</span>
         </a>
