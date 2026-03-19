@@ -20,6 +20,9 @@ python pyscripts/make_bible_toc.py
 echo "adding mentioned letters"
 python pyscripts/add_mentioned_letters.py
 
+echo "adding correspondence context"
+python pyscripts/add_correspContext.py
+
 echo "make calendar data"
 python pyscripts/make_calendar_data.py
 

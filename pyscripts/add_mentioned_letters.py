@@ -20,7 +20,11 @@ print("writing mentiones back into files")
 no_match = set()
 for y in tqdm(files, total=len(files)):
     doc = TeiReader(y)
-    back = doc.any_xpath(".//tei:back")[0]
+    back_nodes = doc.any_xpath(".//tei:back")
+    if not back_nodes:
+        print(f"No <back> in {y}")
+        continue
+    back = back_nodes[0]
     mentioned_letters = set(doc.any_xpath(".//tei:rs[@type='letter' and @ref]/@ref"))
     for bad in doc.any_xpath(".//tei:list[@xml:id='mentioned_letters']"):
         bad.getparent().remove(bad)
