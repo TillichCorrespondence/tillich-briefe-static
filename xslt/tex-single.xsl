@@ -40,17 +40,18 @@
 \usepackage{xcolor}
 \usepackage[headings]{ragged2e}
 \usepackage[hidelinks]{hyperref}
-
-\usepackage{marginnote}\usepackage[
-a4paper,
-top=1.5cm,
-bottom=1.5cm,
-inner=2cm,
-outer=5cm,
-marginparwidth=3cm,
-marginparsep=0.5cm,
-heightrounded
+\usepackage[
+    a4paper,
+    top=1.5cm,
+    bottom=1.5cm,
+    inner=1cm,
+    outer=4cm,
+    marginparwidth=3cm,
+    marginparsep=0.5cm,
+    heightrounded
 ]{geometry}
+\usepackage{marginnote}
+
 
 % Custom commands for marking entities (persons, places, and works)
 % Small dark-gray icons positioned as superscript indicate these are in the indices
@@ -325,7 +326,7 @@ heightrounded
 <!--    Bible references as margin notes -->
     <xsl:template match="tei:rs[@type='bible' and not(ancestor::tei:note)]">    
         <xsl:apply-templates/>
-        <xsl:text>*\marginnote{\scriptsize *</xsl:text>
+        <xsl:text>*\marginpar{\scriptsize *</xsl:text>
         <xsl:value-of select="@ref"/>
         <xsl:text>}</xsl:text>
     </xsl:template>
@@ -334,7 +335,7 @@ heightrounded
     <xsl:template match="tei:rs[@type='letter' and not(ancestor::tei:note)]">   
         <xsl:variable name="ref" select="substring-after(@ref, '#')"/>
         <xsl:apply-templates/>
-        <xsl:text>*\marginnote{\scriptsize *</xsl:text>
+        <xsl:text>*\marginpar{\scriptsize *</xsl:text>
         <xsl:value-of select="concat($ref, ' ', //tei:item[@xml:id=$ref]/text())"/>
         <xsl:text>}</xsl:text>
     </xsl:template>
