@@ -26,7 +26,7 @@
     
    <xsl:template match="/">
 \documentclass{article}
-\usepackage[a4paper, margin=2.5cm]{geometry} % consistent layout
+\usepackage[a4paperm]{geometry} 
 \usepackage{parskip}       % for better paragraph spacing
 
 \usepackage{xurl} % to handle url linebreak
@@ -47,9 +47,15 @@
 \usepackage[headings]{ragged2e}
 \usepackage[hidelinks]{hyperref}
 
-\usepackage{marginnote}
-\usepackage[top=1.5cm, bottom=1.5cm, outer=5cm, inner=2cm, heightrounded, marginparwidth=2.5cm, marginparsep=2cm]{geometry}
-
+\usepackage{marginnote}\usepackage[
+top=1.5cm,
+bottom=1.5cm,
+inner=2cm,
+outer=5cm,
+marginparwidth=3cm,
+marginparsep=0.5cm,
+heightrounded
+]{geometry}
 
 % Custom commands for marking entities (persons, places, and works)
 % Small dark-gray icons positioned as superscript indicate these are in the indices

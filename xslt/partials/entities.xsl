@@ -9,7 +9,7 @@
        <!-- handle <rs> entities -->
     <xsl:key name="persons-by-id" match="tei:person" use="@xml:id"/>
 
-   <xsl:template match="tei:rs[starts-with(@ref, '#') and @type]">
+    <xsl:template match="tei:rs[starts-with(@ref, '#') and @type and not(@type='letter')]">
     <xsl:variable name="entType" select="@type"/>
     <xsl:variable name="entRefs" select="tokenize(normalize-space(@ref), '\s+')"/>
     
