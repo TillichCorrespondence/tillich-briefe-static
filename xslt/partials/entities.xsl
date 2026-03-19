@@ -8,21 +8,24 @@
     
        <!-- handle <rs> entities -->
     <xsl:key name="persons-by-id" match="tei:person" use="@xml:id"/>
+    <xsl:key name="works-by-id" match="tei:biblStruct" use="@xml:id"/>
+    <xsl:key name="letters-by-id" match="tei:list[@xml:id='mentioned_letters']/tei:item" use="@xml:id"/>
 
-    <xsl:template match="tei:rs[starts-with(@ref, '#') and @type and not(@type='letter')]">
+    <xsl:template match="tei:rs[starts-with(@ref, '#') and @type]">
     <xsl:variable name="entType" select="@type"/>
     <xsl:variable name="entRefs" select="tokenize(normalize-space(@ref), '\s+')"/>
     
     <xsl:choose>
-        <!-- Multiple person refs - just create the link -->
-        <xsl:when test="@type='person' and count($entRefs) &gt; 1">
+        <!-- Multiple refs - just create the link -->
+        <xsl:when test="count($entRefs) &gt; 1">
             <xsl:variable name="modalId" select="concat('modal-', generate-id())"/>
             <a href="#" role="button" class="{$entType} entity multiple-refs"
                aria-haspopup="dialog"
                data-bs-toggle="modal"
                data-bs-target="#{$modalId}"
                data-modal-id="{$modalId}"
-               data-person-refs="{@ref}">
+               data-refs="{@ref}"
+               data-entity-type="{$entType}">
                 <xsl:apply-templates/>
                 <span class="visually-hidden"> (Details anzeigen)</span>
             </a>
@@ -100,7 +103,7 @@
 </xsl:template>
 
 
-    
+<!--    special template for bible ref which are not in the back, simple refs to highlight from side panel with lists, no modal-->
     <xsl:template match="tei:rs[@ref and @type='bible']">
         <xsl:variable name="biblId">
             <xsl:value-of select="lower-case(replace(replace(./@ref, ',', '-'), ' ', ''))"/>
@@ -111,38 +114,16 @@
         </span>
     </xsl:template>
     
-    <xsl:template match="tei:rs[@ref and @type='letter']">
-        <xsl:variable name="entId" select="@ref"/>
-        <a href="#" role="button" class="letter entity" 
-            aria-haspopup="dialog"
-            data-bs-toggle="modal"
-            data-bs-target="#{$entId}">
-            <xsl:apply-templates/>
-            <span class="visually-hidden"> (Details anzeigen)</span>
-        </a>
+    
+    <xsl:template match="tei:listPerson | tei:listPlace | tei:listOrg | tei:listBibl | tei:list[@xml:id='mentioned_letters']">
+        <xsl:apply-templates/>        
+        <!-- Generate modals for multi-references -->
+        <xsl:apply-templates 
+            select="//tei:rs[contains(@ref, ' ') and starts-with(@ref, '#')]" 
+            mode="generate-modals"/>
     </xsl:template>
     
-    
-    
-    <xsl:template match="tei:listPerson">
-        <xsl:apply-templates/>
-        <!-- Generate modals for multi-person references -->
-    <xsl:apply-templates select="//tei:rs[@type='person' and contains(@ref, ' ')]" mode="generate-modals"/>
-    </xsl:template>
-    
-    <xsl:template match="tei:listPlace">
-        <xsl:apply-templates/>
-    </xsl:template>
-    <xsl:template match="tei:listOrg">
-        <xsl:apply-templates/>
-    </xsl:template>
-    <xsl:template match="tei:listBibl">
-        <xsl:apply-templates/>
-    </xsl:template>
-    <xsl:template match="tei:list[@xml:id='mentioned_letters']">
-        <xsl:apply-templates />
-    </xsl:template>
-    
+<!--    mentioned  letter -->
     <xsl:template match="tei:item[@xml:id]">
         <xsl:variable name="selfLink">
             <xsl:value-of select="concat(data(@xml:id), '.html')"/>
@@ -197,8 +178,8 @@
         </div>
     </xsl:template>
 
-    <!-- Generate modals for multi-person references -->
-    <xsl:template match="tei:rs[@type='person' and contains(@ref, ' ')]" mode="generate-modals">
+    <!-- Generate modals for multi-references -->
+    <xsl:template match="tei:rs[contains(@ref, ' ')]" mode="generate-modals">
         <xsl:variable name="modalId" select="concat('modal-', generate-id())"/>
         <xsl:variable name="entRefs" select="tokenize(normalize-space(@ref), '\s+')"/>
         <xsl:variable name="root" select="root()"/>
@@ -217,26 +198,56 @@
                     </div>
                     <div class="modal-body">
                         <ul>
+                            <xsl:variable name="type" select="@type"/>
                             <xsl:for-each select="$entRefs">
-                                <xsl:variable name="id" select="substring-after(., '#')"/>
-                                <xsl:variable name="person" select="key('persons-by-id', $id, $root)"/>
-                                <li>
-                                    <xsl:choose>
-                                        <xsl:when test="$person">
-                                            <a href="{concat($id, '.html')}">
-                                                <xsl:value-of select="$person/tei:persName[1]/text()"/>
-                                            </a>
-                                            <div class="person-detail">
-                                                <xsl:for-each select="$person">
-                                                    <xsl:call-template name="person_detail"/>
-                                                </xsl:for-each>
-                                            </div>
-                                        </xsl:when>
-                                        <xsl:otherwise>
-                                            <xsl:value-of select="$id"/>
-                                        </xsl:otherwise>
-                                    </xsl:choose>
-                                </li>
+                                    <xsl:variable name="id" select="substring-after(., '#')"/>
+                                    
+                                    <li>
+                                        <xsl:choose>
+                                            
+                                            <!-- PERSON -->
+                                            <xsl:when test="$type = 'person'">
+                                                <xsl:variable name="entity" select="key('persons-by-id', $id, $root)"/>
+                                                
+                                                <a href="{concat($id, '.html')}">
+                                                    <xsl:value-of select="$entity/tei:persName[1]"/>
+                                                </a>
+                                                
+                                                <div class="detail">
+                                                    <xsl:for-each select="$entity">
+                                                        <xsl:call-template name="person_detail"/>
+                                                    </xsl:for-each>
+                                                </div>
+                                            </xsl:when>
+                                            
+                                            <!-- LETTER -->
+                                            <xsl:when test="$type = 'letter'">
+                                                <xsl:variable name="entity" select="key('letters-by-id', $id, $root)"/>
+                                                
+                                                <a href="{concat($id, '.html')}">
+                                                    <xsl:value-of select="$entity"/>
+                                                </a>
+                                                
+                                                <!-- optionally add a letter-specific template later -->
+                                            </xsl:when>
+                                            
+                                            <!-- WORKS -->
+                                            <xsl:when test="$type = 'work'">
+                                                <xsl:variable name="entity" select="key('works-by-id', $id, $root)"/>
+                                                                        
+                                                <a href="{concat($id, '.html')}">
+                                                    <xsl:value-of select="$entity/@n"/>
+                                                </a>
+                                                    
+                                            </xsl:when>
+                                            
+                                            <!-- FALLBACK -->
+                                            <xsl:otherwise>
+                                                <xsl:value-of select="$id"/>
+                                            </xsl:otherwise>
+                                            
+                                        </xsl:choose>
+                                    </li>
                             </xsl:for-each>
                         </ul>
                     </div>

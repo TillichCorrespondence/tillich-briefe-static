@@ -4,17 +4,17 @@
  */
 function toggleHighlight(checkbox) {
     // checkbox value is the person ID, e.g., "tillich_person_id__1"
-    const personId = checkbox.value;
+    const entityId = checkbox.value;
     
     // 1. Single person: direct match on data-bs-target
-    const singlePersonElements = document.querySelectorAll(`[data-bs-target="#${personId}"]`);
+    const singlePersonElements = document.querySelectorAll(`[data-bs-target="#${entityId}"]`);
     
-    // 2. Multiple persons: check if personId is in data-person-refs
-    const allElements = document.querySelectorAll('[data-person-refs]');
+    // 2. Multiple persons: check if entityId is in data-refs
+    const allElements = document.querySelectorAll('[data-refs]');
     const multiPersonElements = Array.from(allElements).filter(element => {
-        const refs = element.getAttribute('data-person-refs');
-        // Check if refs contains this personId (with or without #)
-        return refs.includes(`#${personId}`) || refs.includes(personId);
+        const refs = element.getAttribute('data-refs');
+        // Check if refs contains this entityId (with or without #)
+        return refs.includes(`#${entityId}`) || refs.includes(entityId);
     });
     
     // Combine both results

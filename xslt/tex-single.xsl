@@ -19,14 +19,8 @@
         ) ! substring-after(., '#')
         )"/>
     
-    
-    
-    
-    
-    
    <xsl:template match="/">
 \documentclass{article}
-\usepackage[a4paperm]{geometry} 
 \usepackage{parskip}       % for better paragraph spacing
 
 \usepackage{xurl} % to handle url linebreak
@@ -48,6 +42,7 @@
 \usepackage[hidelinks]{hyperref}
 
 \usepackage{marginnote}\usepackage[
+a4paper,
 top=1.5cm,
 bottom=1.5cm,
 inner=2cm,
@@ -337,7 +332,7 @@ heightrounded
     
   <!--    Letter references as margin notes -->
     <xsl:template match="tei:rs[@type='letter' and not(ancestor::tei:note)]">   
-        <xsl:variable name="ref" select="@ref"/>
+        <xsl:variable name="ref" select="substring-after(@ref, '#')"/>
         <xsl:apply-templates/>
         <xsl:text>*\marginnote{\scriptsize *</xsl:text>
         <xsl:value-of select="concat($ref, ' ', //tei:item[@xml:id=$ref]/text())"/>

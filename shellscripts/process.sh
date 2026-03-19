@@ -8,6 +8,9 @@ denormalize-indices -f "./data/editions/*.xml" -i "./data/indices/*.xml"
 
 python pyscripts/remove_notegrp_from_back.py
 
+echo "fix refs"
+python pyscripts/fixin_refs.py
+
 echo "add Corresp Context"
 python pyscripts/add_correspContext.py
 

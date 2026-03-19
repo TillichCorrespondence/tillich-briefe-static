@@ -25,7 +25,10 @@ for y in tqdm(files, total=len(files)):
         print(f"No <back> in {y}")
         continue
     back = back_nodes[0]
-    mentioned_letters = set(doc.any_xpath(".//tei:rs[@type='letter' and @ref]/@ref"))
+    mentioned_letters = set()
+    for ref in doc.any_xpath(".//tei:rs[@type='letter' and @ref]/@ref"):
+        for r in ref.split():
+            mentioned_letters.add(r)
     for bad in doc.any_xpath(".//tei:list[@xml:id='mentioned_letters']"):
         bad.getparent().remove(bad)
 

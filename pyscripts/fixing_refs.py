@@ -22,10 +22,17 @@ for x in files:
         except IndexError:
             print(x, ET.tostring(y))
             continue
+
+        # split multiple refs
+        refs = ref.split()
+
         if type == "bible":
-            y.attrib["ref"] = check_for_hash(ref)
+            # keep as-is but normalize each token if needed
+            y.attrib["ref"] = " ".join(check_for_hash(r) for r in refs)
         else:
-            y.attrib["ref"] = f"#{check_for_hash(ref)}"
+            # ensure every ref has '#'
+            y.attrib["ref"] = " ".join(f"#{check_for_hash(r)}" for r in refs)
+       
     for y in doc.any_xpath(".//tei:rs[@resp and @type='bible']"):
         y.attrib["ref"] = y.attrib.pop("resp")
     doc.tree_to_file(x)
