@@ -44,7 +44,7 @@
     a4paper,
     top=1.5cm,
     bottom=1.5cm,
-    inner=1cm,
+    inner=3.5cm,
     outer=4cm,
     marginparwidth=3cm,
     marginparsep=0.5cm,
