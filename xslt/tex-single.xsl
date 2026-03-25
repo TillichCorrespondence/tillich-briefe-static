@@ -71,14 +71,9 @@
         
         <!-- Letter body -->
          <xsl:for-each select=".//tei:body//tei:div[@type='writingSession']">
-            \begin{FlushRight}
-            <xsl:apply-templates select=".//tei:dateline"/>
-            \end{FlushRight}
-<xsl:if test=".//tei:opener/tei:salute">
-            \begin{FlushLeft}
-             <xsl:apply-templates select="tei:opener/tei:salute"/>
-            \end{FlushLeft}
-</xsl:if>
+             <xsl:if test="tei:opener">
+                 <xsl:apply-templates select="tei:opener"/>
+             </xsl:if>
             <xsl:for-each select=".//tei:p[not(parent::tei:postscript)]">
                 <xsl:if test="position()=1">\noindent </xsl:if>
                 <xsl:apply-templates/>
@@ -141,15 +136,25 @@
     
  
 
+    <xsl:template match="tei:opener">
+        
+     <xsl:apply-templates/>
+                
+    </xsl:template>
+        
     <!-- Dateline -->
     <xsl:template match="tei:dateline">
+        \begin{FlushRight}
         <xsl:apply-templates/>
+        \end{FlushRight}
     </xsl:template>
 
     <!-- Salute -->
     
     <xsl:template match="tei:salute">
-        <xsl:apply-templates/>\par\smallskip        
+        \begin{FlushLeft}
+        <xsl:apply-templates/>\par\smallskip 
+        \end{FlushLeft}      
     </xsl:template>   
    
     
