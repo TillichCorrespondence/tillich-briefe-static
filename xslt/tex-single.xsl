@@ -59,7 +59,7 @@
 \newcommand{\place}[1]{#1\textsuperscript{*}}
 \newcommand{\work}[1]{#1\textsuperscript{*}}
 
-\title{<xsl:value-of select="normalize-space(.//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title)"/>}
+\title{<xsl:apply-templates select=".//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/node()"/>}
        \author{Herausgegeben von Christian Danz und Friedrich Wilhelm Graf}        
 \date{2025}  
 
@@ -135,7 +135,8 @@
         <xsl:text>unbekannt</xsl:text>
     </xsl:otherwise>
 </xsl:choose>
-[Empfänger: <xsl:apply-templates select="//tei:correspAction[@type='received']/tei:persName"/>]
+        [Empfänger: 
+        <xsl:value-of select="string-join(//tei:correspAction[@type='received']/tei:persName, '; ')"/>]
 
 \end{tcolorbox}
 \vspace{1cm}
@@ -519,17 +520,7 @@
             
         </xsl:choose>
     </xsl:template>
-    <xsl:template match="text()">
-        <xsl:variable name="t1"  select="replace(., '\\', '\\textbackslash{}')"/>
-        <xsl:variable name="t2"  select="replace($t1, '_', '\\_')"/>
-        <xsl:variable name="t3"  select="replace($t2, '&amp;', '\\&amp;')"/>
-        <xsl:variable name="t4"  select="replace($t3, '%', '\\%')"/>
-        <xsl:variable name="t5"  select="replace($t4, '#', '\\#')"/>
-        <xsl:variable name="t6"  select="replace($t5, '\$', '\\$')"/>
-        <xsl:variable name="t7"  select="replace($t6, '\{', '\\{')"/>
-        <xsl:variable name="t8"  select="replace($t7, '\}', '\\}')"/>
-        <xsl:value-of select="$t8"/>
-    </xsl:template>
+   
     
     <xsl:template match="text()">
         <xsl:call-template name="escape_character_latex">
