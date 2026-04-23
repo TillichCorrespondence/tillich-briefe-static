@@ -94,7 +94,14 @@
     <xsl:template match="tei:sourceDesc">
 \begin{tcolorbox}[colback=gray!5, colbacktitle=gray!75!black, title=Überlieferung, fonttitle=\bfseries]
 
-\textbf{Aufbewahrungsort:} <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:repository)"/>, <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:institution)"/>, <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:country)"/>
+\textbf{Aufbewahrungsort:} <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:repository)"/>
+        <xsl:if test="tei:msDesc/tei:msIdentifier/tei:institution"><xsl:text>, </xsl:text>
+            <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:institution)"/>
+        </xsl:if> 
+        <xsl:if test="tei:msDesc/tei:msIdentifier/tei:country">
+            <xsl:text>, </xsl:text>
+            <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:country)"/>
+        </xsl:if>
 
 \textbf{Signatur:} <xsl:for-each select="tei:msDesc/tei:msIdentifier/tei:idno">
                          <xsl:value-of select="normalize-space(.)"/>
