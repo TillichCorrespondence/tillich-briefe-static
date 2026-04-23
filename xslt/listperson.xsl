@@ -61,8 +61,10 @@
                                     </xsl:variable>
                                     <tr>
                                         <td>
+                                        <a href="{concat($id, '.html')}">
                                             <xsl:value-of select=".//tei:persName/text()"/>
                                             <!--<xsl:value-of select="replace($name, '\?\?\?', 'Unbekannt')"/>-->
+                                        </a>
                                         </td>
                                         <td>
                                             <xsl:value-of select=".//tei:persName/text()"/>
