@@ -95,9 +95,10 @@
 \begin{tcolorbox}[colback=gray!5, colbacktitle=gray!75!black, title=Überlieferung, fonttitle=\bfseries]
 
 \textbf{Aufbewahrungsort:} <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:repository)"/>
-        <xsl:if test="tei:msDesc/tei:msIdentifier/tei:institution"><xsl:text>, </xsl:text>
-            <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:institution)"/>
+        <xsl:if test="tei:msDesc/tei:msIdentifier/tei:institution and tei:msDesc/tei:msIdentifier/tei:repository">
+            <xsl:text>, </xsl:text>            
         </xsl:if> 
+        <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:institution)"/>
         <xsl:if test="tei:msDesc/tei:msIdentifier/tei:country">
             <xsl:text>, </xsl:text>
             <xsl:value-of select="normalize-space(tei:msDesc/tei:msIdentifier/tei:country)"/>
