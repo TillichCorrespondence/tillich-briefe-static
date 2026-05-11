@@ -500,6 +500,11 @@
                 <xsl:apply-templates/>
             </sup>
         </xsl:when>
+        <xsl:when test="@rend = 'print'">
+            <span class="dse-print">
+                <xsl:apply-templates/>
+            </span>
+        </xsl:when>
         <xsl:otherwise>
             <span>
                 <xsl:attribute name="class">

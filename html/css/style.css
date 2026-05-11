@@ -188,6 +188,12 @@ footer a {
   font-style: italic;
 }
 
+.dse-print  {
+    font-family: print;
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+}
+
 details > summary {
     list-style: none;       /* remove bullet/arrow in Firefox */
     -webkit-appearance: none; /* remove arrow in Safari/Chrome */

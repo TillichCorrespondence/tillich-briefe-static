@@ -70,7 +70,7 @@
         <xsl:apply-templates select=".//tei:teiHeader/tei:fileDesc/tei:sourceDesc"/>
         
         <!-- Letter body -->
-         <xsl:for-each select=".//tei:body//tei:div[@type='writingSession']">
+         <xsl:for-each select=".//tei:body//tei:div">
              <xsl:if test="tei:opener">
                  <xsl:apply-templates select="tei:opener"/>
              </xsl:if>
@@ -178,6 +178,8 @@
     
     <xsl:template match="tei:del[@rend='ow']">\sout{<xsl:apply-templates/>}
     </xsl:template>
+    
+    <xsl:template match="tei:hi[@rend='print']">\textsc{<xsl:apply-templates/>}</xsl:template>
     <!-- References to persons -->
     <xsl:template match="tei:rs[@type='person'][@ref] | tei:persName[@ref]">
         
