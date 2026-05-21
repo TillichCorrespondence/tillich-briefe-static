@@ -35,7 +35,6 @@ jobs:
     - name: Install Latex packages
       run: |
         sudo apt-get update && sudo apt-get install texlive-xetex texlive-humanities texlive-lang-german texlive-lang-french texlive-lang-english texlive-lang-greek fonts-freefont-ttf fonts-dejavu texlive-fonts-recommended -y
-        pip install -r requirements.txt
     - name: Fetch data
       run: ./shellscripts/fetch_data.sh
     - name: Process Data
