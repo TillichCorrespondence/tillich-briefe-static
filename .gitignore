@@ -1,4 +1,3 @@
-saxon/
 tmp/
 set_local_typesense_env.py
 data/indices/
@@ -178,3 +177,4 @@ html/docsfile.tsv
 html/wordsfile.tsv
 html/*.pdf
 tex/*.tex 
+play.py

@@ -33,6 +33,6 @@ curl https://imprint.acdh.oeaw.ac.at/${REDMINE_ID}en >> ${IMPRINT_XML}
 echo "</div>" >> ${IMPRINT_XML}
 echo "</root>" >> ${IMPRINT_XML}
 
-python pyscripts/check_files.py
-python pyscripts/fixing_refs.py
-python pyscripts/remove_lb_from_title_and_add_sort_date.py
+uv run pyscripts/check_files.py
+uv run pyscripts/fixing_refs.py
+uv run pyscripts/remove_lb_from_title_and_add_sort_date.py
