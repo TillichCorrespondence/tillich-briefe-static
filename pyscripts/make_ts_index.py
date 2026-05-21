@@ -5,7 +5,7 @@ from typesense.api_call import ObjectNotFound
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client, CFTS_COLLECTION
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import (
-    extract_fulltext,
+    extract_fulltext_with_spacing,
     get_xmlid,
     make_entity_label,
     check_for_hash,
@@ -15,8 +15,8 @@ from tqdm import tqdm
 
 files = glob.glob("./data/editions/*.xml")
 tag_blacklist = [
-    "{http://www.tei-c.org/ns/1.0}abbr",
-    "{http://www.tei-c.org/ns/1.0}del",
+    "abbr",
+    "del",
 ]
 
 COLLECTION_NAME = "tillich-briefe"
@@ -74,7 +74,7 @@ for x in tqdm(files, total=len(files)):
     )
     record["rec_id"] = os.path.split(x)[-1].replace(".xml", "")
     cfts_record["rec_id"] = record["rec_id"]
-    record["title"] = extract_fulltext(
+    record["title"] = extract_fulltext_with_spacing(
         doc.any_xpath(".//tei:titleStmt/tei:title[1]")[0]
     )
     cfts_record["title"] = record["title"]
@@ -142,7 +142,7 @@ for x in tqdm(files, total=len(files)):
     for y in doc.any_xpath(".//tei:rs[@type='bible' and @ref]/@ref"):
         record["bibles"].append(y)
 
-    record["full_text"] = extract_fulltext(body, tag_blacklist=tag_blacklist)
+    record["full_text"] = extract_fulltext_with_spacing(body, tag_blacklist=tag_blacklist)
     cfts_record["full_text"] = record["full_text"]
     records.append(record)
     cfts_records.append(cfts_record)

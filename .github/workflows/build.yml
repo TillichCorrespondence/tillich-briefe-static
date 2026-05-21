@@ -29,22 +29,19 @@ jobs:
       TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
     steps:
     - name: Perform Checkout
-      uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
-      with:
-        python-version: "3.12"
-        cache: 'pip'
-    - name: Install Saxon, Ant and Python
+      uses: actions/checkout@v6
+    - name: set up uv (Python)
+      uses: astral-sh/setup-uv@v8.1.0 
+    - name: Install Latex packages
       run: |
-        sudo apt-get update && sudo apt-get install texlive-xetex texlive-humanities texlive-lang-german texlive-lang-french texlive-lang-english texlive-lang-greek fonts-freefont-ttf fonts-dejavu texlive-fonts-recommended openjdk-11-jre-headless ant -y
-        ./shellscripts/dl_saxon.sh
+        sudo apt-get update && sudo apt-get install texlive-xetex texlive-humanities texlive-lang-german texlive-lang-french texlive-lang-english texlive-lang-greek fonts-freefont-ttf fonts-dejavu texlive-fonts-recommended -y
         pip install -r requirements.txt
     - name: Fetch data
       run: ./shellscripts/fetch_data.sh
     - name: Process Data
       run: ./shellscripts/process.sh
     - name: Fulltext Index
-      run: python3 pyscripts/make_ts_index.py
+      run: uv run pyscripts/make_ts_index.py
     - name: Build
       run: ant
     - name: make pdfs
