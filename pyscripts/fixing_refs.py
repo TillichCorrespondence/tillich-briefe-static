@@ -36,3 +36,13 @@ for x in files:
     for y in doc.any_xpath(".//tei:rs[@resp and @type='bible']"):
         y.attrib["ref"] = y.attrib.pop("resp")
     doc.tree_to_file(x)
+
+    try:
+        doc = TeiReader(x)
+    except Exception as e:
+        print(e)
+        continue
+
+    for y in doc.any_xpath(".//tei:rs[@type='postcard' or @type='telegram']"):
+        y.attrib["type"] = "letter"
+    doc.tree_to_file(x)
