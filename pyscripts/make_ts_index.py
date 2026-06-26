@@ -31,6 +31,11 @@ except ObjectNotFound:
 current_schema = {
     "name": COLLECTION_NAME,
     "enable_nested_fields": True,
+    "metadata": {
+        "owners": ["Peter Andorfer", "Thomas Klampfl"],
+        "description": "https://github.com/TillichCorrespondence/tillich-briefe-static",
+        "service_ids": [22113],
+    },
     "fields": [
         {"name": "id", "type": "string", "sort": True},
         {"name": "rec_id", "type": "string", "sort": True},
