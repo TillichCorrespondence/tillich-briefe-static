@@ -29,9 +29,9 @@ jobs:
       TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
     steps:
     - name: Perform Checkout
-      uses: actions/checkout@v6
+      uses: actions/checkout@v7
     - name: set up uv (Python)
-      uses: astral-sh/setup-uv@v8.1.0 
+      uses: astral-sh/setup-uv@v8.3.2 
     - name: Install Latex packages
       run: |
         sudo apt-get update && sudo apt-get install texlive-xetex texlive-humanities texlive-lang-german texlive-lang-french texlive-lang-english texlive-lang-greek fonts-freefont-ttf fonts-dejavu texlive-fonts-recommended -y
@@ -46,12 +46,12 @@ jobs:
     - name: make pdfs
       run: ./shellscripts/make_pdf.sh
     - name: Setup Pages
-      uses: actions/configure-pages@v5
+      uses: actions/configure-pages@v6
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v5
       with:
         # Upload entire repository
         path: './html'
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v4
+      uses: actions/deploy-pages@v5
