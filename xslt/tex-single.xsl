@@ -82,6 +82,10 @@
 
             \bigskip
             <xsl:apply-templates select=".//tei:closer"/>
+             
+            \bigskip
+             <xsl:apply-templates select=".//tei:postscript"/>
+             
 
         </xsl:for-each>
         
@@ -254,7 +258,7 @@
     </xsl:template>
     
     <xsl:template match="tei:sic">
-        <xsl:apply-templates/><xsl:text> [sic!] </xsl:text>
+        <xsl:apply-templates/><xsl:text> [sic!]</xsl:text>
     </xsl:template>
     
     <xsl:template match="tei:choice">
@@ -264,6 +268,7 @@
     
     <!-- Back matter: Indices -->
     <xsl:template match="tei:back">
+        
 \vspace{1em}
 \hrulefill
 \vspace{1em}
@@ -550,9 +555,10 @@
         <xsl:text>Anonym</xsl:text>
     </xsl:template>
     
+<!--    spec characters and white space new lines introduced from xml formating-->
     <xsl:template match="text()">
         <xsl:call-template name="escape_character_latex">
-            <xsl:with-param name="context" select="."/>
+            <xsl:with-param name="context" select="replace(., '\s+', ' ')"/>
         </xsl:call-template>
     </xsl:template>
     
