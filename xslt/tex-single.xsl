@@ -247,9 +247,7 @@
     <xsl:template match="tei:del">\sout{<xsl:value-of select="."/>}</xsl:template>    
     
     <!-- Choices (abbreviations, etc.) -->
-    <xsl:template match="tei:choice">
-        <xsl:apply-templates select="tei:expan"/>
-    </xsl:template>
+  
     
     <xsl:template match="tei:lb">
         <xsl:text>\par</xsl:text>
@@ -465,7 +463,7 @@
             <!-- Case 1: Journal article -->
             <xsl:when test="@type='journalArticle' or tei:analytic">
                 <xsl:if test="tei:analytic/tei:author">
-                    <xsl:value-of select="tei:analytic/tei:author/tei:name"/>
+                    <xsl:apply-templates select="tei:analytic/tei:author/tei:name"/>
                     <xsl:if test="tei:analytic/tei:author/tei:surname">
                         <xsl:value-of select="tei:analytic/tei:author/tei:surname"/>,                        
                     </xsl:if>
@@ -505,25 +503,36 @@
             <!-- Case 2: Monograph (book) -->
             <xsl:otherwise>
                 <xsl:if test="tei:monogr/tei:author">
-                    <xsl:value-of select="tei:monogr/tei:author/tei:surname"/>,
-                    <xsl:text> </xsl:text>
+                    <xsl:value-of select="tei:monogr/tei:author/tei:surname"/>
+                    <xsl:text>, </xsl:text>
                     <xsl:value-of select="tei:monogr/tei:author/tei:forename"/>
                     <xsl:text>: </xsl:text>
                 </xsl:if>
-                \textit{<xsl:value-of select="tei:monogr/tei:title[@level='m']"/>}
+                
+                <xsl:text>\textit{</xsl:text>
+                <xsl:value-of select="tei:monogr/tei:title[@level='m']"/>
+                <xsl:text>}</xsl:text>
+                
                 <xsl:if test="tei:monogr/tei:imprint">
                     <xsl:text>. </xsl:text>
+                    
                     <xsl:if test="tei:monogr/tei:imprint/tei:publisher">
-                        <xsl:value-of select="tei:monogr/tei:imprint/tei:publisher"/>,
-                        <xsl:text> </xsl:text>
+                        <xsl:value-of select="tei:monogr/tei:imprint/tei:publisher"/>
+                        <xsl:text>, </xsl:text>
                     </xsl:if>
-                    <xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>.
+                    
+                    <xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>
+                    <xsl:text>.</xsl:text>
                 </xsl:if>
             </xsl:otherwise>
             
         </xsl:choose>
     </xsl:template>
    
+<!--   remove the square brackets from '['Anonym - e ,becomes bold i latex-->
+    <xsl:template match="tei:name[normalize-space(.) = '[Anonym]']">
+        <xsl:text>Anonym</xsl:text>
+    </xsl:template>
     
     <xsl:template match="text()">
         <xsl:call-template name="escape_character_latex">
