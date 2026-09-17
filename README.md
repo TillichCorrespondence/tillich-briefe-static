@@ -5,9 +5,11 @@
 
 ## initial (one time) setup
 
-- create virtual environment: `python3 -m venv .venv`
-- activate it: `source .venv/bin/activate`
-- install dependencies: `pip install -r requirements.txt`
+This project uses `uv` to manage the Python environment and dependencies.
+
+- Install `uv`: follow the installation [instructions](https://docs.astral.sh/uv/getting-started/installation/)
+- No manual virtual environment creation or activation is required. `uv` will create and manage the project environment automatically.
+- Python dependencies are defined in `pyproject.toml` and are installed automagically when the Python scripts are run with `uv run`.
 
 ## first time or when fresh data is needed
 
