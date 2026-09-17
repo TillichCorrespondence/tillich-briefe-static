@@ -70,7 +70,7 @@
         <xsl:apply-templates select=".//tei:teiHeader/tei:fileDesc/tei:sourceDesc"/>
         
         <!-- Letter body -->
-         <xsl:for-each select=".//tei:body//tei:div">
+         <xsl:for-each select=".//tei:body/tei:div">
              <xsl:if test="tei:opener">
                  <xsl:apply-templates select="tei:opener"/>
              </xsl:if>
