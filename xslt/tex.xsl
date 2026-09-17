@@ -193,6 +193,26 @@
     
     <xsl:template match="tei:foreign[@xml:lang='grc']"><xsl:text>\begin{greek}</xsl:text><xsl:apply-templates/><xsl:text>\end{greek}</xsl:text></xsl:template>
     
+    <xsl:template match="tei:sic">
+        <xsl:apply-templates/><xsl:text> [sic!]</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:choice">
+        <xsl:value-of select="tei:abbr"/>
+        <xsl:text> [</xsl:text><xsl:value-of select="tei:expan"/><xsl:text>]</xsl:text>
+    </xsl:template>
+    
+    <!-- Text formatting -->
+    <xsl:template match="tei:hi[@rend='u']">\underline{<xsl:apply-templates/>}</xsl:template>
+    
+    <xsl:template match="tei:hi[@rend='uu']">\underline{\underline{<xsl:apply-templates/>}}</xsl:template>
+    
+    <xsl:template match="tei:hi[@rend='aq']">\textit{<xsl:apply-templates/>}</xsl:template>
+    
+    <xsl:template match="tei:del[@rend='ow']">\sout{<xsl:apply-templates/>}
+    </xsl:template>
+    
+    <xsl:template match="tei:hi[@rend='print']">\textsc{<xsl:apply-templates/>}</xsl:template>
 
     <xsl:template match="tei:salute">
         <xsl:apply-templates/>\par\smallskip
