@@ -503,9 +503,25 @@
             <!-- Case 2: Monograph (book) -->
             <xsl:otherwise>
                 <xsl:if test="tei:monogr/tei:author">
-                    <xsl:value-of select="tei:monogr/tei:author/tei:surname"/>
-                    <xsl:text>, </xsl:text>
-                    <xsl:value-of select="tei:monogr/tei:author/tei:forename"/>
+                    <xsl:for-each select="tei:monogr/tei:author">
+                        <xsl:choose>
+                            <!-- First author: surname, forename -->
+                            <xsl:when test="position() = 1">
+                                <xsl:value-of select="tei:surname"/>
+                                <xsl:text>, </xsl:text>
+                                <xsl:value-of select="tei:forename"/>
+                            </xsl:when>
+                            
+                            <!-- Subsequent authors: forename surname -->
+                            <xsl:otherwise>
+                                <xsl:text>, </xsl:text>
+                                <xsl:value-of select="tei:forename"/>
+                                <xsl:text> </xsl:text>
+                                <xsl:value-of select="tei:surname"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:for-each>
+                    
                     <xsl:text>: </xsl:text>
                 </xsl:if>
                 
