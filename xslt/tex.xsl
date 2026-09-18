@@ -134,6 +134,10 @@
        
        \bigskip
        <xsl:apply-templates select=".//tei:closer"/>
+        
+        \bigskip
+        <xsl:apply-templates select=".//tei:postscript"/>
+        
        
    </xsl:for-each>
 </xsl:for-each>
@@ -159,12 +163,9 @@
         
 </xsl:template>
     
-    <xsl:template match="tei:dateline">
-<xsl:value-of select="replace(
-    normalize-space(string-join(.//text())),
-    ' , ', ', '
-    )"/>
-</xsl:template>
+<xsl:template match="tei:dateline">
+        <xsl:apply-templates/>
+    </xsl:template>
     
 <xsl:template match="tei:del">\sout{<xsl:value-of select="."/>}</xsl:template>
 
@@ -212,8 +213,7 @@
     <xsl:template match="tei:del[@rend='ow']">\sout{<xsl:apply-templates/>}
     </xsl:template>
     
-    <xsl:template match="tei:hi[@rend='print']">\textsc{<xsl:apply-templates/>}</xsl:template>
-
+<!--  -->
     <xsl:template match="tei:salute">
         <xsl:apply-templates/>\par\smallskip
         

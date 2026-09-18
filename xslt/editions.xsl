@@ -526,7 +526,7 @@
 
     <xsl:template match="tei:supplied">[<xsl:apply-templates/>]</xsl:template>
     <xsl:template match="tei:sic">
-        <xsl:apply-templates/><xsl:text> [sic!] </xsl:text>
+        <xsl:apply-templates/><xsl:text> [sic!]</xsl:text>
     </xsl:template>
     
     <!-- Main biblStruct template -->
