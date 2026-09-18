@@ -480,12 +480,12 @@
                 </xsl:if>
                 
                 <xsl:text>„</xsl:text>
-                <xsl:value-of select="tei:analytic/tei:title[@level='a']"/>
+                <xsl:apply-templates select="tei:analytic/tei:title[@level='a']"/>
                 <xsl:text>“</xsl:text>
                 
                 <xsl:text>. </xsl:text>
                 <xsl:text>\textit{</xsl:text>
-                <xsl:value-of select="tei:monogr/tei:title[@level='j']"/>
+                <xsl:apply-templates select="tei:monogr/tei:title[@level='j']"/>
                 <xsl:text>}</xsl:text>
                 
                 <xsl:if test="tei:monogr/tei:imprint/tei:biblScope[@unit='issue']">
@@ -531,14 +531,14 @@
                 </xsl:if>
                 
                 <xsl:text>\textit{</xsl:text>
-                <xsl:value-of select="tei:monogr/tei:title[@level='m']"/>
+                <xsl:apply-templates select="tei:monogr/tei:title[@level='m']"/>
                 <xsl:text>}</xsl:text>
                 
                 <xsl:if test="tei:monogr/tei:imprint">
                     <xsl:text>. </xsl:text>
                     
                     <xsl:if test="tei:monogr/tei:imprint/tei:publisher">
-                        <xsl:value-of select="tei:monogr/tei:imprint/tei:publisher"/>
+                        <xsl:apply-templates select="tei:monogr/tei:imprint/tei:publisher"/>
                         <xsl:text>, </xsl:text>
                     </xsl:if>
                     
