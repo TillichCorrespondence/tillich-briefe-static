@@ -348,7 +348,7 @@
                                                         onchange="toggleHighlight(this)"
                                                         value="{@xml:id}" id="check-{@xml:id}"/>
                                                     <label class="form-check-label" for="check-{@xml:id}">
-                                                        <xsl:value-of select="./@n"/>
+                                                        <xsl:apply-templates select="." mode="short-bibl"/>
                                                     </label>
                                                 </div>
                                             </xsl:for-each>
@@ -626,6 +626,65 @@
                 
             </xsl:choose>
         </div>
+    </xsl:template>
+    
+<!--    short mode for the Literatur on the right panel -->
+    <xsl:template match="tei:biblStruct" mode="short-bibl">
+        
+        <xsl:choose>
+            
+            <!-- BOOK -->
+            <xsl:when test="@type = 'book' or @type = 'monograph'">
+                
+                <span class="author">
+                    <xsl:value-of select="tei:monogr/tei:author/tei:surname"/>
+                    <xsl:text>, </xsl:text>
+                    <xsl:value-of select="tei:monogr/tei:author/tei:forename"/>
+                </span>
+                
+                <xsl:text>. </xsl:text>
+                
+                <span class="dse-italic">
+                    <xsl:value-of select="tei:monogr/tei:title"/>
+                </span>
+                
+                <xsl:text>, </xsl:text>
+                
+                <xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>
+                
+            </xsl:when>
+            
+            
+            <!-- JOURNAL ARTICLE -->
+            <xsl:when test="@type = 'journalArticle'">
+                
+                <span class="author">
+                    <xsl:choose>
+                        <xsl:when test="tei:analytic/tei:author/tei:name">
+                            <xsl:value-of select="tei:analytic/tei:author/tei:name"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="tei:analytic/tei:author/tei:surname"/>
+                            <xsl:text>, </xsl:text>
+                            <xsl:value-of select="tei:analytic/tei:author/tei:forename"/>
+                        </xsl:otherwise>
+                    </xsl:choose>                   
+                </span>
+                
+                <xsl:text>. </xsl:text>
+                
+                <span class="dse-italic">
+                    <xsl:value-of select="tei:analytic/tei:title"/>
+                </span>
+                
+                <xsl:text>, </xsl:text>
+                
+                <xsl:value-of select="tei:monogr/tei:imprint/tei:date"/>
+                
+            </xsl:when>
+            
+        </xsl:choose>
+        
     </xsl:template>
     
 </xsl:stylesheet>
