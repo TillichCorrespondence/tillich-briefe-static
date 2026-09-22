@@ -34,7 +34,7 @@ if LT_1934:
         try:
             date = doc.any_xpath(".//tei:date[@type='sort']/@when")[0]
         except IndexError:
-            date = 2000
+            date = "2000"
             print(x)
         year = int(date[:4])
         if year > 1933:
