@@ -1,5 +1,7 @@
 import glob
 import os
+
+from acdh_cidoc_pyutils import extract_begin_end
 from acdh_tei_pyutils.tei import TeiReader
 from tqdm import tqdm
 
@@ -32,10 +34,14 @@ if LT_1934:
     for x in files:
         doc = TeiReader(x)
         try:
-            date = doc.any_xpath(".//tei:date[@type='sort']/@when")[0]
+            date_node = doc.any_xpath(".//tei:correspAction/tei:date[@when]")[0]
+            date = extract_begin_end(date_node)[0]
         except IndexError:
             date = "2000"
             print(x)
-        year = int(date[:4])
+        try:
+            year = int(date[:4])
+        except TypeError:
+            year = 2000
         if year > 1933:
             os.remove(x)
