@@ -27,15 +27,15 @@ jobs:
       TYPESENSE_PORT: 443
       TYPESENSE_PROTOCOL: https
       TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
-      LT_1933: ${{ env.}}
+      LT_1934: ${{ vars.LT_1934 }}
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v7
     - name: set up uv (Python)
-      uses: astral-sh/setup-uv@v8.3.2 
-    - name: Install Latex packages
-      run: |
-        sudo apt-get update && sudo apt-get install texlive-xetex texlive-humanities texlive-lang-german texlive-lang-french texlive-lang-english texlive-lang-greek fonts-freefont-ttf fonts-dejavu texlive-fonts-recommended -y
+      uses: astral-sh/setup-uv@v10.2.0 
+    # - name: Install Latex packages
+    #   run: |
+    #     sudo apt-get update && sudo apt-get install texlive-xetex texlive-humanities texlive-lang-german texlive-lang-french texlive-lang-english texlive-lang-greek fonts-freefont-ttf fonts-dejavu texlive-fonts-recommended -y
     - name: Fetch data
       run: ./shellscripts/fetch_data.sh
     - name: Process Data
@@ -44,8 +44,8 @@ jobs:
       run: uv run pyscripts/make_ts_index.py
     - name: Build
       run: ant
-    - name: make pdfs
-      run: ./shellscripts/make_pdf.sh
+    # - name: make pdfs
+    #   run: ./shellscripts/make_pdf.sh
     - name: Setup Pages
       uses: actions/configure-pages@v6
     - name: Upload artifact
