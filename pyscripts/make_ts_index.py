@@ -19,7 +19,11 @@ tag_blacklist = [
     "del",
 ]
 
-COLLECTION_NAME = "tillich-briefe"
+LT_1934 = os.environ.get("LT_1934")
+if LT_1934:
+    COLLECTION_NAME = "tillich-briefe-1"
+else:
+    COLLECTION_NAME = "tillich-briefe"
 MIN_DATE = "1887"
 
 

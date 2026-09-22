@@ -27,6 +27,7 @@ jobs:
       TYPESENSE_PORT: 443
       TYPESENSE_PROTOCOL: https
       TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
+      LT_1933: ${{ env.}}
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v7
