@@ -2,7 +2,7 @@ const indexName = "tillich-briefe";
 
 const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
   server: {
-    apiKey: "sVBLUxxLFJaXHAZ3FNzWK9V695gUm780",
+    apiKey: "RcSewLDEdspxEHpPZIzKrlNHQSGnmYoZ",
     nodes: [
       {
         host: "typesense.acdh-dev.oeaw.ac.at",
