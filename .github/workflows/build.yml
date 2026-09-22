@@ -40,6 +40,9 @@ jobs:
       run: ./shellscripts/fetch_data.sh
     - name: Process Data
       run: ./shellscripts/process.sh
+    - name: Select 1934 search index
+      if: ${{ env.LT_1934 != '' }}
+      run: sed -i 's/const indexName = "tillich-briefe";/const indexName = "tillich-briefe-1";/' html/js/search.js
     - name: Fulltext Index
       run: uv run pyscripts/make_ts_index.py
     - name: Build
