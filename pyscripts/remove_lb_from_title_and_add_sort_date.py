@@ -1,9 +1,11 @@
 import glob
+import os
 import re
+
 import lxml.etree as ET
+from acdh_cidoc_pyutils import extract_begin_end
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import extract_fulltext
-from acdh_cidoc_pyutils import extract_begin_end
 from tqdm import tqdm
 
 print("removes lb from titles and adds sort date")
@@ -43,7 +45,13 @@ for x in tqdm(files):
     title_node.text = title_text
     for bad in doc.any_xpath(".//tei:creation[./tei:date[@type='sort']]"):
         bad.getparent().remove(bad)
-    profile_desc = doc.any_xpath(".//tei:profileDesc")[0]
+    try:
+        profile_desc = doc.any_xpath(".//tei:profileDesc")[0]
+    except IndexError:
+        print("############")
+        print(f"failed to process {x} due to missing profileDesc; deleting it")
+        os.remove(x)
+        continue
     creation = ET.SubElement(profile_desc, "{http://www.tei-c.org/ns/1.0}creation")
     date_elem = ET.SubElement(creation, "{http://www.tei-c.org/ns/1.0}date")
     date_elem.attrib["type"] = "sort"

@@ -178,3 +178,5 @@ html/wordsfile.tsv
 html/*.pdf
 tex/*.tex 
 play.py
+tillich-briefe.rng
+tillich-schematron.sch

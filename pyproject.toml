@@ -8,5 +8,6 @@ dependencies = [
     "acdh-cfts-pyutils>=0.2",
     "acdh-cidoc-pyutils>=1.12.1",
     "acdh-tei-pyutils>=2.3.0",
+    "acdh-xml-validator>=1.1.0",
     "pandas>=3.0.3",
 ]
