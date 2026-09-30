@@ -9,6 +9,7 @@ from acdh_tei_pyutils.utils import (
     get_xmlid,
     make_entity_label,
     check_for_hash,
+    normalize_string,
 )
 from tqdm import tqdm
 
@@ -98,9 +99,9 @@ for x in tqdm(files, total=len(files)):
         pass
     record["sender"] = []
     try:
-        sender_label = doc.any_xpath(
+        sender_label = normalize_string(doc.any_xpath(
             './/tei:correspAction[@type="sent"]/tei:persName/text()'
-        )[0]
+        )[0])
         sender_id = check_for_hash(
             doc.any_xpath('.//tei:correspAction[@type="sent"]/tei:persName/@ref')[0]
         )
@@ -111,9 +112,9 @@ for x in tqdm(files, total=len(files)):
     record["sender"].append({"label": sender_label, "id": sender_id})
     record["receiver"] = []
     try:
-        receiver_label = doc.any_xpath(
+        receiver_label = normalize_string(doc.any_xpath(
             './/tei:correspAction[@type="received"]/tei:persName/text()'
-        )[0]
+        )[0])
         receiver_id = check_for_hash(
             doc.any_xpath('.//tei:correspAction[@type="received"]/tei:persName/@ref')[0]
         )
