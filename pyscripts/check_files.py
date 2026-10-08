@@ -8,8 +8,8 @@ from acdh_xml_validator import Validator
 from tqdm import tqdm
 
 schema_files = [
-    "https://raw.githubusercontent.com/TillichCorrespondence/tillich-briefe-data/refs/heads/main/odd/out/tei_all.rng",
-    "https://raw.githubusercontent.com/TillichCorrespondence/tillich-briefe-data/refs/heads/main/odd/out/tillich-briefe.sch",
+    "https://raw.githubusercontent.com/TillichCorrespondence/tillich-briefe-data/refs/heads/main/schema/tei_all.rng",
+    "https://raw.githubusercontent.com/TillichCorrespondence/tillich-briefe-data/refs/heads/main/schema/tillich-briefe-schematron.sch",
 ]
 
 for x in schema_files:
