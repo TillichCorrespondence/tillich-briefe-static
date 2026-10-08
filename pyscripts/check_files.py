@@ -8,8 +8,8 @@ from acdh_xml_validator import Validator
 from tqdm import tqdm
 
 schema_files = [
-    "https://raw.githubusercontent.com/TillichCorrespondence/tillich-briefe-data/refs/heads/main/odd/out/tillich-briefe.rng",
-    "https://raw.githubusercontent.com/TillichCorrespondence/tillich-briefe-data/refs/heads/main/odd/out/tillich-schematron.sch",
+    "https://raw.githubusercontent.com/TillichCorrespondence/tillich-briefe-data/refs/heads/main/odd/out/tei_all.rng",
+    "https://raw.githubusercontent.com/TillichCorrespondence/tillich-briefe-data/refs/heads/main/odd/out/tillich-briefe.sch",
 ]
 
 for x in schema_files:
@@ -23,10 +23,10 @@ for x in schema_files:
 
 
 validator = Validator(
-    path_to_rng=os.path.join("html", "tillich-briefe.rng"), verbose=False
+    path_to_rng=os.path.join("html", "tei_all.rng"), verbose=False
 )
 
-print("check if all files a well formed")
+print("check if all files are well formed")
 
 files = glob.glob("./data/*/*xml")
 
