@@ -1,18 +1,18 @@
 import glob
 import os
 
-from typesense.api_call import ObjectNotFound
-from acdh_cfts_pyutils import TYPESENSE_CLIENT as client, CFTS_COLLECTION
+from acdh_cfts_pyutils import CFTS_COLLECTION
+from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import (
+    check_for_hash,
     extract_fulltext_with_spacing,
     get_xmlid,
     make_entity_label,
-    check_for_hash,
     normalize_string,
 )
 from tqdm import tqdm
-
+from typesense.exceptions import ObjectNotFound
 
 files = glob.glob("./data/editions/*.xml")
 tag_blacklist = [
@@ -99,9 +99,9 @@ for x in tqdm(files, total=len(files)):
         pass
     record["sender"] = []
     try:
-        sender_label = normalize_string(doc.any_xpath(
-            './/tei:correspAction[@type="sent"]/tei:persName/text()'
-        )[0])
+        sender_label = normalize_string(
+            doc.any_xpath('.//tei:correspAction[@type="sent"]/tei:persName/text()')[0]
+        )
         sender_id = check_for_hash(
             doc.any_xpath('.//tei:correspAction[@type="sent"]/tei:persName/@ref')[0]
         )
@@ -112,9 +112,11 @@ for x in tqdm(files, total=len(files)):
     record["sender"].append({"label": sender_label, "id": sender_id})
     record["receiver"] = []
     try:
-        receiver_label = normalize_string(doc.any_xpath(
-            './/tei:correspAction[@type="received"]/tei:persName/text()'
-        )[0])
+        receiver_label = normalize_string(
+            doc.any_xpath('.//tei:correspAction[@type="received"]/tei:persName/text()')[
+                0
+            ]
+        )
         receiver_id = check_for_hash(
             doc.any_xpath('.//tei:correspAction[@type="received"]/tei:persName/@ref')[0]
         )
@@ -152,7 +154,9 @@ for x in tqdm(files, total=len(files)):
     for y in doc.any_xpath(".//tei:rs[@type='bible' and @ref]/@ref"):
         record["bibles"].append(y)
 
-    record["full_text"] = extract_fulltext_with_spacing(body, tag_blacklist=tag_blacklist)
+    record["full_text"] = extract_fulltext_with_spacing(
+        body, tag_blacklist=tag_blacklist
+    )
     cfts_record["full_text"] = record["full_text"]
     records.append(record)
     cfts_records.append(cfts_record)
