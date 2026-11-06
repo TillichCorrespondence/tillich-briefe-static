@@ -117,7 +117,7 @@
         
         
         
-        <xsl:for-each select=".//tei:place[@xml:id and ./tei:noteGrp]">
+        <xsl:for-each select=".//tei:place[@xml:id]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
             <xsl:variable name="name" select="normalize-space(string-join(./tei:placeName[1]//text()))"></xsl:variable>
             <xsl:result-document href="{$filename}">
