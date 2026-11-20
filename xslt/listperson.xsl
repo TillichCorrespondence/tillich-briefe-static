@@ -7,8 +7,8 @@
     <xsl:import href="partials/html_navbar.xsl"/>
     <xsl:import href="partials/html_head.xsl"/>
     <xsl:import href="partials/html_footer.xsl"/>
-    <xsl:import href="partials/tabulator_dl_buttons.xsl"/>
-    <xsl:import href="partials/tabulator_js.xsl"/>
+    <xsl:import href="./partials/datatables_import.xsl"/>
+
     <xsl:import href="partials/person.xsl"/>
     <xsl:output method="html" version="5.0" indent="yes" omit-xml-declaration="yes"/>
     <xsl:template match="/">
@@ -21,6 +21,8 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
+               <xsl:call-template name="datatables_import"/>
+
             </head>
             
             <body class="d-flex flex-column h-100">
@@ -38,16 +40,16 @@
                     </nav>
                     <div class="container">
                         <h1 class="display-5 text-center"><xsl:value-of select="$doc_title"/></h1>
-                        <div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Personen</div>
+                        
+                        <div id="custom-info-box" class="text-muted small text-center"></div>
 
-                        <table id="myTable">
+                        <table id="myTable" class="table table-striped">
                             <thead>
                                 <tr>
-                                    <th scope="col" tabulator-field="sorting" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-download="false" tabulator-minWidth="350">Name</th>
-                                    <th scope="col" tabulator-visible="false" tabulator-download="true">name_</th>
-                                    <th scope="col" tabulator-headerFilter="input" tabulator-formatter="textarea">Beruf</th>
-                                    <th scope="col" tabulator-headerFilter="input" tabulator-maxWidth="200">Erwähnungen</th>
-                                    <th scope="col" tabulator-visible="false">ID</th>
+                                    <th scope="col" >Name</th>
+                                    <th scope="col" >Beruf</th>
+                                    <th scope="col" >Erwähnungen</th>
+                                    <th scope="col" data-dt-visible="false">ID</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -62,12 +64,9 @@
                                         <td>
                                         <a href="{concat($id, '.html')}">
                                             <xsl:value-of select=".//tei:persName/text()"/>
-                                            <!--<xsl:value-of select="replace($name, '\?\?\?', 'Unbekannt')"/>-->
                                         </a>
                                         </td>
-                                        <td>
-                                            <xsl:value-of select=".//tei:persName/text()"/>
-                                        </td>
+                                       
                                         <td>
                                             <xsl:value-of select=".//tei:occupation/text()"/>
                                         </td>
@@ -81,12 +80,13 @@
                                 </xsl:for-each>
                             </tbody>
                         </table>
-                        <xsl:call-template name="tabulator_dl_buttons"/>
+                      
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
-                <xsl:call-template name="tabulator_js"/>
             </body>
+            <script src="js/datatables_custom/datatables_custom.js"></script>
+
         </html>
 
 
