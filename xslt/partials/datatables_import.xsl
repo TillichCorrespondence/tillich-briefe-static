@@ -5,8 +5,8 @@
     exclude-result-prefixes="xs math"
     version="3.0">
     <xsl:template name="datatables_import">
-    <link rel="stylesheet" href="vendor/datatables/datatables.css" />
+    <link rel="stylesheet" href="vendor/datatables/datatables.min.css" />
     <link rel="stylesheet" href="js/datatables_custom/datatables_custom.css" />
-    <script src="vendor/datatables/datatables.js" ></script>
+    <script src="vendor/datatables/datatables.min.js" ></script>
     </xsl:template>
 </xsl:stylesheet>

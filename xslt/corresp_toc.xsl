@@ -90,6 +90,8 @@
                         <xsl:call-template name="html_head">
                             <xsl:with-param name="html_title" select="$name"></xsl:with-param>
                         </xsl:call-template>
+               <xsl:call-template name="datatables_import"/>
+                        
                     </head>
                     
                     <body class="d-flex flex-column h-100">
@@ -109,7 +111,9 @@
                                 <h1 class="display-5 text-center">
                                     <xsl:value-of select="$name"/>
                                 </h1>
-                                <table class="table table-striped">
+                        <div id="custom-info-box" class="text-muted small text-center"></div>
+
+                                <table id="myTable" class="table table-striped">
                                     <thead>
                                         <tr>
                                             <th scope="col">Titel</th>
@@ -135,6 +139,8 @@
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
+               <script src="js/datatables_custom/datatables_custom.js"></script>
+
                     </body>
                 </html>
             </xsl:result-document>
