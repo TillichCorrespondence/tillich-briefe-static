@@ -7,9 +7,9 @@
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
-    <xsl:import href="partials/tabulator_dl_buttons.xsl"/>
-    <xsl:import href="partials/tabulator_js.xsl"/>
     <xsl:import href="./partials/person.xsl"/>
+    <xsl:import href="./partials/datatables_import.xsl"/>
+
     <xsl:output method="html" version="5.0" indent="yes" omit-xml-declaration="yes"/>
     
     <xsl:template match="/">
@@ -22,6 +22,8 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
+               <xsl:call-template name="datatables_import"/>
+
             </head>
             
             <body class="d-flex flex-column h-100">
@@ -39,18 +41,20 @@
                     </nav>
                     <div class="container">
                         <h1 class="display-5 text-center"><xsl:value-of select="$doc_title"/></h1>
-                        <div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Bibelstellen</div>
+                        <div id="custom-info-box" class="text-muted small text-center"></div>
                         
-                        <table id="myTable">
+                        <table id="myTable" class="table table-striped">
                             <thead>
                                 <tr>
-                                    <th scope="col" tabulator-headerFilter="input" tabulator-download="true" width="250">Stelle</th>
-                                    <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-minWidth="350">Zitat</th>
+                                    <th scope="col">Stelle</th>
+                                    <th scope="col">Zitat</th>
+                                    <th scope="col" data-dt-visible="false">ID</th>
+
                                 </tr>
                             </thead>
                             <tbody>
                                 <xsl:for-each select="descendant::tei:listBibl/tei:bibl[@n]">
-                                    <xsl:variable name="entiyID" select="@n"/>
+                                    <xsl:variable name="entityID" select="@n"/>
                                         <tr>
                                             <td>
                                                 <xsl:value-of select="./tei:title/text()"/>
@@ -67,20 +71,19 @@
                                                 </ul>
                                             </td>
                                             <td>
-                                                <xsl:value-of select="$entiyID"/>
+                                                <xsl:value-of select="$entityID"/>
                                             </td>
                                         </tr>
                                 </xsl:for-each>
                             </tbody>
                         </table>
-                        <xsl:call-template name="tabulator_dl_buttons"/>
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
-                <xsl:call-template name="tabulator_js">
-                    <xsl:with-param name="clickme" select="false()"/>
-                </xsl:call-template>
+                
             </body>
+            <script src="js/datatables_custom/datatables_custom.js"></script>
+
         </html>
         
     </xsl:template>

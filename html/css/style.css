@@ -4,6 +4,8 @@
   --dse-accent-color: #F2A104; 
    --dse-base-color-light: #f5f8fa;
   --dse-base-color-dark: #01769641;
+
+  --dse-secondary-color:  rgba(81, 117, 150);
 }
 
 /* needed for interactive map in listplace.xsl */
@@ -38,6 +40,11 @@ a:hover {
   --bs-btn-hover-bg: #017fa1;
 }
 
+.btn-secondary {
+  --bs-btn-bg: var(--dse-secondary-color);
+  --bs-btn-hover-bg: var(--dse-base-color-hover);
+}
+
 .btn-outline-primary {
   --bs-btn-color: var(--dse-base-color);
   --bs-btn-border-color: var(--dse-base-color);
@@ -45,6 +52,10 @@ a:hover {
   --bs-btn-hover-border-color: var(--dse-base-color);
   --bs-btn-active-bg: var(--dse-base-color);
   --bs-btn-active-border-color: var(--dse-base-color);
+}
+
+.dt-paging-button {
+  --bs-pagination-active-bg: var(--dse-secondary-color) 
 }
 
 /* Default: full width on small screens */
@@ -269,22 +280,4 @@ details[open] summary .icon {
   top: 20px; 
   max-height: calc(100vh - 40px); 
   overflow-y: auto
-}
-
-.tabulator-tableholder .tabulator-table .tabulator-row-even {
-  background-color: var(--dse-base-color-light);
-}
-.tabulator-tableholder .tabulator-table .tabulator-row,
-.tabulator-col-content {
-  transition: background-color .12s ease;
-}
-
-.tabulator-tableholder .tabulator-table .tabulator-row:hover,
-.tabulator-col-content:hover {
-  background-color: var(--dse-base-color-dark);
-}
-
-#myTable {
-  border: solid 1px lightgray;
-  border-radius: 5px;
 }

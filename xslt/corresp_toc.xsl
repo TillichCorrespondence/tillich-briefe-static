@@ -7,8 +7,8 @@
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
-    <xsl:import href="partials/tabulator_dl_buttons.xsl"/>
-    <xsl:import href="partials/tabulator_js.xsl"/>
+    <xsl:import href="./partials/datatables_import.xsl"/>
+
     <xsl:output method="html" version="5.0" indent="yes" omit-xml-declaration="yes"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
@@ -20,6 +20,8 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
+               <xsl:call-template name="datatables_import"/>
+
             </head>
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
@@ -37,14 +39,14 @@
                     <div class="container">
                         <h1 class="display-5 text-center"><xsl:value-of select="$doc_title"/></h1>
                         <div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Korrespondenzen</div>
+                        <div id="custom-info-box" class="text-muted small text-center"></div>
                         
-                        <table id="myTable">
+                        <table id="myTable" class="table table-striped">
                             <thead>
                                 <tr>
-                                    <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-download="false" tabulator-minWidth="350">Korrespondenz</th>
-                                    <th scope="col" tabulator-visible="false" tabulator-download="true">korrespondenz_</th>
-                                    <th scope="col" tabulator-headerFilter="input" tabulator-maxWidth="200">Edierte Korrespondenzstücke</th>
-                                    <th scope="col" tabulator-visible="false">ID</th>
+                                    <th scope="col">Korrespondenz</th>
+                                    <th scope="col">Edierte Korrespondenzstücke</th>
+                                    <th scope="col" data-dt-visible="false">ID</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -54,11 +56,11 @@
                                     </xsl:variable>
                                     <tr>
                                         <td>
-                                            <xsl:value-of select=".//tei:head/text()"/>
+                                            <a href="{concat($id, '.html')}">
+                                                <xsl:value-of select=".//tei:head/text()"/>
+                                            </a>
                                         </td>
-                                        <td>
-                                            <xsl:value-of select=".//tei:head/text()"/>
-                                        </td>
+                                       
                                         <td>
                                             <xsl:value-of select="count(.//tei:item)"/>
                                         </td>
@@ -69,12 +71,12 @@
                                 </xsl:for-each>
                             </tbody>
                         </table>
-                        <xsl:call-template name="tabulator_dl_buttons"/>
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
-                <xsl:call-template name="tabulator_js"/>
             </body>
+            <script src="js/datatables_custom/datatables_custom.js"></script>
+
         </html>
         
         <xsl:for-each select=".//tei:list[contains(@xml:id, 'tillich_person_id__')]">
@@ -88,6 +90,8 @@
                         <xsl:call-template name="html_head">
                             <xsl:with-param name="html_title" select="$name"></xsl:with-param>
                         </xsl:call-template>
+               <xsl:call-template name="datatables_import"/>
+                        
                     </head>
                     
                     <body class="d-flex flex-column h-100">
@@ -107,7 +111,9 @@
                                 <h1 class="display-5 text-center">
                                     <xsl:value-of select="$name"/>
                                 </h1>
-                                <table class="table table-striped">
+                        <div id="custom-info-box" class="text-muted small text-center"></div>
+
+                                <table id="myTable" class="table table-striped">
                                     <thead>
                                         <tr>
                                             <th scope="col">Titel</th>
@@ -133,6 +139,8 @@
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
+               <script src="js/datatables_custom/datatables_custom.js"></script>
+
                     </body>
                 </html>
             </xsl:result-document>

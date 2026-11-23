@@ -7,6 +7,7 @@
     <xsl:import href="partials/html_head.xsl"/>
     <xsl:import href="partials/html_footer.xsl"/>
     <xsl:import href="partials/place.xsl"/>
+    <xsl:import href="./partials/datatables_import.xsl"/>
     <xsl:output method="html" version="5.0" indent="yes" omit-xml-declaration="yes"/>
     
     <xsl:template match="/">
@@ -19,19 +20,15 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
-                <link
-                href="https://unpkg.com/tabulator-tables@5.5.2/dist/css/tabulator_bootstrap5.min.css"
-                rel="stylesheet"/>
-                <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-                    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
-                <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""/>
+               <xsl:call-template name="datatables_import"/>
+                <link rel="stylesheet" href="vendor/leaflet/leaflet.css"/>
+                <script src="vendor/leaflet/leaflet.js"/>
                 <link rel="stylesheet"
-                    href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"/>
+                    href="vendor/leaflet.markercluster/MarkerCluster.css"/>
                 <link rel="stylesheet"
-                    href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"/>
-                <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"/>
+                    href="vendor/leaflet.markercluster/MarkerCluster.Default.css"/>
+                <script src="vendor/leaflet.markercluster/leaflet.markercluster.js"/>
             </head>
-            
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
@@ -45,16 +42,16 @@
                     </nav>
                     <div class="container">
                         <h1 class="display-5 text-center"><xsl:value-of select="$doc_title"/></h1>
-                        <div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Orten</div>
                         <div id="map"/>
-                        <table id="placesTable">
+                        <div id="custom-info-box" class="text-muted small text-center"></div>
+                        <table id="myTable" class="table table-striped">
                             <thead>
                                 <tr>
                                     <th scope="col">Ortsname</th>
                                     <th scope="col">Erwähnungen</th>
-                                    <th scope="col">lat</th>
-                                    <th scope="col">lng</th>
-                                    <th scope="col">linkToEntity</th>
+                                    <th scope="col" data-dt-visible="false">lat</th>
+                                    <th scope="col" data-dt-visible="false">lng</th>
+                                    <th scope="col" data-dt-visible="false">ID</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -64,7 +61,9 @@
                                     </xsl:variable>
                                     <tr>
                                         <td>
-                                            <xsl:value-of select="./tei:placeName[1]/text()"/>
+                                            <a href="{concat($id, '.html')}">
+                                                <xsl:value-of select="./tei:placeName[1]/text()"/>
+                                        </a>
                                         </td>
                                         <td>
                                             <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
@@ -93,29 +92,10 @@
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
-                <script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.5.2/dist/js/tabulator.min.js"/>
-                <script src="js/map_table_cfg.js"/>
-                <script src="js/make_map_and_table.js"/>
-                
-                <script>
-                    let table =  build_map_and_table(map_cfg, table_cfg, wms_cfg=null, tms_cfg=null);
-                    table.on("dataLoaded", function (data) {
-                    var el = document.getElementById("counter1");
-                    el.innerHTML = `${data.length}`;
-                    var el = document.getElementById("counter2");
-                    el.innerHTML = `${data.length}`;
-                    });
-                    
-                    table.on("dataFiltered", function (filters, data) {
-                    var el = document.getElementById("counter1");
-                    el.innerHTML = `${data.length}`;
-                    }); 
-                </script>
+               <script src="js/datatables_custom/datatables_custom.js"></script>
+                <script src="js/maptable.js"></script>
             </body>
         </html>
-        
-        
-        
         
         <xsl:for-each select=".//tei:place[@xml:id]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
