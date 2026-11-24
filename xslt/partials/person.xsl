@@ -2,6 +2,10 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     version="2.0" exclude-result-prefixes="xsl tei xs">
+
+    <!-- all ids of persons that have a correspondence list -->
+<xsl:variable name="corresp-ids"
+    select="doc('../../data/indices/listcorresp.xml')//tei:list/@xml:id/string()"/>
     
     <xsl:template match="tei:person" name="person_detail">
         <dl>
@@ -86,6 +90,13 @@
                     </dd>
                 </xsl:for-each>
                 
+            </xsl:if>
+            <xsl:variable name="corresp-id" select="concat('correspondent__', @xml:id)"/>
+            <xsl:if test="$corresp-id = $corresp-ids">
+                <dt>Korrespondenz</dt>
+                <dd>
+                    <a href="{concat($corresp-id, '.html')}">Briefe von und an diese Person</a>
+                </dd>
             </xsl:if>
         </dl>
         <xsl:if test="//tei:noteGrp">

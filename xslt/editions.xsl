@@ -296,6 +296,14 @@
                                                 </a>
                                             </dd>
                                         </xsl:if>
+                                       <xsl:if test=".//tei:ref[@type='belongsToCorrespondence']">
+                                          <xsl:variable name="corr-id"
+                                              select="substring-after(.//tei:ref[@type='belongsToCorrespondence'][1]/@target, '#')"/>
+                                          <dt>Aller Briefe in der Korrespondenz</dt>
+                                          <dd>
+                                              <a href="{concat($corr-id, '.html')}">Verzeichnis</a>
+                                          </dd>
+                                      </xsl:if>
                                     </dl>
                                     <hr />
                                 </div>

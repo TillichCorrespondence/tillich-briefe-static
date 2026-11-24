@@ -1,6 +1,5 @@
 import pandas as pd
 import lxml.etree as ET
-import json
 from acdh_tei_pyutils.tei import TeiReader
 
 
@@ -68,7 +67,7 @@ body = doc.any_xpath(".//tei:body")[0]
 
 for ref, ndf in pdf.groupby("person_ref"):
     my_list = ET.SubElement(body, "list")
-    my_list.attrib["{http://www.w3.org/XML/1998/namespace}id"] = f"correspondence__{ref.lstrip('#')}"
+    my_list.attrib["{http://www.w3.org/XML/1998/namespace}id"] = f"correspondent__{ref.lstrip('#')}"
     # only this person's own name variants, oldest first (ndf is date-sorted)
     ET.SubElement(my_list, "head").text = " / ".join(ndf["person_name"].drop_duplicates())
 

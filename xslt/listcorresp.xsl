@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- listcorresp is a list of all correpondents - collects all letters by person taking into account
+allias; corresp_toc - collects correspondences - e.g. letters by A and B to P. Tillich -->
+
 <xsl:stylesheet 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema"
@@ -12,7 +15,7 @@
     <xsl:output method="html" version="5.0" indent="yes" omit-xml-declaration="yes"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
-            <xsl:value-of select="'Korrespondenzverzeichnis'"/>
+            <xsl:value-of select="'Verzeichnis aller Korrespondenten'"/>
         </xsl:variable>
         <html class="h-100" lang="de">
             
@@ -38,13 +41,13 @@
                     </nav>
                     <div class="container">
                         <h1 class="display-5 text-center"><xsl:value-of select="$doc_title"/></h1>
-                        <div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Korrespondenzen</div>
+                        <div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Korrespondenten</div>
                         <div id="custom-info-box" class="text-muted small text-center"></div>
                         
                         <table id="myTable" class="table table-striped">
                             <thead>
                                 <tr>
-                                    <th scope="col">Korrespondenz</th>
+                                    <th scope="col">Korrespondent</th>
                                     <th scope="col">Edierte Korrespondenzstücke</th>
                                     <th scope="col" data-dt-visible="false">ID</th>
                                 </tr>
@@ -102,7 +105,7 @@
                                     <a href="index.html">Tillich-Briefe</a>
                                 </li>
                                 <li class="breadcrumb-item">
-                                    <a href="corresp_toc.html">Korrespondenzverzeichnis</a>
+                                    <a href="listcorresp.html">Verzeichnis aller Korrespondenten</a>
                                 </li>
                             </ol>
                         </nav>

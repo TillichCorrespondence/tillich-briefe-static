@@ -37,6 +37,9 @@
                                     <li>
                                         <a class="dropdown-item" href="corresp_toc.html">Alle Korrespondenzen</a>
                                     </li>
+                                     <li>
+                                        <a class="dropdown-item" href="listcorresp.html">Alle Korrespondenten</a>
+                                    </li>
                                     <li>
                                         <a class="dropdown-item" href="calendar.html">Briefkalender</a>
                                     </li>

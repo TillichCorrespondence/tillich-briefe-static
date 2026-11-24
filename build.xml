@@ -51,11 +51,11 @@
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
-    <!-- <xslt in="./data/indices/corresp_toc.xml" out="${target}/corresp_toc.html" style="./xslt/corresp_toc.xsl">
+    <xslt in="./data/indices/corresp_toc.xml" out="${target}/corresp_toc.html" style="./xslt/corresp_toc.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
-    </xslt> -->
-     <xslt in="./data/indices/listcorresp.xml" out="${target}/corresp_toc.html" style="./xslt/listcorresp.xsl">
+    </xslt>
+     <xslt in="./data/indices/listcorresp.xml" out="${target}/listcorresp.html" style="./xslt/listcorresp.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
