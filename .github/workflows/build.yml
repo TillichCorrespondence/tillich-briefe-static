@@ -18,9 +18,9 @@ jobs:
   build_pages:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    name: Publish Edition as GitHub Pages Website
     runs-on: ubuntu-latest
+    outputs:
+      artifact_name: github-pages-${{ github.run_attempt }}
     env:
       ANT_OPTS: -Xmx6g
       TYPESENSE_HOST: typesense.acdh-dev.oeaw.ac.at
@@ -55,6 +55,16 @@ jobs:
       uses: actions/upload-pages-artifact@v5
       with:
         path: './html'
-    - name: Deploy to GitHub Pages
+
+  deploy:
+    needs: build_pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy to github pages
       id: deployment
       uses: actions/deploy-pages@v5
+      with:
+        artifact_name: ${{ needs.build_pages.outputs.artifact_name }}
