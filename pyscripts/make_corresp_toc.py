@@ -1,10 +1,9 @@
 import pandas as pd
 import lxml.etree as ET
+
 from acdh_tei_pyutils.tei import TeiReader
 
-
-
-pdf = pd.read_csv("tmp_persons.csv", parse_dates=["date"])
+df = pd.read_csv("tmp.csv")
 
 tei_dummy = """
 <?xml version="1.0" encoding="UTF-8"?>
@@ -65,23 +64,18 @@ doc = TeiReader(tei_dummy)
 body = doc.any_xpath(".//tei:body")[0]
 
 
-for ref, ndf in pdf.groupby("person_ref"):
-    my_list = ET.SubElement(body, "list")
-    my_list.attrib["{http://www.w3.org/XML/1998/namespace}id"] = f"correspondent__{ref.lstrip('#')}"
-    # only this person's own name variants, oldest first (ndf is date-sorted)
-    ET.SubElement(my_list, "head").text = " / ".join(ndf["person_name"].drop_duplicates())
+for corresp_id, ndf in df.groupby("corresp_id"):
+   my_list = ET.SubElement(body, "list")
+   my_list.attrib["{http://www.w3.org/XML/1998/namespace}id"] = corresp_id[1:]
+   ET.SubElement(my_list, "head").text = f'{ndf.iloc[0]["corresp_names"]}'
+   for i, row in ndf.iterrows():
+      item = ET.SubElement(my_list, "item")
+      title = ET.SubElement(item, "title").text = row["title"]
+      try:
+         date = ET.SubElement(item, "date").text = row["date"]
+      except TypeError:
+         date = ET.SubElement(item, "date").text = "9999"
+      ptr = ET.SubElement(item, "ptr")
+      ptr.attrib["target"] = f'{row["id"].split("/")[-1]}'
 
-    for _, row in ndf.iterrows():
-        item = ET.SubElement(my_list, "item")
-        ET.SubElement(item, "title").text = row["title"]
-        ET.SubElement(item, "date").text = (
-            row["date"].strftime("%Y-%m-%d") if pd.notna(row["date"]) else "9999"
-        )
-        ET.SubElement(item, "ptr").attrib["target"] = row["id"].split("/")[-1]
-        ET.SubElement(item, "note", type="direction").text = row["direction"]
-
-        others = row["additional_correspondents"]
-        if pd.notna(others):  # an empty cell is read by pandas as NaN
-            ET.SubElement(item, "note", type="additional_correspondents").text = others
-
-doc.tree_to_file("./data/indices/listcorresp.xml")
+doc.tree_to_file("./data/indices/corresp_toc.xml")

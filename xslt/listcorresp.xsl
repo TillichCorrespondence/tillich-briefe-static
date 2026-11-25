@@ -41,8 +41,10 @@ allias; corresp_toc - collects correspondences - e.g. letters by A and B to P. T
                     </nav>
                     <div class="container">
                         <h1 class="display-5 text-center"><xsl:value-of select="$doc_title"/></h1>
-                        <div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Korrespondenten</div>
-                        <div id="custom-info-box" class="text-muted small text-center"></div>
+                        <div class="text-muted small text-center px-">Hier ist jede Person ein eigener Eintrag, der alle Briefe 
+                            versammelt, an denen sie beteiligt war, unabhängig davon, ob sie allein oder gemeinsam mit anderen 
+                            geschrieben oder empfangen hat.</div>
+                        <div id="custom-info-box" class="small text-center"></div>
                         
                         <table id="myTable" class="table table-striped">
                             <thead>
@@ -114,14 +116,14 @@ allias; corresp_toc - collects correspondences - e.g. letters by A and B to P. T
                                 <h1 class="display-5 text-center">
                                     <xsl:value-of select="$name"/>
                                 </h1>
-                        <div id="custom-info-box" class="text-muted small text-center"></div>
-
+                                <div id="direction-chart" class="mb-4"></div>
+                                <div id="custom-info-box" class="text-muted small text-center"></div>
                                 <table id="myTable" class="table table-striped">
                                     <thead>
                                         <tr>
                                             <th scope="col">Titel</th>
                                             <th scope="col">Datum</th>
-                                            <th scope="col" data-dt-searchlist="true">Derection</th>
+                                            <th scope="col" data-dt-searchlist="true">Richtung</th>
                                             <th scope="col">Mitwirkende</th>
 
                                         </tr>
@@ -129,7 +131,9 @@ allias; corresp_toc - collects correspondences - e.g. letters by A and B to P. T
                                     <tbody>
                                         <xsl:for-each select=".//tei:item">
                                             <xsl:variable name="entiyID" select="replace(./tei:ptr/@target, '.xml', '.html')"/>
-                                            <tr>
+                                            <tr data-year="{substring(./tei:date, 1, 4)}"
+                                                data-direction="{normalize-space(./tei:note[@type='direction'])}"
+                                                data-cocorresp="{exists(./tei:note[@type='additional_correspondents'])}">
                                                 <td>
                                                     <a href="{$entiyID}">
                                                         <xsl:value-of select="./tei:title/text()"/>
@@ -159,8 +163,10 @@ allias; corresp_toc - collects correspondences - e.g. letters by A and B to P. T
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
-               <script src="js/datatables_custom/datatables_custom.js"></script>
-
+                        <script src="https://code.highcharts.com/highcharts.js"></script>
+                        <script src="js/datatables_custom/datatables_custom.js"></script>
+                        <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+                        <script src="js/charts/correspondent_chart.js"></script>
                     </body>
                 </html>
             </xsl:result-document>

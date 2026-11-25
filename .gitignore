@@ -161,6 +161,7 @@ composer.*
 html/arche.ttl
 hansi.csv
 tmp.csv
+tmp_persons.csv
 html/beacon.txt
 fc_out/
 to_ingest/
