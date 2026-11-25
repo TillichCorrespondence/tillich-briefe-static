@@ -3,10 +3,13 @@ import os
 from acdh_tei_pyutils.tei import TeiReader
 import lxml.etree as ET
 import pandas as pd
+import re
 from tqdm import tqdm
 
 files = sorted(glob.glob("./data/editions/*.xml"))
 main_person_id = "#tillich_person_id__1928"
+REF_PATTERN = re.compile(r"#tillich_person_id__\d+")
+skipped_refs = set()
 
 
 def get_date(doc):
@@ -16,6 +19,7 @@ def get_date(doc):
 
 broken = []
 items = []
+person_items = []
 print(f"fetching data from {len(files)} files")
 for x in tqdm(files, total=len(files)):
     try:
@@ -53,6 +57,58 @@ for x in tqdm(files, total=len(files)):
         "date": get_date(doc),
     }
     items.append(item)
+
+        # --- collect all correspondants for listcorrespondent.xml ---
+    title = item["title"]
+    date = item["date"]
+    main_sent = bool(doc.any_xpath(
+        f".//tei:correspAction[@type='sent']/tei:persName[@ref='{main_person_id}']"))
+    main_received = bool(doc.any_xpath(
+        f".//tei:correspAction[@type='received']/tei:persName[@ref='{main_person_id}']"))
+
+    people = []  # (ref, name, role) without the main person
+    for role in ("sent", "received"):
+        for p in doc.any_xpath(f".//tei:correspAction[@type='{role}']/tei:persName"):
+            ref = p.attrib["ref"]
+            if ref == main_person_id:
+                continue
+            if not REF_PATTERN.fullmatch(ref):
+                skipped_refs.add(ref)
+                continue
+            name = " ".join("".join(p.itertext()).split()) or "?"
+            people.append((ref, name, role))
+
+    for ref, name, role in people:
+        # was the main person on the other side of the letter?
+        if role == "sent" and main_received:
+            direction = "sent_to_main"            # this person wrote to the main person
+        elif role == "received" and main_sent:
+            direction = "received_from_main"      # the main person wrote to this person
+        elif role == "sent" and main_sent:
+            direction = "cosender_with_main"      # this person and the main person wrote together
+        elif role == "received" and main_received:
+            direction = "corecipient_with_main"   # this person and the main person received together
+        else:
+            direction = "third_party"             # letter between third parties
+        others = sorted({n for r, n, _ in people if r != ref})
+        person_items.append({
+            "id": x,
+            "person_ref": ref,
+            "person_name": name,
+            "role": role,
+            "direction": direction,
+            "additional_correspondents": ", ".join(others),
+            "title": title,
+            "date": date,
+        })
+
+pdf = pd.DataFrame(person_items)
+pdf["date"] = pd.to_datetime(pdf["date"], errors="coerce")
+pdf["year"] = pdf["date"].dt.year.astype("Int64")
+pdf = pdf.sort_values(["person_ref", "date", "id"]).reset_index(drop=True)
+pdf.to_csv("tmp_persons.csv", index=False)
+
+
 df = pd.DataFrame(items)
 df["date"] = pd.to_datetime(df["date"], errors="coerce")
 df = df.sort_values(["date", "id"]).reset_index(drop=True)
@@ -159,3 +215,4 @@ for i, row in df.iterrows():
     doc.tree_to_file(row["id"])
 
 print(broken)
+print(skipped_refs) 

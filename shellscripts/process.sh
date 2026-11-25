@@ -17,6 +17,9 @@ uv run pyscripts/add_correspContext.py
 echo "make corresp_toc.xml"
 uv run pyscripts/make_corresp_toc.py
 
+echo "make listcorresp.xml"
+uv run pyscripts/make_listcorresp.py
+
 echo "make bible_toc.xml"
 uv run pyscripts/make_bible_toc.py
 
