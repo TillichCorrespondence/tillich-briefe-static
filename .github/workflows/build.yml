@@ -28,6 +28,8 @@ jobs:
       TYPESENSE_PROTOCOL: https
       TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
       LT_1934: ${{ vars.LT_1934 }}
+      IMAGE_NAME: ${{ github.repository }}
+      PRODUCTION: true
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v7
@@ -55,6 +57,7 @@ jobs:
       uses: actions/upload-pages-artifact@v5
       with:
         path: './html'
+        name: github-pages-${{ github.run_attempt }}
 
   deploy:
     needs: build_pages
